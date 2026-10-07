@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "parallel-search": {
+      "type": "http",
+      "url": "https://search.parallel.ai/mcp"
+    }
+  },
+  "_nota": "Config verbatim de docs.parallel.ai/integrations/mcp/search-mcp. Gratis, SIN API key (tier anonimo en modo fast). Ver mcp/README.md para variantes por cliente y el tuning para job boards."
+}
