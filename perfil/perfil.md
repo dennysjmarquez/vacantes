@@ -59,6 +59,24 @@
 - **Disponibilidad legal de trabajo / facturación** (autónomo, contractor, ¿recibes en USD?).
 - **Jefatura**: tienes "Lideré…" y certificaciones de liderazgo, pero ningún título de Lead/Staff/Tech Lead. ¿Apuntas a eso?
 
+## 6-bis. Resuelto consultando el indice (2026-10-07, `perfil/rag.py`)
+Cuatro preguntas que quedaron abiertas "porque el corpus no lo dice". El corpus **si** lo dice en tres de ellas:
+
+- **Ingles: SI documentado, en 3 fuentes. Correccion a lo que se dijo antes** (se habia afirmado "cero menciones" — era un falso negativo del `grep`, la clase `[eé]` no casa acentos en este locale; el indice Unicode lo encontro):
+  - `Profile.txt` (exporte de LinkedIn): *"Espanol (Native or Bilingual) / Ingles **(Limited Working)**"*
+  - `resume.pdf`: *"Espanol – Natal / Ingles – **Básico**"*
+  - Otro cuerpo del corpus: *"Ingles **(Básico o técnico)**"*
+  - Leectura: nivel real **limitado/asincronico**. No es "cero", pero tampoco es "reuniones en ingles". => priorizar ofertas en espanol y roles de escritura/async; evitar los que piden daily en ingles.
+- **Piso salarial: existe, y es un problema.** En *"Explorando Mi Trayectoria: una Entrevista Exclusiva"* (SlideShare, publico): *"Mi expectativa salarial es **no menos de $10,00 USD/hora**. Sin embargo, estoy dispuesto a negociar..."*. $10/h ≈ **$1.600/mes**, contra el promedio de mercado que mide el agregador para senior 5-9 anos remoto LATAM (**$116K/yr ≈ $58/h**). Ojo: es una cifra **publica**, un reclutador la encuentra y ancla ahi.
+- **Adevcom: peor de lo que parecia — son TRES cifras, no dos.**
+  - CV 2026: `2/2024 - 3/2026 (2 ano 1 meses)`
+  - CV 2027: `2/2024 - 10/2025 (1 ano 9 meses)`
+  - `Dennys J Marquez - Senior Frontend Developer.md`: *"**1 ano y 5 meses** de mi rol actual en Adevcom"* + "1 ano y 9 meses al proyecto MEAN Stack" + "~5 meses adicionales" => total declarado "aproximadamente 3 anos y 4 meses".
+  - El corpus **no** resuelve cual es la fecha real de salida; lo que revela es que la duracion se esta recalculando segun lo que se quiera justificar. Un backgroun check llama a Adevcom y pide dos fechas. Decidir una y no tocarla.
+
+## 6-ter. Alerta de datos personales detectada al indexar
+`resume.pdf`, dentro del corpus, publica en claro: **cedula V-14.297.522, pasaporte Nro. 093886239, telefono +58 412 789.98.14, edad 40, residencia Maracay-Aragua**. Ese corpus esta en GitHub **publico** (en `master` desde las 11:06, y duplicado en la rama de sesion al integrar el archivo). Los numeros de documento no se pueden "retirar" de un repo publico: quedan en el historial y en caches. Ver nota de accion en el chat.
+
 ## 7. Filtro de búsqueda que propongo (pendiente de tu OK en §6)
 - **Puestos:** Senior/Staff Frontend (React · Angular · Next.js · TypeScript), Frontend Architect, y un carril paralelo **AI/LLM Engineer (RAG, MCP, guardrails)**.
 - **Geografía:** remoto global + LATAM; zona GMT-4 ya jugada en el CV.
