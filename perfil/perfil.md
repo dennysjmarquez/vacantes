@@ -77,9 +77,11 @@ Cuatro preguntas que quedaron abiertas "porque el corpus no lo dice". El corpus 
 ## 6-ter. Alerta de datos personales detectada al indexar
 `resume.pdf`, dentro del corpus, publica en claro: **cedula V-14.297.522, pasaporte Nro. 093886239, telefono +58 412 789.98.14, edad 40, residencia Maracay-Aragua**. Ese corpus esta en GitHub **publico** (en `master` desde las 11:06, y duplicado en la rama de sesion al integrar el archivo). Los numeros de documento no se pueden "retirar" de un repo publico: quedan en el historial y en caches. Ver nota de accion en el chat.
 
-## 7. Filtro de búsqueda que propongo (pendiente de tu OK en §6)
+## 7. Filtro de búsqueda (puestos/geografía propuestos; salario CONFIRMADO por Dennys 2026-10-07)
 - **Puestos:** Senior/Staff Frontend (React · Angular · Next.js · TypeScript), Frontend Architect, y un carril paralelo **AI/LLM Engineer (RAG, MCP, guardrails)**.
 - **Geografía:** remoto global + LATAM; zona GMT-4 ya jugada en el CV.
+- **Modalidad:** 100% remoto obligatorio. Híbrido o presencial = descartada, aunque el salario sea alto (confirmado 2026-10-07 al descartar oferta híbrida San Isidro, Lima).
+- **Sueldo mínimo: $1.600–1.800 USD/mes** (≈ $10/h; piso declarado por Dennys 2026-10-07, igual a su expectativa pública de $10,00 USD/hora). Regla: salario publicado menor → descartada; "a convenir" → negociar desde ese piso; sin salario publicado → preguntar en la postulación.
 - **Argumentos de venta en orden:** 1) dos papers con DOI y código auditable, 2) +50% rendimiento y −50% complejidad **medidos**, 3) 9 años remoto con clientes internacionales, 4) paquete npm propio, 5) seguridad ofensiva como plus de arquitectura.
 - **Dominios a priorizar** (adaptado a lo que permite la plataforma): tableros ATS con API (Greenhouse/Lever/Ashby) para datos limpios y deduplicación por `id`; job boards solo como complemento.
 - **Dedupe:** `tools/ledger.py`, clave por URL estable o `titulo|empresa`.
