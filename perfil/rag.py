@@ -62,7 +62,34 @@ def build():
         docs.append({"id": c["id"], "fuente": c["fuente"], "tipo": c["tipo"], "url": c["url"],
                      "text": c["text"], "tf": dict(tf), "len": sum(tf.values())})
     N = len(docs)
-    IDX.write_text(json.dumps({"N": N, "df": dict(df), "docs": docs}), encoding="utf-8")
+    # PPMI por coocurrencia intra-chunk: la capa "semantica" sin embeddings.
+    co = {}
+    if "--ppmi" not in sys.argv:
+        IDX.write_text(json.dumps({"N": N, "df": dict(df), "docs": docs}), encoding="utf-8")
+        print(f"indice: {N} chunks ({IDX.stat().st_size/1e6:.1f} MB, lexico puro)")
+        return
+    pairs = collections.Counter()
+    common = {t for t, c in df.items() if 3 <= c <= 200}
+    for doc in docs:
+        ts = sorted(doc["tf"], key=lambda t: -doc["tf"][t])
+        ts = [t for t in ts if t in common][:110]
+        for i, a in enumerate(ts):
+            for b in ts[i + 1:]:
+                pairs[(a, b) if a < b else (b, a)] += 1
+    co = collections.defaultdict(dict)
+    tot = sum(pairs.values()) or 1
+    for (a, b), c in pairs.items():
+        if c < 3:
+            continue
+        ppmi = max(0.0, math.log((c / tot) * (N * N) / max(df[a], 1) / max(df[b], 1)) / math.log(2))
+        for k, o in ((a, b), (b, a)):
+            if len(co[k]) < 10 or ppmi > min(co[k].values()):
+                co[k][o] = round(ppmi, 3)
+        for k in list(co):
+            if len(co[k]) > 10:
+                co[k] = dict(sorted(co[k].items(), key=lambda x: -x[1])[:10])
+    IDX.write_text(json.dumps({"N": N, "df": dict(df), "docs": docs,
+                               "co": {k: v for k, v in co.items()}}), encoding="utf-8")
     print(f"indice: {N} chunks de {len(df)} terminos ({IDX.stat().st_size/1e6:.1f} MB cache)")
 
 def load():
@@ -76,10 +103,14 @@ def search(q, k=5):
     qt = collections.Counter(toks(q))
     avg = sum(x["len"] for x in d["docs"]) / max(N, 1)
     k1, b = 1.5, 0.75
+    co = d.get("co", {})
     qv = {}
     for t, f in qt.items():
         idf = math.log(1 + (N - df.get(t, 0) + .5) / (df.get(t, 0) + .5))
         qv[t] = idf * f
+        for o, w in sorted(co.get(t, {}).items(), key=lambda x: -x[1])[:4]:
+            if o not in qt:
+                qv[o] = max(qv.get(o, 0), idf * 0.35 * w)
     qn = math.sqrt(sum(v * v for v in qv.values())) or 1
     hits = []
     for doc in d["docs"]:
