@@ -1,0 +1,28 @@
+### FUENTE: Perfil profesional | Dennys J Marquez | Front-end web developer
+
+### TIPO: web_page | URL: https://dennysjmarquez.dev/profile/ | CARACTERES: 272 ###
+### KEYWORDS: Front-end development, Web technologies, JavaScript frameworks, Professional experience, Portfolio and contact ###
+
+Resumen: This source outlines the **professional portfolio and digital presence** of Dennys J Marquez, a specialist in **front-end web development**. The text serves as a navigational map for his career, highlighting essential sections such as his **technical experience, project portfolio, and personal background**. It emphasizes a robust mastery of **modern programming frameworks and languages**, ranging from core tools like JavaScript and HTML5 to advanced libraries like Angular and React. Ultimately, the document functions as a **comprehensive professional profile** designed to showcase his expertise and facilitate direct contact with potential collaborators.
+
+------
+
+Inicio
+
+Portafolio
+
+Revista
+
+Perfil
+
+Sobre Mí ??
+
+Contacto
+
+Front-end web developer  ➤ JavaScript ES6  /  Angular - TypeScript  /  React - React Native  /   LitElement  /  Vue.js  /  Next.js  /  HTML5 CSS3 Sass
+
+Expexperiencia
+
+Recomendaciones
+
+Mi perfil   ◕‿‿◕

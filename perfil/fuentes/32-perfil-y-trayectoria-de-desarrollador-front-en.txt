@@ -1,0 +1,126 @@
+### FUENTE: Perfil y Trayectoria de Desarrollador Front-End Senior
+
+### TIPO: generated_text | URL: N/A | CARACTERES: 7088 ###
+### KEYWORDS: Front-End Development, Software Architecture, Technical Leadership, JavaScript Ecosystem, Collaborative Problem Solving ###
+
+Resumen: This text provides a comprehensive professional profile of Dennys José Márquez Reyes, a **Senior Front-End Developer** with over 15 years of industry experience and a deep mastery of the **modern JavaScript ecosystem**. It outlines his technical versatility across frameworks like **Angular, React, and Next.js**, highlighting his ability to optimize data handling and architect complex systems such as **isomorphic rendering and microfrontends**. Beyond code, the source emphasizes his **situational leadership** and emotional intelligence, detailing how he resolves team bottlenecks and maintains project momentum under pressure. Ultimately, the document portrays a specialist who bridges the gap between **rigorous software engineering** and collaborative, solution-oriented management.
+
+------
+
+Perfil y Trayectoria de Desarrollador Front-End Senior
+
+Dennys José Márquez Reyes es un Desarrollador Web Front-End Senior con una trayectoria de más de 9 años de experiencia formal y más de 15 años en la industria de TI. Se distingue por su enfoque técnico riguroso, su especialización en el ecosistema JavaScript moderno, y una filosofía de trabajo que fusiona el arte con la ciencia de la programación [1-4].
+
+Su experiencia ha sido consolidada trabajando de forma remota para empresas en países como Argentina, Panamá, España y Chile, participando en equipos multidisciplinarios y de alto desempeño [1, 5].
+
+Quién es Dennys: Trayectoria y Habilidades Técnicas
+
+Dennys cuenta con un dominio profundo en tecnologías de vanguardia y arquitectura de software, aplicando principios de diseño robusto en cada desarrollo.
+
+Experiencia Formal Destacada:
+
+Angular Developer en Adevcom (Chile, Remoto):
+
+ Desde febrero de 2024, ha trabajado en proyectos de prevención de riesgos laborales para el Instituto de Salud Laboral (ISL) [6]. Logró una optimización del 50% en el manejo de datos complejos mediante servicios personalizados (eliminando dependencias de Redux) [7]. Implementó formularios complejos (Template Driven y Reactive Forms), con gestión de campos dinámicos mediante 
+
+FormBuilder
+
+ y 
+
+FormArray
+
+ [7, 8]. También proporcionó soporte backend desarrollando controladores REST con Spring Boot, consultas JPA y programación funcional con Java 8 Streams para requerimientos puntuales [7].
+
+React Developer en Epidata (Argentina, Remoto):
+
+ Durante seis meses (Ene. 2023 - Jun. 2023), participó en la creación de un Sistema Integral de RRHH [9]. Contribuyó creando modelos de datos ficticios (utilizando Redux Thunk como adaptador) basados en Arquitectura Hexagonal para desacoplar el frontend del backend [10]. Esto permitió mostrar prototipos funcionales al cliente antes de que los 
+
+endpoints
+
+ estuvieran listos, mejorando la eficiencia del equipo [10, 11].
+
+Next.js Developer en Credit Agile, Inc (Panamá, Remoto):
+
+ Durante 2 años y 4 meses, lideró el refactoring a una arquitectura Next.js (SSR) [12]. Desarrolló una API Gateway con Node.js, implementó un sistema de sesiones con 
+
+express-session
+
+ y mejoró el rendimiento en un 50% con un sistema de cacheo de datos en el servidor utilizando 
+
+node-cache
+
+ [12, 13].
+
+JavaScript Developer en BONDAREA (Argentina, Remoto):
+
+ Durante 1 año y 10 meses, diseñó y desarrolló BREF (Bondarea Render Framework), un sistema que renderizaba páginas web enteras a partir de estructuras JSON. Esto implicó una manipulación avanzada del DOM con Vanilla JS y el uso controlado de 
+
+eval
+
+ para ejecutar código JavaScript bajo demanda [14-16].
+
+Experiencia Técnica No Formal y Autoaprendizaje:
+
+Dominio de JavaScript ES6+:
+
+ Sus 9 años de experiencia están cimentados en una certificación avanzada de Programación con JavaScript y ECMAScript 6, la cual reforzó su conocimiento sobre promesas, funciones flecha, desestructuración, clases y la Programación Orientada a Objetos moderna [17, 18]. Es un experto en la manipulación avanzada del DOM, asincronía y la optimización del rendimiento, con un profundo conocimiento del Event Loop [19, 20].
+
+Arquitecturas Avanzadas:
+
+ Ha construido sistemas complejos, incluyendo la primera versión de su portafolio (Portafolio V1) como un sistema SSR para React desarrollado completamente desde cero (sin Next.js), con cacheo de datos en el servidor (
+
+node-cache
+
+) e hidratación eficiente en el cliente, lo que demuestra su control granular y comprensión del renderizado isomórfico [21, 22]. También ha implementado arquitecturas de Microfrontends escalables con Vite Module Federation, React, Redux e i18next para la sincronización global de estado e idioma [23, 24].
+
+Ciberseguridad (Jr CyberSecurity):
+
+ Posee conocimientos y certificaciones en Ethical Hacking Profesional y OWASP Top 10 API+ [4, 25]. Aplica activamente buenas prácticas de seguridad (
+
+Security by Design
+
+) en sus desarrollos, incluyendo la protección de rutas sensibles y la prevención de ataques CSRF con tokens [25, 26].
+
+Cómo se maneja en grupos (Liderazgo y Colaboración)
+
+Dennys no solo se enfoca en el código, sino en la dinámica del equipo, reconociendo que la resiliencia, el criterio y la claridad emocional son esenciales para el éxito del proyecto [27, 28].
+
+Estilo de Comunicación y Colaboración:
+
+Su estilo de comunicación es respetuoso y empático [29]. Prioriza mantenerse enfocado en la culminación de tareas y es altamente colaborativo, siempre dispuesto a ayudar a sus compañeros [28, 30, 31]. Ha demostrado una gran proactividad al optimizar procesos de colaboración [30].
+
+Resolución de Bloqueos:
+
+ En un empleo anterior, propuso crear modelos de datos ficticios para las interfaces del frontend mientras el equipo de backend estaba ocupado con solicitudes críticas de la base de datos [11, 30]. Esta acción agilizó el trabajo, permitió mostrar el progreso al cliente antes de tener los datos reales y facilitó que el backend utilizara esos modelos como base, mejorando la eficiencia general [10, 11].
+
+Gestión de Conflictos:
+
+ Busca mantener un ambiente laboral saludable y aplica la inteligencia emocional para manejar situaciones de tensión o con compañeros hostiles, enfocándose en la tarea [28, 30]. Recomienda siempre mantener un perfil bajo, ser colaborativo y evitar chismes o discusiones innecesarias [28].
+
+Liderazgo y Visión Estratégica:
+
+Aunque no ha tenido un cargo formal de líder o manager [32], su trayectoria subraya un 
+
+liderazgo situacional
+
+ [33, 34]:
+
+Enfoque en la Solución Correcta:
+
+ Defiende que es crucial detenerse y considerar todas las posibilidades para encontrar la "solución correcta", no la más rápida [35-37].
+
+Pensamiento Crítico:
+
+ Recomienda un enfoque sistemático para resolver problemas complejos y la capacidad de "pensar fuera de la caja" para encontrar soluciones que otros podrían pasar por alto [35, 38, 39].
+
+Actuación Bajo Presión:
+
+ En una situación de alta presión con plazos ajustados y un conflicto de comunicación sobre el avance de un documento, demostró liderazgo al tomar una decisión técnica crítica [40]. Tras un error de gestión, se dirigió al compañero involucrado y le propuso integrar su código de forma colaborativa, resolviendo el problema y asegurando la entrega a tiempo, actuando con serenidad a pesar de la presión de su jefe [40, 41].
+
+Reflexión sobre Liderazgo:
+
+ Su conclusión es que "el liderazgo no se ejerce desde un cargo, sino desde la serenidad con la que se actúa cuando otros pierden perspectiva" [34].
+
+Formación en Gestión:
+
+ Ha estudiado intensamente temas de liderazgo, gestión de equipos (incluyendo Scrum Master), inteligencia emocional, resolución de conflictos y la influencia de figuras como Mary Parker Follett en el management moderno [29, 42]. También ha investigado dinámicas tóxicas, como el Síndrome de Procusto, buscando crear entornos de trabajo más productivos y saludables [29, 43, 44].

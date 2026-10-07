@@ -1,0 +1,70 @@
+### FUENTE: Maestría en JavaScript ES6 y Desarrollo Web
+
+### TIPO: pasted_text | URL: N/A | CARACTERES: 4274 ###
+### KEYWORDS: JavaScript ES6, Web Development, Performance Optimization, DOM Manipulation, Software Design Patterns ###
+
+Resumen: The provided text outlines the professional trajectory of a software expert with over eight years of experience specializing in **JavaScript ES6 and web development**. It details a transition from **self-taught experimentation** to formal certification, highlighting advanced technical milestones such as creating a custom rendering framework and mastering **asynchronous programming**. The narrative emphasizes a commitment to **computational efficiency**, utilizing clean code principles, design patterns, and **cybersecurity best practices** to build scalable applications. Ultimately, the source serves as a comprehensive portfolio that showcases a deep mastery of **vanilla JavaScript** alongside a dedication to sharing knowledge through technical writing and open-source contributions.
+
+------
+
+Tengo más de 8 años aplicando tecnología de JavaScript ES6 en proyectos personales y profesionales. 
+
+Mi experiencia con JavaScript ES6 es amplia, siendo esta la base fundamental de mi carrera.
+
+Aunque mis inicios en esta tecnología fueron completamente autodidactas —explorando y escribiendo código desde archivos del propio sistema win 98—, en enero de 2018 consolidé mis conocimientos con una certificación formal en "Programación avanzada con JavaScript y ECMAScript 6", impartida por campusMVP. 
+
+Esta formación me permitió reforzar y estructurar de manera profesional mi dominio sobre las características del lenguaje y el estándar ES6 .
+
+Experiencia destacada:
+
+En BONDAREA (diciembre 2017 - septiembre 2019) como JavaScript Developer:
+
+Diseñe y desarrolle BREF (Bondarea Render Framework), un sistema innovador para renderizar páginas web completas a partir de estructuras JSON. Este proyecto implicó manipulación avanzada del DOM con Vanilla JS, concatenación de strings y uso controlado de eval para ejecutar código JavaScript bajo demanda.
+
+Dominio del Event Loop y la cola de tareas de JavaScript, asegurando que la interfaz no se bloqueara durante operaciones pesadas. 
+
+En Click Result Group Ltd (octubre 2016 - diciembre 2017) como Full Stack Developer:
+
+Implementé un sistema para edición dinámica de CSS, JS y HTML en el frontend, requiriendo inyección y modificación de código en tiempo real con JavaScript. También desarrollé y adapté plugins para CKEditor 4 usando JavaScript.
+
+El manejo de conceptos como hoisting y closures fue clave para organizar el código y mantener el estado en funciones de edición y eventos DOM.
+
+Resolución de problemas complejos y optimización
+
+He aplicado técnicas para optimizar el rendimiento de aplicaciones JavaScript, minimizando bloqueos en el hilo principal y mejorando la experiencia de usuario mediante el manejo eficiente de asincronía y eventos.
+
+Implemento estrategias de optimización de algoritmos y estructuras de datos para mejorar la eficiencia computacional del código, lo que contribuye a reducir tiempos de ejecución y consumo de recursos. 
+
+Sobre este tema, he publicado un artículo técnico titulado La ciencia de los algoritmos, donde explico conceptos clave y buenas prácticas para aplicar algoritmos eficientes en JavaScript.
+
+Soy un firme defensor de la escritura de código limpio y mantenible, aplicando principios SOLID y patrones de diseño para asegurar que el software sea escalable y fácil de mantener a largo plazo.
+
+Conocimiento complementario en ciberseguridad:
+
+Como entusiasta de la ciberseguridad y hacking ético, aplico buenas prácticas de seguridad en el desarrollo JavaScript para proteger las aplicaciones contra vulnerabilidades comunes, fortaleciendo la integridad y confidencialidad de los datos.
+
+Utilizo diariamente características modernas de ES6 como let/const, arrow functions, destructuring, spread/rest, template literals, clases, módulos, promesas y async/await para escribir código limpio, eficiente y mantenible.
+
+Aplico patrones de diseño clásicos y avanzados, como Factory, Singleton y otros, para asegurar escalabilidad y robustez en las aplicaciones.
+
+En mí GitHub comparto código y librerías basadas en JavaScript ES6, y he escrito artículos técnicos y guías sobre buenas prácticas, y algunas arquitecturas.
+
+Resumen de mi experiencia con JavaScript ES6:
+
+Dominio profundo y exclusivo de JavaScript puro y ES6.
+
+Manipulación avanzada del DOM, asincronía y ejecución dinámica de código.
+
+Resolución de problemas complejos y optimización del rendimiento.
+
+Aplicación de patrones de diseño para construir código robusto y escalable.
+
+Uso diario de características modernas de ES6 para código limpio y eficiente.
+
+Incorporación de buenas prácticas de seguridad en el desarrollo.
+
+Publicación de proyectos y librerías en GitHub.
+
+Redacción de artículos técnicos y guías sobre buenas prácticas.
+
+Más de 8 años de experiencia combinada en proyectos personales y profesionales.

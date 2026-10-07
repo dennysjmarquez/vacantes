@@ -1,0 +1,178 @@
+### FUENTE: Dennys J_ Márquez_ Software Developer Profile.wav
+
+### TIPO: audio | URL: N/A | CARACTERES: 7487 ###
+### KEYWORDS: Software development career, Self-taught learning path, Professional resilience, Frontend technology stack, Cybersecurity and hacking ###
+
+Resumen: This dialogue chronicles the professional evolution of Dennys J. Márquez, a software developer whose career is defined by **radical self-teaching and personal resilience**. Despite facing immense poverty and a lack of formal education, Márquez transitioned from early experiments with **legacy languages and unconventional hacking** to mastering modern technologies like **React, Angular, and cybersecurity**. The narrative highlights his "non-linear" journey, which includes periods of manual labor and financial hardship that were eventually overcome by his **proactive pursuit of certifications and professional growth**. Ultimately, the text illustrates how a **resolutive mindset and creative problem-solving** born from necessity can lead to a sophisticated understanding of complex architectural patterns and leadership in the tech industry.
+
+------
+
+Hoy exploramos la trayectoria de Denis J. Márquez, un desarrollador web frontend.
+
+Tenemos su perfil profesional, un artículo personal, mi historia y su web. La idea es ver como alguien autodidacta con un camino, bueno, poco lineal ha llegado a ser el profesional que es hoy.
+
+Sí. Y fíjate, lo primero que eh que salta a la vista es esa combinación, ¿no?
+
+El qué exactamente,
+
+pues el dominio que declara en frontend, JavaScript, React, Angular, todo eso, pero luego conocimiento en ciberseguridad y hacking ético.
+
+Ya
+
+es una mezcla curiosa para alguien de frontend, ¿verdad?
+
+Totalmente. Y sus inicios son, bueno, de película casi. Nació en el 77, contexto familiar complicado, pero con una curiosidad por la tecnología tremenda.
+
+Empezó él solo eh con MS2, el comandhel.com dice QBASic, visual basic 4 y 6,
+
+madre mía, desde el principio.
+
+Y descubrió HTML, JavaScript, VBScript, pues casi por casualidad archivos de Windows 98, los punto htt y hta.
+
+¿Qué me dices?
+
+Sí, sí. Dice que vivió la competencia VB scpt contra JavaScript.
+
+La prehistoria casi
+
+total. Y ojo que con VB6 se montó un chat, el Ragat. Lo probó en la red de la biblioteca de la Universidad allí en Maracay.
+
+Ostras, qué iniciativa.
+
+Y hasta hizo un curso Cisco o CCNA pensando que le ayudaría para programar, aunque luego vio que no, que no tenía mucho que ver.
+
+Claro, ahí se ve la la proactividad, ¿no? Pero también los palos de ciego a veces y claro, esa falta de estudios formales
+
+le pasó factura al principio, ¿verdad?
+
+Pues sí, le costó encontrar trabajo de programador. Tuvo curros que no tenían nada que ver, ¿sabes? Mantenimiento en un gimnasio, una fábrica de plásticos,
+
+uso una indemnización para comprarse un PC y con eso pues a terminar el bachillerato nocturno.
+
+Tuvo que buscarse la vida
+
+totalmente. Intentó lo del diseño gráfico, pero no le daba económicamente y sin apoyo familiar. Pues imagínate.
+
+Ya al final decidió entrarse en programar y montó un servicio técnico de EPC en casa,
+
+que es donde conoció a su mujer, ¿no, Ángela?
+
+Exacto. Era clienta,
+
+fue ella quien le animó a formalizar el negocio. Luego intentó estudiar informática en un instituto, pero
+
+no pudo ser.
+
+No, tuvo que dejarlo por falta de pasta y porque no le cuadraba con el trabajo. Lo típico. Vamos.
+
+Vaya. Y de esa época del servicio técnico vienen un par de anécdotas. A ver, singulares.
+
+Sí, cuenta, cuenta.
+
+Pues desarrolló una herramienta en VB6, un troyano, básicamente.
+
+Un troyano,
+
+sí, para propagar una barra de herramienta suya que promocionaba su web de servicio técnico. Se metía por los penrives, aprovechando el autor room de XP.
+
+Vaya, tela. Y eso
+
+pues dice que rastreaba las instalaciones, vio que llegó hasta China y así descubrió Pioneer para cobrar.
+
+Ingenioso cuanto menos. Aunque
+
+sí, sí, un poco en el límite, claro. Y también hizo un programa para hacer webscrapping ataringa.net. ¿Para qué?
+
+Para sacar enlaces de software y meterlos en su propia web, que usaba un script tipo Spyright para mejorar el posicionamiento. Hm, soluciones creativas para sus problemas de entonces. Reflejo de otra época de internet, quizá.
+
+Puede ser, pero bueno, esa etapa de servicio técnico acabó. Tras 4 años se casó, se mudó, intentó montar una empresa ya formal, Toito PC Ca.
+
+¿Y qué tal fue?
+
+Pues fracasó financieramente. Y aquí viene un momento muy duro. Eh,
+
+sí,
+
+describe casi tres años trabajando de obrero en una finca, sin acceso a PC, alejado de todo.
+
+Jo, qué bajón, durísimo.
+
+Ya ves, la vuelta. Pues imagínate, empezaron a buscar cursos online con su mujer, pero claro, el problema de siempre,
+
+la falta de certificados, de experiencia demostrable.
+
+Exacto. Pero la perseverancia es flipante. Financió un diplomado online en UNEWB vendiendo semillas de girasol que él mismo cosechaba.
+
+No me digas.
+
+Sí, sí. Y lidiando con una conexión a internet malísima, con un modem móvil, luego una antena bikitty,
+
+telita.
+
+Encima sufrieron un asalto en su casa, un incidente grave.
+
+Vaya racha.
+
+Pero terminó el diplomado. El proyecto final fue un CMS tipo WordPress y eso por fin le abrió la puerta
+
+al primer empleo formal
+
+como desarrollador full stack. Ahí cambió todo.
+
+Claro, ese fue el punto de inflexión. A partir de ahí ya la cosa despega.
+
+Sí, suma más de 8 años de experiencia formal. Dice que 15 en total en Haití. trabajando remoto para empresas de Argentina, Panamá, España, Chile,
+
+ya con una trayectoria sólida
+
+y domina todo el ecosistema JavaScript moderno. React, React Native, NextJS, Angular, NoJs, Typescript, Git Redux Material UI,
+
+lo normal hoy en día, pero construido sobre unas bases muy peculiares,
+
+desde luego. Y volvemos a la mezcla del principio, sabe de Apis Westful, Viewgs, Lad Element y Ciberseguridad menciona OAST. El referente en seguridad web. Sí.
+
+Hackinético, principios solid, clean code, hasta arquitectura hexagonal,
+
+que no está nada mal.
+
+Y cite ejemplos concretos de mejoras en optimización en Angular, refactoring con NextJs. Vamos, que aplica todo eso.
+
+Y es interesante como él mismo conecta esto con su filosofía, ve la programación como, bueno, como arte y ciencia.
+
+¿En qué sentido?
+
+En buscar soluciones sistemáticas, pensar fuera de la caja, dice, pero sin reinventar la rueda porque sí.
+
+Equilibrio. Eso es. Habla de la importancia del pensamiento crítico, de cambiar de perspectiva y de aprender siempre. Claro. Menciona Solid y también su contrario, los patrones de stupid,
+
+los antipatrones que hay que evitar.
+
+Exacto. Y comparte lo que aprende, artículos en su web, en dev to medium. Tiene un canal de YouTube
+
+muy activo.
+
+Y ese interés más reciente en gestión y liderazgo cita a Mary Parker Fallet, habla del síndrome de Procusto
+
+que tiene todo el sentido del mundo, ¿no? Después de pasar por lo que ha pasado. Pues sí, yo creo que sí. Es lógico que se interese por cómo crear mejores entornos de trabajo, por entender las dinámicas de equipo después de haber vivido tantas dificultades.
+
+Entonces, ¿con qué nos quedamos de todo esto? Es la historia de una vocación tecnológica que, bueno, se forjó la base de autoaprendizaje puro y duro.
+
+Totalmente,
+
+superando obstáculos enormes, eh, incluyendo momentos muy muy difíciles con giros inesperados
+
+y esas soluciones técnicas de sus inicios creativas, pero bueno, a veces al límite.
+
+Sí. Y sobre todo un un compromiso constante con aprender, con mejorar, con profesionalizarse. Al final
+
+demuestra que la determinación y la pasión pueden abrir caminos, incluso empezando con todo en contra.
+
+Sin duda. Es un ejemplo potente de resiliencia.
+
+Exacto. Y deja una reflexión final en el aire, ¿no? Para quien nos escucha.
+
+A ver,
+
+¿hasta qué punto estas trayectorias tan poco convencionales, esa capacidad de, bueno, de buscarse la vida, de encontrar atajos o soluciones poco ortodoxas, incluso las que rozaban lo aceptable al principio,
+
+pueden ser precisamente el caldo de cultivo que forja una mentalidad más innovadora, más resolutiva, que es tan necesaria en la tecnología compleja que manejamos hoy.

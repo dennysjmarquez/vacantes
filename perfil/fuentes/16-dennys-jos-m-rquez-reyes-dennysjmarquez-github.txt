@@ -1,0 +1,445 @@
+### FUENTE: Dennys José Márquez Reyes dennysjmarquez - GitHub
+
+### TIPO: web_page | URL: https://github.com/dennysjmarquez | CARACTERES: 6981 ###
+### KEYWORDS: GitHub Developer Tools, Front-End Web Development, JavaScript Libraries, Open Source Repositories, Software Security Features ###
+
+Resumen: This profile showcases the digital presence of Dennys José Márquez Reyes, a **specialized front-end web developer** based in Venezuela who utilizes a wide array of modern coding frameworks. His GitHub page serves as a professional portfolio, highlighting his expertise in **JavaScript and TypeScript** through various popular repositories that curate essential software libraries. Beyond just hosting code, the page functions as a **centralized networking hub** by linking to his external technical blogs, social media, and professional credentials. Ultimately, this source illustrates the **collaborative nature of open-source development**, providing tools for other creators while documenting the programmer's specific technical journey.
+
+------
+
+Skip to content
+
+Navigation Menu
+
+ Sign in 
+
+Appearance settings  
+
+ GitHub Copilot   Write better code with AI 
+
+ GitHub Models   New   Manage and compare prompts 
+
+ GitHub Advanced Security   Find and fix vulnerabilities 
+
+ Actions   Automate any workflow 
+
+ Codespaces   Instant dev environments 
+
+ Issues   Plan and track work 
+
+ Code Review   Manage code changes 
+
+ Discussions   Collaborate outside of code 
+
+ Code Search   Find more, search less 
+
+Explore  
+
+ Why GitHub 
+
+ All features 
+
+ Documentation 
+
+ GitHub Skills 
+
+ Blog 
+
+By company size  
+
+ Enterprises 
+
+ Small and medium teams 
+
+ Startups 
+
+ Nonprofits 
+
+By use case  
+
+ DevSecOps 
+
+ DevOps 
+
+ CI/CD 
+
+ View all use cases 
+
+By industry  
+
+ Healthcare 
+
+ Financial services 
+
+ Manufacturing 
+
+ Government 
+
+ View all industries 
+
+ View all solutions 
+
+Topics  
+
+ AI 
+
+ DevOps 
+
+ Security 
+
+ Software Development 
+
+ View all 
+
+Explore  
+
+ Learning Pathways 
+
+ Events & Webinars 
+
+ Ebooks & Whitepapers 
+
+ Customer Stories 
+
+ Partners 
+
+ Executive Insights 
+
+ GitHub Sponsors   Fund open source developers 
+
+ The ReadME Project   GitHub community articles 
+
+Repositories  
+
+ Topics 
+
+ Trending 
+
+ Collections 
+
+ Enterprise platform   AI-powered developer platform 
+
+Available add-ons  
+
+ GitHub Advanced Security   Enterprise-grade security features 
+
+ Copilot for business   Enterprise-grade AI features 
+
+ Premium Support   Enterprise-grade 24/7 support 
+
+Pricing
+
+Search code, repositories, users, issues, pull requests...
+
+Clear  
+
+Search syntax tips
+
+ Provide feedback 
+
+We read every piece of feedback, and take your input very seriously.
+
+ Saved searches 
+
+Use saved searches to filter your results more quickly
+
+ To see all available qualifiers, see our 
+
+documentation
+
+https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+
+. 
+
+ Sign in 
+
+https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+
+ Sign up 
+
+https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+
+Appearance settings   You signed in with another tab or window. 
+
+Reload
+
+https://github.com
+
+ to refresh your session.   You signed out in another tab or window. 
+
+Reload
+
+https://github.com
+
+ to refresh your session.   You switched accounts on another tab or window. 
+
+Reload
+
+https://github.com
+
+ to refresh your session.   Dismiss alert   {{ message }}  
+
+dennysjmarquez
+
+Follow
+
+https://github.com
+
+More  
+
+Overview
+
+https://github.com
+
+Repositories
+
+https://github.com
+
+Projects
+
+https://github.com
+
+Packages
+
+https://github.com
+
+Stars
+
+https://github.com
+
+dennysjmarquez
+
+Follow
+
+https://github.com
+
+💭   🤜🤛🤓  
+
+ Dennys José Márquez Reyes   dennysjmarquez 
+
+💭   🤜🤛🤓  
+
+Follow
+
+https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdennysjmarquez
+
+Desarrollador Web Full Front-End ➤ JavaScript ES6 / Angular - TypeScript / React - React Native / LitElement / Vue.js / Nex.js / HTML5 CSS3 Sass 🔥  
+
+23  followers 
+
+https://github.com/dennysjmarquez?tab=followers
+
+ · 
+
+85  following 
+
+https://github.com/dennysjmarquez?tab=following
+
+Venezuela  
+
+https://dennysjmarquez.dev/
+
+https://github.com/dennysjmarquez?tab=following
+
+X  
+
+@infocodes
+
+https://twitter.com/infocodes
+
+LinkedIn  
+
+in/dennysjmarquez
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+https://dennysjmarquez.medium.com/
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+https://dev.to/dennysjmarquez
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+Achievements
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+Achievements
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+ Block or report dennysjmarquez 
+
+Block user
+
+ Prevent this user from interacting with your repositories and sending you notifications. Learn more about 
+
+blocking users
+
+https://docs.github.com/articles/blocking-a-user-from-your-personal-account
+
+. 
+
+ You must be logged in to block users. 
+
+Please don't include any personal information such as legal names or email addresses. Maximum 100 characters, markdown supported. This note will be visible to only you.  
+
+Report abuse
+
+ Contact GitHub support about this user’s behavior. Learn more about 
+
+reporting abuse
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+. 
+
+Report abuse
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+More  
+
+Overview
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+Repositories
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+Projects
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+Packages
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+Stars
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+ Popular repositories  Loading  
+
+ awesome-javascript-libraries 
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+awesome-javascript-libraries   Public  
+
+ A curated list of awesome JavaScript frameworks, libraries and software. 
+
+ 25 
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+ 2 
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+ awesome-css 
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+awesome-css   Public  
+
+ 16 
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+ 3 
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+ awesome-php 
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+awesome-php   Public  
+
+ 11 
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+ 2 
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+ Silex-is-a-Website-Builder-for-Designers 
+
+https://docs.github.com/articles/reporting-abuse-or-spam
+
+Silex-is-a-Website-Builder-for-Designers   Public  
+
+JavaScript  
+
+ 6 
+
+https://github.com/dennysjmarquez/Silex-is-a-Website-Builder-for-Designers/stargazers
+
+ 3 
+
+https://github.com/dennysjmarquez/Silex-is-a-Website-Builder-for-Designers/stargazers
+
+ SOURCE-CODE-descargar-post-masivamente-de-taringa-visual-basic-6 
+
+https://github.com/dennysjmarquez/Silex-is-a-Website-Builder-for-Designers/stargazers
+
+SOURCE-CODE-descargar-post-masivamente-de-taringa-visual-basic-6   Public  
+
+HTML  
+
+ 3 
+
+https://github.com/dennysjmarquez/SOURCE-CODE-descargar-post-masivamente-de-taringa-visual-basic-6/stargazers
+
+ 5 
+
+https://github.com/dennysjmarquez/SOURCE-CODE-descargar-post-masivamente-de-taringa-visual-basic-6/stargazers
+
+ portfolio 
+
+https://github.com/dennysjmarquez/SOURCE-CODE-descargar-post-masivamente-de-taringa-visual-basic-6/stargazers
+
+portfolio   Public  
+
+ Un Catalogo de mis Proyectos 
+
+CSS  
+
+ 2 
+
+https://github.com/dennysjmarquez/portfolio/stargazers
+
+ 1 
+
+https://github.com/dennysjmarquez/portfolio/stargazers
+
+ Something went wrong, please refresh the page to try again. 
+  If the problem persists, check the 
+
+GitHub status page
+
+https://www.githubstatus.com/
+
+ or 
+
+contact support
+
+https://github.com/contact
+
+. 
+
+ Uh oh! 
+
+There was an error while loading. 
+
+Please reload this page
+
+https://github.com
+
+.
+
+ You can’t perform that action at this time.

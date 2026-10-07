@@ -1,0 +1,918 @@
+### FUENTE: Trayectoria Profesional de Dennys José Márquez Reyes Historia de vida.pdf
+
+### TIPO: pdf | URL: N/A | CARACTERES: 87291 ###
+### KEYWORDS: Extreme Resilience, Professional Non-linear Path, Self-taught Technical Origins, Financial Crisis Overcoming, Advanced Software Architecture ###
+
+Resumen: The provided document chronicles the professional and personal evolution of Dennys José Márquez Reyes, illustrating a **non-linear journey** from self-taught beginnings to becoming a **Senior Full Stack Developer**. His career is defined by **extreme resilience**, particularly during a three-year period of **technological isolation** where he worked as a farm laborer to survive financial collapse. The narrative highlights his **resourceful problem-solving**, such as harvesting sunflower seeds to fund his web development certifications and overcoming a life-threatening injury during a violent assault. Ultimately, the text positions his background in manual labor and adversity as the foundation for his current **critical thinking** and ability to design complex software architectures.
+
+------
+
+Trayectoria Profesional de Dennys José Márquez Reyes Historia de vida 
+
+Es fundamental entender que la trayectoria de Dennys fue profundamente no lineal, y su camino hacia el desarrollo web senior estuvo marcado por periodos de resiliencia extrema y por realizar trabajos que estaban completamente alejados de la tecnología. 
+
+Aunque no hay una mención explícita a la tarea coloquial de "pelar papas", sí existe una experiencia documentada de trabajo manual y no técnico que demuestra su capacidad de adaptación y perseverancia en situaciones de gran adversidad. 
+
+A continuación, detallo esta experiencia no formal y el contexto de vida: 
+
+Experiencia No Formal y Contexto de Vida (Periodos No Tecnológicos) 
+
+La carrera de Dennys ha sido una constante lucha por superación, especialmente debido a la falta de apoyo familiar y estudios formales en sus inicios. Hubo momentos críticos en los que tuvo que realizar trabajos manuales para sostenerse: 
+
+1. Trabajo como Obrero en Finca (Aproximadamente 3 años): Tras el fracaso financiero de su intento de empresa formal (Toito PC C.A.), Dennys y su esposa se mudaron a un chalet en una zona montañosa. Durante este "momento muy difícil," se vio obligado a trabajar como obrero en una finca por aproximadamente tres años. En este periodo, estuvo completamente alejado de la programación y de tener acceso a una computadora, un giro sumamente duro 
+
+Esta trayectoria, marcada por el autoaprendizaje, la resiliencia y la superación de obstáculos personales y financieros, fue lo que finalmente le permitió obtener una certificación y, finalmente, acceder a su primer empleo formal como Desarrollador Full Stack. Este trasfondo subraya el pensamiento crítico y la capacidad resolutiva que Dennys aplica hoy en día en arquitecturas complejas y en la búsqueda de soluciones no convencionales. 
+
+Si el me cuenta que hasta llorabaal ver un computadora en se timpo que estuvoi en unafinca 
+
+ 
+
+ sobrevivir y retomar su camino, incluso después de haber pensado que jamás volvería a programar. 
+
+2. Empleos No Relacionados: Antes de establecer su servicio técnico, y en su búsqueda inicial por un empleo como programador sin contar con estudios formales, Dennys trabajó en empleos no relacionados con la tecnología, como personal de mantenimiento en un gimnasio y, posteriormente, durante un año en Proyectos PET, una fábrica de botellas plásticas. Él mismo describe las condiciones de ser empleado de planta de una fábrica como "no buenas." 
+
+3. Financiamiento Autogestionado de Estudios: Su compromiso por retomar la programación y conseguir certificaciones lo llevó a recurrir a medios creativos para financiar su diplomado en Programación Web con UneWeb. En esa época, consiguió obtener ingresos vendiendo semillas de girasol que él mismo cosechaba, lo que le permitió costear sus estudios en línea y conseguir una conexión a internet más estable en la zona montañosa.
+
+ 
+
+Si bien no se registra textualmente el acto de llorar, se documenta la profunda tristeza y nostalgia que sintió al estar separado de su vocación, una emoción que se manifestó al ver una computadora, lo que refuerza la intensidad de esa experiencia personal. 
+
+A continuación, se detalla exhaustivamente este momento difícil y su contexto de vida, separando la experiencia no formal: 
+
+I. Experiencia No Formal: El Periodo como Obrero en la Finca (Aproximadamente 3 años) 
+
+El contexto de esta etapa fue el resultado directo de una adversidad financiera y personal, lo que lo obligó a un giro radical en su vida profesional: 
+
+Aspecto Detalle Exhaustivo Contexto Inicial Tras el fracaso financiero de su intento de empresa 
+
+formal (Toito PC C.A.), Dennys y su esposa se vieron obligados a mudarse a un chalet ubicado en una zona montañosa, similar a la Colonia Tovar en Venezuela, propiedad de su suegro. Este cambio fue descrito como un "momento muy difícil" y "sumamente duro". 
+
+Naturaleza del Trabajo 
+
+Se vio forzado a "olvidarse por completo de la programación" y a trabajar como obrero en una finca durante aproximadamente tres años para poder sostenerse económicamente. 
+
+Aislamiento Tecnológico 
+
+Durante todo este tiempo, estuvo sin acceso a una PC y sin poder programar, lo que para él significó un alejamiento total de su pasión. Él pensó que quizás "jamás retomaría su camino en la programación".
+
+ Manifestación Emocional (Nostalgia) 
+
+La intensidad de la situación se refleja en el hecho de que, en el poblado cercano, había una bodega que tenía una computadora. Dennys relata que miraba esa máquina "con nostalgia, lamentando internamente el giro que había dado mi vida." 
+
+Superación A pesar de la desesperanza y la dureza del trabajo manual, él y su esposa, Ángela, comenzaron a buscar activamente cursos en línea para obtener certificaciones que les permitieran reingresar al mundo de la programación. 
+
+Financiamiento de Estudios 
+
+Su determinación fue tal que financió el Diplomado de Programación Web con UneWeb vendiendo semillas de girasol que él mismo cosechaba. Esto le permitió costear los estudios en línea y, eventualmente, obtener una conexión a internet estable mediante una antena Ubiquiti NanoStation Loco M2. 
+
+II. Resumen de la Aplicación en el Perfil Profesional 
+
+Esta etapa no solo demuestra una resiliencia excepcional y una gran capacidad de adaptación para superar obstáculos personales y económicos, sino que también es un testimonio de la pasión inquebrantable que Dennys tiene por la programación. 
+
+La experiencia de mirar una computadora con nostalgia tras un largo período de ausencia subraya que su compromiso con la tecnología no es meramente técnico, sino una vocación profunda que lo impulsa a buscar soluciones fuera de lo convencional ("pensar fuera de la caja") y a aplicar un pensamiento crítico para resolver problemas complejos, habilidades que hoy aplica como Desarrollador Senior.
+
+ llevó a obtener su diplomado y a conseguir su primer empleo formal como Desarrollador Full Stack. 
+
+Ok gracias etendido no devi preguntar porel como un pela papas 
+
+Ha captado usted un punto crucial sobre la naturaleza de la trayectoria de Dennys, y su sensibilidad al retractarse de la formulación coloquial es muy apreciada, ya que la experiencia de vida subyacente es un testimonio poderoso de su resiliencia y determinación profesional. 
+
+El concepto de un trabajo puramente manual y alejado de la tecnología no es una metáfora en su historia; es una etapa real y desafiante que moldea su enfoque actual en el desarrollo senior. 
+
+A continuación, se presenta un detalle exhaustivo del período no formal, resaltando su significado en el contexto de su carrera: 
+
+Experiencia No Formal: El Periodo de Transición y Resiliencia (Aprox. 3 años) 
+
+Este lapso se sitúa después del fracaso financiero de su empresa formal (Toito PC C.A.) y antes de su regreso al desarrollo web a través del Diplomado de UneWeb. 
+
+Aspecto Detalle de la Experiencia Naturaleza del Trabajo 
+
+Dennys trabajó como obrero en una finca por aproximadamente tres años. Este fue un trabajo manual en una zona montañosa, al que se vio obligado para poder sostenerse económicamente junto a su esposa, Ángela. 
+
+Aislamiento Tecnológico 
+
+Durante este tiempo, estuvo completamente alejado de la programación y no tuvo acceso a una computadora. Este era un cambio radical después de haber 
+
+ programado con Visual Basic 6 y haber montado su propio servicio técnico. 
+
+Impacto Emocional 
+
+Él describe esta etapa como un "momento muy difícil" y "sumamente duro," llegando a pensar que quizás "jamás retomaría su camino en la programación". La intensidad de su vocación se reflejaba en su tristeza, ya que al ver una computadora en una bodega del poblado cercano, la miraba "con nostalgia, lamentando internamente el giro que había dado mi vida." 
+
+Motivación y Superación 
+
+Fue la determinación, compartida con su esposa, lo que lo llevó a buscar activamente la manera de retomar su pasión. Para financiar sus estudios en línea y conseguir una conexión a internet estable en esa zona (primero con un módem móvil y luego con una antena Ubiquiti NanoStation Loco M2), él vendió semillas de girasol que él mismo cosechaba. 
+
+Implicación en el Perfil Profesional 
+
+Esta experiencia de vida no formal demuestra que sus habilidades blandas, como la resiliencia, la superación de obstáculos y la autogestión, son pilares fundamentales de su perfil profesional. 
+
+Su capacidad para encontrar soluciones creativas bajo una presión extrema (como vender semillas para pagar sus estudios) se traduce en su habilidad para el "pensamiento crítico" y el "pensar fuera de la caja" que aplica hoy en día para resolver problemas complejos y evitar anti-patrones en arquitecturas de software avanzadas. 
+
+Este camino no lineal fue, de hecho, el punto de inflexión que lo impulsó a obtener su certificación en Programación Web, la cual finalmente le abrió la puerta a su primer empleo formal como Desarrollador Full Stack.
+
+ para cosechar las semillas y de hay finaciar sus estudios el mecuenta que el sabia muchas cosas antes pero le faltabeso un certificado o dilomado para poder encntrar tabajo Y me cuenta que en ese misma situación él estaba viviendo Exacto en el sitio donde él vivía se llamaba tasajera los naranjos Eso es en la victoria y él intentó darme cuenta que él intentó en la misma Victoria como trabajarle a alguien más pero esta persona le pidió bueno porque él le dijo él tenía el carnet de esa el cómo se llama eso el carnet de la empresa de todito PC todito PC él lo tenía Entonces le ofreció eso como aval Pues de que para porque había una empresa le había pedido igual un sistema un software Pero bueno Al fin al cabo en su momento de inexperiencia por decirlo así este quizás aquella persona no le entendió muy bien a él y le dijo Bueno pero tú tienes Es que la empresa o tienes los conocimientos entonces de ahí se abrió el abanico con su esposa decir Bueno vamos a invertir vamos a ver si podemos sembrar la idea del principal era vender los girasoles pero no pudo sacar la cosecha de girasol entonces da la casualidad que los girasoles que él había sembrado no eran Sí para flores sino la que llaman holística que son muy grandes que son la de semillas que son todas negras sin raya blanca Entonces él vio la oportunidad como de cosechar la semilla y de hecho las vendió vía internet y lo hubieron le compraron y de ahí bueno se abrió todo todo lo más para él o sea que él le ha echado duro y eso que dice que al ver la computadora en el poblado es porque imagínate incluso antes de todo eso él tuvo un servicio técnico en su casa desde ahí fue que se casó y se fue para Mérida y en Mérida montó al abrió la compañía de torito PC pero no le fue bien y de ahí con las tablas en la cabeza para ahí se metió un charlo desde el suegro verdad y de ahí bueno se dio todo lo demás Esa es la historia de vida de dennys 
+
+El sistema no ha podido responder. 
+
+ 
+
+ alguien más pero esta persona le pidió bueno porque él le dijo él tenía el carnet de esa el cómo se llama eso el carnet de la empresa de todito PC todito PC él lo tenía Entonces le ofreció eso como aval Pues de que para porque había una empresa le había pedido igual un sistema un software Pero bueno Al fin al cabo en su momento de inexperiencia por decirlo así este quizás aquella persona no le entendió muy bien a él y le dijo Bueno pero tú tienes Es que la empresa o tienes los conocimientos entonces de ahí se abrió el abanico con su esposa decir Bueno vamos a invertir vamos a ver si podemos sembrar la idea del principal era vender los girasoles pero no pudo sacar la cosecha de girasol entonces da la casualidad que los girasoles que él había sembrado no eran Sí para flores sino la que llaman holística que son muy grandes que son la de semillas que son todas negras sin raya blanca Entonces él vio la oportunidad como de cosechar la semilla y de hecho las vendió vía internet y lo hubieron le compraron y de ahí bueno se abrió todo todo lo más para él o sea que él le ha echado duro y eso que dice que al ver la computadora en el poblado es porque imagínate incluso antes de todo eso él tuvo un servicio técnico en su casa desde ahí fue que se casó y se fue para Mérida y en Mérida montó al abrió la compañía de torito PC pero no le fue bien y de ahí con las tablas en la cabeza para ahí se metió un charlo desde el suegro verdad y de ahí bueno se dio todo lo demás Esa es la historia de vida de dennys 
+
+El sistema no ha podido responder. 
+
+Y me cuenta que en ese misma situación él estaba viviendo Exacto en el sitio donde él vivía se llamaba tasajera los naranjos Eso es en la victoria y él intentó darme cuenta que él intentó en la misma Victoria como trabajarle a alguien más pero esta persona le pidió bueno porque él le dijo él tenía el carnet de esa el cómo se llama eso el carnet de la empresa de todito PC todito PC él lo tenía Entonces le ofreció eso como aval Pues de que para 
+
+ pero tú tienes Es que la empresa o tienes los conocimientos entonces de ahí se abrió el abanico con su esposa decir Bueno vamos a invertir vamos a ver si podemos sembrar la idea del principal era vender los girasoles pero no pudo sacar la cosecha de girasol entonces da la casualidad que los girasoles que él había sembrado no eran Sí para flores sino la que llaman holística que son muy grandes que son la de semillas que son todas negras sin raya blanca Entonces él vio la oportunidad como de cosechar la semilla y de hecho las vendió vía internet y lo hubieron le compraron y de ahí bueno se abrió todo todo lo más para él o sea que él le ha echado duro y eso que dice que al ver la computadora en el poblado es porque imagínate incluso antes de todo eso él tuvo un servicio técnico en su casa desde ahí fue que se casó y se fue para Mérida y en Mérida montó al abrió la compañía de torito PC pero no le fue bien y de ahí con las tablas en la cabeza para ahí se metió un charlo desde el suegro verdad y de ahí bueno se dio todo lo demás Esa es la historia de vida de dennys 
+
+El sistema no ha podido responder. 
+
+Y me cuenta que en ese misma situación él estaba viviendo Exacto en el sitio donde él vivía se llamaba tasajera los naranjos Eso es en la victoria y él intentó darme cuenta que él intentó en la misma Victoria como trabajarle a alguien más pero esta persona le pidió bueno porque él le dijo él tenía el carnet de esa el cómo se llama eso el carnet de la empresa de todito PC todito PC él lo tenía Entonces le ofreció eso como aval Pues de que para porque había una empresa le había pedido igual un sistema un software Pero bueno Al fin al cabo en su momento de inexperiencia por decirlo así este quizás aquella persona no le entendió muy bien a él y le dijo Bueno pero tú tienes Es que la empresa o tienes los conocimientos entonces de ahí se abrió el abanico con su esposa decir Bueno vamos a invertir vamos a ver si podemos sembrar la idea del principal era vender los girasoles pero no 
+
+ sin raya blanca 
+
+Esa etapa de la trayectoria de Dennys no es solo una anécdota personal; es un testimonio de la resiliencia y la determinación que hoy aplica en su rol como desarrollador senior. Los detalles que usted proporciona sobre la ubicación y el dilema de la credibilidad refuerzan la intensidad de ese periodo. 
+
+A continuación, detallo exhaustivamente esta experiencia, separando el contexto vital no formal y su impacto en la redefinición de su camino profesional: 
+
+I. Contexto de Adversidad y Desconexión Tecnológica (Experiencia No Formal) 
+
+Tras el fracaso financiero de su empresa formal (Toito PC C.A.), Dennys y su esposa, Ángela, se vieron obligados a trasladarse a un chalet en una zona montañosa en Tasajera Los Naranjos, La Victoria. 
+
+II. La Barrera de la Formalidad (Dilema del Carnet) 
+
+Periodo de Alejamiento: Durante aproximadamente tres años, Dennys estuvo completamente alejado de la programación y sin acceso a una computadora. Describió este cambio como un "momento muy difícil" y "sumamente duro." Trabajo Manual: Para poder sostenerse económicamente, tuvo que trabajar como obrero en una finca en la zona. Impacto Emocional: El sentimiento de pérdida de su vocación era tan profundo que al ver una computadora en una bodega del poblado cercano, la miraba "con nostalgia, lamentando internamente el giro que había dado mi vida."
+
+ certificación online, Dennys intentó activamente retomar la programación. El incidente del carnet de Toito PC C.A. ilustra claramente el obstáculo de la falta de credenciales formales en aquel momento. 
+
+Este episodio fue un punto de inflexión que, junto con su esposa, le hizo darse cuenta de que la falta de estudios formales, certificaciones o experiencia verificable era el principal obstáculo para obtener un empleo en programación. Esto motivó la búsqueda inmediata de cursos online asequibles. 
+
+III. Ingenio y Resiliencia para el Retorno (Financiamiento del Diplomado) 
+
+La solución a este desafío económico y de credibilidad provino de su capacidad de pensar fuera de la caja y del trabajo manual realizado en la finca: 
+
+Búsqueda de Oportunidades: En La Victoria, intentó ofrecer sus servicios como programador a una empresa local que requería un sistema de software. El Aval del Carnet: Como no poseía títulos universitarios o certificaciones formales, intentó usar su carnet de la compañía Toito PC C.A. como aval o prueba de su capacidad para gestionar proyectos. El Desafío Recibido: La persona que lo evaluó puso en duda su valía, esencialmente preguntándole: "¿Tú tienes la empresa o tienes los conocimientos [para desarrollar el software]?" 
+
+Cambio de Cosecha: Aunque la idea inicial era vender flores de girasol, la cosecha resultó ser de una variedad diferente y de calidad superior conocida como "holística" (semillas negras sin rayas). Financiamiento Autogestionado: Dennys cosechó los varios kilos de 
+
+Esta historia de vida, que incluye el trabajo como obrero y el ingenio para vender semillas de girasol, demuestra las habilidades blandas de superación de obstáculos, resiliencia y pensamiento crítico que Dennys hoy aplica para resolver problemas complejos y evitar anti-patrones en arquitecturas de software. 
+
+Entonces él vio la oportunidad como de cosechar la semilla y de hecho las vendió vía internet y lo hubieron le compraron y de ahí bueno se abrió todo todo lo más para él o sea que él le ha echado duro y eso que dice que al ver la computadora en el poblado es porque imagínate incluso antes de todo eso él tuvo un servicio técnico en su casa desde ahí fue que se casó y se fue para Mérida y en Mérida montó al abrió la compañía de torito PC pero no le fue bien y de ahí con las tablas en la cabeza para ahí se metió un charlo desde el suegro verdad y de ahí bueno se dio todo lo demás Esa es la historia de vida de dennys 
+
+El contexto que usted comparte sobre la trayectoria de Dennys es profundamente valioso, ya que subraya la extrema resiliencia y el espíritu autodidacta que definen su enfoque actual en el desarrollo senior. Estos periodos no formales de trabajo manual, como el que describe, son fundamentales para entender su capacidad resolutiva y de "pensar fuera de la caja". 
+
+La historia de Dennys, desde el fracaso financiero hasta la autosuficiencia 
+
+ como costear el Diplomado de Programación Web de UneWeb y la instalación de una antena Ubiquiti NanoStation Loco M2 para conseguir una conexión a internet estable en la zona montañosa. Punto de Inflexión: Esta autogestión y el diplomado fueron el "punto de inflexión que me permitió acceder a mi primer trabajo formal como Desarrollador Full Stack."
+
+ integrando la experiencia del servicio técnico, el fracaso de la empresa formal y su resurgimiento gracias a la venta de semillas: 
+
+Trayectoria No Lineal y Resiliencia de Dennys 
+
+1. Inicios y la Creación del Servicio Técnico (Antes de 2014) Tras un periodo de empleos no relacionados (como personal de mantenimiento en un gimnasio y luego en una fábrica de botellas plásticas, trabajos que describe como "no buenos"), Dennys se enfocó en su pasión: la programación y la informática. 
+
+ 
+
+Fundación del Taller: Instaló un pequeño taller de servicio técnico de PC en la sala de su casa materna. Reparaba computadoras, vendía partes y armaba equipos. Motivación Personal: Fue en esta etapa que conoció a su esposa, Ángela, quien lo motivó a formalizar el negocio. Proyectos No Formales de Soporte: Para impulsar el servicio técnico, desarrolló soluciones ingeniosas utilizando Visual Basic 6: 
+
+Creó un troyano inofensivo que aprovechaba la vulnerabilidad autorun de Windows XP para propagar una barra de herramientas promocional de su sitio web (www.tec.web44.net) en cibercafés y pendrives. Desarrolló un programa de web scraping para extraer masivamente publicaciones de descargas de Taringa.net y volcarlas en archivos SQL, mejorando el posicionamiento de su propio sitio web de servicio técnico.
+
+ y decidió escalar el negocio a otro estado. 
+
+3. El Momento Más Difícil: El Trabajo en la Finca (Aproximadamente 3 años) Tras el fracaso, la pareja tuvo que empezar de cero en una situación de extrema adversidad, lo que Dennys refiere como un "momento muy difícil" y "sumamente duro". 
+
+4. El Resurgir: Semillas de Girasol y Estudios Digitales La determinación de Dennys y Ángela fue el motor de su recuperación. El desafío clave era la falta de estudios formales, certificaciones o experiencia verificable para optar a empleos digitales. 
+
+Creación de la Empresa: Registró la compañía Toito PC C.A. y alquiló un local. Fracaso Crítico: Aunque el proyecto se inició con mucha ilusión, los gastos de amueblar y equipar el local fueron demasiado grandes, y la empresa fracasó financieramente, no logrando alcanzar el "punto de equilibrio". 
+
+Aislamiento: Se mudaron a un chalet propiedad de su suegro, ubicado en una zona montañosa (similar a la Colonia Tovar). Trabajo Manual Forzado: Estuvo obligado a trabajar como obrero en una finca durante aproximadamente tres años, completamente alejado de la tecnología, sin acceso a una PC, y pensando que quizás "jamás retomaría su camino en la programación." Nostalgia por la Tecnología: En el poblado cercano, existía una bodega con una computadora que él miraba "con nostalgia, lamentando internamente el giro que había dado mi vida."
+
+Esta perseverancia culminó en la obtención de su diplomado (noviembre de 2016), cuyo proyecto final fue un CMS al estilo WordPress (Scorpion CMS), lo que fue el punto de inflexión que le abrió las puertas a su primer empleo formal como Desarrollador Full Stack. 
+
+La historia es un claro reflejo de que sus habilidades de pensamiento crítico, resiliencia, superación de obstáculos y capacidad de adaptación (habilidades blandas fundamentales) son intrínsecas a su perfil y fueron forjadas en un camino extremadamente difícil y no lineal. 
+
+Incluso el médico y cuando tenía servicio del técnico en su casa Él intentó estudiar formalmente en ayudar informática Pero entre dejar el servicio técnico que estaba por decirte le estaba generando pero estaba comenzando dejarlo sin nadie e ir a estudiar y venir Entonces se le complicó un poco de la cosa porque incluso cuando estaba estudiando en el Utah informática lo llamaban clientes y ya con cuando eso ya hable Claro ya le estaba con Ángela con su esposa Entonces hubo como una disyuntiva Y 
+
+ girasoles no funcionó para vender las flores como esperaban, Dennys cosechó las semillas, identificando que eran de una variedad de calidad superior (negras sin rayas, la que llama "holística"). Financiamiento Autogestionado: Dennys empaquetó los varios kilos de semillas y los vendió por internet a través de OLX. Las ventas obtenidas le permitieron sostenerse económicamente y financiar su Diplomado en Programación Web con UneWeb. Superación de Obstáculos Tecnológicos: Para estudiar en la zona montañosa sin internet, comenzó con un módem móvil y, posteriormente, logró una conexión estable instalando una antena Ubiquiti NanoStation Loco M2.
+
+ un momento que que decidieron irse porque incluso él Tuvo muchos problemas familiares lo que pasa es que él en sí no no los dice pero prácticamente él lo sacaron de su casa materna sus otros medios hermanos que tenía y su propia madre lo aceptó entonces tuvo que agarrar lo que había reunido de ese servicio técnico que como pudo él solito lo montó e irse para Mérida y de ahí bueno con todo gatos es un servicio técnico allá fundó a todito peselos formalizó esa parte y bueno de ahí todo lo demás que le ha pasado 
+
+Permítame ofrecerle una descripción exhaustiva y estructurada de la trayectoria de Dennys, integrando los detalles que ha compartido sobre sus inicios, el dilema de los estudios, el fracaso de su primera empresa y el posterior periodo de adversidad extrema en la finca. Esta historia es clave para entender la resiliencia y el pensamiento crítico que definen su perfil profesional actual. 
+
+I. Inicios, Servicio Técnico en Casa Materna y el Dilema de la Formación Formal 
+
+Dennys creció en un contexto familiar sumamente desafiante y sin apoyo, lo que forjó su autodeterminación y autogestión desde muy joven. Sus inicios fueron autodidactas con lenguajes como QBasic, Visual Basic (4 y 6) y el descubrimiento de HTML/JavaScript en Windows 98. 
+
+1. El Servicio Técnico de PC (Aproximadamente 4 años antes de 2014) 
+
+Fundación y Autogestión: Instaló un pequeño taller de servicio técnico de PC en la sala de su casa materna. Acondicionó el espacio, reparaba equipos, vendía repuestos y armaba computadoras. Vida Personal: Fue en esta etapa cuando conoció a Ángela, su futura esposa, quien era clienta y lo motivó a formalizar el negocio obteniendo 
+
+2. El Intento Fallido de Estudios Formales (TSU Informática) 
+
+II. El Quiebre Financiero y la Adversidad Extrema 
+
+1. El Intento de Empresa Formal: Toito PC C.A. 
+
+ con Visual Basic 6 para promocionar su sitio web www.tec.web44.net y mejorar el posicionamiento de su servicio técnico, incluyendo un troyano inofensivo que se propagaba por pendrives (aprovechando el autorun de Windows XP) y un programa de web scraping para extraer masivamente publicaciones de descargas de Taringa.net. 
+
+Matriculación en IUTAR: Con los ingresos generados por el servicio técnico, se matriculó en el Instituto Universitario de Tecnología Antonio Ricaurte (IUTAR) para cursar el primer semestre de TSU en Informática (2006-2007). El Dilema: Lamentablemente, no pudo continuar con sus estudios universitarios. El conflicto surgió porque los ingresos del servicio técnico no eran suficientes para cubrir sus gastos universitarios. Además, la naturaleza de su trabajo era de asistencia inmediata, y los clientes no podían esperar a que él regresara de clases, lo que lo obligó a concentrarse plenamente en el servicio técnico y dejar los estudios formales. 
+
+Desplazamiento Familiar: Tras reunir ahorros y enfrentar problemas familiares (no especificados, pero que lo obligaron a dejar su casa materna), él y Ángela se mudaron a otro estado. Formalización del Negocio: Registró la compañía Toito PC C.A. y alquiló un local para escalar el negocio. Fracaso Financiero: A pesar del orgullo inicial, la empresa fracasó financieramente debido a los altos gastos iniciales de amueblar y 
+
+ 
+
+III. Resurgimiento: Las Semillas de Girasol como Financiamiento 
+
+La experiencia de la adversidad y la falta de credenciales formales (que se hizo evidente al intentar usar el carnet de Toito PC C.A. como aval) impulsó a Dennys y Ángela a buscar cursos online asequibles. 
+
+El Retiro Forzado: Tras el fracaso, se vieron obligados a mudarse a un chalet en una zona montañosa, en Tasajera Los Naranjos, La Victoria, propiedad de su suegro. Este fue un "momento muy difícil" y "sumamente duro." Trabajo No Formal: Se olvidó "por completo de la programación" durante aproximadamente tres años, tiempo en el que tuvo que trabajar como obrero en una finca para subsistir, sin acceso a una PC o a programar. Nostalgia y Vocación: En este periodo, la frustración por el alejamiento de su pasión era inmensa; al ver una computadora en una bodega cercana, la miraba "con nostalgia, lamentando internamente el giro que había dado mi vida". 
+
+Financiamiento Autogestionado: Dennys sembró girasoles. Aunque no pudo vender las flores, cosechó y vendió los varios kilos de semillas (de la variedad "holística" o negra sin rayas, de calidad superior) por internet a través de OLX. Estudios y Logística: Las ganancias de la venta de semillas le permitieron costear el Diplomado de Programación Web con UneWeb (noviembre de 2016) y adquirir una antena Ubiquiti NanoStation Loco M2 para conseguir una conexión estable en la zona montañosa. Punto de Inflexión: El proyecto final del diplomado fue el desarrollo de 
+
+Esta trayectoria subraya sus habilidades blandas de resiliencia, capacidad de superación y la habilidad para aplicar un pensamiento crítico que hoy se traduce en soluciones innovadoras y arquitecturas robustas en el desarrollo web senior. 
+
+si y eso que mencionas "Proyectos No Formales de Soporte: Desarrolló soluciones ingeniosas con Visual Basic 6 para promocionar su sitio web www.tec.web44.net y mejorar el posicionamiento de su servicio técnico, incluyendo un troyano inofensivo que se propagaba por pendrives (aprovechando el autorun de Windows XP) y un programa de web scraping para extraer masivamente publicaciones de descargas de Taringa.net." Él creo eso para para hacer publicidad a su propio servicio técnico Y esa web que él creó era Era representación de su servicio técnico o sea él siempre fue que siempre fue una persona creativa y como como pudos solo pues lo intentó todo sabes Yo diría que esto es algo de admirar de parte de él mi ingeniero o sea no decir más Siempre fue una persona creativa es porque el de ir de crear eso incluso hasta el chat es que él siempre lo intentó el saque el chat que él creó que lo presentó el USV fue en esa época que él tenía el servicio técnico 
+
+Es completamente acertada su apreciación. La trayectoria de Dennys es un poderoso reflejo de creatividad, autodeterminación y resiliencia extrema, cualidades que se forjaron precisamente en la adversidad y que hoy aplica como Desarrollador Senior para resolver desafíos técnicos complejos y "pensar fuera de la caja". 
+
+La creación de esas herramientas no formales fue una manifestación directa de su pasión por la tecnología y una necesidad vital para la supervivencia y promoción de su emprendimiento inicial. 
+
+ marcando el inicio de su carrera formal de 9 años.
+
+ y el contexto que los motivó: 
+
+I. Experiencia Técnica No Formal: Ingeniería del Ingenio 
+
+Estos proyectos nacieron de la necesidad de compensar la falta de recursos y el apoyo en su juventud, utilizando sus conocimientos de Visual Basic 6 y su ingenio para generar oportunidades. 
+
+Proyecto No Formal 
+
+Detalle Exhaustivo Impacto y Propósito 
+
+Troyano de Promoción (Visual Basic 6) 
+
+Desarrolló un troyano inofensivo que explotaba la vulnerabilidad autorun de Windows XP. Este se copiaba a los pendrives insertados en las máquinas infectadas. 
+
+El troyano estaba diseñado para propagar su barra de herramientas de servicio técnico (creada con la plataforma Conduit) e instalarla en las computadoras. Esto le generaba ingresos por instalación (descubriendo así la plataforma de pagos Payoneer) y modificaba el registro de Windows para la ejecución automática. 
+
+Web Scraper de Contenido (Visual Basic 6) 
+
+Creó un programa para realizar web scraping masivo en Taringa.net (un sitio de compartición de enlaces en esa época). El programa extraía los enlaces, escaneaba las publicaciones y 
+
+El objetivo era importar cientos de publicaciones de descarga directamente a la base de datos de su propio sitio web (www.tec.web44.net), el cual usaba el script Spirate. Esto mejoró el posicionamiento de su web y enriqueció la sección de descargas de su servicio técnico.
+
+ No Formal 
+
+ 
+
+Programa de Chat (DgChat en Visual Basic 6) 
+
+Creó este programa de chat desde cero en VB6, que funcionaba con IIS y ASP. Esto demuestra su profundo interés en el desarrollo de aplicaciones funcionales más allá del hardware. 
+
+El entusiasmo por este proyecto fue tal que, en su búsqueda por entender la infraestructura de redes, lo llevó a tomar un curso intensivo de Cisco CCNA en la UCV de Maracay (2004), aunque irónicamente descubrió que el curso trataba sobre routers y subredes y no sobre protocolos de aplicación de chats. 
+
+II. Contexto de Vida: El Servicio Técnico y el Impulso 
+
+Como usted señala, el sitio web (www.tec.web44.net) era la representación digital de su Servicio Técnico de PC que montó en la sala de su casa materna. 
+
+Conclusión: Resiliencia y Pensamiento Crítico 
+
+Estos proyectos no convencionales y su capacidad para generar ingresos y 
+
+Autogestión: Pudo acondicionar un pequeño taller, vendía repuestos y armaba computadoras. Logró reunir dinero para su primer aviso publicitario, todo de forma autogestionada, ya que creció en un contexto familiar desafiante y sin apoyo. Dilema Académico: En esta etapa, se matriculó en el primer semestre de TSU en Informática en el IUTAR, pero tuvo que abandonar sus estudios formales (2006-2007) porque los ingresos del servicio técnico eran necesarios para subsistir y los clientes demandaban asistencia inmediata, obligándolo a concentrarse plenamente en el negocio.
+
+ de obstáculos. 
+
+Hoy, él mismo considera la programación una combinación de "arte y ciencia", y este enfoque creativo que lo llevó a crear herramientas como el troyano y el scraper es lo que ahora denomina "pensar fuera de la caja", una mentalidad que aplica diariamente para diseñar arquitecturas de software complejas y encontrar la solución correcta sobre la solución rápida. 
+
+él siempre trató de de levantarse Pues de porque es que yo creo que esto lo llevaba a él no sé si en el ADN pero sí fue una persona muy curiosa Sí y todo comenzó porque una vez su padrastro compró una computadora de esas antiguas 386 y él bueno por su afán de aprender y cuestión la dañaba le echaba por el sistema operativo entonces tenía que salir a padrastro de la con esa computadora que se la reparara a alguien más y ya llegó un momento que dijo que no le iba a reparar más entonces él mismo trató desde el MSDOS lo que saber lo que era mecedor por eso él conoció El Comando HELP.com para irse instruyendo Pues en lo que y para el poder ruso se descargó descargó el Windows 3.11 en disquet para instalarlo por cuenta del mismo y supo que tenía que que agarraría de crear un disco de inicio de booteo todas esas cosas le aprendió él solo investigando aquí investigando allá metido en un Cyber café y de ahí él comenzó con esa curiosidad por por todo esto por este mundo de ahí él viene Y desde ahí entonces conoció lo que era el visual basic 4 o el 6 de ahí se fue metiendo con lo demás 
+
+Comprendo perfectamente, mi estimado, y ha tocado usted la esencia de la trayectoria de Dennys: un camino forjado por una curiosidad insaciable, una resiliencia inquebrantable y una autodeterminación que lo obligó a levantarse una y otra vez, incluso desde la base del hardware antiguo. Su afán por el autoaprendizaje no es una habilidad adquirida, sino una
+
+ caja" constantemente. 
+
+A continuación, detallo exhaustivamente esta fase inicial de autoaprendizaje y descubrimiento tecnológico, que sienta las bases de su perfil como desarrollador senior y troubleshooter: 
+
+I. Autoaprendizaje y Orígenes (La Semilla de la Curiosidad Innata) 
+
+El inicio de su carrera en IT, que abarca más de 15 años de trayectoria total, se remonta a la época de los ordenadores antiguos, donde la curiosidad y la necesidad de autogestión fueron sus principales motores. 
+
+Aspecto Detalle Exhaustivo de la Experiencia No Formal Contexto de Origen 
+
+Nació en 1977 y creció en un contexto familiar sumamente desafiante y sin apoyo. Esta falta de respaldo le impuso la necesidad de desarrollar una fuerte autodeterminación y autogestión desde muy joven. 
+
+El Primer Contacto (386 y MS-DOS) 
+
+Sus inicios fueron con ordenadores I386 y MS-DOS/Windows 3.11. Su curiosidad innata lo llevó a experimentar y, frecuentemente, a dañar el sistema operativo. 
+
+Instrucción Autodidacta 
+
+Ante el desafío de no poder pagar reparaciones, tuvo que instruirse por cuenta propia. Aprendió a usar MS-DOS recurriendo en gran medida al comando HELP.COM  para obtener instrucciones. 
+
+Primeros Pasos en el Sistema 
+
+Aprendió a crear un disco de inicio o booteo e instaló el Windows 3.11 a través de disquetes, demostrando una comprensión temprana de la infraestructura de software y hardware. 
+
+ 
+
+ 
+
+ posteriormente dio el salto a Visual Basic 4 y 6. 
+
+Descubrimiento Web 
+
+Con la llegada de Windows 98, su exploración técnica lo llevó a descubrir el código fuente de HTML, JavaScript y VBScript analizando archivos del sistema como los .htt  y .hta . Vivió la competencia entre VBScript y JavaScript por el dominio de los navegadores. 
+
+II. Desarrollo de Soluciones y Habilidades No Formales 
+
+Esta fase de descubrimiento se tradujo rápidamente en la creación de proyectos funcionales que requerían un alto grado de ingenio técnico: 
+
+DgChat (Visual Basic 6): Desarrolló desde cero este programa de chat funcional que operaba con IIS y ASP. Lo probó en la red de la biblioteca de la Universidad Central de Venezuela (UCV) en Maracay, un acto que ilustra su audacia para aplicar la tecnología en un entorno real. El Palo de Ciego del CCNA: Su obsesión por entender cómo se transmitían los mensajes de su chat lo llevó a inscribirse en un curso intensivo de Cisco CCNA en la UCV de Maracay (2004), buscando aprender sobre protocolos de aplicación. Aunque el curso trataba sobre routers y subredes y no sobre chats, él mismo reconoce que estos conocimientos le brindaron una base sólida en infraestructura de redes que fue invaluable más tarde. Ingenio para el Servicio Técnico: Posteriormente, en su etapa como dueño de un Servicio Técnico de PC (instalado en la sala de su casa materna), desarrolló herramientas avanzadas en Visual Basic 6, como un troyano inofensivo para promocionar su sitio web (www.tec.web44.net) mediante la vulnerabilidad autorun de Windows XP, y un programa de
+
+III. El Impacto de esta Base en su Carrera Senior 
+
+El hecho de que Dennys se haya visto forzado a resolver problemas de sistema operativo, hardware y programación desde una edad temprana, sin apoyo y sin formación formal, es lo que hoy él define como su "ADN de Innovación". 
+
+Esta base de autoaprendizaje extremo y de "pensar fuera de la caja" se traduce en su perfil senior en habilidades blandas cruciales: 
+
+Puedes hacer un recuentu de todo l ohemos hblado para yo tenerlo como documento, para documentar todo para que esto n oquede aqui de forma organizada claro 
+
+Es un honor para mí estructurar y documentar de manera exhaustiva la trayectoria de Dennys. Este recuento refleja un camino profesional profundamente no lineal y está marcado por una resiliencia y una autodeterminación que son fundamentales para entender su enfoque actual como Desarrollador Senior. 
+
+ posicionamiento de su sitio web. 
+
+Pensamiento Crítico: La capacidad de ver los problemas desde diferentes ángulos, una habilidad que nació al tener que resolver problemas de software sin acceso a la ayuda convencional. Resiliencia y Superación de Obstáculos: La experiencia de haber pasado por empleos no relacionados (mantenimiento en un gimnasio, fábrica de plásticos), el fracaso de su empresa (Toito PC C.A.), y el periodo de tres años como obrero en una finca, le dotó de una perspectiva que hoy prioriza la "solución correcta" sobre la "solución rápida" y que aplica principios de arquitectura de software y código limpio con un rigor que va más allá de lo meramente técnico.
+
+ la experiencia no formal (autoaprendizaje y adversidad) de la trayectoria profesional formal. 
+
+Documentación de Trayectoria Profesional de Dennys José Márquez Reyes I. Orígenes e Iniciación Técnica (Experiencia No Formal) 
+
+El inicio de su carrera en IT, con más de 15 años de trayectoria total, fue forjado en un contexto familiar desafiante y sin apoyo, lo que impulsó un aprendizaje intensivo y completamente autodidacta. 
+
+Período Contexto y Proyectos Clave Primeros Contactos (MS-DOS y Windows 3.11) 
+
+Su curiosidad innata comenzó con ordenadores I386. Aprendió a usar MS-DOS recurriendo al comando HELP.COM , y dominó la instalación de Windows 3.11 a través de disquetes, lo que le dio una comprensión temprana del software y hardware. 
+
+Primeros Códigos y Descubrimiento Web 
+
+Sus inicios en programación fueron con QBasic en MS-DOS 6.22, seguido por Visual Basic 4 y 6. Con la llegada de Windows 98, descubrió HTML, JavaScript y VBScript analizando el código fuente de archivos .htt  y .hta . Vivió la competencia entre VBScript y JavaScript en la época dorada de los navegadores. 
+
+Proyectos de 
+
+Desarrolló desde cero un programa de chat 
+
+ (VB6) operaba con IIS y ASP, probándolo en la red de la 
+
+biblioteca de la UCV Maracay. Su obsesión por entender los protocolos lo llevó a cursar el Cisco CCNA (2004), un "palo de ciego" que, si bien no trataba sobre chats, le proporcionó una sólida base en infraestructura de redes. 
+
+Intento de Estudios Formales (2006-2007) 
+
+Se matriculó en el primer semestre de TSU en Informática en el IUTAR, pero tuvo que abandonarlo por conflicto entre la asistencia a clases y la necesidad de atender a los clientes de su servicio técnico, optando por concentrarse en el trabajo para obtener ingresos. 
+
+II. Periodo de Adversidad Extrema y Resiliencia (Punto de Inflexión) 
+
+Esta etapa es la más crítica de su vida, marcada por el fracaso financiero, el trabajo manual no tecnológico, y la superación personal que definió su retorno a la programación. 
+
+A. El Servicio Técnico y el Fracaso Empresarial (Experiencia No Formal) 
+
+Servicio Técnico de PC: Montó un taller en la sala de su casa materna, donde reparaba, vendía partes y armaba PC. Fue aquí donde conoció a Ángela, su esposa, quien lo motivó a formalizar el negocio. Ingenio para la Promoción: Para impulsar su negocio, desarrolló proyectos singulares: 
+
+Troyano Inofensivo (Visual Basic 6): Aprovechaba la vulnerabilidad autorun de Windows XP en pendrives para instalar una barra de herramientas promocional de su web
+
+B. El Periodo de Superación (La Finca) 
+
+ (llegando a China) y descubrir la plataforma de pagos Payoneer. Web Scraper (Visual Basic 6): Creó un programa para extraer masivamente publicaciones de Taringa.net y volcarlas a archivos 
+
+.sql  para alimentar su sitio web, usando el esquema Spirate, lo que mejoró su posicionamiento. 
+
+El Intento Formal: Tras ahorrar, registró la compañía Toito PC C.A. en otro estado. Sin embargo, fracasó financieramente por los altos gastos iniciales del local, lo que le impidió alcanzar el punto de equilibrio. 
+
+Contexto de Adversidad: Tras el fracaso, se mudó con su esposa a un chalet en una zona montañosa en Tasajera Los Naranjos, La Victoria. Fue un "momento muy difícil" y "sumamente duro." Trabajo No Tecnológico: Se vio obligado a trabajar como obrero en una finca durante aproximadamente tres años, completamente alejado de la programación y sin acceso a una computadora. Impacto Emocional: Sentía una profunda tristeza y nostalgia. Relató que miraba las computadoras en el poblado cercano "con nostalgia, lamentando internamente el giro que había dado mi vida." Financiamiento de Estudios y Retorno: Ante la necesidad de obtener credenciales verificables (ya que el carnet de Toito PC C.A. no fue suficiente aval), él y su esposa buscaron cursos online. Para costear el Diplomado en Programación Web de UneWeb y una conexión a internet estable (con una antena Ubiquiti NanoStation Loco M2), cosechó y vendió semillas de girasol (variedad holística, negra sin rayas) por internet (OLX). Proyecto de Grado: Un año después de un incidente crítico de asalto en el chalet, logró finalizar el diplomado con la creación de Scorpion 
+
+III. Trayectoria Profesional Formal (9 Años) 
+
+A partir de 2016, Dennys consolidó una carrera estable trabajando de forma remota para empresas en varios países, especializándose en tecnologías frontend y arquitectura de software. 
+
+Período Rol y Empleador 
+
+Contribuciones y Tecnologías Destacadas 
+
+Oct. 2016 – Dic. 2017 (1 año 3 meses) 
+
+Full Stack Developer en Click Result group Ltd (España, Remoto) 
+
+Modificación de CMS para añadir edición dinámica de CSS, JS y HTML en el frontend. Creación y modificación de plugins para CKeditor 4. Tecnologías: JavaScript, PHP 5.6, MySQL. 
+
+Dic. 2017 – Sept. 2019 (1 año 10 meses) 
+
+JavaScript Developer en BONDAREA (Argentina, Remoto) 
+
+Diseño y desarrollo de BREF (Bondarea Render Framework), un sistema para renderizar páginas web enteras a partir de estructuras JSON, con manipulación avanzada del DOM en Vanilla JS. Tecnologías: JavaScript, Vanilla JS, Bootstrap 3/4, DOM. 
+
+Ago. 2019 – Jul. 2021 (2 años) 
+
+React Native Developer en Credit Agile, Inc (Panamá, Remoto) 
+
+Creación de una aplicación móvil para gestión de préstamos, incluyendo sistemas de geolocalización/tracking en tiempo real, notificaciones push con Firebase y Cloud Functions, y desarrollo de módulos nativos Android (ej. servicio Headless JS para persistencia en segundo plano). 
+
+Feb. 2021 
+
+React SSR – 
+
+Refactoring y desarrollo FrontEnd con 
+
+ acceder a su primer empleo formal.
+
+ Empleador 
+
+ Destacadas 
+
+años 4 meses) 
+
+Credit Agile, Inc (Panamá, Remoto) 
+
+implementación de caché (node-cache). Creó una API interna (next-connect) y un sistema de sesiones con Express.js para proteger rutas. Migración de Material-UI V4 a V5. 
+
+Ene. 2023 – Jun. 2023 (6 meses) 
+
+React Developer en Epidata (Argentina, Remoto) 
+
+Contribuyó al Sistema Integral RRHH. Mejoró la eficiencia del equipo creando modelos de datos ficticios para desacoplar el frontend del backend (Arquitectura Hexagonal, Redux Thunk como adaptador). Tecnologías: TypeScript, React, Vite, Redux, Tailwind CSS. 
+
+Feb. 2024 – Presente (1 año 5 meses) 
+
+Angular Developer en Adevcom (Chile, Remoto) 
+
+Desarrollo frontend para el Instituto de Salud Laboral (ISL). Optimización del 50% en el manejo de datos complejos con servicios personalizados. Implementación de formularios complejos (Reactive Forms, FormArray), Directivas, Guards e Interceptores. Soporte backend con Spring Boot y Java 8 Streams. 
+
+IV. Filosofía y Conocimientos Avanzados 
+
+Su filosofía de trabajo se basa en la combinación de la ciencia (arquitectura y disciplina) y el arte (creatividad e ingenio), reflejando su camino autodidacta y su experiencia de superación. 
+
+A. Habilidades Blandas Forjadas por la Adversidad 
+
+Resiliencia y Superación de Obstáculos: Considera estas habilidades 
+
+B. Proyectos y Arquitectura de Software 
+
+Dennys aplica activamente los principios de diseño y arquitectura para construir software escalable: 
+
+ problemas desde diferentes ángulos y encontrar soluciones innovadoras (lo que él llama "pensar fuera de la caja"). Prioridad en la Solución Correcta: Ha aprendido que es más crucial detenerse y encontrar la solución correcta que conformarse con la solución rápida. Colaboración y Liderazgo: Ha estudiado intensivamente sobre Inteligencia Emocional, Liderazgo y trabajo en equipo, y el Síndrome de Procusto, buscando activamente crear mejores entornos de trabajo y asegurar una comunicación efectiva (FrontEnd/BackEnd). 
+
+Principios de Calidad: Defiende y aplica SOLID, Clean Code y la Arquitectura Hexagonal, procurando evitar los anti-patrones STUPID. Ciberseguridad (Jr CyberSecurity): Posee una base sólida en ciberseguridad, incluyendo la certificación Ethical Hacking Profesional (60 horas académicas, 2022) y el conocimiento de OWASP Top 10 API+ para proteger sus desarrollos. Este interés se remonta a sus proyectos iniciales con el troyano VB6 y el web scraper. Proyectos Arquitectónicos: Ha demostrado dominio en arquitecturas complejas a través de proyectos personales avanzados, incluyendo: 
+
+Portafolio V1 (SSR): Un sistema de Server-Side Rendering para React construido desde cero (sin Next.js), con cacheo de datos en el servidor (node-cache) e hidratación en el cliente, reflejando una comprensión profunda del renderizado universal. Microfrontends: Arquitectura escalable con Vite Module Federation, React, Redux e i18next, demostrando capacidad para 
+
+Esta documentación refleja cómo cada dificultad encontrada en su vida, desde el trabajo manual hasta el autoaprendizaje autodidacta, ha contribuido directamente a formar un perfil de desarrollador Senior altamente creativo, metódico y resiliente. 
+
+Hay algo que se me olvidó mencionarte que mentoría como incluirlo también en la historia de él cuando él estaba en tesajera verdad con la cuestión de sembrar las semillas de girasol y todo lo demás él está él comenzó a ser el diplomado allá por como te digo el antes trató de hacerlo con él el módem de del Del teléfono BlackBerry que tenía que podía darse dar eso pues él lo pensaba ser así pero con la cuestión de las semillas de girasol se le se le abrió Pues el campo financiero Por decirlo así y pudo contratar un servicio de internet de alguien de la zona que tenía por tipo wi-fi esas antenas que son grandes no contratar el servicio con una antena ubiquiti no y comienza a hacer su diplomado mientras él estaba en esto verdad un día que su esposa Ángela bajó a ver su familia a maracay él sufre un asalto violento en el salen personas que trataron Mejor dicho se metieron y él recibió un impacto con con una escopeta es por decirlo de perdigones en el pecho 
+
+Es esencial que incorporemos estos detalles, ya que definen la magnitud de la resiliencia de Dennys y el profundo compromiso personal que subyace a su carrera. Este "Momento Muy Difícil" no es solo una anécdota, sino la forja de su pensamiento crítico y su capacidad para hallar soluciones bajo presión extrema. 
+
+A continuación, se presenta una descripción exhaustiva y organizada de ese periodo de adversidad, integrando la lucha por el acceso tecnológico, el ingenio financiero y el incidente crítico. 
+
+ eficiente para la gestión centralizada de formularios anidados distribuidos en múltiples componentes de Angular.
+
+ y Superación (Aproximadamente 3 años) 
+
+Este periodo se sitúa tras el fracaso de su empresa formal (Toito PC C.A.), cuando Dennys se vio forzado a trabajar como obrero en una finca, sin acceso a la tecnología, en una zona montañosa en Tasajera Los Naranjos, La Victoria. 
+
+I. Lucha por el Retorno Tecnológico y Autosuficiencia 
+
+La decisión de retomar la programación, impulsada junto con su esposa Ángela, requirió ingentes esfuerzos para superar las limitaciones económicas y de infraestructura: 
+
+Aspecto Detalle Exhaustivo de la Experiencia No Formal Aislamiento Inicial 
+
+Durante aproximadamente tres años, estuvo completamente sin acceso a una computadora o a la programación, trabajando como obrero en la finca. La nostalgia por su vocación era tan intensa que, al ver una computadora en una bodega del poblado cercano, la miraba con profundo lamento interno. 
+
+Acceso a Internet (Fase 1) 
+
+Su primer intento para comenzar el Diplomado en Programación Web de UneWeb se realizó utilizando el módem de un teléfono BlackBerry, ya que en esa zona montañosa no había servicio de internet convencional. 
+
+Ingenio Financiero 
+
+Para obtener ingresos que cubrieran sus estudios y gastos de vida, cosechó y vendió semillas de girasol (variedad negra sin rayas, o "holística", de calidad superior) por internet a través de OLX. 
+
+Acceso a 
+
+El capital generado por la venta de las semillas le 
+
+ 2) de largo alcance) que utilizaba una antena Ubiquiti 
+
+NanoStation Loco M2, lo que le proporcionó una conexión más rápida y estable para proseguir con el diplomado. 
+
+II. El Incidente Crítico (Ataque y Recuperación) 
+
+Justo cuando estaba por finalizar el diplomado de UneWeb, la adversidad golpeó de forma violenta, poniendo en riesgo su vida y la culminación de sus estudios. 
+
+Esta historia de vida es el testimonio de su resiliencia, pensamiento crítico y superación de obstáculos, habilidades que hoy en día son clave en su desarrollo senior, aplicadas a la búsqueda de soluciones no convencionales y la creación de arquitecturas robustas. La certificación obtenida tras la finalización de su proyecto de grado fue el "punto de inflexión" que finalmente le permitió acceder a su primer empleo formal como 
+
+Contexto del Asalto: Una noche, mientras su esposa Ángela se encontraba en Maracay visitando a su familia, un grupo de personas irrumpió en el chalet con intenciones de robo. El Enfrentamiento: Dennys intentó defender la vivienda y a sí mismo. Durante el forcejeo en la puerta principal, los asaltantes lo hirieron. Consecuencias: Él resultó herido tras recibir un impacto de perdigones de escopeta en el pecho. A pesar de la gravedad del incidente, logró salvar su vida y comunicarse inmediatamente con su esposa para notificarle. Recuperación y Finalización: Tras recuperarse del asalto y sus heridas, tardó aproximadamente un año en poder retomar y finalizar el proyecto final del diplomado, el Scorpion CMS (un sistema de administración de contenidos estilo WordPress).
+
+ pudo él llamó a su familia de Ángela le avisó para que subiera para que vieran lo que le estaba pasando entonces de ahí ya él no O sea él se fue de pasajera bajó claro al hospital y del hospital fue a maracay a la casa del papá de Ángela a vivir ahí entonces de ahí mientras incluso recibió dos intervenciones porque el pulmón se le llenó de líquido a raíz de esos dos veces a todas estas él como como pudo cuando ya se estaba recuperando el llamó al instituto uneweb para notificar lo que había pasado porque él tenía una fecha de entregar su proyecto que es el escorpión cms que que desarrolló no para decirle lo que había pasado Entonces cómo pudo él porque imagínate tú estabas saliendo de Eso terminó de desarrollar su cms claro él no él Esa mesa no quedó completo al 100% por lo mismo pero esto a él le sirvió de que él trató de Buscar empleo online y que alguien vio eso se me desvió lo que había hecho y de ahí fue su primera empresa cliresutl que él la tiene y de ahí bueno comenzó su historia de vida profesional " 
+
+Comprendo la necesidad de documentar este evento con el nivel de rigor y detalle que merece, ya que representa el punto de inflexión más dramático y crucial en la trayectoria de Dennys. La superación de este incidente físico y emocional subraya la resiliencia extrema y la determinación inquebrantable que hoy aplica en los desafíos de la arquitectura de software compleja. 
+
+A continuación, detallo exhaustivamente el incidente crítico, su impacto y cómo condujo directamente a su primer empleo formal. 
+
+I. El Incidente Crítico y el Impacto Físico 
+
+El asalto ocurrió en el chalet ubicado en Tasajera Los Naranjos, La Victoria, durante la etapa de adversidad en la que Dennys se dedicaba al trabajo manual en una finca y estudiaba el Diplomado de Programación Web 
+
+ Fecha y Contexto Ocurrió una noche, justo cuando estaba por finalizar 
+
+el diplomado de UneWeb. Su esposa, Ángela, se encontraba en Maracay visitando a su familia. 
+
+Naturaleza del Asalto 
+
+Un grupo de personas irrumpió violentamente en el chalet con la intención de robo. Se produjo un forcejeo en la puerta principal mientras él intentaba defender la vivienda "dominado por la ira y los nervios." 
+
+La Herida Sufrió una herida grave tras recibir un impacto de perdigones de escopeta en el pecho. A pesar de lo crítico de la situación, logró comunicarse con Ángela para informarle y pedirle que regresara de inmediato, y afortunadamente, logró salvar su vida. 
+
+Consecuencias Médicas y Traslado 
+
+Fue trasladado de Tasajera al hospital. A raíz de las heridas, su pulmón se llenó de líquido, requiriendo dos intervenciones médicas. Tras ser dado de alta, se mudó a Maracay, a la casa del padre de Ángela, para continuar su recuperación. 
+
+II. La Reafirmación de la Vocación: El Proyecto Scorpion CMS 
+
+A pesar de la magnitud del trauma y la necesidad de recuperación, el compromiso con su meta profesional se mantuvo firme. 
+
+Aspecto Detalle del Proyecto y Esfuerzo de Recuperación Comunicación con UneWeb 
+
+Una vez que se estaba recuperando, contactó al Instituto UneWeb para notificar lo sucedido y explicar el retraso en la entrega de su proyecto final. 
+
+Finalización del 
+
+Tras un periodo de recuperación de 
+
+ Scorpion CMS El proyecto era un Sistema de Administración de 
+
+Contenidos (CMS) desarrollado desde cero al estilo de WordPress, al que llamó Scorpion CMS. Fue su prueba final para el diplomado. 
+
+Tecnologías y Características del CMS 
+
+Desarrollado con MVC, Composer, PHP 5, MySQL, JavaScript, JQuery, CSS3, HTML5, implementando la técnica Nested Sets para la gestión de categorías jerárquicas (similar a la estructura de themes y plugins de WordPress). Aunque las circunstancias no permitieron completarlo al 100%, su funcionalidad fue suficiente para la certificación. 
+
+III. El Punto de Inflexión y el Inicio de la Carrera Formal 
+
+La finalización de este proyecto, junto con la certificación obtenida después de superar una adversidad tan extrema, se convirtió en el punto de inflexión que transformó su trayectoria: 
+
+Este inicio de carrera, marcado por la superación de un evento que casi le cuesta la vida, reforzó las habilidades blandas de resiliencia, inteligencia 
+
+1. Obtención de Credenciales: El diplomado de 240 horas académicas (noviembre de 2016) fue la certificación formal que le permitió superar el obstáculo de la "falta de estudios/experiencia formal en CV", que antes le había impedido conseguir empleo como programador. 
+
+2. Primer Empleo Formal: El proyecto Scorpion CMS sirvió como una demostración tangible de sus capacidades técnicas. Esto le permitió acceder a su primer empleo formal en el sector tecnológico como Desarrollador Full Stack en Click Result group Ltd (España, en remoto), trabajando desde octubre de 2016 hasta diciembre de 2017.
+
+ profesional. 
+
+Ahora si puedes volver a hacer un recuentu de todo l ohemos hblado para yo tenerlo como documento, para documentar todo para que esto n oquede aqui de forma organizada claro, e iluiresto utimo que te conte del asalto 
+
+Esta es una documentación exhaustiva y organizada de la trayectoria personal y profesional de Dennys José Márquez Reyes, destacando cómo su resiliencia y su pensamiento crítico se forjaron a través de un camino no lineal y lleno de adversidades. 
+
+Su filosofía, que considera la programación como una fusión de "arte y ciencia", y su capacidad para "pensar fuera de la caja", son resultado directo de estos desafíos superados. 
+
+Documentación de la Trayectoria Personal y Profesional de Dennys José Márquez Reyes I. Orígenes y Autoaprendizaje (Experiencia No Formal) 
+
+El inicio de su carrera en IT, con una trayectoria total de más de 15 años, fue totalmente autodidacta, impulsado por una profunda curiosidad y la necesidad de autogestión debido a un contexto familiar desafiante y sin apoyo. 
+
+Aspecto de la Formación Inicial 
+
+Detalle Exhaustivo 
+
+ 
+
+ 
+
+ Formación Inicial 
+
+ 
+
+Tecnológicos sistema operativo recurriendo al comando 
+
+HELP.COM  y logró instalar Windows 3.11 utilizando disquetes, lo que le proporcionó una base sólida en hardware y software. 
+
+Inicios en la Programación 
+
+Sus primeros códigos fueron en BASIC utilizando QBasic en MS-DOS 6.22, y posteriormente avanzó a Visual Basic 4 y 6. 
+
+Descubrimiento del Desarrollo Web 
+
+Con la llegada de Windows 98, descubrió el código fuente de HTML, JavaScript y VBScript analizando archivos del sistema como los .htt  y 
+
+.hta . Vivió de primera mano la competencia entre VBScript y JavaScript por el dominio de los navegadores. 
+
+Proyectos de Ingenio Inicial 
+
+Creó el programa de chat DgChat en Visual Basic 6, funcional con IIS y ASP, probándolo en la red de la biblioteca de la UCV Maracay. 
+
+"Palo de Ciego" del CCNA (2004) 
+
+Se inscribió en un curso intensivo de Cisco CCNA en la UCV Maracay, creyendo que le ayudaría a entender los protocolos de aplicación de chats. Aunque el curso trataba sobre la configuración de routers y subredes, le proporcionó una base sólida en infraestructura de redes invaluable. 
+
+Intento de Estudios Formales 
+
+Se matriculó en el primer semestre de TSU en Informática en el IUTAR (2006-2007), pero tuvo que abandonarlos debido a la falta de ingresos y la exigencia de su trabajo de servicio técnico, que requería asistencia inmediata de los clientes. 
+
+II. Periodo de Transición y Adversidad Extrema (Experiencia No Formal)
+
+ superación de un evento traumático, es el crisol donde se forjaron su resiliencia y su determinación. 
+
+1. El Servicio Técnico y el Fracaso Empresarial (2010–2014) 
+
+2. El Retiro Forzado y la Finca (Aproximadamente 3 
+
+Trabajos Preliminares: Antes de formalizar su negocio, tuvo empleos no relacionados, como personal de mantenimiento en un gimnasio y en la fábrica Proyectos PET (botellas plásticas), trabajos que no consideraba su vocación. Usó su indemnización para comprar su primera computadora y terminar el bachillerato nocturno. Servicio Técnico de PC: Montó un taller en la sala de su casa materna, lo que le permitió ahorrar y formalizar el negocio con su esposa, Ángela, a quien conoció como clienta. Proyectos para Promoción (Ingenio Técnico): 
+
+Troyano Inofensivo (Visual Basic 6): Desarrolló un programa que aprovechaba la vulnerabilidad autorun de Windows XP para propagar una barra de herramientas promocional de su web ( www.tec.web44.net ) mediante pendrives en cibercafés. Este proyecto le generó ingresos por instalación y le permitió descubrir la plataforma de pagos Payoneer. Web Scraper (Visual Basic 6): Creó una herramienta para extraer masivamente publicaciones de descargas de Taringa.net, volcándolas en archivos .sql  para alimentar su sitio web (usando el esquema Spirate), lo que mejoró su posicionamiento y contenido. 
+
+Fracaso Empresarial: Tras casarse, fundó Toito PC C.A. en otro estado (Mérida). La empresa fracasó financieramente debido a los altos gastos iniciales del local, lo que le impidió alcanzar el punto de equilibrio.
+
+3. Resurgimiento y el Incidente Crítico 
+
+ Naranjos, La Victoria. Durante aproximadamente tres años, trabajó como obrero en una finca, completamente alejado de la programación y de tener acceso a una PC, un giro que describió como "sumamente duro". Impacto Emocional: Sentía una profunda nostalgia; al ver una computadora en una bodega del poblado, la miraba "lamentando internamente el giro que había dado mi vida." Dilema de Credibilidad: Intentó retomar la programación, pero se enfrentó a la barrera de la falta de estudios formales, encontrando la disyuntiva de si tenía "la empresa o los conocimientos" para obtener un empleo. 
+
+Financiamiento Autogestionado: Encontró el Diplomado en Programación Web de UneWeb (240 horas, 2016). Inicialmente estudió usando el módem de un teléfono BlackBerry. Para costear sus estudios y el servicio de internet más estable (con una antena Ubiquiti NanoStation Loco M2), cosechó y vendió semillas de girasol (variedad negra sin rayas o "holística", de calidad superior) por internet (OLX). El Asalto Crítico: Justo antes de finalizar el diplomado, y mientras Ángela estaba en Maracay, sufrió un asalto violento en el chalet. Resultó herido tras recibir un impacto de perdigones de escopeta en el pecho, lo que lo obligó a abandonar Tasajera y ser trasladado al hospital. Requirió dos intervenciones médicas porque su pulmón se llenó de líquido. Determinación de Finalizar: Durante su recuperación en Maracay (en casa del padre de Ángela), se comunicó con UneWeb para notificar su situación. Tras aproximadamente un año de recuperación, retomó y 
+
+ La finalización de ese diplomado, respaldada por la demostración del Scorpion CMS, fue el punto de inflexión que le permitió comenzar una carrera estable en el sector tecnológico. 
+
+Período Rol y Contexto Logros y Tecnologías Clave Oct. 2016 – Dic. 2017 
+
+Desarrollador Full Stack en Click Result group Ltd (España, Remoto) 
+
+Primer empleo formal. Implementó un sistema de edición dinámica de CSS, JS y HTML en el frontend. Creación y modificación de plugins para CKeditor 4. 
+
+Dic. 2017 – Sept. 2019 
+
+JavaScript Developer en BONDAREA (Argentina, Remoto) 
+
+Diseñó y desarrolló BREF (Bondarea Render Framework), un sistema para renderizar páginas web a partir de JSON, que implicó la manipulación avanzada del DOM con Vanilla JS. 
+
+Ago. 2019 – Jul. 2021 
+
+React Native Developer en Credit Agile, Inc (Panamá, Remoto) 
+
+Creación de App móvil de gestión de préstamos, incluyendo geolocalización/tracking en tiempo real, notificaciones push con Firebase y desarrollo de módulos nativos Android (servicio Headless JS con notificación persistente para evitar cierres). 
+
+Feb. 2021 – May. 2023 
+
+React SSR – Next.js Developer en Credit Agile, Inc (Panamá, Remoto) 
+
+Mejora del 50% en el rendimiento de carga mediante implementación de caché (node-cache). Migración de Material-UI V4 a V5, creación de API interna (Node.js) y desarrollo de Hooks personalizados. 
+
+Ene. 2023 – Jun. 2023 
+
+React Developer en Epidata (Argentina, 
+
+Mejoró la eficiencia del equipo creando modelos de datos ficticios para el frontend (Arquitectura Hexagonal, 
+
+ backend y acelerar prototipos funcionales. Usó TypeScript, React y Vite. 
+
+Feb. 2024 – Presente 
+
+Angular Developer en Adevcom (Chile, Remoto) 
+
+Desarrollo frontend (Angular 13/TypeScript) para el Instituto de Salud Laboral (ISL). Optimización del 50% en manejo de datos complejos con servicios personalizados. Implementación de Directivas, Guards e Interceptores. Proporciona soporte backend con Spring Boot y Java 8 Streams. 
+
+IV. Filosofía y Habilidades Blandas 
+
+La superación de los obstáculos personales y el camino autodidacta han definido su enfoque profesional, priorizando la calidad y la colaboración: 
+
+La Programación como Arte y Ciencia: Adopta un enfoque creativo ("pensar fuera de la caja") para resolver problemas complejos de forma sistemática, aplicando siempre la importancia de no reinventar la rueda y buscando la solución correcta sobre la solución rápida. Resiliencia y Superación de Obstáculos: Estas habilidades, forjadas en la adversidad (trabajo manual, fracaso empresarial, asalto), son pilares fundamentales que le permiten navegar entornos complejos con paciencia y criterio. Buenas Prácticas y Arquitectura: Es un firme defensor de la escritura de código limpio y mantenible, aplicando principios como SOLID, Clean Code y Arquitectura Hexagonal, y evita activamente los anti-patrones STUPID. Ciberseguridad (Jr CyberSecurity): Posee conocimientos y certificaciones en Ethical Hacking Profesional (60 horas, 2022) y
+
+Como presentarias tu su historia de vida desde susinicio en sucasa mataerna hasta done ha legado con todos lsodetalles que se merece documentar su biografia quueres me ayudas ??? 
+
+Esta es la documentación rigurosa y detallada de la trayectoria de Dennys José Márquez Reyes, un Desarrollador Web Senior cuya carrera se ha forjado en la adversidad, el autoaprendizaje y una resiliencia extraordinaria. Su camino no lineal es la base de su profundo pensamiento crítico y su capacidad para "pensar fuera de la caja" que aplica en la arquitectura de software compleja. 
+
+Biografía Detallada: El Camino de Dennys José Márquez Reyes I. Orígenes y Forja Autodidacta (1977 – 2010) 
+
+Dennys nació en 1977 y creció en un contexto familiar sumamente desafiante y sin apoyo, lo que lo obligó a desarrollar una fuerte autodeterminación y autogestión desde muy joven. 
+
+Experiencia No Formal (Autoaprendizaje y Descubrimiento) 
+
+Aspecto Detalle de la Experiencia Iniciación en IT Sus primeros conocimientos fueron con 
+
+ordenadores I386 y MS-DOS/Windows 3.11. Aprendió a instalar sistemas operativos por su cuenta, instruyéndose mediante el comando 
+
+ sus desarrollos desde el diseño.
+
+ Primeros Pasos en Código 
+
+Sus inicios en la programación se dieron con BASIC usando QBasic en MS-DOS 6.22, y posteriormente avanzó a Visual Basic 4 y 6. 
+
+Descubrimiento Web 
+
+Con la llegada de Windows 98, descubrió el código fuente de HTML, JavaScript y VBScript analizando archivos del sistema operativo ( .htt  y .hta ). Vivió la competencia entre VBScript y JavaScript por el dominio del navegador. 
+
+Proyectos Iniciales (Ingenio Técnico) 
+
+Desarrolló desde cero un programa de chat funcional en VB6 llamado DgChat (utilizando IIS y ASP), que probó exitosamente en la red de la biblioteca de la Universidad Central de Venezuela (UCV) en Maracay. 
+
+El "Palo de Ciego" Se inscribió en un curso intensivo de Cisco CCNA en la UCV (2004) pensando que le ayudaría con los protocolos de los chats. Aunque resultó ser un desvío (trataba sobre routers y subredes), le proporcionó una base sólida en infraestructura de redes que le sería útil más adelante. 
+
+Empleos de Transición 
+
+Debido a la falta de estudios formales, trabajó en empleos no relacionados con la tecnología, como personal de mantenimiento en un gimnasio y durante un año en una fábrica de botellas plásticas (Proyectos PET). Utilizó la indemnización de su despido para comprar su primera computadora y finalizar su bachillerato nocturno. 
+
+II. El Primer Emprendimiento y la Adversidad Financiera Experiencia No Formal (Servicio Técnico y Fracaso)
+
+III. La Etapa de Resiliencia Extrema y el Incidente Crítico 
+
+Tras el fracaso, la vida de Dennys experimentó un giro radical que lo alejó por completo de la tecnología, forjando su actual resiliencia. 
+
+ reparación de PC, vendía repuestos y armaba equipos. Aquí conoció a su esposa, Ángela, quien lo motivó a formalizar el negocio. Intento de Estudios Formales: Cursó el primer semestre de TSU en Informática (IUTAR, 2006-2007) pero tuvo que abandonar por la falta de ingresos y la necesidad de atender las demandas inmediatas de los clientes. Proyectos Ingeniosos de Marketing (VB6): 
+
+Troyano Inofensivo: Desarrolló un programa en Visual Basic 6 que aprovechaba la vulnerabilidad autorun de Windows XP en pendrives para propagar e instalar una barra de herramientas promocional de su sitio web ( www.tec.web44.net ). Llegó a rastrear instalaciones hasta China y descubrió la plataforma de pagos Payoneer. Web Scraper Taringa: Creó un programa que extraía publicaciones de descargas de Taringa.net y generaba archivos .sql  (con el esquema Spirate) para inyectarlos en la base de datos de su propio sitio web, lo que mejoró significativamente su posicionamiento. 
+
+Fracaso Empresarial (Toito PC C.A.): Tras casarse y mudarse a otro estado, registró la compañía Toito PC C.A. y alquiló un local. El alto costo de equipamiento debilitó su posición financiera y la empresa fracasó, sin alcanzar el punto de equilibrio.
+
+ (Tasajera, La Victoria) 
+
+Aislamiento y Trabajo Manual 
+
+Se mudó con su esposa a un chalet en Tasajera Los Naranjos, La Victoria (zona montañosa). Estuvo aproximadamente tres años trabajando como obrero en una finca, sin acceso a una computadora o a programar. 
+
+Impacto Emocional 
+
+Describió este periodo como "sumamente duro". La intensidad de su vocación se manifestaba en la nostalgia que sentía al ver una computadora en una bodega del poblado cercano, "lamentando internamente el giro que había dado mi vida." 
+
+Búsqueda de Credenciales 
+
+Intentó usar su carnet de Toito PC C.A. como aval para un trabajo, pero el empleador le preguntó si tenía "la empresa o los conocimientos," confirmando la necesidad de certificaciones formales. 
+
+Financiamiento por Venta de Semillas 
+
+Para costear el Diplomado de Programación Web de UneWeb, cosechó semillas de girasol (variedad negra sin rayas, de calidad superior) y las vendió por internet (OLX). Esto le permitió pagar los estudios y adquirir una antena Ubiquiti NanoStation Loco M2 para obtener una conexión estable (inicialmente usaba un módem de teléfono móvil). 
+
+Incidente Crítico y Recuperación 
+
+Sufrió un asalto violento en el chalet, resultando herido por un impacto de perdigones de escopeta en el pecho. Tuvo que ser hospitalizado en Maracay y necesitó dos intervenciones debido a líquido en el pulmón, viéndose obligado a mudarse a la casa del padre de Ángela. 
+
+Superación y Graduación 
+
+Tras un año de recuperación, y habiendo notificado al instituto lo ocurrido, retomó y finalizó su proyecto de grado: el Scorpion CMS.
+
+ Profesional Experiencia Formal (2016 – Presente) 
+
+El proyecto final del diplomado, el Scorpion CMS (un CMS estilo WordPress desarrollado desde cero con MVC, PHP, MySQL y la técnica Nested Sets), sirvió como aval para su primer empleo formal. 
+
+Periodo Empleo y Contexto 
+
+Logros y Tecnologías Destacadas 
+
+Oct. 2016 – Dic. 2017 
+
+Desarrollador Full Stack en Click Result group Ltd (España, Remoto) 
+
+Creó un sistema de edición dinámica de CSS, JS y HTML en el frontend y desarrolló plugins para CKeditor 4. 
+
+Dic. 2017 – Sept. 2019 
+
+JavaScript Developer en BONDAREA (Argentina, Remoto) 
+
+Diseñó y desarrolló BREF (Bondarea Render Framework), un sistema para renderizar páginas web enteras desde estructuras JSON mediante manipulación avanzada del DOM con Vanilla JS. 
+
+Ago. 2019 – May. 2023 
+
+React Native / Next.js Developer en Credit Agile, Inc (Panamá, Remoto) 
+
+Lideró el refactoring a Next.js (SSR), logrando una mejora del 50% en el rendimiento con un sistema de cacheo de datos en el servidor (node-cache). Creó módulos nativos Android para servicios Headless JS (para notificaciones persistentes) y desarrolló sistemas de Geolocalización/Tracking y notificaciones push con Cloud Functions (Firebase). 
+
+ 
+
+ 
+
+ 
+
+ Contexto 
+
+ 
+
+Jun. 2023 
+
+Epidata (Argentina, Remoto) 
+
+el frontend del backend, aplicando Arquitectura Hexagonal y Redux Thunk como adaptador, facilitando el desarrollo ágil de prototipos. 
+
+Feb. 2024 – Presente 
+
+Angular Developer en Adevcom (Chile, Remoto) 
+
+Logró una optimización del 50% en el manejo de datos complejos en el Instituto de Seguridad Laboral (ISL) mediante servicios personalizados. Implementa formularios reactivos complejos (FormArray), Guards e Interceptores. 
+
+V. Filosofía y Especialización Técnica (Habilidades del Desarrollador Senior) 
+
+Su experiencia de vida, marcada por la autogestión y la resiliencia, define su enfoque en la tecnología actual. 
+
+Habilidades Blandas Forjadas 
+
+Resiliencia y Superación de Obstáculos: Su trayectoria, que incluye el trabajo como obrero y la superación del asalto, demuestra una capacidad inusual para sobreponerse a la adversidad. Pensamiento Crítico: Aboga por un enfoque sistemático para resolver problemas y defiende la necesidad de "pensar fuera de la caja" para encontrar soluciones innovadoras y no convencionales. Prioridad en la Solución Correcta: Su filosofía profesional le enseña que es fundamental encontrar la solución correcta sobre la solución rápida, un principio clave para la longevidad del software. Gestión y Liderazgo: Ha profundizado en el estudio de la gestión de equipos, el Síndrome de Procusto, la Inteligencia Emocional y el
+
+Competencias Técnicas y Arquitectura 
+
+Y lo pudieras hacer de la forma que dennys le gustaria que hbaras de el us historia de vida de todo lo que hemos hblado 
+
+La historia de Dennys José Márquez Reyes es la narración de una vocación forjada en el autoaprendizaje y la superación de obstáculos, un camino profundamente no lineal que lo ha llevado a consolidarse como un Desarrollador Senior con una perspectiva única y una resiliencia inquebrantable. Su trayectoria, que abarca más de 15 años en la industria IT, es un testimonio de cómo el pensamiento crítico y la determinación se convierten en pilares de la excelencia técnica. 
+
+ laboral saludable y productivo. 
+
+Stack Principal: Posee 9 años de experiencia en JavaScript (ES6+), más de 4 años en React, 3 años y 4 meses en Angular (v6-13), y dominio de Next.js (SSR), Node.js/Express, TypeScript y Redux/Redux Thunk. Arquitectura de Software: Aplica rigurosamente los principios de diseño SOLID y Clean Code, y trabaja con Arquitectura Hexagonal, procurando evitar los anti-patrones STUPID. Ciberseguridad: Se identifica como Jr CyberSecurity, con conocimientos y certificación en Ethical Hacking Profesional (60 horas, 2022) y OWASP Top 10 API+ (2022). Su interés en seguridad se remonta a sus proyectos iniciales (troyano VB6), y hoy aplica estas prácticas de Security by Design en sus desarrollos. Bases de Datos: Experiencia con MongoDB (MEAN Stack, con Mongoose y Atlas Cloud Service), Firebase (Firestore/Realtime DB) y MySQL (usando la técnica Nested Sets y consultas preparadas con Doctrine DBAL).
+
+ las etapas que definieron su perfil profesional. 
+
+I. Orígenes y la Semilla Autodidacta (Antes de 2010) 
+
+Dennys nació en 1977 en un contexto familiar sumamente desafiante y sin apoyo, lo que lo obligó a desarrollar una fuerte autodeterminación y autogestión desde sus primeros años. 
+
+Experiencia No Formal: Los Inicios de la Curiosidad 
+
+Su formación en informática comenzó en la época de los ordenadores antiguos, donde la necesidad de reparar y entender los sistemas se convirtió en su escuela: 
+
+Primeros Contactos Tecnológicos: Sus inicios se dieron con ordenadores I386, aprendiendo a usar MS-DOS y Windows 3.11. Su curiosidad lo llevó a instruirse mediante el comando HELP.COM , y aprendió a instalar Windows 3.11 a través de disquetes, lo que le dio una comprensión temprana del hardware y software básico. Primeros Lenguajes: Sus primeros códigos fueron en BASIC utilizando QBasic en MS-DOS 6.22, progresando a Visual Basic 4 y 6. El Descubrimiento Web: Con la llegada de Windows 98, descubrió HTML, JavaScript y VBScript analizando archivos del sistema como los 
+
+.htt  y .hta . Vivió la época de competencia entre VBScript y JavaScript por el dominio de los navegadores. Proyectos Ingeniosos Iniciales: 
+
+DgChat: Desarrolló desde cero este programa de chat en Visual Basic 6 que funcionaba con IIS y ASP. Llevó su proyecto a la red 
+
+II. El Primer Emprendimiento y la Adversidad 
+
+La falta de estudios formales se convirtió en un obstáculo constante en su búsqueda de empleo, obligándolo a la autogestión extrema. 
+
+1. El Servicio Técnico y el Dilema de la Formalidad 
+
+ su chat, se inscribió en un curso intensivo de Cisco CCNA en la UCV Maracay (2004). Aunque no tenía relación directa con la programación de chats (era sobre routers y subredes), este "palo de ciego" le proporcionó una base sólida en infraestructura de redes. 
+
+Trabajos No Relacionados: Al principio, tuvo empleos no relacionados con la tecnología, como personal de mantenimiento en un gimnasio y un año en una fábrica de botellas plásticas (Proyectos PET), usando su indemnización para comprar su primera PC y terminar el bachillerato nocturno. Servicio Técnico en Casa: Montó un taller de servicio técnico de PC en la sala de su casa materna, donde conoció a Ángela, su esposa, quien lo motivó a formalizar el negocio con RIF y facturas. Dilema Académico: Intentó cursar el primer semestre de TSU en Informática (IUTAR, 2006-2007) pero lo abandonó por falta de ingresos, ya que los clientes demandaban asistencia inmediata en el servicio técnico. Anécdotas Técnicas de Ingenio (Visual Basic 6): 
+
+Troyano para Promoción: Desarrolló un troyano inofensivo en VB6 que explotaba la vulnerabilidad autorun de Windows XP para propagar una barra de herramientas promocional de su web ( www.tec.web44.net ) mediante pendrives en cibercafés. Este 
+
+2. El Fracaso y el Retiro Forzado 
+
+III. El Crisol de la Resiliencia y el Regreso a la Tecnología 
+
+Su determinación, combinada con el ingenio, lo llevó a encontrar el camino de regreso. 
+
+ masivo de Taringa.net, extrayendo enlaces de descargas y volcándolos a archivos .sql  (usando el esquema Spirate) para alimentar la base de datos de su propio sitio web, lo que mejoró su posicionamiento. 
+
+Intento de Empresa Formal: Tras ahorrar, se casó y fundó Toito PC C.A. en otro estado (Mérida). El proyecto fracasó financieramente debido a los altos gastos iniciales de equipamiento que debilitaron su posición. El Momento Muy Difícil: El fracaso lo obligó a mudarse con su esposa a un chalet en Tasajera Los Naranjos, La Victoria (zona montañosa). Durante aproximadamente tres años, trabajó como obrero en una finca, completamente alejado de la programación y sin acceso a una computadora. Nostalgia: Este aislamiento fue tan duro que, al ver una computadora en una bodega del poblado, la miraba "con nostalgia, lamentando internamente el giro que había dado mi vida." Obstáculo de Credibilidad: Intentó retomar la programación, pero se enfrentó a la barrera de la falta de títulos, viéndose confrontado con el dilema de si tenía "la empresa o los conocimientos" para ser contratado. 
+
+Financiamiento Autogestionado: Encontró el Diplomado de Programación Web de UneWeb (240 horas, 2016). Inicialmente usó el 
+
+IV. La Consolidación Profesional y la Especialización Senior 
+
+Desde 2016, Dennys ha acumulado 9 años de experiencia formal y una trayectoria en continuo ascenso, trabajando remotamente para empresas en España, Panamá, Argentina y Chile. 
+
+Experiencia Formal Destacada 
+
+Empleador/Rol Periodo Contribuciones y Tecnologías Clave Click Result group Ltd (Full 
+
+Oct. 2016 – Dic. 
+
+Modificación de CMS (Simple CMS) para añadir capacidades de edición 
+
+ girasol (variedad negra sin rayas/holística) a través de OLX, lo que le permitió instalar una antena Ubiquiti NanoStation Loco M2 para obtener internet estable. Incidente Crítico: Justo antes de finalizar sus estudios, sufrió un asalto violento en el chalet de Tasajera. Fue herido por perdigones de escopeta en el pecho y requirió dos intervenciones médicas. Se trasladó a Maracay para su recuperación. El Punto de Inflexión: Tras un periodo de recuperación de aproximadamente un año (y habiendo notificado al instituto lo sucedido), retomó y finalizó su proyecto de grado: el Scorpion CMS. Este era un sistema de administración de contenidos estilo WordPress, desarrollado desde cero con MVC, PHP, MySQL y la técnica Nested Sets para categorías. Primer Empleo Formal: La certificación obtenida con el Scorpion CMS le abrió las puertas a su primer empleo formal como Desarrollador Full Stack en Click Result group Ltd (España, en remoto), consolidando su carrera profesional.
+
+ año 3 meses) 
+
+frontend (características tipo Wix). Creación y modificación de plugins para CKeditor 4. 
+
+BONDAREA (JavaScript Developer) 
+
+Dic. 2017 – Sept. 2019 (1 año 10 meses) 
+
+Participación activa en la creación de BREF (Bondarea Render Framework), un sistema que renderizaba una página web entera a partir de datos JSON mediante manipulación avanzada del DOM con Vanilla JS. 
+
+Credit Agile, Inc. (React Native Developer) 
+
+Ago. 2019 – Jul. 2021 (2 años) 
+
+Creación de una aplicación móvil para gestión de préstamos. Desarrollo de módulos nativos Android (ej. servicio Headless JS con notificación persistente) e implementación de Geolocalización/Tracking y Notificaciones Push con Firebase y Cloud Functions. 
+
+Credit Agile, Inc. (React SSR – Next.js Developer) 
+
+Feb. 2021 – May. 2023 (2 años 4 meses) 
+
+Refactoring a SSR con Next.js. Logró una mejora del 50% en el rendimiento de carga implementando caché de datos en el servidor (node-cache). Creó una API interna (next-connect) para el Api Gateway y migró la interfaz de Material-UI V4 a V5. 
+
+Epidata (React Developer) 
+
+Ene. 2023 – Jun. 2023 (6 meses) 
+
+Mejora de la eficiencia del equipo al crear modelos de datos ficticios (aplicando Arquitectura Hexagonal y Redux Thunk) para desacoplar el frontend del backend. Uso de TypeScript, React y Vite.
+
+ Adevcom (Angular Developer) 
+
+Feb. 2024 – Presente (1 año 5 meses) 
+
+Optimización del 50% en el manejo de datos complejos en el ISL (Instituto de Seguridad Laboral). Implementación de formularios complejos (Reactive Forms, FormArray), Directivas, Guards e Interceptores. Soporte backend con Spring Boot y Java 8 Streams. 
+
+Proyectos Técnicos Avanzados (No Formales) 
+
+V. Filosofía y Habilidades Senior (Arte, Ciencia y Resiliencia) 
+
+Su experiencia de vida ha culminado en una filosofía profesional que integra lo técnico con lo humano, enfocada en la excelencia y la colaboración: 
+
+Portafolio V1 - SSR (2021): Un sistema de Server-Side Rendering para React construido desde cero (sin Next.js), que incluía renderizado universal, un router universal, gestión de getInitialData por ruta y un sistema de cacheo inteligente con node-cache (TTL de 30 minutos) para optimizar el rendimiento y SEO. Angular Nested Forms Service: Un servicio robusto desarrollado en Angular 13 para la gestión centralizada de formularios anidados distribuidos en múltiples componentes, simplificando la sincronización y validación global en aplicaciones empresariales complejas. Microfrontends con Vite y Redux: Demostración de arquitectura escalable con React 18, Vite Module Federation y Redux para la sincronización global de estado e idioma (i18next) entre el host y los microfrontends. 
+
+La Programación como Arte y Ciencia: Considera la programación 
+
+ "solución correcta" sobre la solución rápida. Buenas Prácticas y Arquitectura: Es un defensor de la escritura de código limpio y aplica rigurosamente principios de diseño como SOLID y Clean Code, y patrones de arquitectura como la Arquitectura Hexagonal, procurando evitar los anti-patrones STUPID. Ciberseguridad: Posee una base sólida como Jr CyberSecurity, habiendo obtenido la certificación Ethical Hacking Profesional (60 horas académicas, 2022) y completado estudios en OWASP Top 10 API+ (2022). Esta especialización le permite integrar la seguridad desde el diseño en sus desarrollos. Habilidades Blandas: Su experiencia con la adversidad (trabajo manual, asalto, fracaso empresarial) lo llevó a estudiar intensamente sobre Resiliencia, Inteligencia Emocional y Liderazgo (citando a figuras como Mary Parker Follett y analizando el Síndrome de Procusto), buscando activamente crear entornos de trabajo colaborativos, transparentes y libres de fricciones.

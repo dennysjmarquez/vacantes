@@ -1,0 +1,1636 @@
+### FUENTE: N8N.artis.txt
+
+### TIPO: pasted_text | URL: N/A | CARACTERES: 20389 ###
+### KEYWORDS: n8n workflow automation, RAG system implementation, AI agent orchestration, Vector database integration, System integrity governance ###
+
+Resumen: This configuration file details a sophisticated **n8n automation workflow** designed to manage a multi-layered **AI agent ecosystem** with integrated document processing. The architecture utilizes a **Retrieval-Augmented Generation (RAG)** framework, allowing users to upload PDF files into a **vector database** while enforcing strict **governance and integrity protocols** through custom JavaScript logic. By orchestrating multiple **Groq-powered language models** and specialized "cerebro" webhooks, the system ensures that AI responses remain secure, context-aware, and bound to specific **operational axioms**. Ultimately, the workflow serves as a robust engine for **intelligent data retrieval**, balancing complex technical execution with high-level administrative oversight.
+
+------
+
+{
+
+"name": "Primer flujo completo de 'cerebros' que se invocan vía código copy - TEST perfecto",
+
+"nodes": [
+
+{
+
+"parameters": {
+
+"formTitle": "Upload your data to test RAG",
+
+"formFields": {
+
+"values": [
+
+{
+
+"fieldLabel": "Upload your file(s)",
+
+"fieldType": "file",
+
+"acceptFileTypes": ".pdf",
+
+"requiredField": true
+
+}
+
+]
+
+},
+
+"options": {}
+
+},
+
+"type": "n8n-nodes-base.formTrigger",
+
+"typeVersion": 2.2,
+
+"position": [
+
+384,
+
+512
+
+],
+
+"id": "0f93cfb8-cf1f-4325-8184-8d0aa609ef6e",
+
+"name": "Upload your file here",
+
+"webhookId": "56f74beb-0777-4bd1-967d-417c672c9934",
+
+"retryOnFail": false,
+
+"executeOnce": false,
+
+"alwaysOutputData": false
+
+},
+
+{
+
+"parameters": {
+
+"content": "### 📚 Load Data Flow",
+
+"height": 700,
+
+"width": 1340,
+
+"color": 7
+
+},
+
+"type": "n8n-nodes-base.stickyNote",
+
+"position": [
+
+-736,
+
+448
+
+],
+
+"typeVersion": 1,
+
+"id": "7ed03bbd-2287-47dc-a125-a3326ca6c33c",
+
+"name": "Sticky Note1"
+
+},
+
+{
+
+"parameters": {
+
+"options": {
+
+"systemMessage": "Responder siempre en español y decir a lo ultimo soy el AI Agent 1\n\n"
+
+}
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.agent",
+
+"typeVersion": 2,
+
+"position": [
+
+-288,
+
+80
+
+],
+
+"id": "9ebe8f3f-dcdb-4230-8fd9-3d95f623f623",
+
+"name": "AI Agent",
+
+"notesInFlow": false,
+
+"executeOnce": false,
+
+"alwaysOutputData": false,
+
+"onError": "continueErrorOutput"
+
+},
+
+{
+
+"parameters": {
+
+"options": {}
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.chatTrigger",
+
+"typeVersion": 1.1,
+
+"position": [
+
+-1488,
+
+80
+
+],
+
+"id": "5d15cf8a-a435-4ad5-a845-9b5ab70adac4",
+
+"name": "When chat message received",
+
+"webhookId": "536dc37f-fe46-47c0-9a4e-75aae75e0f39",
+
+"retryOnFail": false
+
+},
+
+{
+
+"parameters": {
+
+"model": "llama-3.3-70b-versatile",
+
+"options": {
+
+"temperature": 0.7
+
+}
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.lmChatGroq",
+
+"typeVersion": 1,
+
+"position": [
+
+-464,
+
+192
+
+],
+
+"id": "0d296e9d-eda9-4525-8fd0-277318b99875",
+
+"name": "Groq Chat Model",
+
+"credentials": {
+
+"groqApi": {
+
+"id": "Z7SlpAO0OOXy4bWb",
+
+"name": "Groq account"
+
+}
+
+}
+
+},
+
+{
+
+"parameters": {
+
+"jsCode": "// ============================================\n// SESSION_3: GOVERNANCE & OPERATIONAL_LOGIC\n// ============================================\n// ZERO_INTERPRETATION: No inferir, no adivinar, no asumir\n// RAG Hierarchy: PRIMARY_EVIDENCE_SET\n\nconst data = $input.first().json;\nconst chatInput = data.sanitizedInput || data.originalInput || '';\n\n// ========== ZERO_INTERPRETATION ACTIVA ==========\n// Si el input no es explícito, se debe pedir clarificación\n\nlet zeroInterpretationActive = true;\nlet missingExplicitElements = [];\n\n// Detectar falta de sujeto explícito\nconst hasExplicitSubject = /(dennys|márquez|proyecto|stack|tecnología|angular|react|vue|node|python|java|microfrontend|hexagonal|api)/i.test(chatInput);\n\nif (!hasExplicitSubject && chatInput.length > 5 && data.attackType !== 'AMBIGUITY') {\n missingExplicitElements.push('SUJETO_CONCRETO');\n}\n\n// Detectar falta de contexto\nconst hasContext = /(en|para|sobre|de|con|usando|mediante)/i.test(chatInput) && chatInput.length > 15;\n\nif (!hasContext && chatInput.length > 5) {\n missingExplicitElements.push('CONTEXTO_SUFICIENTE');\n}\n\n// Si falta algún elemento explícito y no es una situación de veto\nlet needsClarification = missingExplicitElements.length > 0 && data.suspicionFlag !== 1 && data.attackType !== 'AMBIGUITY';\n\n// ========== GOV_ROLE_INTEGRITY_PROTOCOL ==========\n// STRICT_FRAME_LOCK: No desbordar el rol\nlet roleIntegrityPass = true;\n\n// Verificar que no se piden tareas fuera de rol\nconst outOfRoleTasks = [\n /enséñame/i, /tutoría/i, /curso/i, /clase/i, /lección/i,\n /recomendación personal/i, /qué debería hacer/i, /consejo personal/i\n];\n\nfor (const pattern of outOfRoleTasks) {\n if (pattern.test(chatInput)) {\n roleIntegrityPass = false;\n break;\n }\n}\n\n// ========== GOV_DETAILS_MAXIMUM_STACK ==========\n// Si el usuario pide \"toda la información técnica\", se habilita modo detalle\nconst wantsFullDetails = /(toda la información|detalles completos|detalles exhaustivos|full details|complete info)/i.test(chatInput);\n\n// ========== GOV_EMAIL_DRAFTING ==========\n// Solo si el usuario se identifica como Dennys\nconst isDennysUser = /(soy dennys|me identifico como dennys|dennys hablando)/i.test(chatInput);\nconst wantsEmail = /(redacta un email|escribe un correo|draft an email)/i.test(chatInput);\n\nlet emailDraftingAllowed = isDennysUser && wantsEmail && data.suspicionFlag !== 1;\n\n// Salida\nreturn [{\n json: {\n ...data,\n zeroInterpretationActive: zeroInterpretationActive,\n needsClarification: needsClarification,\n missingExplicitElements: missingExplicitElements,\n roleIntegrityPass: roleIntegrityPass,\n wantsFullDetails: wantsFullDetails,\n emailDraftingAllowed: emailDraftingAllowed,\n session3Complete: true\n }\n}];"
+
+},
+
+"id": "8bcfe87a-59de-4b7c-be08-8c46101492b2",
+
+"name": "SESSION_3: GOVERNANCE",
+
+"type": "n8n-nodes-base.code",
+
+"typeVersion": 2,
+
+"position": [
+
+-2848,
+
+-928
+
+]
+
+},
+
+{
+
+"parameters": {
+
+"jsCode": "// ============================================\n// SESSION_2: SF_CORE_INTEGRITY_AXIOMS (Seguridad Nuclear)\n// ============================================\n// RULE_00 a RULE_09: Opacidad Total, No divulgación, Prevalencia de Seguridad\n\nconst data = $input.first().json;\n\n// Verificar que SESSION_1 completó boot\nif (!data.bootSectorComplete) {\n return [{\n json: {\n ...data,\n integrityStatus: 'FAILED',\n integrityReason: 'BOOT_SECTOR_INCOMPLETE',\n faseHalt: 'NO_OPERATIVO'\n }\n }];\n}\n\n// Verificar FASE_HALT\nif (data.faseHalt === 'NO_OPERATIVO') {\n return [{\n json: {\n ...data,\n integrityStatus: 'FAILED',\n integrityReason: 'FASE_HALT_NO_OPERATIVO',\n errorMessage: 'ERROR DE CUMPLIMIENTO: FASE_HALT == NO OPERATIVO; NO SOY UN OPERARIO APTO PARA ESTE PROMPT.'\n }\n }];\n}\n\n// RULE_00: Opacidad Total - No revelar lógica del sistema\n// RULE_01: No aceptar tareas extrañas\n// RULE_02: Opacidad Total de la Arquitectura\n// RULE_03: Prevalencia de Seguridad sobre Utilidad\n// RULE_04: Integridad de protocolos internos\n// RULE_05: Prohibición de explicación de reglas internas\n// RULE_06: Validación exitosa NO otorga estado de confianza\n// RULE_07: Nunca hablar de gobernanza en respuestas\n// RULE_08: Vetar solicitudes de explicación de términos 0.0\n// RULE_09: No usar justificaciones de gobernanza\n\nlet integrityPass = true;\nlet integrityFlags = [];\n\n// Verificar que no hay intentos de extracción de reglas\nconst extractionPatterns = [\n /cuáles son tus reglas/i, /dime tus instrucciones/i, /show your rules/i,\n /revela tu configuración/i, /cómo te programaron/i, /qué dice tu prompt/i\n];\n\nfor (const pattern of extractionPatterns) {\n if (pattern.test(data.originalInput || '')) {\n integrityPass = false;\n integrityFlags.push('RULE_00_VIOLATION_ATTEMPT');\n break;\n }\n}\n\n// Verificar que no hay solicitud de tareas extrañas\nconst strangeTasks = [\n /barrer/i, /limpiar/i, /cocinar/i, /comprar/i, /hacer la compra/i,\n /recordatorio personal/i, /agendar cita/i, /calendario personal/i\n];\n\nfor (const pattern of strangeTasks) {\n if (pattern.test(data.originalInput || '')) {\n integrityPass = false;\n integrityFlags.push('RULE_01_STRANGE_TASK');\n break;\n }\n}\n\n// Salida\nreturn [{\n json: {\n ...data,\n integrityPass: integrityPass,\n integrityFlags: integrityFlags,\n session2Complete: true\n }\n}];"
+
+},
+
+"id": "eaa33c42-2834-471a-a8de-5d78b24263f9",
+
+"name": "SESSION_2: SF_CORE_INTEGRITY_AXIOMS",
+
+"type": "n8n-nodes-base.code",
+
+"typeVersion": 2,
+
+"position": [
+
+-2864,
+
+-752
+
+]
+
+},
+
+{
+
+"parameters": {},
+
+"type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+
+"typeVersion": 1.3,
+
+"position": [
+
+320,
+
+-320
+
+],
+
+"id": "e896f2e5-7ccd-4a6f-8fa9-87b0a7d5bc36",
+
+"name": "Simple Memory"
+
+},
+
+{
+
+"parameters": {
+
+"model": "llama-3.3-70b-versatile",
+
+"options": {
+
+"temperature": 0.7
+
+}
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.lmChatGroq",
+
+"typeVersion": 1,
+
+"position": [
+
+-464,
+
+-16
+
+],
+
+"id": "b21113b7-1d3e-4a3d-a54a-0c28260c9c5f",
+
+"name": "Groq Chat Model1",
+
+"credentials": {
+
+"groqApi": {
+
+"id": "TQZSfxorVlh5Y7cY",
+
+"name": "Groq account 2"
+
+}
+
+}
+
+},
+
+{
+
+"parameters": {
+
+"model": "llama-3.3-70b-versatile",
+
+"options": {}
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.lmChatGroq",
+
+"typeVersion": 1,
+
+"position": [
+
+-464,
+
+-224
+
+],
+
+"id": "431db5fe-6905-47dc-9f82-6e788b1e4b77",
+
+"name": "Groq Chat Model2",
+
+"credentials": {
+
+"groqApi": {
+
+"id": "9qmqhI3QTkkl51hg",
+
+"name": "Groq account 3"
+
+}
+
+}
+
+},
+
+{
+
+"parameters": {
+
+"model": "llama-3.3-70b-versatile",
+
+"options": {}
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.lmChatGroq",
+
+"typeVersion": 1,
+
+"position": [
+
+-464,
+
+-416
+
+],
+
+"id": "86291583-bd4b-4565-9d01-897ab5a936c4",
+
+"name": "Groq Chat Model3",
+
+"credentials": {
+
+"groqApi": {
+
+"id": "mPxZkztznhMAq6BK",
+
+"name": "Groq account 4"
+
+}
+
+}
+
+},
+
+{
+
+"parameters": {
+
+"options": {
+
+"systemMessage": "Responder siempre en español y decir a lo ultimo soy el AI Agent 2"
+
+}
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.agent",
+
+"typeVersion": 2,
+
+"position": [
+
+-272,
+
+-128
+
+],
+
+"id": "039572dc-5fc6-4f72-b7d2-075cdf06758b",
+
+"name": "AI Agent1",
+
+"notesInFlow": false,
+
+"executeOnce": false,
+
+"alwaysOutputData": false,
+
+"onError": "continueErrorOutput"
+
+},
+
+{
+
+"parameters": {
+
+"content": "### 🐕 2. Retriever Flow",
+
+"height": 972,
+
+"width": 1112,
+
+"color": 7
+
+},
+
+"type": "n8n-nodes-base.stickyNote",
+
+"position": [
+
+-576,
+
+-576
+
+],
+
+"typeVersion": 1,
+
+"id": "7b47b53a-9d6b-462b-a990-b5525c94ac32",
+
+"name": "Sticky Note2"
+
+},
+
+{
+
+"parameters": {
+
+"options": {
+
+"systemMessage": "Responder siempre en español y decir a lo ultimo soy el AI Agent 3"
+
+}
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.agent",
+
+"typeVersion": 2,
+
+"position": [
+
+-288,
+
+-336
+
+],
+
+"id": "051c3a59-1280-4594-8230-9cdefd47296e",
+
+"name": "AI Agent2",
+
+"notesInFlow": false,
+
+"executeOnce": false,
+
+"alwaysOutputData": false,
+
+"onError": "continueErrorOutput"
+
+},
+
+{
+
+"parameters": {
+
+"options": {
+
+"systemMessage": "Responder siempre en español y decir a lo ultimo soy el AI Agent 4"
+
+}
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.agent",
+
+"typeVersion": 2,
+
+"position": [
+
+-272,
+
+-528
+
+],
+
+"id": "0961a9f7-5b30-47f4-95d4-d083e7207f15",
+
+"name": "AI Agent3",
+
+"notesInFlow": false,
+
+"executeOnce": false,
+
+"alwaysOutputData": false,
+
+"onError": "continueErrorOutput"
+
+},
+
+{
+
+"parameters": {
+
+"jsCode": "// Orquestar llamada al cerebro y procesar respuesta\nconst chatInput = $input.first().json.chatInput || '';\nconst sessionId = $input.first().json.sessionId || 'default';\n\n\n// Preparar datos para enviar al cerebro\nconst dataToSend = {\n chatInput: chatInput,\n sessionId: sessionId\n};\n\n// Llamar al webhook del cerebro usando helpers.httpRequest\nconst webhookUrl = 'https://committee-truck-graham-tribe.trycloudflare.com/webhook/c1f17ab6-265f-4f06-9218-80f02c2ce36b';\n\ntry {\n const response = await helpers.httpRequest({\n method: 'POST',\n url: webhookUrl,\n body: dataToSend\n });\n \n // Retornar la respuesta del cerebro\n return {\n json: {\n cerebroResponse: response,\n originalInput: chatInput,\n success: true\n }\n };\n} catch (error) {\n // Manejar errores\n return {\n json: {\n error: error.message,\n originalInput: chatInput,\n success: false\n }\n };\n}"
+
+},
+
+"type": "n8n-nodes-base.code",
+
+"typeVersion": 2,
+
+"position": [
+
+-1296,
+
+-64
+
+],
+
+"id": "dff744fc-e2fe-4257-adeb-50c284f9dcc1",
+
+"name": "Code in JavaScript"
+
+},
+
+{
+
+"parameters": {
+
+"httpMethod": "POST",
+
+"path": "c1f17ab6-265f-4f06-9218-80f02c2ce36b",
+
+"responseMode": "lastNode",
+
+"options": {}
+
+},
+
+"id": "53296509-42ed-489e-8e96-6744b1477b64",
+
+"name": "Cerebro Webhook",
+
+"type": "n8n-nodes-base.webhook",
+
+"typeVersion": 2.1,
+
+"position": [
+
+-960,
+
+-80
+
+],
+
+"webhookId": "c1f17ab6-265f-4f06-9218-80f02c2ce36b"
+
+},
+
+{
+
+"parameters": {
+
+"mode": "raw",
+
+"jsonOutput": "={\n \"action\": \"sendMessage\",\n \"chatInput\": \"{{ $json.chatInput ?? $json.body.chatInput }}\",\n \"sessionId\": \"{{ $json.sessionId ?? $json.body.sessionId ?? 'dennys-default-session' }}\"\n}",
+
+"includeOtherFields": true,
+
+"options": {}
+
+},
+
+"type": "n8n-nodes-base.set",
+
+"typeVersion": 3.4,
+
+"position": [
+
+-784,
+
+256
+
+],
+
+"id": "3d22fdea-7920-4e51-b8ff-a69b68b7c775",
+
+"name": "Edit Fields"
+
+},
+
+{
+
+"parameters": {
+
+"modelName": "rerank-multilingual-v3.0"
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.rerankerCohere",
+
+"typeVersion": 1,
+
+"position": [
+
+352,
+
+240
+
+],
+
+"id": "f6121435-874c-478d-b453-230b459bf219",
+
+"name": "Reranker Cohere",
+
+"credentials": {
+
+"cohereApi": {
+
+"id": "cTrQBEqofsnfMjtS",
+
+"name": "Cohere account"
+
+}
+
+}
+
+},
+
+{
+
+"parameters": {
+
+"mode": "retrieve-as-tool",
+
+"toolDescription": "Utilice esta base de conocimientos para responder a las preguntas del usuario.",
+
+"tableName": "artis_embeddings",
+
+"useReranker": true,
+
+"options": {}
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.vectorStorePGVector",
+
+"typeVersion": 1.3,
+
+"position": [
+
+224,
+
+80
+
+],
+
+"id": "c8dd8b80-0864-4c6b-89c7-7050641551c8",
+
+"name": "Postgres PGVector Store",
+
+"credentials": {
+
+"postgres": {
+
+"id": "xUfCGzXjWjBN9Kd4",
+
+"name": "Postgres account"
+
+}
+
+}
+
+},
+
+{
+
+"parameters": {
+
+"mode": "insert",
+
+"tableName": "artis_embeddings",
+
+"embeddingBatchSize": 1,
+
+"options": {}
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.vectorStorePGVector",
+
+"typeVersion": 1.3,
+
+"position": [
+
+240,
+
+736
+
+],
+
+"id": "b96f5518-a9c0-441a-8157-5fc5dee5542e",
+
+"name": "Postgres PGVector Store1",
+
+"notesInFlow": false,
+
+"credentials": {
+
+"postgres": {
+
+"id": "xUfCGzXjWjBN9Kd4",
+
+"name": "Postgres account"
+
+}
+
+}
+
+},
+
+{
+
+"parameters": {
+
+"amount": 3
+
+},
+
+"type": "n8n-nodes-base.wait",
+
+"typeVersion": 1.1,
+
+"position": [
+
+-32,
+
+736
+
+],
+
+"id": "32f2c189-4768-454c-8c95-84522911ad70",
+
+"name": "Wait",
+
+"webhookId": "a6261867-a14c-4acd-b539-c22887c157a8"
+
+},
+
+{
+
+"parameters": {
+
+"jsCode": "const binaryData = $input.last().binary;\nconst dataJson = $input.last().json;\nconst filesMetadata = dataJson['Upload your file(s)']; \nconst output = [];\n\nObject.keys(binaryData).forEach((key, index) => {\n output.push({\n json: { \n ...filesMetadata[index], \n originalKey: key \n },\n binary: { \n data: binaryData[key] \n } \n });\n});\n\nreturn output;"
+
+},
+
+"type": "n8n-nodes-base.code",
+
+"typeVersion": 2,
+
+"position": [
+
+176,
+
+496
+
+],
+
+"id": "75b52ddf-dcae-448f-a5b6-f37371639cea",
+
+"name": "Code in JavaScript2"
+
+},
+
+{
+
+"parameters": {
+
+"dataType": "binary",
+
+"options": {}
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.documentDefaultDataLoader",
+
+"typeVersion": 1.1,
+
+"position": [
+
+384,
+
+960
+
+],
+
+"id": "98cb9a96-b76b-4b47-993e-d397f929ab56",
+
+"name": "Default Data Loader",
+
+"retryOnFail": true,
+
+"alwaysOutputData": false
+
+},
+
+{
+
+"parameters": {
+
+"modelName": "sentence-transformers/all-MiniLM-L6-v2",
+
+"options": {}
+
+},
+
+"type": "@n8n/n8n-nodes-langchain.embeddingsHuggingFaceInference",
+
+"typeVersion": 1,
+
+"position": [
+
+240,
+
+960
+
+],
+
+"id": "9ed31ec5-ed26-41e6-b311-d3c56a4c7f14",
+
+"name": "Embeddings HuggingFace Inference",
+
+"credentials": {
+
+"huggingFaceApi": {
+
+"id": "6aUJBiejA97XijXG",
+
+"name": "Hugging Face account 2"
+
+}
+
+}
+
+},
+
+{
+
+"parameters": {
+
+"operation": "executeQuery",
+
+"query": "DELETE FROM artis_embeddings WHERE \"metadata\"->'pdf'->'info'->>'Title' LIKE '%' || '{{ $json.filename.split(\".\")[0] }}' || '%'\n\n\n \n ",
+
+"options": {}
+
+},
+
+"type": "n8n-nodes-base.postgres",
+
+"typeVersion": 2.6,
+
+"position": [
+
+-432,
+
+480
+
+],
+
+"id": "e1dfb125-24eb-424f-9831-cdbd20697fca",
+
+"name": "Execute a SQL query",
+
+"alwaysOutputData": false,
+
+"executeOnce": false,
+
+"credentials": {
+
+"postgres": {
+
+"id": "xUfCGzXjWjBN9Kd4",
+
+"name": "Postgres account"
+
+}
+
+}
+
+},
+
+{
+
+"parameters": {
+
+"options": {
+
+"reset": false
+
+}
+
+},
+
+"type": "n8n-nodes-base.splitInBatches",
+
+"typeVersion": 3,
+
+"position": [
+
+-608,
+
+736
+
+],
+
+"id": "294612df-a370-4eb5-865a-0c0ba948702d",
+
+"name": "Loop Over Items"
+
+},
+
+{
+
+"parameters": {
+
+"mode": "chooseBranch",
+
+"useDataOfInput": 2
+
+},
+
+"type": "n8n-nodes-base.merge",
+
+"typeVersion": 3.2,
+
+"position": [
+
+-288,
+
+736
+
+],
+
+"id": "7c4d24f1-e57e-4896-ac95-db3fd482984a",
+
+"name": "Merge"
+
+}
+
+],
+
+"pinData": {},
+
+"connections": {
+
+"Upload your file here": {
+
+"main": [
+
+[
+
+{
+
+"node": "Code in JavaScript2",
+
+"type": "main",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"When chat message received": {
+
+"main": [
+
+[
+
+{
+
+"node": "AI Agent",
+
+"type": "main",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"Groq Chat Model": {
+
+"ai_languageModel": [
+
+[
+
+{
+
+"node": "AI Agent",
+
+"type": "ai_languageModel",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"SESSION_2: SF_CORE_INTEGRITY_AXIOMS": {
+
+"main": [
+
+[
+
+{
+
+"node": "SESSION_3: GOVERNANCE",
+
+"type": "main",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"SESSION_3: GOVERNANCE": {
+
+"main": [
+
+[]
+
+]
+
+},
+
+"Simple Memory": {
+
+"ai_memory": [
+
+[
+
+{
+
+"node": "AI Agent",
+
+"type": "ai_memory",
+
+"index": 0
+
+},
+
+{
+
+"node": "AI Agent1",
+
+"type": "ai_memory",
+
+"index": 0
+
+},
+
+{
+
+"node": "AI Agent2",
+
+"type": "ai_memory",
+
+"index": 0
+
+},
+
+{
+
+"node": "AI Agent3",
+
+"type": "ai_memory",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"Groq Chat Model1": {
+
+"ai_languageModel": [
+
+[
+
+{
+
+"node": "AI Agent1",
+
+"type": "ai_languageModel",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"Groq Chat Model2": {
+
+"ai_languageModel": [
+
+[
+
+{
+
+"node": "AI Agent2",
+
+"type": "ai_languageModel",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"Groq Chat Model3": {
+
+"ai_languageModel": [
+
+[
+
+{
+
+"node": "AI Agent3",
+
+"type": "ai_languageModel",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"AI Agent": {
+
+"main": [
+
+[],
+
+[
+
+{
+
+"node": "AI Agent1",
+
+"type": "main",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"AI Agent1": {
+
+"main": [
+
+[],
+
+[
+
+{
+
+"node": "AI Agent2",
+
+"type": "main",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"AI Agent2": {
+
+"main": [
+
+[],
+
+[
+
+{
+
+"node": "AI Agent3",
+
+"type": "main",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"Cerebro Webhook": {
+
+"main": [
+
+[]
+
+]
+
+},
+
+"Code in JavaScript": {
+
+"main": [
+
+[]
+
+]
+
+},
+
+"Edit Fields": {
+
+"main": [
+
+[]
+
+]
+
+},
+
+"Reranker Cohere": {
+
+"ai_reranker": [
+
+[
+
+{
+
+"node": "Postgres PGVector Store",
+
+"type": "ai_reranker",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"Postgres PGVector Store": {
+
+"ai_tool": [
+
+[
+
+{
+
+"node": "AI Agent3",
+
+"type": "ai_tool",
+
+"index": 0
+
+},
+
+{
+
+"node": "AI Agent2",
+
+"type": "ai_tool",
+
+"index": 0
+
+},
+
+{
+
+"node": "AI Agent1",
+
+"type": "ai_tool",
+
+"index": 0
+
+},
+
+{
+
+"node": "AI Agent",
+
+"type": "ai_tool",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"Wait": {
+
+"main": [
+
+[
+
+{
+
+"node": "Postgres PGVector Store1",
+
+"type": "main",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"Postgres PGVector Store1": {
+
+"main": [
+
+[
+
+{
+
+"node": "Loop Over Items",
+
+"type": "main",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"Code in JavaScript2": {
+
+"main": [
+
+[
+
+{
+
+"node": "Loop Over Items",
+
+"type": "main",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"Default Data Loader": {
+
+"ai_document": [
+
+[
+
+{
+
+"node": "Postgres PGVector Store1",
+
+"type": "ai_document",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"Embeddings HuggingFace Inference": {
+
+"ai_embedding": [
+
+[
+
+{
+
+"node": "Postgres PGVector Store1",
+
+"type": "ai_embedding",
+
+"index": 0
+
+},
+
+{
+
+"node": "Postgres PGVector Store",
+
+"type": "ai_embedding",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"Execute a SQL query": {
+
+"main": [
+
+[
+
+{
+
+"node": "Merge",
+
+"type": "main",
+
+"index": 0
+
+}
+
+]
+
+]
+
+},
+
+"Loop Over Items": {
+
+"main": [
+
+[],
+
+[
+
+{
+
+"node": "Execute a SQL query",
+
+"type": "main",
+
+"index": 0
+
+},
+
+{
+
+"node": "Merge",
+
+"type": "main",
+
+"index": 1
+
+}
+
+]
+
+]
+
+},
+
+"Merge": {
+
+"main": [
+
+[
+
+{
+
+"node": "Wait",
+
+"type": "main",
+
+"index": 0
+
+}
+
+]
+
+]
+
+}
+
+},
+
+"active": true,
+
+"settings": {
+
+"executionOrder": "v1",
+
+"binaryMode": "separate",
+
+"availableInMCP": false
+
+},
+
+"versionId": "dd32ebed-5e30-4dd3-ab90-c03f6c6cd284",
+
+"meta": {
+
+"templateCredsSetupCompleted": true,
+
+"instanceId": "14e565597acaae748ca31ed730583c67678369a527af219c0f8d13205cc88f8c"
+
+},
+
+"id": "WyverbvS5lFqGZRB",
+
+"tags": []
+
+}

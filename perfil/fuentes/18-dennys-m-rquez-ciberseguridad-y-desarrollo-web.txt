@@ -1,0 +1,38 @@
+### FUENTE: Dennys Márquez: Ciberseguridad y Desarrollo Web con OWASP
+
+### TIPO: pasted_text | URL: N/A | CARACTERES: 2512 ###
+### KEYWORDS: Web Application Security, OWASP Standards, Ethical Hacking, API Security, Fullstack Web Development ###
+
+Resumen: This text profiles the professional trajectory of Dennys Márquez, highlighting how he bridges the gap between **senior web development** and emerging expertise in **cybersecurity**. While his primary mastery lies in building robust applications with JavaScript and React, he has strategically integrated **OWASP standards** and ethical hacking principles into his technical repertoire to bolster API and data protection. By documenting his certifications and active community participation, the source illustrates a **multidisciplinary approach** where security is not an afterthought, but a fundamental layer of the modern development lifecycle. Ultimately, the document serves as a roadmap of his transition into a **hybrid role**, showcasing a commitment to continuous learning and the implementation of defensive programming practices.
+
+------
+
+Dennys José Márquez Reyes tiene conocimientos y experiencia en CyberSecurity y Ethical Hacking, especialmente relacionados con OWASP (Open Web Application Security Project), aunque su rol en esta área es más de nivel junior o de formación complementaria dentro de su perfil de desarrollador web senior.
+
+Según su perfil profesional y sus certificaciones:
+
+- Ha estudiado y certificado conocimientos en OWASP Top 10 API+ y seguridad en APIs, con cursos específicos realizados en octubre de 2022, lo que evidencia una base formal en seguridad de aplicaciones web y APIs RESTful[3].
+
+- Se identifica como Jr CyberSecurity con enfoque en OWASP y Ethical Hacking, lo que indica que está en proceso de profundizar y consolidar habilidades en ciberseguridad aplicada al desarrollo web[5].
+
+- Ha publicado contenido y participado en comunidades técnicas donde aborda temas de seguridad web, mostrando interés activo en la divulgación y aprendizaje continuo en esta área[4][6].
+
+- Su experiencia principal sigue siendo el desarrollo frontend y backend con JavaScript, React, Node.js y Angular, pero integra prácticas de seguridad recomendadas por OWASP para proteger aplicaciones, como manejo de autenticación, validación de entradas y protección contra ataques comunes (CSRF, inyección, etc.)[5][6].
+
+En resumen, Dennys cuenta con aproximadamente 1 a 2 años de experiencia formal y formación activa en CyberSecurity y Ethical Hacking, con especial énfasis en los estándares OWASP, complementando su perfil de desarrollador web con una sólida base en seguridad de aplicaciones. Esto le permite aplicar buenas prácticas de seguridad en sus desarrollos y continuar avanzando hacia roles más especializados en ciberseguridad.
+
+[1] https://es.slideshare.net/DennysJosMrquezReyes
+
+[2] https://es.linkedin.com/posts/dennysjmarquez_innovaci%C3%B3ntecnol%C3%B3gica-frontendsenior-remotework-activity-7316571147033063425-AoA7
+
+[3] https://dennysjmarquez.github.io/portfolio/CV-Dennys-Jose-Marquez-Reyes-Desarrollador-web.pdf
+
+[4] https://dev.to/dennysjmarquez/lean-startup-y-mvps-soluciones-agiles-para-el-desarrollo-de-software-2gb2
+
+[5] https://ve.linkedin.com/in/dennysjmarquez
+
+[6] https://dennysjmarquez.dev
+
+[7] https://es.slideshare.net/slideshow/cv-dennys-jose-marquez-reyes-desarrollador-web/275598154
+
+[8] https://dev.to/dennysjmarquez/colaboracion-efectiva-frontendbackend-flujo-de-trabajo-adecuado-y-responsabilidades-en-el-desarrollo-de-aplicaciones-web-3aeo

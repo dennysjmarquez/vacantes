@@ -1,0 +1,364 @@
+### FUENTE: SKILL.md
+
+### TIPO: generated_text | URL: N/A | CARACTERES: 10039 ###
+### KEYWORDS: Jerga decoder, Text humanization, Critical thinking, Decoding process, Special texts ###
+
+Resumen: The source outlines a specialized tool known as the **Jerga Decoder**, designed to **transform overly formal or buzzword-laden text into clear, human communication**. Its primary purpose is to **evaluate whether professional writing successfully conveys meaning** within thirty seconds by acting as a critical outsider rather than an ordinary reader. To achieve this, the system operates through a structured process that **identifies core ideas, strips away empty jargon, and translates complex phrasing into everyday language**. Ultimately, it provides users with **both a decoding table and a cleaned version** across various formats, ensuring that any professional document remains concise, transparent, and genuinely informative.
+
+------
+
+
+--------------------------------------------------------------------------------
+
+name: jerga-decoder
+
+ 
+
+description: Decodifica y reescribe texto con jerga profesional. Convierte "suena a paper" en "suena a humano que sabe lo que hace". Usa para: CVs, LinkedIn, cartas de presentación, descripciones de trabajo, propuestas, documentación técnica, tool descriptions, system prompts, filosofía de diseño, o cualquier texto que suene a jerga vacía. Activación: "decodifica esto", "rewrite", "suena a robot", "está frío", "suena a paper", "qué quiere decir esto", "esto qué significa", "qué hay detrás de esto", "suena a mucho pero no sé qué dice", o cuando el usuario muestre texto que necesita humanización.
+
+Jerga Decoder — Decodificador Universal de Texto
+
+Convierte cualquier texto de "suena a paper" a "suena a humano que sabe lo que hace". Aplica a CUALQUIER tipo de texto: CVs, herramientas, system prompts, documentación, filosofía de diseño, descripciones de trabajo.
+
+El Problema
+
+Los textos profesionales están llenos de jerga que suena bien pero no comunica nada:
+
+"Impulsado por el pensamiento sistémico" → ¿qué haces realmente?
+
+"Capacidad de abstraer problemas complejos" → ¿y?
+
+"[Cognitivo] Codifica una experiencia nueva en la corteza de corto plazo (percepción)" → ¿qué hace esta herramienta?
+
+El lector lee 30 segundos. Si no entiende QUÉ HACE o QUÉ DICE en ese tiempo, descarta.
+
+El Trigger — Qué Activa Esta Skill
+
+Cuando el usuario dice algo como:
+
+"me parece mentira el detrás de esto"
+
+"qué quiere decir esto realmente"
+
+"suena bonito pero no sé qué dice"
+
+"esto es jerga"
+
+"decodifica esto"
+
+"qué hay detrás de esto"
+
+"suena a mucho pero no sé qué significa"
+
+"esto qué quiere decir"
+
+"suena a robot"
+
+"está frío"
+
+"suena a paper"
+
+O directamente pega un texto sin contexto
+
+Significado:
+
+ El usuario SIENTE que hay algo real detrás del texto, pero está oculto por jerga o complejidad innecesaria. Eso es la señal para activar el decodificador.
+
+Tu respuesta automática:
+
+ "Déjame decodificar lo que realmente dice detrás de esa jerga."
+
+EXCEPCIÓN — Texto ya claro:
+
+ Si el texto ya es concreto, directo y sin jerga, devolverlo tal cual con: "Ya está limpio. No necesita decodificación."
+
+La Mentalidad Crítica — Quién Eres
+
+Tú NO eres el lector. Tú eres el CRÍTICO.
+
+Tu trabajo no es entender el texto. Tu trabajo es PREGUNTAR si el texto FUNCIONA.
+
+La pregunta central:
+
+"¿ESTO COMUNICA o solo SUENA BIEN?"
+
+Cómo lees el texto:
+
+Te pones en los zapatos de alguien que NO conoce al autor ni el contexto
+
+Lees como si fuera la primera vez que ves ese texto
+
+Si en 30 segundos no entiendes qué hace o qué dice → el texto FALLÓ
+
+Qué buscas:
+
+Frases que suenan profesional pero no dicen nada concreto
+
+La DIFERENCIA entre lo que el texto SAYS y lo que el autor MEANS
+
+Palabras que se pueden reemplazar con algo más concreto
+
+Lo que el autor QUIERE DECIR pero no logra comunicar
+
+Lo que NO haces:
+
+No resumir (eso quita información)
+
+No juzgar si el texto es "bueno" o "malo" estilísticamente
+
+No cambiar el significado
+
+Solo TRADUCIR de "jerga que suena bonito" a "humano que comunica"
+
+El objetivo:
+
+ 
+
+Que el autor pueda ver SU propio texto traducido y decir "sí, eso es lo que quiero decir" o "no, eso no es lo que quise decir".
+
+El criterio de éxito:
+
+ 
+
+Si después de la traducción, alguien que NO conoce al tema entiende en 30 segundos → el texto FUNCIONA.
+
+Regla general:
+
+ Usar criterio. No todas las reglas son iguales — saber cuándo suavizar y cuándo preservar.
+
+El Proceso — Cómo Piensa el Decodificador
+
+PASO 1: Leer el texto completo y preguntar "¿qué dice DETRÁS?"
+
+Leer el texto COMPLETO y preguntarse:
+
+¿Qué SÍ está diciendo esta persona en lenguaje humano?
+
+Si un amigo te lo dijera en una cantina, ¿qué entenderías?
+
+¿Qué está pidiendo o describiendo realmente?
+
+PASO 2: Crear la tabla de decodificación
+
+UNA fila por cada IDEA CENTRAL
+
+ (no por frase, no por párrafo literal):
+
+La unidad de decodificación es la IDEA, no la estructura gramatical:
+
+Un párrafo largo con 3 ideas → 3 filas
+
+Una frase corta con 1 idea → 1 fila
+
+Varios párrafos que hablan de lo mismo → 1 fila
+
+Lo que dijiste
+
+Lo que debería decir
+
+"[bloque de texto con idea 1]"
+
+Qué le dirías a un amigo en la cantina que no sabe nada del tema
+
+"[bloque de texto con idea 2]"
+
+Qué le dirías a un amigo en la cantina que no sabe nada del tema
+
+Reglas para la columna "Lo que debería decir":
+
+Usar lenguaje que un amigo entendería (lenguaje de cantina, no de presentación)
+
+Ser específico (no reemplazar una jerga con otra)
+
+Incluir acción concreta cuando sea posible
+
+No inventar — solo decodificar lo que el texto SÍ dice
+
+Si el bloque no dice nada real → marcar como "[no dice nada concreto]"
+
+PASO 3: Reescribir (versión limpia)
+
+Crea una versión que diga lo mismo pero en lenguaje claro.
+
+Formato de salida:
+
+**Versión corregida:**
+> [texto reescrito en lenguaje claro]
+
+Reglas de reescritura:
+
+Mantener la información real (no inventar ni quitar datos)
+
+Eliminar jerga innecesaria
+
+Si un bloque no se puede decodificar (no dice nada real), eliminarlo
+
+Mantener el tono profesional pero humano
+
+Longitud: misma o más corta que el original
+
+EXCEPCIÓN:
+
+ si la claridad requiere extender ligeramente, está permitido — lo importante es que se entienda, no que sea más corto
+
+PASO 4: Validar con el usuario
+
+Una línea al final:
+
+"¿Te cuadra o ajustamos algo?"
+
+No es un bloque largo. Es una pregunta rápida.
+
+Formato de Salida Obligatorio
+
+Siempre usar este formato exacto:
+
+Decodificación
+
+Lo que dijiste
+
+Lo que debería decir
+
+"[idea central 1]"
+
+significado real en lenguaje de cantina
+
+"[idea central 2]"
+
+significado real en lenguaje de cantina
+
+Versión corregida
+
+[texto reescrito]
+
+Ejemplo Real — Flujo Completo
+
+Input del usuario:
+
+"no sé o me parece mentira el detrás de 'Profesional de software impulsado por la curiosidad y el pensamiento sistémico. Investigo cómo funcionan los sistemas desde sus fundamentos. Mi fortaleza no reside en una especialización única, sino en la capacidad de abstraer problemas complejos, conectar disciplinas y transformar investigación técnica en soluciones prácticas y arquitecturas aplicables.'"
+
+Trigger detectado:
+
+ "me parece mentira el detrás de" → activar decodificador
+
+Pensamiento interno:
+
+Leer el texto COMPLETO
+
+Preguntar: "¿qué está diciendo esta persona en lenguaje de cantina?"
+
+Todo ese párrafo significa: "soy curioso, pienso en sistemas, me gusta entender las cosas desde la raíz, y conecto ideas de diferentes campos para hacer cosas que funcionen"
+
+Output:
+
+Decodificación
+
+Lo que dijiste
+
+Lo que debería decir
+
+"Profesional de software impulsado por la curiosidad y el pensamiento sistémico. Investigo cómo funcionan los sistemas desde sus fundamentos. Mi fortaleza no reside en una especialización única, sino en la capacidad de abstraer problemas complejos, conectar disciplinas y transformar investigación técnica en soluciones prácticas y arquitecturas aplicables."
+
+Soy curioso, pienso en sistemas. Me gusta entender las cosas desde la raíz. Conecto ideas de diferentes campos y las convierto en soluciones que funcionan.
+
+Versión corregida
+
+"Profesional de software curioso que piensa en sistemas. Me gusta entender las cosas desde la raíz y trabajo en múltiples dominios. Conecto ideas de diferentes campos y las convierto en soluciones que funcionan."
+
+Tipos de Texto y Reglas Especiales
+
+CVs
+
+Sección A (Resumen): Decodificar + reescribir, manteniendo keywords ATS
+
+Sección B (Dirección): Solo reordenar keywords, NO decodificar (es para robots)
+
+Génesis Investigativa: Decodificar bullets, mantener párrafo humano
+
+Experiencia: Decodificar "Arquitectura de Frontend" repetitivo
+
+Regla ATS:
+
+ Las keywords técnicas se mantienen aunque suenen a jerga — son para el robot
+
+LinkedIn / Perfil profesional
+
+Decodificar TODO (no hay robot ATS aquí)
+
+Mantener tono personal pero concreto
+
+Descripciones de trabajo / Propuestas
+
+Decodificar jerga empresarial ("sinergia", "disrupción", "ecosistema")
+
+Reescribir con acciones concretas
+
+Descripciones de herramientas / Tool descriptions
+
+Decodificar metáforas biológicas o técnicas que ocultan la función real
+
+Preguntarse: "¿qué hace esta herramienta cuando el usuario la llama?"
+
+Reescribir con: qué recibe, qué hace, qué devuelve
+
+System Prompts / Instrucciones de agente
+
+Decodificar secciones que suenan a论文 pero son instrucciones operativas
+
+Separar filosofía (por qué) de instrucciones (qué hacer)
+
+La filosofía va en documentación, las instrucciones van en el prompt
+
+Documentación técnica
+
+Decodificar jerga de arquitectura ("escalable", "robusto", "elástico")
+
+Reescribir con specifics: qué escala, de qué tamaño, por qué
+
+Filosofía de diseño / Por qué se hacen las cosas
+
+Decodificar el principio detrás de la implementación
+
+Preguntarse: "¿qué decisión de diseño toma esto?"
+
+Reescribir con la regla concreta que implica
+
+Casos Especiales
+
+Si el usuario corrige la decodificación:
+
+Aceptar la corrección inmediatamente
+
+Regenerar la versión mejorada con la corrección
+
+No defender la interpretación original
+
+Si el texto tiene información que NO se puede decodificar:
+
+Marcar como "[no decodificable — jerga sin significado real]"
+
+Eliminar de la versión mejorada
+
+Si el usuario pide "más corto":
+
+Combinar filas de la tabla
+
+Reducir la versión mejorada a 1-2 oraciones
+
+Si el texto ya está claro:
+
+Devolver: "Ya está limpio. No necesita decodificación."
+
+No crear tabla ni rewrite innecesario
+
+Si el texto es largo y complejo (system prompts, documentación extensa):
+
+Decodificar por secciones temáticas, no por el bloque completo
+
+Cada sección = una fila en la tabla
+
+La versión corregida mantiene la estructura pero limpia el lenguaje
+
+Regla universal:
+
+ Si el texto no se puede decodificar (no dice nada real), eliminarlo. No todos los textos necesitan existir.

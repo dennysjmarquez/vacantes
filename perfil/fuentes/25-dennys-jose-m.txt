@@ -1,0 +1,960 @@
+### FUENTE: 🚀 𝗡𝘂𝗲𝘃𝗮 𝗣𝗹𝗮𝗻𝘁𝗶𝗹𝗹𝗮 𝗲𝗻 𝗚𝗶𝘁𝗛𝘂𝗯: 𝗡𝗲𝘅𝘁.𝗷𝘀 𝟭𝟰 𝗰𝗼𝗻 𝗦𝗦𝗥, 𝗥𝗲𝗱𝘂𝘅, 𝗠𝗮𝘁𝗲𝗿𝗶𝗮𝗹-𝗨𝗜 𝘆 𝗧𝗦𝗦-𝗥𝗲𝗮𝗰𝘁 🚀 | Dennys Jose M.
+
+### TIPO: web_page | URL: https://www.linkedin.com/posts/dennysjmarquez_github-dennysjmarqueznext-14-ssr-redux-material-ui-server-styles-tss-react-activity-7238521400657944577-z9JQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAABgac1AB_3TMIto4bBLwhD7hx_GsHISC--w | CARACTERES: 43737 ###
+### KEYWORDS: Next.js 14, React Hooks, Frontend Web Development, Server Side Rendering, State Management Redux ###
+
+Resumen: This source features a professional social media post by developer Dennys Jose M., who introduces a **GitHub starter template** designed to simplify the integration of **Next.js 14, Redux, and Material-UI**. The author addresses common technical hurdles regarding **server-side rendering (SSR)** and styling inconsistencies by incorporating **TSS-React** to ensure a seamless visual experience. Surrounding this primary announcement is a curated collection of **community-driven insights**, including discussions on React 19 updates, essential hooks, and various frontend project showcases. Collectively, the text serves as a **technical resource hub** aimed at helping developers optimize performance and modernize their web development workflows.
+
+------
+
+ Agree & Join LinkedIn 
+
+ By clicking Continue to join or sign in, you agree to LinkedIn’s 
+
+User Agreement
+
+https://www.linkedin.com/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+
+, 
+
+Privacy Policy
+
+https://www.linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+
+, and 
+
+Cookie Policy
+
+https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+
+. 
+
+ Skip to main content 
+
+https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+
+ Dennys Jose M.’s Post
+
+ Dennys Jose M. 
+
+https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+
+ Software Developer | Senior Front-End (JavaScript ES6, React, Next, Redux, Angular, Node) | CyberSecurity (Owasp Top 10) 
+
+ 9mo 
+
+ Report this post 
+
+https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+
+🚀 𝗡𝘂𝗲𝘃𝗮 𝗣𝗹𝗮𝗻𝘁𝗶𝗹𝗹𝗮 𝗲𝗻 𝗚𝗶𝘁𝗛𝘂𝗯: 𝗡𝗲𝘅𝘁.𝗷𝘀 𝟭𝟰 𝗰𝗼𝗻 𝗦𝗦𝗥, 𝗥𝗲𝗱𝘂𝘅, 𝗠𝗮𝘁𝗲𝗿𝗶𝗮𝗹-𝗨𝗜 𝘆 𝗧𝗦𝗦-𝗥𝗲𝗮𝗰𝘁 🚀 ¡Hola, filia, desarrolladores! ✅ Siempre enfrenté desafíos al integrar 
+
+Next.js
+
+http://Next.js?trk=public_post-text
+
+ con Redux y la renderización del lado del servidor (SSR) junto con Material-UI. Las versiones anteriores de 
+
+Next.js
+
+http://Next.js?trk=public_post-text
+
+ requerían configuraciones complicadas y soluciones temporales. ✅ Con la llegada de 𝗡𝗲𝘅𝘁.𝗷𝘀 𝟭𝟯 y 𝟭𝟰, decidí migrar mis proyectos anteriores y, en el proceso, crear una plantilla que facilitara esta integración para otros desarrolladores. Me encontré con que los métodos tradicionales de aplicar estilos de Material-UI ya no funcionaban, así que integré TSS-React, una librería que permite aplicar estilos de manera eficiente y que se integra perfectamente con Material-UI. ✅Hoy, me complace presentarles una nueva plantilla en GitHub diseñada para facilitar la configuración y desarrollo de aplicaciones 
+
+Next.js
+
+http://Next.js?trk=public_post-text
+
+. --- 🔗 Plantilla en GitHub: 
+
+https://lnkd.in/emgJn2iC
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FemgJn2iC&urlhash=-8IQ&trk=public_post-text
+
+ --- 𝗖𝗮𝗿𝗮𝗰𝘁𝗲𝗿í𝘀𝘁𝗶𝗰𝗮𝘀 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗮𝗹𝗲𝘀: ➡️ 𝗦𝗦𝗥: Mejora el SEO y el rendimiento al renderizar las páginas en el servidor. ➡️ 𝗥𝗲𝗱𝘂𝘅: Estado de la aplicación inicializado y cargado desde el servidor. ➡️ 𝗠𝗮𝘁𝗲𝗿𝗶𝗮𝗹-𝗨𝗜: Interfaz de usuario moderna y consistente. ➡️ 𝗧𝗦𝗦-𝗥𝗲𝗮𝗰𝘁: Estilos cargados desde el servidor para una experiencia de usuario fluida. Al cargar los estilos desde el servidor, se eliminan los saltos de estilo, proporcionando una experiencia de usuario más fluida y consistente. 𝗦𝗶 𝘁𝗲 𝗴𝘂𝘀𝘁𝗼 𝗰𝗼𝗺𝗽𝗮𝗿𝘁𝗲 👍 --- Tags: 
+
+#Nextjs
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#React
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#Redux
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#MaterialUI
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#TSSReact
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#OpenSource
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#WebDevelopment
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#JavaScript
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#Frontend
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#DeveloperTools
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#Programming
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#SoftwareEngineering
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#Code
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#TechCommunity
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#DevCommunity
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#GitHub
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#WebDesign
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#UIUX
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#Coding
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+#TechInnovation
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+ GitHub - dennysjmarquez/next-14-ssr-redux-material-ui-server-styles-tss-react: Proyecto Next.js 14 con renderizado del lado del servidor (SSR), gestión de estado con Redux, Material-UI y estilos SSR con TSS-React 
+
+ github.com 
+
+ Like 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+ Comment 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fnextjs&trk=public_post-text
+
+ To view or add a comment, 
+
+sign in
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes%2Elinkedin%2Ecom%2Fposts%2Fdennysjmarquez_github-dennysjmarqueznext-14-ssr-redux-material-ui-server-styles-tss-react-activity-7238521400657944577-z9JQ&trk=public_post_feed-cta-banner-cta
+
+ More Relevant Posts 
+
+ Elizabeth de la Paz Portal 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes%2Elinkedin%2Ecom%2Fposts%2Fdennysjmarquez_github-dennysjmarqueznext-14-ssr-redux-material-ui-server-styles-tss-react-activity-7238521400657944577-z9JQ&trk=public_post_feed-cta-banner-cta
+
+ Software Engineer | Frontend Dev | React | JavaScript | .NET 
+
+ 10mo 
+
+ Report this post 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes%2Elinkedin%2Ecom%2Fposts%2Fdennysjmarquez_github-dennysjmarqueznext-14-ssr-redux-material-ui-server-styles-tss-react-activity-7238521400657944577-z9JQ&trk=public_post_feed-cta-banner-cta
+
+💜 Estos hooks son los más utilizados en React y puedes obtener mayor información aquí --> 
+
+https://bit.ly/3Xq5Z50
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fbit%2Ely%2F3Xq5Z50&urlhash=K7gn&trk=public_post-text
+
+ Sin embargo, también existen otros hooks interesantes que vale la pena conocer: ✨ useImperativeHandle: para personalizar el valor de la instancia que se expone cuando usas ref en combinación con forwardRef. ✨ useLayoutEffect: funciona de manera similar a useEffect, pero se ejecuta de forma sincrónica justo después de que el DOM se haya modificado. ✨ useDebugValue: facilita la visualización de una etiqueta para hooks personalizados en React DevTools. ✨ useId: genera identificadores únicos que se mantienen consistentes tanto en el servidor como en el cliente. ✨ useDeferredValue: retrasa la actualización de un valor, lo que permite que la interfaz de usuario siga siendo fluida y responsiva. ✨ useTransition: permite marcar ciertas actualizaciones como no urgentes, ayudando a mantener la interfaz de usuario receptiva. Espero que hayas encontrado útil esta publicación y que hayas aprendido algo nuevo. 
+
+#react
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#hooks
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#javascript
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#programacion
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#desarrolloweb
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#frontend
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#tecnologia
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ 33 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ Like 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ Comment 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ To view or add a comment, 
+
+sign in
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Felizabeth-de-la-paz-portal-4b864b209_hooks-en-react-que-debes-conocer-activity-7236416047577255936-NHNY&trk=public_post_feed-cta-banner-cta
+
+ Lucas Ridolfi 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Felizabeth-de-la-paz-portal-4b864b209_hooks-en-react-que-debes-conocer-activity-7236416047577255936-NHNY&trk=public_post_feed-cta-banner-cta
+
+ Frontend Developer 
+
+ 9mo 
+
+ Report this post 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Felizabeth-de-la-paz-portal-4b864b209_hooks-en-react-que-debes-conocer-activity-7236416047577255936-NHNY&trk=public_post_feed-cta-banner-cta
+
+🚀 Acabo de finalizar un proyecto de To-Do List en React 📝. . Esta aplicación permite agregar, completar y eliminar tareas, con persistencia en LocalStorage para mantener los datos al recargar la página. 🛠️ Tecnologías utilizadas: - React para la creación de componentes dinámicos. - Material UI Icons para una interfaz moderna y fácil de usar. Este proyecto me ayudó a profundizar en la gestión del estado en React y la persistencia de datos en el navegador. Puedes ver el código completo aquí: 
+
+https://lnkd.in/ddttNQ6z
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FddttNQ6z&urlhash=HZRO&trk=public_post-text
+
+#React
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FddttNQ6z&urlhash=HZRO&trk=public_post-text
+
+#Frontend
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FddttNQ6z&urlhash=HZRO&trk=public_post-text
+
+#WebDevelopment
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FddttNQ6z&urlhash=HZRO&trk=public_post-text
+
+#JavaScript
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FddttNQ6z&urlhash=HZRO&trk=public_post-text
+
+#MaterialUI
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FddttNQ6z&urlhash=HZRO&trk=public_post-text
+
+ Like 
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FddttNQ6z&urlhash=HZRO&trk=public_post-text
+
+ Comment 
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FddttNQ6z&urlhash=HZRO&trk=public_post-text
+
+ To view or add a comment, 
+
+sign in
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Flucasridolfi_react-frontend-webdevelopment-activity-7244328250196299776-fWpB&trk=public_post_feed-cta-banner-cta
+
+ Ismael González Oviedo 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Flucasridolfi_react-frontend-webdevelopment-activity-7244328250196299776-fWpB&trk=public_post_feed-cta-banner-cta
+
+ Ejecutivo C-Level (CTO) | Líder de equipo | Full Stack Developer | Empresario Co-fundador en MG Biomed 🔬 |🎓 Ingeniero en Informática + Máster | 📖 Poeta | 📱 Apps con más de 1M de descargas |🥇Emprendiendo mis sueños⭐ 
+
+ 1y 
+
+ Report this post 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Flucasridolfi_react-frontend-webdevelopment-activity-7244328250196299776-fWpB&trk=public_post_feed-cta-banner-cta
+
+🔥 ¡Aprende a potenciar tus habilidades en React con este tutorial exclusivo de DevCodeLight! 🔥 ¿Quieres llevar tus componentes de React al siguiente nivel? Descubre cómo crear un HOC (Higher Order Component) que envuelve a otro componente, ¡y lleva tu desarrollo a nuevas alturas! 💻✨ En este tutorial paso a paso, aprenderás: ✅ Qué es un HOC y por qué es una herramienta poderosa en React. ✅ Cómo crear un HOC desde cero, con explicaciones claras y ejemplos prácticos. ¡No te pierdas esta oportunidad de mejorar tus habilidades en React y destacarte como desarrollador! 💡🚀 👉 ¡Lee el tutorial completo aquí: 
+
+https://lnkd.in/ewv63n6e
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fewv63n6e&urlhash=1mYG&trk=public_post-text
+
+ 👈 
+
+#React
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#DesarrolloWeb
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#Tutorial
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#DevCodeLight
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#HOC
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#Programación
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#ReactJS
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#Aprendizaje
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#DesarrolloFrontend
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ Crear un HOC (componente de orden superior) usando React 
+
+ https://devcodelight.com 
+
+ Like 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ Comment 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ To view or add a comment, 
+
+sign in
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fismael-gonzalez-oviedo_crear-un-hoc-componente-de-orden-superior-activity-7184071410183471104-QH7S&trk=public_post_feed-cta-banner-cta
+
+ knowmad mood 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fismael-gonzalez-oviedo_crear-un-hoc-componente-de-orden-superior-activity-7184071410183471104-QH7S&trk=public_post_feed-cta-banner-cta
+
+ 433,412 followers 
+
+ 6mo 
+
+ Report this post 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fismael-gonzalez-oviedo_crear-un-hoc-componente-de-orden-superior-activity-7184071410183471104-QH7S&trk=public_post_feed-cta-banner-cta
+
+🔊 ¡Novedades en React 19! ¿Las conoces todas? 💻 
+
+#React
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ 19 viene cargadito de mejoras y hooks nuevos que harán que tu código sea más limpio, rápido y eficiente. ✔️ Formularios nativos, la nueva API use, Custom Elements y hasta un compilador beta que promete revolucionar tu rendimiento. Nuestro compi 🙋♂️ 
+
+Manuel de la Vega Arantave
+
+https://es.linkedin.com/in/manuel-de-la-vega-arantave-5434b167/en?trk=public_post-text
+
+, Front End Architect en 
+
+knowmad mood
+
+https://es.linkedin.com/company/knowmad-mood?trk=public_post-text
+
+, nos lo explica TODO en este tutorial, con ejemplos prácticos y un repositorio listo para que pruebes las novedades por ti mismo. Todas las novedades en el artículo completo 👉 
+
+https://lnkd.in/dskJrsUh
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post-text
+
+#React19
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post-text
+
+#JavaScript
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post-text
+
+#Frontend
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post-text
+
+#DevLife
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post-text
+
+#EnMiLocalFunciona
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post-text
+
+#Developers
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post-text
+
+ 32 
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post-text
+
+ 1 Comment 
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post-text
+
+ Like 
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post-text
+
+ Comment 
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post-text
+
+ To view or add a comment, 
+
+sign in
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fknowmad-mood_react-react19-javascript-activity-7275083627938406401-BkgY&trk=public_post_feed-cta-banner-cta
+
+ Manuel de la Vega Arantave 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fknowmad-mood_react-react19-javascript-activity-7275083627938406401-BkgY&trk=public_post_feed-cta-banner-cta
+
+ Front End Architect at knowmad mood 
+
+ 6mo 
+
+ Report this post 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fknowmad-mood_react-react19-javascript-activity-7275083627938406401-BkgY&trk=public_post_feed-cta-banner-cta
+
+¡Hola! Tras la reciente publicación de la release estable de React 19, desde knowmad mood hemos publicado un post en 
+
+#EnMiLocalFunciona
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fenmilocalfunciona&trk=public_post-text
+
+ compartiendo las distintas novedades que viene con ella. ¡Espero que os sea de utilidad!
+
+ knowmad mood 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fenmilocalfunciona&trk=public_post-text
+
+ 433,412 followers 
+
+ 6mo 
+
+🔊 ¡Novedades en React 19! ¿Las conoces todas? 💻 
+
+#React
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post_reshare-text
+
+ 19 viene cargadito de mejoras y hooks nuevos que harán que tu código sea más limpio, rápido y eficiente. ✔️ Formularios nativos, la nueva API use, Custom Elements y hasta un compilador beta que promete revolucionar tu rendimiento. Nuestro compi 🙋♂️ 
+
+Manuel de la Vega Arantave
+
+https://es.linkedin.com/in/manuel-de-la-vega-arantave-5434b167/en?trk=public_post_reshare-text
+
+, Front End Architect en 
+
+knowmad mood
+
+https://es.linkedin.com/company/knowmad-mood?trk=public_post_reshare-text
+
+, nos lo explica TODO en este tutorial, con ejemplos prácticos y un repositorio listo para que pruebes las novedades por ti mismo. Todas las novedades en el artículo completo 👉 
+
+https://lnkd.in/dskJrsUh
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post_reshare-text
+
+#React19
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post_reshare-text
+
+#JavaScript
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post_reshare-text
+
+#Frontend
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post_reshare-text
+
+#DevLife
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post_reshare-text
+
+#EnMiLocalFunciona
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post_reshare-text
+
+#Developers
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post_reshare-text
+
+ 22 
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post_reshare-text
+
+ Like 
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post_reshare-text
+
+ Comment 
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdskJrsUh&urlhash=IXmR&trk=public_post_reshare-text
+
+ To view or add a comment, 
+
+sign in
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fmanuel-de-la-vega-arantave-5434b167_enmilocalfunciona-activity-7275133272769056768-KZvh&trk=public_post_feed-cta-banner-cta
+
+ Marcos Dionel Iannibelli 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fmanuel-de-la-vega-arantave-5434b167_enmilocalfunciona-activity-7275133272769056768-KZvh&trk=public_post_feed-cta-banner-cta
+
+ Frontend Developer | Systems Analyst Student 
+
+ 9mo   Edited 
+
+ Report this post 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fmanuel-de-la-vega-arantave-5434b167_enmilocalfunciona-activity-7275133272769056768-KZvh&trk=public_post_feed-cta-banner-cta
+
+Buen día red! Acabo de terminar un challenge de Frontend Developer el cual solicita realizar una aplicación web con las películas de Star Wars. Utilicé 
+
+Next.js
+
+http://Next.js?trk=public_post-text
+
+ como se indicaba y consumí varios endpoints de la API (SWAPI). 🪐 Manejo de SWAPI a través de Actions. 🪐 Prioricé Server Side Rendering durante toda mi aplicación. 🪐 Infinite Scroll en el apartado de "Characters". 🪐 Filtrado por género, color de ojos y buscador mediante el uso de searchParams. 🪐 Aprendí una nomenclatura de commits que seguiré utilizando en proyectos siguientes. 🪐 Mantuve una arquitectura lo más escalable posible. 🪐 Declaración de métodos y variables con nombres fáciles de entender. 🪐 Diseño responsive para todos los dispositivos. Tecnologías utilizadas: 🪐 
+
+Next.js
+
+http://Next.js?trk=public_post-text
+
+ 🪐 Javascript + TypeScript 🪐 Tailwind CSS Link del repositorio: 
+
+https://lnkd.in/dBTd837r
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdBTd837r&urlhash=vvbJ&trk=public_post-text
+
+ Link del deploy: 
+
+https://lnkd.in/djrvC23W
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FdjrvC23W&urlhash=y1ut&trk=public_post-text
+
+ Link a mi portfolio: 
+
+https://mdiannibelli.com
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fmdiannibelli%2Ecom&urlhash=L5A4&trk=public_post-text
+
+ 19 
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fmdiannibelli%2Ecom&urlhash=L5A4&trk=public_post-text
+
+ 4 Comments 
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fmdiannibelli%2Ecom&urlhash=L5A4&trk=public_post-text
+
+ Like 
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fmdiannibelli%2Ecom&urlhash=L5A4&trk=public_post-text
+
+ Comment 
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fmdiannibelli%2Ecom&urlhash=L5A4&trk=public_post-text
+
+ To view or add a comment, 
+
+sign in
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fmarcos-dionel-iannibelli-1b3827254_buen-d%25C3%25ADa-red-acabo-de-terminar-un-challenge-activity-7240377416827731968-pbpM&trk=public_post_feed-cta-banner-cta
+
+ Nicolas Garcia Piñeros 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fmarcos-dionel-iannibelli-1b3827254_buen-d%25C3%25ADa-red-acabo-de-terminar-un-challenge-activity-7240377416827731968-pbpM&trk=public_post_feed-cta-banner-cta
+
+ AI-first Frontend Developer | React.js, TypeScript, CI/CD | Scalable architecture & product-focused delivery 
+
+ 12mo   Edited 
+
+ Report this post 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fmarcos-dionel-iannibelli-1b3827254_buen-d%25C3%25ADa-red-acabo-de-terminar-un-challenge-activity-7240377416827731968-pbpM&trk=public_post_feed-cta-banner-cta
+
+Dejo esta sección por si la quieren reutilizar, mejorar o aportar algo a este proceso de creación de componentes, secciones y sistemas con 
+
+React.js
+
+http://React.js?trk=public_post-text
+
+, pueden ver el codigo en mi github: 
+
+https://lnkd.in/eu6i9MCw
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Feu6i9MCw&urlhash=AFDO&trk=public_post-text
+
+ En este caso, usé CSS3; igual estaré usando Sass y Tailwind en próximos proyectos. 
+
+#React
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#JavaScript
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#CSS3
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#github
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#Git
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ 1 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ Like 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ Comment 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ To view or add a comment, 
+
+sign in
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffrontend-nicolas-garcia_react-javascript-css3-activity-7214853866138333184-pqa9&trk=public_post_feed-cta-banner-cta
+
+ Martin Araya 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffrontend-nicolas-garcia_react-javascript-css3-activity-7214853866138333184-pqa9&trk=public_post_feed-cta-banner-cta
+
+ Software Engineer | Azure & GCP | OpenAI & Mistral | I write 2 to 3 post per day 
+
+ 6mo 
+
+ Report this post 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffrontend-nicolas-garcia_react-javascript-css3-activity-7214853866138333184-pqa9&trk=public_post_feed-cta-banner-cta
+
+🚀¿Qué es Webpack y por qué es tan importante?🚀 Webpack es un empacador de módulos estáticos para aplicaciones modernas de JavaScript. En términos simples, toma todo tu código, estilos, imágenes y otros activos, y los convierte en un paquete optimizado para que tu aplicación funcione de manera eficiente en un navegador. Imagina que estás desarrollando un proyecto grande: tu código está dividido en muchos archivos JavaScript, cada uno con dependencias externas y hojas de estilo. Sin una herramienta como Webpack, gestionar todos esos archivos y dependencias puede ser un caos. Aquí es donde entra Webpack: organiza, optimiza y “empaqueta” todo en archivos más pequeños y eficientes que los navegadores pueden cargar rápidamente. 💡 ¿Por qué es tan importante? 💡 1️⃣ Optimización del rendimiento: Webpack permite minimizar tu código (minificación), eliminar dependencias innecesarias (tree-shaking) y dividir el código en fragmentos más pequeños (code-splitting) para mejorar la velocidad de carga. 2️⃣ Gestión de dependencias: Automatiza la integración de bibliotecas y módulos, asegurando que todo esté correctamente vinculado. 3️⃣ Compatibilidad: A través de loaders y plugins, puedes trabajar con diferentes tipos de archivos (CSS, imágenes, fuentes, etc.) y transpilarlos a versiones compatibles con navegadores antiguos usando herramientas como Babel. Aunque al principio puede parecer complicado, dominarlo te permitirá llevar tus proyectos al siguiente nivel.
+
+ 4 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffrontend-nicolas-garcia_react-javascript-css3-activity-7214853866138333184-pqa9&trk=public_post_feed-cta-banner-cta
+
+ Like 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffrontend-nicolas-garcia_react-javascript-css3-activity-7214853866138333184-pqa9&trk=public_post_feed-cta-banner-cta
+
+ Comment 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffrontend-nicolas-garcia_react-javascript-css3-activity-7214853866138333184-pqa9&trk=public_post_feed-cta-banner-cta
+
+ To view or add a comment, 
+
+sign in
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fmartin-araya_qu%25C3%25A9-es-webpack-y-por-qu%25C3%25A9-es-tan-importante-activity-7270865034359058432-jDo9&trk=public_post_feed-cta-banner-cta
+
+ joao pedro bone 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fmartin-araya_qu%25C3%25A9-es-webpack-y-por-qu%25C3%25A9-es-tan-importante-activity-7270865034359058432-jDo9&trk=public_post_feed-cta-banner-cta
+
+ Full Stack Developer 💻 HTML | CSS | Javascript | Typescript | React | SASS | Styled components | Tailwindcss | Node.js | NPM | Express | PostgreSQL | MongoDB | Prisma | Git 
+
+ 11mo 
+
+ Report this post 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fmartin-araya_qu%25C3%25A9-es-webpack-y-por-qu%25C3%25A9-es-tan-importante-activity-7270865034359058432-jDo9&trk=public_post_feed-cta-banner-cta
+
+"react-dom-confetti" 🎊 Mientras hacía un proyecto, me encontré con esta librería que como su nombre sugiere te ayuda a agregar confetti a tu aplicación react y me pareció bien compartirlo aquí por si alguien lo necesite eventualmente. Lo necesitaba para cuando el usuario entré a la página de resumen de compra, es bastante fácil de usar y lo puedes personalizar: 1. Instalación: npm install react-dom-confetti 2. Importación: import Confetti from'react-dom-confetti'; 3. Agregar componente y su atributo "active": <Confetti active={true} /> En el atributo active se debería poner alguna condicional para que sepa cuando activar el confetti, por ejemplo yo lo usé con useEffect para cuando cargue la pagina: const [showConfetti, setShowConfetti] = useState<boolean>(false); useEffect(() => setShowConfetti(true)); 4. El atributo "config" para personalizarlo (lo puedes hacer dentro del atributo o con un objeto: const config = { angle: 90, spread: 360, ... } <Confetti config={ config }/> Y listo, de todas maneras dejo los enlaces por si quieren verlo mejor demo: 
+
+https://lnkd.in/ebSERBtp
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FebSERBtp&urlhash=Z3rj&trk=public_post-text
+
+ npm: 
+
+https://lnkd.in/edGHGMNC
+
+https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FedGHGMNC&urlhash=SEzp&trk=public_post-text
+
+ PD: Recomiendo fuertemente que a el componente lo metan dentro de un <div> y centrarlo, poner desbordamiento en hidden (las scrolls se vuelven locas si no haces esto xd), etc. Dejo las classNames de tailwindcss que yo usé: pointer-events-none select-none absolute inset-0 overflow-hidden flex justify-center 
+
+#react
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#reactjs
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#javascript
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#frontend
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#development
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#webdev
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#confetti
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ 2 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ Like 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ Comment 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ To view or add a comment, 
+
+sign in
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fjoao-pedro-bone-b8a7a3293_react-reactjs-javascript-activity-7217542244445106177-ghrr&trk=public_post_feed-cta-banner-cta
+
+ Francisco Morales Sànchez 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fjoao-pedro-bone-b8a7a3293_react-reactjs-javascript-activity-7217542244445106177-ghrr&trk=public_post_feed-cta-banner-cta
+
+ Development Engineer : Web Application Development | Laravel | React Native | ReactJs | MySQL | Git | JavaScript | Git 
+
+ 7mo 
+
+ Report this post 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fjoao-pedro-bone-b8a7a3293_react-reactjs-javascript-activity-7217542244445106177-ghrr&trk=public_post_feed-cta-banner-cta
+
+🌟 Descubre usehooks-ts: Potencia tu desarrollo con React Hooks personalizados 🌟 ¿Sabías que puedes simplificar tu desarrollo en React con hooks reutilizables y bien documentados? 🚀 usehooks-ts ofrece una colección increíble de hooks listos para usar, diseñados para resolver necesidades comunes en tus proyectos, como manejar estados locales, detectar eventos del navegador, ¡y mucho más! 💡 Ventajas principales: 📚 Fácil de integrar y bien documentado. ⏱️ Ahorra tiempo en lógica repetitiva. 🛠️ Compatible con TypeScript para un desarrollo más seguro. Dale un vistazo y lleva tu código al siguiente nivel. ¡Tu productividad te lo agradecerá! 👩💻✨ 
+
+#React
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#TypeScript
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#WebDevelopment
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+#Productividad
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ 3 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ Like 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ Comment 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Freact&trk=public_post-text
+
+ To view or add a comment, 
+
+sign in
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ 3,451 followers 
+
+ 3000+ Posts 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ 67 Articles 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ View Profile 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+Follow  
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ More from this author 
+
+ Mejorando tus habilidades de comunicación en la gestión: técnicas de sándwich, encuadre, giro, priming, reverse y ablandamiento 
+
+ Dennys Jose M.   2y 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ La deuda tecnológica en nuestros proyectos 
+
+ Dennys Jose M.   2y 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ RED Team, BLUE Team, PURPLE Team, Ethical Hacking y sus diferencias 
+
+ Dennys Jose M.   2y 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ Explore topics 
+
+ Sales 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ Marketing 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ IT Services 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ Business Administration 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ HR Management 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ Engineering 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ Soft Skills 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ See All 
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ Sign in to view more content 
+
+ Create your free account or sign in to continue your search 
+
+ Welcome back 
+
+Forgot password?
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes.linkedin.com%2Fposts%2Ffmoraless_react-typescript-webdevelopment-activity-7264246018173460480-E3t1&trk=public_post_feed-cta-banner-cta
+
+ or 
+
+ By clicking Continue to join or sign in, you agree to LinkedIn’s 
+
+User Agreement
+
+https://www.linkedin.com/legal/user-agreement?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_user-agreement
+
+, 
+
+Privacy Policy
+
+https://www.linkedin.com/legal/privacy-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_privacy-policy
+
+, and 
+
+Cookie Policy
+
+https://www.linkedin.com/legal/cookie-policy?trk=public_post_contextual-sign-in-modal_sign-in-modal_auth-button_cookie-policy
+
+. 
+
+ New to LinkedIn? 
+
+Join now
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes%2Elinkedin%2Ecom%2Fposts%2Fdennysjmarquez_github-dennysjmarqueznext-14-ssr-redux-material-ui-server-styles-tss-react-activity-7238521400657944577-z9JQ&trk=public_post_contextual-sign-in-modal_sign-in-modal_join-link
+
+ or 
+
+ New to LinkedIn? 
+
+Join now
+
+https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fes%2Elinkedin%2Ecom%2Fposts%2Fdennysjmarquez_github-dennysjmarqueznext-14-ssr-redux-material-ui-server-styles-tss-react-activity-7238521400657944577-z9JQ&trk=public_post_contextual-sign-in-modal_join-link
+
+ By clicking Continue to join or sign in, you agree to LinkedIn’s 
+
+User Agreement
+
+https://www.linkedin.com/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+
+, 
+
+Privacy Policy
+
+https://www.linkedin.com/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+
+, and 
+
+Cookie Policy
+
+https://www.linkedin.com/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+
+.

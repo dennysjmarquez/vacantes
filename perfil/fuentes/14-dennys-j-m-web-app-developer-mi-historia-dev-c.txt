@@ -1,0 +1,604 @@
+### FUENTE: Dennys J. M. _ Web App Developer_ Mi historia - DEV Community.pdf
+
+### TIPO: pdf | URL: N/A | CARACTERES: 17947 ###
+### KEYWORDS: Web App Development, Self-taught Programming, Career Trajectory, Cybersecurity and Hacking, Technical Education ###
+
+Resumen: This biographical article details the professional journey of Dennys J. M. Márquez Reyes, a **self-taught web developer** who overcame significant personal and financial adversity to build a career in technology. The narrative traces his evolution from experimenting with **MS-DOS and Visual Basic** in the 1990s to overcoming a period of rural poverty and physical danger through **online education and digital certifications**. Key themes include his **unconventional problem-solving** style—which once involved creating a global trojan to market his PC repair business—and his relentless **determination to innovate** despite lacking formal support. Ultimately, the text serves as a **testament to resilience**, illustrating how a passion for the "art and science" of programming allowed him to transition from a manual laborer to a professional **Full Stack Developer**.
+
+------
+
+Dennys José Márquez Reyes 
+
+Posted on Aug 6, 2023 • Edited on Mar 6 
+
+1 1 1 
+
+Dennys J. M. | Web App Developer: Mi historia 
+
+#webdev #programming #career #spanish 
+
+Dennys J. M. | Web App Developer (3 Part Series) 
+
+1 Dennys J. M. | Web App Developer: Mi historia 
+
+2 Dennys J. M. | Web App Developer: Mis servicios 
+
+3 Dennys J. M. | Web App Developer: Testimonios y recomendacio… 
+
+Mi historia como desarrollador 
+
+ 
+
+ 
+
+¡Hola! Soy un desarrollador Web con conocimientos en ethical hacking y 
+
+ciberseguridad. 
+
+✅ Transformo ideas en soluciones digitales innovadoras, combinando creatividad y 
+
+conocimiento técnico para superar desafíos y aportar valor. 
+
+La programación es mi pasión y estoy encantado de compartir mi trayectoria con 
+
+ustedes. 
+
+Constantemente exploro las últimas tendencias para mantenerme actualizado, ya que 
+
+disfruto absorber y poner en práctica nuevos conocimientos de programación. 
+
+En especial, considero la programación una combinación de arte y ciencia. Me gusta 
+
+tomar un enfoque creativo para resolver problemas, o como me gusta decir, "pensar 
+
+fuera de la caja". 
+
+Soy el raro el distinto, algunos ven rara mi forma peculiar de pensar o de abordar los 
+
+problemas. 
+
+Pero aun así, hay que reconocer que todos pensamos de forma distinta y que la mía es 
+
+solo una perspectiva, ni mejor ni peor. 
+
+Gracias a esos enfoques puedo crear e innovar mediante soluciones fuera de lo 
+
+convencional, pero considerando no reinventar la rueda nuevamente. 
+
+Nací en el año de 1977 y crecí en un contexto familiar sumamente desafiante y sin 
+
+apoyo. 
+
+Pese a la adversidad, desde pequeño mi curiosidad innata por la tecnología se convirtió 
+
+en el motor que impulsó mi aprendizaje de forma autodidacta, adquiriendo 
+
+conocimientos por mi cuenta y me fui abriendo camino en este campo hasta 
+
+convertirme en el profesional que soy hoy en día. A lo largo de los años he tenido la 
+
+oportunidad de trabajar con algunas empresas, experiencias que me han aportado 
+
+conocimientos valiosos. 
+
+Mis primeros conocimientos informáticos fueron adquiridos instalando y aprendiendo a 
+
+usar MS-DOS y Windows 3.11, recurriendo en gran medida al comando HELP.COM para 
+
+ 
+
+ 
+
+instruirme. 
+
+Mis inicios en la programación se remontan a los años de los ordenadores 386, cuando 
+
+comencé con QBasic en MS-DOS 6.22. Más adelante continué con Visual Basic 4 y 6. 
+
+Con la llegada de Windows 98, descubrí el código fuente HTML, JavaScript y VBScript 
+
+analizando archivos .htt y .hta que encontraba. 
+
+Viví en primera persona la época dorada de la web, la competencia entre VBScript y 
+
+JavaScript que competían por convertirse en el lenguaje de programación exclusivo que 
+
+funcionaría de forma nativa en los navegadores web. 
+
+Aún recuerdo con cariño cuando estaba aprendiendo a programar en Visual Basic 6 y 
+
+uno de los proyectos que más disfruté fue crear con el y desde cero un programa de 
+
+chat llamado DgChat. Me sentí muy motivado al poder aplicar mis conocimientos para 
+
+construir algo útil e innovador. 
+
+Mi entusiasmo fue tan grande que, una vez completado mi programa, decidí ponerlo a 
+
+prueba en el entorno de la biblioteca de la Universidad Central de Venezuela (UCV) 
+
+Maracay. 
+
+Me dirigí a la biblioteca de la UCV. Allí, con la ayuda de un conocido, establecí contacto 
+
+ 
+
+ 
+
+ 
+
+levantar en el IIS ASP del servidor lo que necesitaba para que funcionara el chat en red. 
+
+Esto me permitió realizar la primera prueba del chat en la red de la biblioteca, y lo hice 
+
+justo en el cibercafé 🤓 
+
+Sentí un inmenso orgullo al ver que mi esfuerzo y dedicación habían dado sus frutos, mi 
+
+programa funcionaba bien. 
+
+Debo confesar que en mi proceso de creación del DgChat hice un curso intensivo de 
+
+Cisco CCNA en la UCV buscando entender mejor cómo funcionaban los Chats, pero 
+
+resulta que no tenía una relación directa 🤣 
+
+Aun así, agregó valor a mis habilidades y aprendí sobre las redes y mejoro mi 
+
+comprensión de la infraestructura de enrutadores y conmutadores, entre otro. 
+
+Bien, luego de todo esto pasó un tiempo, sentí la necesidad de prosperar y buscar un 
+
+trabajo que me permitiera avanzar, pero no tenía ni idea de cómo encontrar un trabajo 
+
+como programador en aquel entonces y solo sabia de Visual Basic 6 y, digamos, de 
+
+manera rudimentaria, no tenía estudios formales en el tema. 
+
+Así que encontré un empleo en un Gimnasio de mi localidad y trabaje hay como 
+
+personal de mantenimiento durante un tiempo. 
+
+Luego de esto encontré una oportunidad en Proyectos PET, una empresa de fabricación 
+
+de botellas plásticas, a través de un conocido de mi prima. 
+
+Trabajé allí durante un año, pero pronto me di cuenta de que no era mi verdadera 
+
+vocación y necesitaba seguir avanzando. 
+
+Las condiciones de ser empleado de planta de una fábrica no son buenas, y ni este 
+
+empleo ni mi trabajo anterior eran lo que quería para mí 
+
+Así que tomé una decisión y logré que me despidieran con el apoyo del sindicato. 
+
+Con la indemnización que recibí, compré mi primera computadora propia y decidí 
+
+terminar mi bachillerato en tres años, un parasistema nocturno de la localidad. 
+
+ 
+
+ 
+
+Después de graduarme de Bachiller de la república, trabajé en un cibercafé durante un 
+
+tiempo. 
+
+Luego probé estudiar diseño gráfico y trabajé para un profesor del instituto donde 
+
+estudiaba, quien tenía una pequeña empresa publicitaria. Participé en un concurso para 
+
+un puesto en esa empresa y lo gané, así que me contrató. 
+
+Cuando tuve la oportunidad de trabajar en diseño gráfico, específicamente pintando 
+
+avisos en ventanas con pintura acrílica, me di cuenta de que no estaba satisfecho con 
+
+lo que ganaba. 
+
+En aquel entonces, tenías dos pasiones: el dibujo, y las computadoras. 
+
+En ese momento dado, pensé que el dibujo podría ser una opción más rentable para mí, 
+
+así que le di una oportunidad, pero después de intentarlo, me di cuenta de que no era lo 
+
+mío y que no ganaba lo suficiente. 
+
+A pesar de que esperaba que el dibujo me abriera más puertas o me permitiera ganar 
+
+más dinero, no fue así. 
+
+Yo siempre estuve solo sin el apoyo de mi familia ni de nadie más, tuve que tomar 
+
+decisiones por mi cuenta y autogestionarme en todo momento. 
+
+Afortunadamente, pude encontrar mi camino en la programación, ya que ya tenía 
+
+conocimientos en ese campo y me enfoque en él para buscar oportunidades. 
+
+Gracias a mi determinación, pude decidir cuál era el camino correcto a seguir. 
+
+Con la firme convicción de haber encontrado mi camino, decidí explorar nuevas 
+
+posibilidades. 
+
+Así fue como comenzó mi aventura en el servicio técnico de PC. 
+
+Instale un pequeño taller en la sala de mi casa materna. Logré reunir dinero para mi 
+
+primer aviso publicitario que coloque en las rejas de la casa. 
+
+Acondicioné una mesa para recibir las PC de los clientes y poder repararlas, vendía 
+
+ 
+
+ 
+
+ 
+
+En esta etapa conocí a Angela, quien hoy es mi esposa. Ella llegó como una clienta 
+
+más, pero el destino hizo que continuáramos viéndonos y nos enamoramos. 
+
+Angela me motivó a formalizar el negocio sacando mi RIF Personal y facturas. 
+
+En ese capítulo de mi vida, tomé la decisión de financiar mis estudios universitarios con 
+
+lo que ganaba del servicio técnico, dado que ya contaba con el título de bachiller. Así 
+
+que me matriculé en el Instituto Universitario de Tecnología Antonio Ricaurte, donde 
+
+comencé a estudiar Informática para consolidar mis conocimientos. 
+
+Llegué a completar mi primer año de estudios, sin embargo, no continué debido a que, 
+
+lamentablemente, los ingresos del servicio técnico no eran suficientes para cubrir mis 
+
+gastos universitarios. Además, los clientes que llegaban buscaban asistencia inmediata 
+
+en lugar de esperar después de mis clases. Ante esta situación, opté por concentrarme 
+
+plenamente en mi servicio técnico. 
+
+Les comparto otras 2 anécdotas con Visual Basic 6, algunas cosas que hice para 
+
+ayudar al servicio técnico. 
+
+En esa época, Internet Explorer solía llenarse de barras instaladas que apenas dejaban 
+
+espacio para ver el contenido de las páginas web. Una de las compañías que 
+
+desarrollaba esas barras se llamaba Conduit Ltd. 
+
+En esa época, la compañía Conduit tenía un sitio web para crear barras de herramientas 
+
+personalizadas para Internet Explorer. Yo aproveché esta plataforma y creé una barra 
+
+para promocionar el sitio web www.tec.web44.net del servicio técnico. 
+
+Desarrollé con Visual Basic 6 un troyano que se propagaba mediante pendrives, 
+
+aprovechando la vulnerabilidad del autorun de Windows XP. Al insertar el pendrive con 
+
+mi troyano en una computadora, éste se ejecutaba y primero verificaba si mi barra de 
+
+herramientas ya estaba instalada. De no estarlo, el troyano instalaba la barra, la cual 
+
+había incorporado como recurso dentro del troyano. 
+
+Una vez que el troyano instalaba la barra de herramientas, también modificaba el 
+
+registro de Windows para que el troyano se ejecutara de forma automática cada vez 
+
+que se reiniciara la computadora. 
+
+El troyano quedaba residente en memoria además cuando se insertaba un pendrive en 
+
+la máquina infectada, el troyano se copiaba a dicho dispositivo para continuar 
+
+ 
+
+ 
+
+propagando mi barra. 
+
+Liberé el troyano en varios cibercafés de la localidad, enfocándome en los equipos sin 
+
+Deep Freeze, dado que este programa restaura el estado original del sistema al 
+
+reiniciarse, lo cual habría interferido con la propagación. 
+
+Los cibercafés fueron el punto clave de infección, ya que cuando los usuarios 
+
+insertaban sus pendrives en las máquinas contaminadas, el troyano se copiaba a 
+
+dichos dispositivos para continuar propagándose e instalando mi barra. 
+
+Gracias a la propagación de mi troyano, mi barra de herramientas llegó a instalarse en 
+
+muchas computadoras alrededor del mundo, incluyendo China. 
+
+La plataforma de Conduit tenía un sistema de analítica que permitía ver dónde se 
+
+ejecutaba cada barra. 
+
+Además, ofrecían un modelo de pago por instalación de la barra a través de Payoneer, 
+
+cada vez que mi troyano instalaba mi barra generar algunos ingresos, gracia a esto fue 
+
+que conocí esta plataforma de pagos digitales Payoneer. 
+
+Posteriormente, desarrollé otro programa en Visual Basic 6 que realizaba web scraping 
+
+del sitio taringa.net, el cual en esa época tenía un enfoque de compartición de enlaces 
+
+con abundante software para descargar. 
+
+ 
+
+ 
+
+Mi sitio web del servicio técnico lo había construido basándome en el script de Spirate, 
+
+utilizado para crear webs de tipo linksharing. 
+
+El programa que creé se conectaba a taringa con las credenciales de un usuario, 
+
+analizaba el código HTML principal y extraía todos los enlaces hacia las publicaciones 
+
+de descargas. 
+
+Luego escaneaba esas publicaciones para extraer la información relevante a una 
+
+carpeta como archivos HTML. 
+
+Otro programa leía el contenido de esa carpeta, abriendo cada archivo para extraer los 
+
+datos, los cuales luego volcaba en archivos .sql con el esquema necesario para 
+
+importarlos a la base de datos de Spirate. 
+
+De esta forma completé la sección de descargas de software en mi sitio web del 
+
+servicio técnico. Esto mejoró aún más el posicionamiento del sitio. Logré extraer 
+
+ 
+
+ 
+
+cientos de publicaciones rápidamente, el programa llevaba un control de paginación 
+
+para saber dónde se había quedado y así obtener los datos en tandas de 100 posts. 
+
+Este fue uno de mis últimos proyectos antes de un nuevo capítulo de vida. 
+
+Por aquella época, luego de 4 años con el servicio técnico, ya había logrado ahorrar lo 
+
+suficiente y decidimos Angela y yo casarnos. 
+
+Nos mudamos a otro estado, donde alquilé un local para establecer mi propia empresa 
+
+de computación, así que registre la compañía Toito PC C.A. 
+
+Aunque inicialmente sentimos mucho orgullo e ilusión con nuestro negocio, no 
+
+logramos reunir el capital suficiente. Los gastos de amueblar y equipar el local, aunque 
+
+esenciales, debilitaron nuestra posición financiera y no pudimos aguantar el que se 
+
+hiciera el punto. 
+
+ 
+
+ 
+
+En función de esto no tuvimos más opción que mudarnos a un chalet propiedad de mi 
+
+suegro, ubicado en una zona montañosa similar a la Colonia Tovar en Venezuela. 
+
+Esta nueva etapa representó un momento muy difícil en mi vida. Ya no tenía acceso a 
+
+computadoras ni podía programar. 
+
+Tuvimos que empezar de cero y el cambio fue sumamente duro. Durante 
+
+aproximadamente tres años me olvidé por completo de la programación y tuve que 
+
+trabajar como obrero en una finca para mantenernos, éramos unos pichones recién 
+
+casados. 
+
+En el poblado donde vivíamos, había una bodega con una computadora que miraba con 
+
+nostalgia, lamentando internamente el giro que había dado mi vida. 
+
+Aunque llegué a pensar que no retomaría mi camino en la programación, no me dejé 
+
+vencer. 
+
+Junto con Angela, comencé a buscar cursos en línea para obtener certificaciones y así 
+
+optar a empleos como programador. 
+
+Intenté usar mi experiencia previa con la empresa Toito PC C.A., pero me encontré con 
+
+el obstáculo de no tener estudios formales, certificaciones o experiencia verificable que 
+
+mostrar en mi CV. 
+
+Realicé algunos cursos presenciales en la ciudad de La Victoria, como Desarrollo Web 
+
+con PHP y MySQL, Joomla y WordPress, entre otros. Sin embargo, no eran lo suficiente 
+
+y no tenía cómo demostrar mis conocimientos ante posibles empleadores. 
+
+La ciudad donde estábamos no nos era familiar, y buscar trabajo como programador en 
+
+empresas locales parecía una tarea imposible. 
+
+En ese momento, cuando básicamente tenía que partir desde cero, nuestras miras 
+
+estaban siempre puestas en lo digital, buscando oportunidades laborales en el 
+
+extranjero. 
+
+Ante la necesidad de obtener certificaciones digitales, comencé a buscar institutos de 
+
+educación en línea y que además se ajustaran a nuestra situación económica. 
+
+Fue entonces cuando mi esposa Angela y yo encontramos UneWeb, que ofrecía 
+
+ 
+
+ 
+
+ 
+
+con nuestras posibilidades en ese momento. 
+
+En esa época no había servicio de internet en la zona montañosa donde vivíamos, para 
+
+conectarme, utilizaba mi teléfono móvil como módem. 
+
+Así pude comenzar a estudiar el Diplomado en Programación Web con UneWeb. 
+
+Más adelante, un residente español llamado José, oriundo de las islas Canarias, decidió 
+
+proveer internet en parte de la montaña mediante el uso de antenas. 
+
+De esta manera, logré obtener una conexión relativamente rápida y estable utilizando 
+
+una antena Ubiquiti NanoStation Loco M2. Esto me permitió contar con un acceso a 
+
+internet más confiable para proseguir con mis estudios en línea. 
+
+Las cosas comenzaron a mejorar gradualmente. Previamente había sembrado 
+
+girasoles, aunque no pude vender las flores, coseché sus semillas de calidad superior. 
+
+Logré obtener varios kilos de semillas negras sin rayas, las cuales empaqué en bolsas 
+
+de 100 gramos para vender por OLX. Con esas ventas nos sostuvimos 
+
+económicamente por un tiempo, lo que me permitió continuar mis estudios. 
+
+Lamentablemente, justo cuando estaba por finalizar mis estudios, ocurrió un episodio 
+
+sumamente desafortunado. 
+
+Una noche en que mi esposa Angela había bajado a Maracay para visitar a su familia, 
+
+un grupo de personas irrumpió en el chalet con intenciones de robo. 
+
+Forcejearon la puerta principal mientras yo trataba de defender la vivienda como podía, 
+
+dominado por la ira y los nervios. 
+
+Los delincuentes me hirieron y como pude, logré comunicarme con mi esposa para 
+
+notificarle el incidente y pedirle que regresara de inmediato. 
+
+Afortunadamente, a pesar de lo crítico de la situación, logré salvar mi vida. 
+
+Un momento sumamente difícil que mi esposa y yo logramos superar. 
+
+Tras recuperarme, alrededor de un año después, pude retomar y finalizar mi proyecto 
+
+final del diplomado, desarrollando un sistema de administración de contenidos estilo 
+
+WordPress. 
+
+ 
+
+ 
+
+Gracias a esa certificación y al proyecto de graduación, logré obtener mi primer empleo 
+
+formal como Desarrollador Full Stack. 
+
+Hasta aquí, les he proporcionado un resumen de mi trayectoria y el inicio de mi carrera 
+
+profesional. 
+
+A partir de este punto, he tenido la oportunidad de desempeñarme en diversas 
+
+empresas aplicando mis conocimientos y experiencia en desarrollo web, programación 
+
+y tecnologías afines. 
+
+Si desean conocer más detalles, enlaces relevantes: 
+
+👇 
+
+LinkedIn: https://www.linkedin.com/in/dennysjmarquez/ 
+
+Curriculum Vitae: CV-Dennys-Jose-Marquez-Reyes-Desarrollador-web.pdf 
+
+Portafolio: https://dennysjmarquez.dev/ 
+
+Ref: 
+
+Troyano Visual Basic, Web Scraping Taringa 
+
+Testimonio de mi troyano 
+
+Código fuente Scraping Taringa 
+
+En el video, demuestro que soy el creador de la barra de herramienta 
+
+www.tec.web44.net 
+
+Un CMS parecido a WordPress al que llame Scorpion CMS 
+
+Dennys J. M. | Web App Developer (3 Part Series) 
+
+1 Dennys J. M. | Web App Developer: Mi historia 
+
+ 
+
+ 
+
+Dennys José Márquez Reyes 
+
+Software Developer | Senior FrontEnd (JavaScript ES6, React, Next, Redux, Node) | Jr CyberSecurity 
+
+(Owasp, Ethical Hacking) 
+
+WORK 
+
+Front-End Developer 
+
+JOINED 
+
+Oct 28, 2020 
+
+More from Dennys José Márquez Reyes 
+
+Angular 17/19 | Signals con RxJS usando signalPipeRxjs 
+
+webdev  programming  angular  rxjs 
+
+Lean Startup y MVPs: Soluciones Ágiles para el Desarrollo de Software 
+
+architecture  programming  computerscience  webdev 
+
+Microfrontends Architecture 
+
+softwarearchitectur  computerscience  webdev  programming 
+
+2 Dennys J. M. | Web App Developer: Mis servicios 
+
+3 Dennys J. M. | Web App Developer: Testimonios y recomendacio… 
+
+Code of Conduct  Report abuse 
+
+Top comments (0) 
+
+ 
+
+# # # # 
+
+# # # # 
+
+# # # #

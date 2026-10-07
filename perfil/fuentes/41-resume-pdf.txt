@@ -1,0 +1,628 @@
+### FUENTE: resume.pdf
+
+### TIPO: pdf | URL: N/A | CARACTERES: 11207 ###
+### KEYWORDS: Web Development, JavaScript Programming, PHP Backend Development, Content Management Systems, Front-end Design Education ###
+
+Resumen: This document is a professional curriculum vitae for Dennys José Márquez Reyes, a **Venezuelan web developer** specializing in front-end and back-end technologies. The text outlines his educational background in humanities and informatics, alongside specialized certifications in **JavaScript, ECMAScript, and networking**. A significant portion of the resume is dedicated to an extensive portfolio of technical projects, highlighting his proficiency in **PHP programming**, CMS customization, and the creation of complex **CKeditor plugins**. Ultimately, the source serves to showcase his diverse skill set in web architecture, graphic design, and **automated data rendering** to potential employers.
+
+------
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ DATOS PERSONALES 
+
+ 
+
+Nacionalidad Lugar de Residencia Cedula Pasaporte Venezolano Edad 
+
+Venezolano Venezuela Aragua 
+
+Maracay V - 14.297.522 Nro. 093886239 40 a. 
+
+Idiomas Teléfonos Redes 
+
+Español – Natal 
+
+Inglés – Básico 
+
+Móvil 
+
++58 412 789.98.14  twitter.com/infocodes 
+
+ www.linkedin.com/in/dennysjmarquez/ 
+
+ github.com/dennysjmarquez 
+
+ 
+
+Email 
+
+dennysjmarquez@gmail.com  
+
+ Educación 
+
+ 
+
+Educación Media Diversificada 
+
+U. E. N. “Julio Morales Lara” Venezuela Aragua Maracay 
+
+Bachiller en Humanidades. 
+
+Educación Superior 
+
+Instituto Tecnológico “Antonio Ricaurte IUTAR” Venezuela Aragua Maracay 
+
+Primer semestre de: TSU Informática, 2006 - 2007 
+
+ 
+
+ Certificaciones 
+
+ 
+
+  
+
+ Programación avanzada con JavaScript y ECMAScript 
+
+Duración 230Hrs, ene. de 2018 
+
+ 
+
+campusMVP www.campusmvp.es 
+
+ 
+
+Desarrollador Web Front-end y algo de 
+
+Back-end 
+
+         
+
+DENNYS JOSE MARQUEZ REYES 
+
+  
+
+ Diplomado de Programación Web 
+
+Puntuación obtenida: 95 de 100, Duración  240Hrs, nov. De 2016 
+
+  
+
+Uneweb Instituto uneweb.edu.ve 
+
+ Ver certificación:  www.uneweb.com/cer/certi/5611484616799.pdf 
+
+   
+
+ Cursos y talleres 
+
+ 
+
+ 
+
+ TCN Training Center 
+
+ Adobe Photoshop CS5 Básico – Intermedio 
+
+ 2013 
+
+ TCN Training Center 
+
+ Desarrollo de aplicaciones Web con PHP y MySQLI Nivel Avanzado 
+
+ 2012 
+
+ TCN Training Center 
+
+ Taller de WordPress 3.0 Nivel Avanzado Plantillas, Generalidades y SEO 
+
+ 2012 
+
+ TCN Training Center 
+
+ Taller de Joomla 3.0 Avanzado Plantillas, Generalidades y SEO 
+
+ 2012 
+
+ Academia Local Cisco ID:674408 
+
+UCV – Núcleo Maracay Venezuela 
+
+ Primero, segundo y tercer semestres de Networking CCNA 
+
+ Duración  220Hrs, 2004 
+
+ Centro Educativo en Computación “María de San José”  
+
+Ministerio de Educación Código Nº 0035-04-03 
+
+ Diseñador grafico 
+
+ Duración 96 Hrs, 1997 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Skills 
+
+ 
+
+ 
+
+| Aplicaciones Web | Desarrollo de sitios web | Servicios web | 
+
+         
+
+| Hojas de estilos en cascada (CSS) |  | Renderizando de datos JSON | Maquetado 
+
+HTML y CSS a partir de diseños en Adobe Illustrator CC 2018 |     
+
+   
+
+ | CKeditor 4 plugins | Manejo avanzado 
+
+del DOM | PHP Simple HTML DOM | 
+
+ 
+
+ Proyectos 
+
+ 
+
+ 
+
+1 JavaScript, Render JSON HTML, Creación de un sistema que renderiza una página web entera a 
+
+partir de datos JSON 
+
+ 
+
+2018 – actualidad 
+
+ 
+
+Participación activa en la creación de BREF Bondarea Render Framework, un sistema que 
+
+renderiza una página web entera a partir de datos JSON  
+
+  
+
+2 JavaScript, Creación de Plugins para CKeditor, MsliderJQuery 
+
+ 2017 – 2017 
+
+ 
+
+ 
+
+ 
+
+ 
+
+todas las demás funciones. 
+
+ 
+
+Visualmente el diálogo del Plugins de CKeditor es semejante a la versión del plugins de 
+
+www.masterslider.com para WordPress. 
+
+ 
+
+Características y funciones de CKeditor MsliderJQuery: 
+
+ 
+
+Agregar las fotos a la slider 
+
+Fotos en miniatura (Thumbnail) 
+
+Slide Info 
+
+Video 
+
+Reproducción infinita del video 
+
+Modos de relleno para los videos 
+
+Silencio del video 
+
+Pausar el video cuando se cambia la Slider 
+
+Seo para las imágenes: title, alt ,Longdesc 
+
+Posibilidad de enlazar la Slider a una URL 
+
+Dimensiones estándar para las Sliders esto para los métodos de dimensionamiento en caja 
+
+box 
+
+Alineación de la Slider esta opción no lo trae el Plugin de www.masterslider.com 
+
+Comportamiento de la Slider: Reproducción automática y Navegación infinita 
+
+Transiciones para las sliders: Normal, Wave, Wave and Fade, Flow, Flow and Fade, Mask, 
+
+Parallax Mask, Fade, Scale, Focus, Partial View Wave 
+
+Velocidad de transición 
+
+Dirección desplazamiento de la Slider 
+
+Espacio entre las Sliders 
+
+Controles: Arrows, Bullets, Circle Timer, Line Timer, Scrollbar, Slide Info, Thumblist 
+
+  
+
+3 JavaScript, Creación de Plugins para CKeditor 4, horizontalrule2 style 
+
+ 
+
+2016 – 2016 
+
+ 
+
+Este Plugin lo cree basándome en https://codepen.io/ibrahimjabbari/pen/ozinB (18 Simple 
+
+Styles for Horizontal Rules (hr CSS Design) para insertar líneas horizontales <hr> son 18 Estilos 
+
+súper Cool se ven las líneas en una ventana de diálogo de CKeditor Genial!!  
+
+  
+
+4 JavaScript, Creación de Plugins para CKeditor 4, una actualización al Plugin simplebutton 
+
+ 
+
+2016 – 2016 
+
+ 
+
+Las Modificaciones que les hice a este Plugins fueron: 
+
+ 
+
+ 
+
+ Le agregue también la posibilidad de abrir en una ventana emergente o popup con contenido 
+
+extra, ejemplo en formulario de contacto una slider etc.  
+
+  
+
+5 PHP Programación y Desarrollo, CMS al estilo wix.com o websitebuilder.com 
+
+ 
+
+2016 – 2016 
+
+ 
+
+Este Proyecto fue una actualización al CMS “Simple CMS”de phpjabbers y fue basada en algunas 
+
+características de wix.com y websitebuilder.com, tales como sesiones de contenido siendo 
+
+capaces de ser editadas con CKeditor de forma inline mucho más fácil y con multitud de Plugins 
+
+a elegir, y por los momentos con un modelo de themes de página construidas a medida. 
+
+ 
+
+Aun no es soportado el método Drag drop de las sesiones estas tiene que ser agregadas 
+
+manualmente en el código de la página con su alto, ancho, y posición por el Fontend creador 
+
+del theme de la página, el método Drag drop de las sesiones y la posibilidad de cambiar su alto, 
+
+ancho, y posición con el mouse es una característica a desarrollar más adelante, el sistema es 
+
+100% más rápido que wix.com 
+
+  
+
+6 PHP Programación y Desarrollo, Creación de un sistema de múltiple idiomas para “STIVA Blog 
+
+Script” 
+
+ 
+
+2016 – 2016 
+
+ 
+
+Este proyecto lo realice para darle a este Blog la posibilidad de manejar varios idiomas que se le 
+
+pueden instalar subiendo los archivos de idioma comprimidos en un tipo Zip lo cual costa de 
+
+una imagen de la bandera del país que representa el idioma en cuestión y el lenguaje en php; 
+
+ 
+
+Características: 
+
+ 
+
+A. Posibilidad de poder redactar los POST en diferente idioma ejemplo: si se tiene instalado el 
+
+idioma chino, inglés, español, y francés se podría redactar un mismo Post en estos 4 idiomas en 
+
+la misma pantalla de edición del Post, seleccionando los banderines en la parte superior 
+
+cambiaría el idioma de la caja de texto y del título. 
+
+ 
+
+B. Detecta el idioma del browser del usuario que visitan el sitio seleccionando así el idioma para 
+
+hacer las consultas a la DB, por ejemplo si el idioma del browser del visitante es chino muestra 
+
+el POST y toda la interface en chino y si el idioma del browser del visitante es francés muestra la 
+
+versión de francés del Post y toda la interface y así sucesivamente. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+scorpioncms 
+
+ 
+
+2016 – 2016 
+
+ 
+
+Proyecto Personal 
+
+ 
+
+Este proyecto lo hice con la intención de que fuese  mi primer CMS y lo realice con la intención 
+
+de que pudiera manejar themes al estilo de WordPress y con casi la misma estructura de 
+
+carpetas esto para que me diera la posibilidad de adaptar cualquier theme bien sea de Joomla 
+
+WordPress o de cualquiera con un simple guardar como del browser bastaría para comenzar su 
+
+adaptación a mi CMS. 
+
+ 
+
+Mi script en realidad se convertiría en CMS en su segunda etapa por los momentos solo está la 
+
+función de blog este proyecto aún  no está terminado, se pueden agregar categorías aún no se 
+
+puede clasificar ningún post en ellas ni hacer uso de las mismas, maneja etiquetas en los post, 
+
+también cuenta con un manejador de archivos multimedia, sistema de idiomas para los JS y el 
+
+sitio en general. 
+
+ 
+
+Construido desde cero 100% Nuevo, las categorías se maneja con la técnica Nested Sets, misma 
+
+técnica que se usara para los menús del sitio ejemplo: (inicio | productos | contacto) y se 
+
+agregaran parecido como lo hace WordPress. 
+
+ 
+
+Las tecnologías, técnicas y librerías utilizadas en este proyecto son: 
+
+ 
+
+MVC, composer, php 5, JavaScript, JQuery, doctrine/dbal, CSS3, HTML5 
+
+ 
+
+  
+
+8 PHP Programación y Desarrollo, Theme para WordPress parecido al fabuloso deviantART 
+
+ 
+
+2014 – 2014 
+
+ 
+
+Proyecto Personal 
+
+ 
+
+Este proyecto es un theme hecho para WordPress parecido a DeviantART en la forma que 
+
+muestra las fotos y los artículos, tiene incluido la función de offset súper útil a la hora de 
+
+agregar una página a favoritos del browser esto por la opción de navegación infinita que posee 
+
+el theme, tiene una barra parecida al adobe Acrobat Reader PDF, que facilita cuando carga un 
+
+bloque de imágenes con el scroll infinito se puede ir de bloque en bloque seria pagina 1, página 
+
+2 etc., al igual que se puede hacer colocando directamente el número de la página si ya fue 
+
+cargada va a la página solicitada y la muestra, la barra también muestra la cantidad de fotos 
+
+cargadas en la página que está activa en el viewerPort. 
+
+ 
+
+ 
+
+ Una de las características más emblemáticas es la posibilidad de ir atrás y adelante en el 
+
+browser sin que se pierda lo ya cargado en la navegación infinita teniendo así la posibilidad de 
+
+seguir cargando nuevas páginas, en la navegación infinita al igual que lo hace DeviantART, tiene 
+
+zoon las fotos , las páginas de los comentarios se cargan solo una vez, cuando se hace click en 
+
+alguna página de los comentarios por ejemplo pag10 si ya la ha cargado simplemente muestra 
+
+su contenido sin volver hacer petición al servidor o a la DB esto es muy importante para el 
+
+ancho debanda al igual que la navegación infinita no la vuelve a cargar si se va a un link de 
+
+contenido y se regresa. 
+
+  
+
+9 Joomla 1.5, Sitio Web de Hrauseo y Asociados Consultores c.a 
+
+ 
+
+2011 – 2011 
+
+ 
+
+Proyecto Personal 
+
+ 
+
+Empresa que se dedica a dictar cursos y asesoría de seguridad industrial 
+
+ 
+
+Descripción: 
+
+ 
+
+Sitio Web construido con Joomla 1.5 
+
+  
+
+10 Joomla 1.5, Sitio Web de La casita de azúcar c.a 
+
+ 
+
+2011 – 2011 
+
+ 
+
+Proyecto Personal 
+
+ 
+
+Empresa que se dedica a la distribución, fabricación de dulces y tortas 
+
+ 
+
+Descripción: 
+
+ 
+
+Sitio Web construido con Joomla 1.5 
+
+  
+
+11 Joomla 1.5, Sitio Web de la corporación Prosper import c.a 
+
+ 
+
+2011 – 2011 
+
+ 
+
+Proyecto Personal 
+
+ 
+
+Corporación de condominio 
+
+ 
+
+ 
+
+ 
+
+12 Joomla 1.5, Sitio Web de la empresa Faegovensa c.a 
+
+ 
+
+2011 – 2011 
+
+ 
+
+Proyecto Personal 
+
+ 
+
+Empresa que se dedica a la fabricación e importación de Regatones 
+
+ 
+
+Descripción: 
+
+ 
+
+Sitio Web construido con Joomla 1.5 y el complemento Virtuemart para la tienda online como 
+
+catalogo 
+
+  
+
+13 PHP Programación y Desarrollo, Sitio web de mi servicio técnico www.tec.web44.net 
+
+ 
+
+2011 – 2011 
+
+ 
+
+Proyecto Personal 
+
+ 
+
+1. Construido con el script de Spirate, teniendo así la posibilidad de tener foros al estilo de 
+
+Taringa.net, con el objetivo de generar más tráfico de visitantes y vender mis servicios clonando 
+
+los POST más importantes de Taringa.net 
+
+ 
+
+2. Cree un programita en Visual Basic 6, para que sacara masivamente información de 
+
+taringa.net en este caso solo los POST de la categoría descargas, volcando esa información en 
+
+carpetas en el disco duro para después crear con otro programita que iba leyendo la 
+
+información de los archivos volcados en el disco duro y creando archivos .sql para luego ser 
+
+insertados en Db Spirate :)

@@ -1,0 +1,715 @@
+### FUENTE: Curso Online Programación avanzada con JavaScript y ECMAScript - campusMVP
+
+### TIPO: web_page | URL: https://www.campusmvp.es/catalogo/Product-Programaci%C3%B3n-avanzada-con-JavaScript-y-ECMAScript_206.aspx | CARACTERES: 19846 ###
+### KEYWORDS: Advanced JavaScript programming, ECMAScript modern features, Web development professional, Online programming course, Asynchronous function management ###
+
+Resumen: This webpage presents a comprehensive **advanced programming course** specializing in **JavaScript and ECMAScript**, designed specifically for experienced developers who wish to master the language's modern complexities. The text outlines a rigorous curriculum covering **professional techniques** such as asynchronous programming, object-oriented design, and DOM manipulation, aimed at eliminating common coding errors and technical debt. Beyond technical details, the source highlights a **mentored learning model** where industry experts provide direct support, combined with flexible access to practical videos and theoretical materials. Ultimately, the document serves as both a syllabus and a testimonial-driven pitch, emphasizing that **true mastery of the language** is essential for high-level web development in both browser and Node.js environments.
+
+------
+
+Saltar al contenido
+
+Menú
+
+CampusMVP.es 
+
+Los mejores 
+
+cursos online
+
+https://www.campusmvp.es/catalogo
+
+ para programadores  
+
+Inicio
+
+https://www.campusmvp.es/
+
+X
+
+https://www.campusmvp.es/
+
+Inicio
+
+https://www.campusmvp.es/
+
+Cursos Online
+
+https://www.campusmvp.es/
+
+Conócenos
+
+https://www.campusmvp.es/
+
+Opiniones
+
+https://www.campusmvp.es/
+
+Empresas
+
+https://www.campusmvp.es/
+
+Recursos
+
+https://www.campusmvp.es/
+
+Contacto
+
+https://www.campusmvp.es/
+
+Mi cuenta
+
+https://www.campusmvp.es/
+
+0  
+
+https://www.campusmvp.es/
+
+La mejor forma de Aprender Programación online y en español  www.campusmvp.es
+
+Programación avanzada con JavaScript y ECMAScript  
+
+Convence a tu jefe
+
+https://www.campusmvp.es#
+
+Quiero más información
+
+https://www.campusmvp.es#
+
+Estás en:
+
+Catálogo de cursos y libros
+
+https://www.campusmvp.es#
+
+>   Programación avanzada con JavaScript y ECMAScript
+
+Curso Online   Programación avanzada con JavaScript y ECMAScript  
+
+Convence a tu jefe
+
+https://www.campusmvp.es#
+
+Quiero más información
+
+https://www.campusmvp.es#
+
+Ir a la zona de compra  
+
+Este curso está orientado a 
+
+programadores que ya trabajan con JavaScript.
+
+ Marca la diferencia en la calidad de tu trabajo al 
+
+dominar las sutilezas de JavaScript
+
+. Descubre las más recientes y avanzadas características añadidas en 
+
+ECMAScript
+
+, disponibles en los navegadores modernos y en Node.js. ¡Conviértete en un mejor profesional del desarrollo web!
+
+JavaScript
+
+ es un lenguaje que engaña mucho. Lo básico es muy sencillo y se aprende rápido, pero después 
+
+presenta gran cantidad de complicaciones.
+
+ Hay quien llega a odiarlo y le parece un mal lenguaje, pero muchas veces es simplemente porque no se conoce a fondo y no se entiende bien su funcionamiento.
+
+Nota:
+
+ Si estás empezando con JavaScript 
+
+y quieres aprender bien desde cero
+
+, es mejor que hagas 
+
+ el curso de fundamentos de JavaScript
+
+https://www.campusmvp.es/catalogo/Product-Fundamentos-de-desarrollo-web-con-JavaScript_207.aspx
+
+.
+
+Para 
+
+programar a un nivel profesional con JavaScript
+
+ es indispensable tener muy claros algunos conceptos clave, o acabaremos con programas llenos de problemas, difíciles de mantener, que interfieren con las bibliotecas de otros, y que no funcionan bien en todos los navegadores.
+
+Además 
+
+el lenguaje está en plena evolución. 
+
+Desde el año 2015 el organismo internacional ECMA está sacando una nueva versión cada año con mejoras y añadidos importantes. A estas versiones modernas del lenguaje se les conoce como ECMAScript.
+
+Todos los navegadores modernos (y Node.js) pueden sacar partido a estas nuevas capacidades, que enriquecerán tu código y te facilitarán la vida. Y con los transpiladores, ¡también se pueden usar en navegadores antiguos!
+
+Es 
+
+la mejor formación que he recibido sobre JavaScript
+
+ con diferencia. Todos los temas se tratan en profundidad y 
+
+están muy bien explicados
+
+, tanto a nivel teórico como práctico mediante videos demostrativos [...] 
+
+¡Curso 100% recomendado!
+
+Ignasi Viu (Barcelona)
+
+¿Qué voy a aprender con este curso online de JavaScript y ECMAScript?
+
+En este completo curso (¡22 módulos con más de 300 lecciones!) 
+
+dominarás hasta el último detalle de JavaScript
+
+ , incluyendo las características más recientes del lenguaje.
+
+Con él te convertirás sin duda en un mejor profesional de la web. Aprenderás, entre otras muchas cosas:
+
+Peligros con el ámbito de las variables
+
+Técnicas eficientes de programación orientada a objetos con JavaScript: constructores, prototipos, herencia, encapsulación, polimorfismo, espacios de nombre, interfaces...
+
+Clausuras y otros conceptos importantes
+
+Controlando el valor de contexto
+
+Reflexión e introspección
+
+Trabajo con el DOM: jerarquías, recursión, colecciones “vivas” y “estáticas”, localización de elementos, modificación dinámica multi-navegador…
+
+Manejo avanzado de eventos en páginas web: gestión unificada y multi-navegador
+
+Creación de eventos personalizados propios
+
+Subclasificación
+
+Trabajo avanzado con funciones
+
+Funciones anónimas
+
+Modularización y organización de código con módulos ECMAScript
+
+Optimización de carga de scripts
+
+JSON, JSONP, CORS
+
+El modo estricto de JavaScript
+
+Uso práctico de la consola y sus comandos
+
+Funciones y tipos de datos ECMAScript
+
+Nuevas formas de declarar variables y su efecto en el ámbito, this, etc…
+
+Nuevos tipos de colecciones y agrupamientos de información
+
+Promesas
+
+Operador flecha, pérdida de this, uso de lambdas
+
+El API fetch para peticiones asíncronas
+
+Creación y uso de funciones asíncronas con async/await
+
+Mejoras y cambios en definición y notación de objetos
+
+Uso de literales de cadena y plantillas
+
+Símbolos y sus aplicaciones avanzadas
+
+Weakmaps
+
+Desestructuración de datos y el operador “spread”
+
+Iteradores y generadores
+
+Programación orientada a objetos en ECMAScript
+
+Creación y uso de proxies.
+
+Muy profundo y muy útil. 
+
+Pensé que sabía JavaScript hasta que hice el curso
+
+.
+
+Daniel Castro (Telde - Las Palmas)
+
+Este completísimo 
+
+curso de JavaScript/ECMAScript
+
+ cuenta con abundante 
+
+material teórico
+
+ (que podrás descargar al terminar para referencia y consulta futuras) y más de 20 horas de 
+
+demostraciones prácticas en vídeo
+
+. Además dispone de 
+
+ejemplos descargables
+
+, 
+
+explicaciones claras
+
+ de conceptos y
+
+ prácticas propuestas 
+
+ para reforzar conocimientos.
+
+Como en todos nuestros cursos,
+
+ los propios autores 
+
+del contenido, reconocidos expertos, 
+
+serán también tus tutores 
+
+y estarán disponibles para contestar tus dudas mientras dure la formación.
+
+💡 
+
+NO son clases en directo ni grabadas
+
+. Tienes acceso al material desde el primer día: teoría, vídeos prácticos, ejemplos de código, prácticas... Para que te formes a tu ritmo y desde cualquier lugar, con soporte y contacto directo con el propio autor.
+
+Conocimientos necesarios
+
+Se dan por supuestos conocimientos fundamentales de HTML, CSS y JavaScript, aunque el curso incluye al principio ciertos recordatorios de cuestiones consideradas de JavaScript fundamentales pero que muchos programadores desconocen. Se da por hecho que conoces variables y tipos, declaración de funciones, todas las estructuras de control (condicionales, bucles...), y tienes un mínimo de tiempo de experiencia trabajando con el lenguaje.
+
+«Me ha gustado mucho el curso
+
+ y aunque ya tenía conocimientos de JavaScript, 
+
+he podido aprender muchas cosas nuevas
+
+ y clarificar conocimientos que ya tenía.»
+
+Samuel Gómez Martín (Madrid)
+
+Cómo son nuestros cursos por dentro
+
+Usamos 
+
+nuestra propia plataforma
+
+https://www.plataformaself.com/
+
+ LMS 
+
+¿Cuándo empieza este curso online?
+
+Empieza el curso 
+
+hoy mismo
+
+ si quieres. Sólo necesitas una conexión a Internet para realizarlo 
+
+desde cualquier lugar del mundo
+
+. Nuestros estudiantes se encuentran en España, Argentina, Colombia, México, Chile, Perú...
+
+Una vez que compres el curso 
+
+te enviaremos las claves de acceso casi de inmediato
+
+, aunque el proceso de revisión de la compra y el alta es manual, así que puede llegar a demorarse 48 horas si lo compras el fin de semana.
+
+Si tienes alguna duda, consúltanos antes de comprar.
+
+¿Por qué estudiar con nosotros?
+
+100% Material Propio
+
+Y el proceso de revisión más exigente. La máxima calidad o nada.
+
+No sólo vídeos
+
+Teoría, vídeos prácticos, ejercicios, código, evaluaciones... Nada se deja al azar.
+
+Sólo los mejores expertos
+
+Nuestros tutores son profesionales con nombre y apellidos, relevantes en cada tecnología y con años de experiencia real.
+
+Contacto directo para dudas
+
+No esperes en un foro a ver si alguien contesta: pregúntaselo al mismo experto que ha creado el curso, con respuesta garantizada.
+
+Nos interesa que aprendas
+
+Como no te cobramos por mes, nuestro objetivo real es que le saques el máximo partido a la formación. Te guiamos y te supervisamos para lograrlo.
+
+Experiencia
+
+Desde 2005 formando online a decenas de miles de programadores, de miles de empresas con las más altas valoraciones. La mayoría repiten con nosotros.
+
+«¡Increíblemente útil!
+
+ Lo que he aprendido durante las sesenta horas que he dedicado al curso no lo he aprendido antes 
+
+ni en ningún otro curso ni por mi cuenta.
+
+ Se nota que la plataforma está enfocada en el alumno y en su aprendizaje.»
+
+Óscar Argüello (Sant Cugat del Vallés- BCN)
+
+Curso certificado por campusMVP
+
+Al acabar el curso no sólo obtendrás un diploma que certifica lo aprendido. Si lo deseas, podrás mostrar online el temario del curso y otros datos interesantes en tu propio perfil personalizado. Los 
+
+Perfiles Certificados Verificables
+
+ de campusMVP 
+
+son una certificación de los cursos que has hecho con nosotros
+
+ y te permiten compartirlos de manera sencilla.
+
+Formación Bonificada para empresas en España
+
+¿Sabías que si tu empresa paga el curso le puede salir sin coste (o casi) 
+
+a través de la Formación Bonificada
+
+https://www.campusmvp.es/descuentos/formacion-bonificada
+
+? Es muy sencillo, y si quieres, nos ocupamos del papeleo.
+
+OJO:
+
+ en ese caso, y por exigencias burocráticas de Fundae, el inicio del curso se retrasará un mínimo de 2 días después de la fecha de la compra. Además las fechas de inicio y de fin, una vez fijadas, no se pueden cambiar.
+
+⚠️ Date prisa si quieres bonificarte
+
+Descubre también 
+
+nuestros descuentos
+
+ para antiguos alumnos, desempleados o compras por volumen.
+
+Resumen de características del curso
+
+Acceso las 24 horas durante 
+
+12 semanas
+
+Necesitarás dedicarle 
+
+5-6 horas semanales
+
+ (~65-70 horas en total)
+
+Nivel:
+
+ Avanzado
+
+Curso 100% en castellano (español de España)
+
+Acceso directo al tutor para resolver todas tus dudas
+
+Diploma y 
+
+certificado verificado
+
+https://www.campusmvp.es/perfiles-certificados
+
+ por campusMVP 
+
+al aprobar
+
+Material en PDF
+
+ para referencia y consulta, disponible al terminar
+
+Apto para tablets, multinavegador y multidispositivo
+
+Convence a tu jefe
+
+Quiero más información
+
+Tutor
+
+José Manuel Alarcón  Developer Technologies MVP  
+
+Fundador de campusMVP. Es ingeniero industrial y ha dedicado toda su vida profesional a Internet y a la Web, viviendo de cerca todos sus cambios y evoluciones.
+
+Desde 1997 ha escrito 
+
+más de 10 libros sobre desarrollo Web
+
+, así como 
+
+cientos de artículos
+
+ en revistas especializadas del sector. Ha sido 
+
+ponente
+
+ en decenas de eventos de tecnología en España y Europa.
+
+Microsoft Corp. lo ha premiado como 
+
+MVP en desarrollo web
+
+ (Most Valuable Professional), desde el año 2004 hasta la actualidad, cada año.
+
+Puedes seguirlo en 
+
+LinkedIn
+
+https://www.linkedin.com/in/jmalarcon/
+
+.
+
+José Manuel es co-autor del contenido y también 
+
+estará disponible durante el curso para responder a tus dudas.
+
+Tutor
+
+Eduard Tomás  ExDeveloper Technologies MVP  
+
+Eduard es ingeniero informático, atesora más de 15 años de experiencia como desarrollador y ha sido galardonado como MVP por Microsoft en diez ocasiones.
+
+Es Certified Kubernetes Application Developer y colabora con la comunidad impartiendo charlas en formato webcast y en eventos de distintos grupos de usuarios. 
+
+Eduard es co-autor del contenido y también 
+
+estará disponible durante el curso para responder a tus dudas.
+
+ 𝕏
+
+: 
+
+@eiximenis
+
+.  
+
+Opiniones sobre el curso
+
+Empecé a programar hace 4 años y uno aprende a salir adelante con las herramientas disponibles, pero este curso profundiza en los orígenes del lenguaje JavaScript cubriendo temas que eran verdaderas "lagunas" en mi caso. Muy bien explicado y con el tutor siempre disponible. ¡Muchas gracias campusMVP!
+
+Carlos del Río (Santiago de Chile)
+
+Muy satisfecho con el curso en general, por los temas tratados en si y por la forma de hacerlo, de manera clara y muy explicativa [...]. Por mi parte, he recomendado vuestra página a otras personas interesadas, por calidad y utilidad. 
+
+Juan A. López (Murcia)
+
+Buena formación, mucha teoría y videos explicativos extensos y muy clarificantes
+
+Javier Pérez (Madrid)
+
+El curso es muy rico en la cantidad de temas que se imparten y los conocimientos e información de cada apartado, son presentados una gran profundidad, es por ello, por lo que el curso resulta tan bueno y altamente recomendable [...]
+
+Juan Peiró (Barcelona)
+
+Curso muy completo y con buena combinación de teoría y de práctica
+
+Abel Serna (Madrid)
+
+Un curso muy completo, en el que está todo tan bien explicado que es difícil perderse incluso aunque se estén tratando temas avanzados y complejos. Además está hecho de manera para que aprendas, no es el tipo curso que vienes a sacarte un diploma fácil, se nota que está diseñado para que tengas que aprender si quieres sacarlo ¡y eso es genial! En fin, un placer haber disfrutado de este curso, seguramente repetiré experiencia [...]
+
+Sergio Caballero (Pulianas, Granada)
+
+El curso está muy bien, a nivel de conceptos aprendes mucho y es muy interesante, además los tutores hacen un trabajo fantástico y te lo explican muy detallado todo [...]
+
+Guillem Estany (Igualada, Barcelona)
+
+Tutores con facilidad de transmitir los contenidos y aprendizaje muy bueno.
+
+Adrián Vázquez (Logroño)
+
+Cuando crees que sabes algo de JavaScript lo que debes hacer es seguir estudiando. Este curso despeja dudas que pudieras tener y resuelve otras que no sabías que tenías.
+
+Nauzet Díaz Rodríguez (Madrid)
+
+Es un curso excelente para reforzar primero la base de JS y posteriormente comprender mejor las posibilidades de JS6.
+
+Alejandro Ucero García (Madrid)
+
+Mi impresión sobre el curso es EXCELENTE. 
+  Conozco desde hace mucho tiempo CampusMVP, y de verdad que la decisión de hacer este curso ha sido la acertada. La teoría es clara y los vídeos afianzan la teoría. Haré más cursos con CampusMVP desde mañana mismo. 
+  Muchas gracias por la dedicación.Da gusto contar con tan buenos profesionales.
+
+David Oliver Ramos (Collado Villalba, Madrid)
+
+Me ha encantado el curso. Es muy completo, y tanto la teoría como los vídeos de ejemplo son fáciles de entender. Los profesores son unos cracks y lo demuestran.Cualquier duda te la responden en poco tiempo y bien explicada.
+
+Óscar Argüello (Sant Cugat del Vallés- BCN)
+
+Ha sido una gran experiencia. Si eres capaz de asimilar la cantidad de conocimiento que el curso provee, puedes decir con seguridad que conoces JavaScript.
+
+José Javier Cid (Valladolid)
+
+Excelente curso, realmente se profundiza en el tema, quedé sorprendido de las cosas que se pueden hacer con JavaScript.
+
+Jorge Recillas (México)
+
+El curso es muy completo y con bastante práctica para desarrollar lo aprendido en las lecciones. Los tutores responden rapidísimo a los correos y son unos expertos en el tema impartido.
+
+Jesús M. Martínez (Madrid)
+
+El contenido es único, es difícil encontrar por la web formación tan avanzada y que sea en español.
+
+Ouassin El Yahyati (Barcelona)
+
+[...] excelente curso excelente materia. Tanto ver en dónde invertir en un buen curso y he elegido bien [...] CampusMVP son los mejores y punto, 100% recomendados. Eso si, no fue fácil para nada, por eso los certifico, excelente material. Tuve que estudiar mucho y gracias a ello aprendí mucho. Gracias por todo. 
+
+Dennys José Márquez Reyes (Venezuela)
+
+Ha sido mi primer curso en campusMVP y me ha encantado. He ampliado enormemente mis conocimientos de JS de manera amena y cómoda, gracias a las explicaciones claras y concisas de los tutores. Por otra parte, la plataforma de aprendizaje está genial, muy completa, en todo momento tenía claro como organizarme el tiempo para cumplir los hitos a tiempo. 
+
+Sergio Ramos Calvente (Madrid)
+
+Muy satisfecho. Se tratan los contenidos al detalle y las explicaciones son muy claras. Sobre todo me ha gustado el nivel del curso, conceptos muy avanzados y novedosos. Enhorabuena. 
+
+Jose Luis Niveiro Yuste (Madrid)
+
+Ahora tengo una mejor base de JavaScript, y lo conozco con más profundidad.
+
+Fabián Andrés Allel Gallardo (Madrid)
+
+Tras realizar con anterioridad un curso con CampusMVP, y acabar este con una gran sensación de satisfacción, me propuse emprender una segunda experiencia con vosotros haciendo el curso de JavaScript, y de verdad que soy sincero cuando afirmo que la calidad de sus contenidos, profesorado, administración, se encuentra dentro del TOP en cuanto a formación online que se puede encontrar en habla hispana. Espero poder seguir contando con vosotros para (¿quién sabe cuáles? ;-) ) futuros proyectos formativos.
+
+ Alberto M. Fernández Sánchez (Badajoz)
+
+Me ha gustado mucho el curso y aunque ya tenía conocimientos de JavaScript, he podido aprender muchas cosas nuevas y clarificar conocimientos que ya tenía.
+
+Samuel Gómez Martín (Madrid)
+
+Considero que es un curso que te permite afianzar conocimientos y aclarar conceptos sobre JavaScript, así como descubrir algunos aspectos del lenguaje que muchas veces quedan ocultos . 
+
+Raúl Mateos Ferré (Tarragona)
+
+Este curso me ha dado las bases que siempre busqué para poder entender temas más avanzados como el uso de un framework como AngularJS o entender la arquitectura general de una SPA. ¡Felicitaciones por el gran trabajo! 
+
+Javier Alexandre Guerrero Pacheco (Buenos Aires- Argentina)
+
+Área de compra
+
+Programación avanzada con JavaScript y ECMAScript
+
+Actualizando . . .   Este curso puede ser 
+
+sin coste para tu empresa
+
+. 
+ ¿Te bonificas?: 
+ Precio:   395 € 
+
+ Si tienes alguna duda sobre el proceso de compra 
+
+consulta esta página
+
+https://www.campusmvp.es/descuentos/como-comprar
+
+.
+
+Otros productos que podrían interesarte:  
+
+HTML5 y CSS3 a fondo para desarrolladores
+
+https://www.campusmvp.es/Product-HTML5-y-CSS3-a-fondo-para-desarrolladores_185.aspx
+
+495€ 
+  Media de votos: 
+
+Fundamentos de desarrollo web con JavaScript y jQuery
+
+https://www.campusmvp.es/Product-Fundamentos-de-desarrollo-web-con-JavaScript-y-jQuery_207.aspx
+
+295€ 
+  Media de votos: 
+
+Desarrollo de aplicaciones web con Angular
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+345€ 
+  Media de votos: 
+
+Algunas tecnologías que enseñamos en nuestros cursos:
+
+Boletín
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+YouTube
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+Podcast
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+LinkedIn
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+𝕏
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+Facebook
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+Feed RSS
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+¿Por qué campusMVP?
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+Recursos para programadores
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+Bonifica tu curso
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+Servicios para empresas
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+Descuentos
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+Preguntas frecuentes
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+Contacto
+
+https://www.campusmvp.es/Product-Desarrollo-de-aplicaciones-web-con-Angular_232.aspx
+
+© Krasis Consulting S.L.U. - 
+
+Aviso Legal y Política de privacidad
+
+https://www.campusmvp.es/aviso_legal
+
+ - 
+
+Política de Cookies
+
+https://www.campusmvp.es/politica-cookies
+
+ - 
+
+Gestionar cookies
+
+https://www.campusmvp.es#

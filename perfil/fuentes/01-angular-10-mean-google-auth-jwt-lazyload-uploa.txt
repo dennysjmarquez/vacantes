@@ -1,0 +1,2345 @@
+### FUENTE: Angular 10 | MEAN, Google auth, JWT, Lazyload, upload de archivos, Guards, Pipes, Zona admin, dashboard y mucho más. | by Dennys J Marquez | Medium
+
+### TIPO: web_page | URL: https://dennysjmarquez.medium.com/angular-10-mean-google-auth-jwt-lazyload-upload-de-archivos-guards-pipes-zona-admin-bfa2e5ef9074 | CARACTERES: 31953 ###
+### KEYWORDS: MEAN Stack, Angular Front-End, Node.js Backend, JWT Authentication, Unit Testing ###
+
+Resumen: This article provides a comprehensive overview of a hospital management system built using the **MEAN stack**, which integrates MongoDB, Express, Angular, and Node.js. The author documents his two-year journey of mastering advanced concepts such as **JWT-based authentication**, **Google Sign-In integration**, and efficient data management through **Mongoose schemas and CRUD operations**. The project structure is meticulously organized into a front-end dashboard featuring **lazy loading** and reactive forms, a back-end server with robust **role-based route protection**, and a dedicated section for **unit and integration testing**. By sharing source code and live demos, the text serves as both a personal portfolio and a technical roadmap for developers looking to implement **secure, scalable web applications** using modern JavaScript frameworks.
+
+------
+
+Sitemap
+
+Open in app
+
+Sign in
+
+Medium Logo
+
+Write
+
+Search
+
+Sign in
+
+Angular 10 | MEAN, Google 
+
+auth
+
+, JWT, Lazyload, upload de archivos, Guards, Pipes, Zona admin, dashboard y mucho más.
+
+Dennys J Marquez
+
+18 min read · May 15, 2022
+
+--
+
+2020-2022
+
+Este es un 
+
+challenge 
+
+de un curso de 
+
+Fernando herrera
+
+.
+
+Sistema de hospitales — para controlar médicos, hospitales y usuarios
+
+Les comento que 
+
+me he disfrutado este curso 
+
+☕ si señor 
+
+fueron casi 2 años
+
+ mientras iba echando códigos, aprendiendo 
+
+dentro de mi día a día y mis responsabilidades laborales
+
+, vean todos los 
+
+Repositorios.
+
+Me divertí, realicé este curso para refrescar conocimientos y obtener nuevos.
+
+Mi perfil en LinkedIn: 
+
+💡Dennys Jose Marquez Reyes 🧠 | LinkedIn
+
+ 👍
+
+Press enter or click to view image in full size
+
+Demo:
+
+https://adminpro-system-hospitals.onrender.com/
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+Código fuentes
+
+Cliente: 
+
+https://github.com/dennysjmarquez/angular-adv-adminpro
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+Server: 
+
+https://github.com/dennysjmarquez/angular-adv-adminpro-backend
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+Bien, comencemos a describir todo lo que hice utilice y aprendí de este maravilloso curso:
+
+MEAN Stack
+
+Mongo, Express, Angular, Node.js.
+
+Sesión 1 — Front-End
+
+Google SignIn protegido por token desde el Front-End hasta el Backend
+
+Uso de librerías de terceros en proyectos de Angular, 
+
+gapi 
+
+Google Sign-In, 
+
+JQuery
+
+, etc.
+
+Rutas con configuraciones.
+
+Control de versiones y releases.
+
+Manejo de módulos, Servicios, Lazyload.
+
+Rutas hijas — 
+
+ForChild( )
+
+, 
+
+@inputs
+
+, 
+
+@Outputs
+
+ y 
+
+@ViewChild
+
+ — Referencia a elementos en el HTML.
+
+Implementación de 
+
+Charts 
+
+(Gráficas) de 
+
+ng2-charts.
+
+Reactive Forms, 
+
+Validaciones del formulario, uso de 
+
+SweetAlert, 
+
+Guardar información en el 
+
+LocalStorage
+
+Rxjs Observables, 
+
+pipes:
+
+Retry
+
+, 
+
+Take
+
+, 
+
+filter, map
+
+El uso de 
+
+interval
+
+, Observable, Observer.
+
+returnObservable
+
+(): Observable<number> { 
+  let i = 0; 
+  const ob$ = new Observable((observer: Observer<number>) => { 
+  const interval = 
+
+setInterval
+
+(() => { 
+  observer.next(i); 
+  if (i === 4) { 
+
+clearInterval
+
+(interval); 
+  observer.complete(); 
+  } 
+  if (i === 2) { 
+  i = 0; 
+  observer.error('i llego al valor 2'); 
+  } 
+  ++i; 
+  }, 1000); 
+  }); 
+  return ob$; 
+ } this._intervalSubs = this.
+
+returnInterval
+
+() 
+  .
+
+pipe
+
+( 
+
+// Especifica cuantas veces se va a ejecutar el Observable 
+
+take
+
+(10), 
+
+// Sirve para filtrar los valores y en este caso solo se muestran 
+  // los números pares 
+
+filter
+
+((value) => value % 2 === 0), 
+
+// Este operador recibe la información y la muta 
+
+map
+
+((value) => { 
+  return 'Hola mundo ' + (value + 1); 
+  }) 
+  ) 
+  .
+
+subscribe
+
+( 
+  (valor) => console.
+
+log
+
+('[returnInterval] valor', valor), 
+  (error) => console.
+
+warn
+
+('[returnInterval] Error', error), 
+  () => console.
+
+log
+
+('[returnInterval] Terminado') 
+  ); 
+ }
+
+returnInterval
+
+() { 
+  return 
+
+interval
+
+(100); 
+ }
+
+Pipe 
+
+de Angular para mostrar una imagen de una URL o desde el server
+
+import { 
+
+Pipe
+
+, PipeTransform } from '@angular/core'; 
+ import { environment } from '@env'; 
+ const baseUrl = environment.baseUrl; 
+ @Pipe({ 
+  name: 'getImage', 
+ }) 
+ export class GetImagePipe implements PipeTransform { 
+
+transform
+
+(value: any, type: 'users' | 'medicos' | 'hospitals'): any { 
+  return value && value.
+
+includes
+
+('://') ? value : `${baseUrl}/upload/${type}/${value || 'no-imagen'}`; 
+  } 
+ }
+
+Implantación de Lazyload con protección de rutas y carga de componentes
+
+import { 
+
+NgModule 
+
+} from '@angular/core'; 
+ import { CommonModule } from '@angular/common'; 
+ import { RouterModule, Routes } from '@angular/router'; 
+ import { PagesComponent } from './pages.component'; 
+
+// Guards 
+
+import { AuthGuard } from '../guards/auth.guard'; 
+ const APP_ROUTES: Routes = [ 
+
+// Template principal 
+
+{ 
+  path: 'dashboard', 
+  component: PagesComponent, 
+  canLoad: [AuthGuard], 
+  canActivate: [AuthGuard], 
+
+loadChildren
+
+: () => import('./pages-child-router.module').
+
+then
+
+(module => module.PagesChildRouterModule), 
+
+// Las rutas hijas se cargan con lazyload 
+  // children: [], 
+
+}, 
+ ]; 
+ const APP_ROUTING = RouterModule.forChild(APP_ROUTES); 
+ @NgModule({ 
+  declarations: [], 
+  imports: [CommonModule, APP_ROUTING], 
+  exports: [RouterModule], 
+ }) 
+ export class PagesRouter {}
+
+Todo organizado en módulos, buenas prácticas 🤜🏻🤛🏻
+
+Use 
+
+ngZone.run()
+
+ para notificar a Angular que refresque la vista, ya que algo sucedió fuera de los 
+
+ciclos de vida de Angular
+
+ y no lo detecta como se espera que fuese un proceso de Angular, porque es una
+
+ librería externa
+
+ que hizo un cambio fuera del control de cambio de Angular.
+
+Press enter or click to view image in full size
+
+Más información sobre ngZone aquí
+
+NgZone Cómo runOutsideAngular podría reducir las llamadas de detección de cambios en tu aplicación
+
+Cuando trabajo con Angular, a menudo veo que las personas están confundidas acerca de NgZone y zone.jsCreo que muchos…
+
+dennysjmarquez.netlify.app
+
+Press enter or click to view image in full size
+
+Sistema completo para identificar al usuario tanto en Google auth como con una cuenta normal en el back
+
+google-auth.service.ts
+
+import {Injectable} from '@angular/core'; 
+ import 
+
+Swal
+
+, {SweetAlertIcon} from 'sweetalert2'; 
+ import {AuthService} from './auth.service'; 
+ declare var gapi: any; 
+ @Injectable({ 
+  providedIn: 'root' 
+ }) 
+ export class GoogleAuthService { 
+  constructor(private _authService: AuthService) { 
+  } 
+
+makertGoogleLoginBtn
+
+(options: { 
+
+// Id del botón de Google en el HTML 
+
+btnSignin: string, 
+
+// Parámetros para el mensaje de Error si algo falla al iniciar la App para el login 
+
+errors?: { 
+  title?: string, 
+  text?: string, 
+  icon?: SweetAlertIcon, 
+  confirmButtonText?: string 
+  }, 
+
+// Función de se llama luego de un inicio exitoso 
+
+callbackStartApp: Function 
+  }) { 
+
+// Renderiza el botón de Google 
+
+gapi.signin2.
+
+render
+
+(options.btnSignin, { 
+  'scope': 'profile email', 
+  'width': 240, 
+  'height': 50, 
+  'longtitle': false, 
+  'onsuccess': (googleUser) => {}, 
+  'onfailure': console.
+
+log 
+
+}); 
+
+// Inicia el login con Google 
+
+this._authService.google.
+
+startApp
+
+('goole-signin').
+
+then
+
+((profile: any) => { 
+  options.callbackStartApp(profile); 
+  }).
+
+catch
+
+(error => { 
+
+Swal
+
+.
+
+fire
+
+({ 
+  title: options?.errors?.title || 'Error!', 
+  text: options?.errors?.text || error?.error?.msg || 'Error desconocido', 
+  icon: options?.errors?.icon || 'error', 
+  confirmButtonText: options?.errors?.confirmButtonText || 'Ok' 
+  }); 
+  }); 
+  } 
+ }
+
+auth.service.ts
+
+import { Injectable, NgZone } from '@angular/core'; 
+ import { LoginGoogleData } from '../interfaces/login-google-data.interface'; 
+ import { 
+
+tap 
+
+} from 'rxjs/operators'; 
+ import { Observable, 
+
+throwError 
+
+} from 'rxjs'; 
+ import { UserModel } from '../models/user.model'; 
+ import { HttpClient } from '@angular/common/http'; 
+ import { Router } from '@angular/router'; 
+ import { environment } from '@env'; 
+ import { LoginForm } from '../interfaces/login-form.interface'; 
+ declare var gapi: any; 
+ declare var $: any; 
+ @Injectable({ 
+  providedIn: 'root', 
+ }) 
+ export class AuthService { 
+  baseURL = environment.baseUrl; 
+  google_id = environment.GOOGLE_ID 
+  public currentUser: UserModel; 
+  constructor(private http: HttpClient, private _router: Router, private _ngZone: NgZone) {} 
+  google = { 
+  /** 
+  * 
+  * Obtiene una sesión de Google 
+  * 
+  */ 
+
+initGoogleAuth
+
+: () => { 
+  return new 
+
+Promise
+
+((resolve) => { 
+  gapi.
+
+load
+
+('auth2', () => { 
+  this.google.
+
+startApp
+
+['gapiAuth2'] = gapi.auth2; 
+
+// Retrieve the singleton for the GoogleAuth library and set up the client. 
+
+const auth2Init = gapi.auth2.
+
+init
+
+({ 
+  client_id: this.google_id, 
+  cookiepolicy: 'single_host_origin', 
+
+// Request scopes in addition to 'profile' and 'email' 
+  //scope: 'additional_scope' 
+
+}); 
+  resolve(auth2Init); 
+  }); 
+  }); 
+  }, 
+  /** 
+  * 
+  * Obtiene una sesión de Google y se coloca él escucha del evento clic sobre el botón de Google 
+  * 
+  * @param btnSignin {string} Id del botón de Google en el HTML 
+  */ 
+
+startApp
+
+: (btnSignin: string) => 
+  new 
+
+Promise
+
+(async (resolve, reject) => { 
+
+// Se obtiene una sesión de Google 
+
+const auth2Init: any = await this.google.
+
+initGoogleAuth
+
+(); 
+  const element = document.
+
+getElementById
+
+(btnSignin); 
+
+// Se captura el evento clic en el botón de Google 
+
+auth2Init.attachClickHandler( 
+  element, 
+  {}, 
+  (googleUser) => { 
+  const profile = googleUser.getBasicProfile(); 
+  const token = googleUser.getAuthResponse().id_token; 
+  $(".preloader").fadeIn(); 
+  this.google.
+
+login
+
+({ token }).
+
+subscribe
+
+( 
+  (resp) => { 
+  resolve(profile); 
+  }, 
+  (error) => { 
+  $(".preloader").fadeOut(); 
+  reject(error); 
+  } 
+  ); 
+  }, 
+  function (error) { 
+
+alert
+
+(JSON.
+
+stringify
+
+(error, undefined, 2)); 
+  } 
+  ); 
+  }), 
+  /** 
+  * 
+  * Se intensifica en el servidor de la App 
+  * 
+  * @param gToken {string} Token devuelto por Google 
+  */ 
+
+login
+
+: (gToken: LoginGoogleData) => { 
+  this.
+
+resetCurrentUser
+
+(); 
+  return this.http.
+
+post
+
+(`${this.baseURL}/login/google`, gToken).
+
+pipe
+
+( 
+
+tap
+
+(({ token = '' }: any) => { 
+  localStorage.
+
+setItem
+
+('token', token); 
+  }), 
+
+tap
+
+((data: any) => this.
+
+setCurrentUser
+
+(data)) 
+  ); 
+  }, 
+  /** 
+  * 
+  * Lleva a cabo el logOut de la App 
+  * 
+  * @param callback {Function} Función anónima que es llamada luego que se haya hecho el logOut 
+  */ 
+
+logOut
+
+: (callback?: Function) => { 
+  const logOut = () => { 
+  this.
+
+resetCurrentUser
+
+(); 
+  const auth2 = this.google.
+
+startApp
+
+['gapiAuth2'].getAuthInstance(); 
+  auth2.signOut().
+
+then
+
+(() => { 
+  typeof callback === 'function' && this._ngZone.
+
+run
+
+(() => callback()); 
+  }); 
+  }; 
+
+// Por si se pierde la sesión porque se refresca la pagina 
+
+if (!this.google.
+
+startApp
+
+['gapiAuth2']) { 
+  this.google.
+
+initGoogleAuth
+
+().
+
+then
+
+(() => logOut()); 
+  } else { 
+  logOut(); 
+  } 
+  }, 
+  }; 
+  /** 
+  * 
+  * Obtiene el Token y lo almacena localmente 
+  * 
+  */ 
+  get 
+
+token
+
+(): string { 
+  return localStorage.
+
+getItem
+
+('token') || ''; 
+  } 
+  /** 
+  * 
+  * Valida el token este método se usa en auth.guard para conceder el acceso o deniegarlo 
+  * en ciertas zonas o paginas también almacena información sensible del usuario 
+  * en este servicio, tales como: name, email, img, google, role, uid 
+  * 
+  * En la prop public user: UserModel de la class 
+  * 
+  */ 
+
+validateToken
+
+(): Observable<any> { 
+
+// Obtiene el Token almacenado localmente 
+
+const token = this.
+
+token
+
+; 
+
+// Se chequea primero si el token existe antes de ser enviado al servidor para su validación 
+
+if (!token) { 
+  return 
+
+throwError
+
+('Usuario no logeado'); 
+  } 
+  return this.http 
+  .
+
+get
+
+(`${this.baseURL}/login/tokenrenew`, { headers: { Authorization: token } }) 
+  .
+
+pipe
+
+( 
+
+tap
+
+(({ token = '' }: any) => { 
+
+// Almacena el nuevo token 
+
+localStorage.
+
+setItem
+
+('token', token); 
+  }), 
+
+tap
+
+((data: any) => this.
+
+setCurrentUser
+
+(data)) 
+  ); 
+  } 
+
+loginUser
+
+(formData: LoginForm): Observable<any> { 
+  this.
+
+resetCurrentUser
+
+(); 
+  return this.http.
+
+post
+
+(`${this.baseURL}/login`, formData).
+
+pipe
+
+( 
+
+tap
+
+(({ token = '' }: any) => { 
+  localStorage.
+
+setItem
+
+('token', token); 
+  }), 
+
+tap
+
+((data: any) => this.
+
+setCurrentUser
+
+(data)) 
+  ); 
+  } 
+
+resetCurrentUser
+
+() { 
+  this.currentUser = new UserModel(null, null, null, null, null, null, null); 
+  localStorage.
+
+removeItem
+
+('token'); 
+  } 
+  private 
+
+setCurrentUser
+
+({ usuario: { name, email, img, google, role, uid } }) { 
+  this.currentUser = new UserModel(name, email, '', img, google, role, uid); 
+  } 
+ }
+
+Models
+
+Interfaces
+
+Al respecto, de sí usar Class o Interfaces, les dejo este artículo para más información al respecto
+
+Usar Modelos, clases e Interfaces en Angular
+
+Usar Modelos, clases e Interfaces en Angular
+
+Al desarrollar servicios con Angular es una buena idea usar clases e Interfaces para definir las estructuras de datos…
+
+dennysjmarquez.netlify.app
+
+Uso de import { FormBuilder, FormGroup, Validators } from ‘@angular/forms’;
+
+Custom validator o validaciones a medida
+
+Press enter or click to view image in full size Press enter or click to view image in full size
+
+Mantenimientos de Hospitales, usuarios y médicos
+
+Press enter or click to view image in full size Press enter or click to view image in full size
+
+Usuarios
+
+Press enter or click to view image in full size Press enter or click to view image in full size Press enter or click to view image in full size
+
+Hospitales
+
+Press enter or click to view image in full size Press enter or click to view image in full size Press enter or click to view image in full size
+
+Médicos
+
+Press enter or click to view image in full size Press enter or click to view image in full size Press enter or click to view image in full size
+
+Profile
+
+Press enter or click to view image in full size
+
+Sesión 2 — Back-End
+
+Node — Express — MongoDB
+
+Demo:
+
+https://adminpro-system-hospitals.onrender.com/
+
+Código fuente Server: 
+
+https://github.com/dennysjmarquez/angular-adv-adminpro-backend
+
+Press enter or click to view image in full size
+
+Uso de 
+
+MongoDb compass
+
+, 
+
+Mongo Atlas
+
+ para alojamiento de la dB y 
+
+configuraciones
+
+.
+
+Configuaciones como ejemplo: añadir la IP  0.0.0.0/0 , en
+
+ Network Access 
+
+de 
+
+MongoDB Atlas
+
+ con lo que abriríamos nuestra dB para que cualquier dirección IP pueda conectarse. 🤘🏻
+
+Conectar el Back con Mongo Atlas usando 
+
+Mongoosejs
+
+https://mongoosejs.com/
+
+database/config.js
+
+index.js
+
+Press enter or click to view image in full size
+
+Creación de modelos para interactuar con la dB de MongoDB Atlas CRUD
+
+Modelos para los Hospitales, Usuarios y Médicos
+
+Schema con referencias y el uso de populate, para agregar información extra o necesaria al esquema en cuestión.
+
+models/hospital.model.js
+
+models/medico.model.js
+
+controllers/hospitals.controller.js
+
+controllers/medicos.controller.js
+
+Manejo de los nombres de los esquemas a medida, con 
+
+{ collection: ‘hospitales’ } lo podemos personalizar 🤟🏻
+
+Press enter or click to view image in full size
+
+models/hospital.model.js
+
+const 
+
+{ Schema, model } = require('mongoose'); 
+
+const 
+
+hospitalSchema = Schema( 
+  { 
+  name: { 
+  type: 
+
+String
+
+, 
+  required: 
+
+true
+
+, 
+  }, 
+  img: { 
+  type: 
+
+String
+
+, 
+  }, 
+  user: { 
+  required: 
+
+true
+
+, 
+  type: Schema.Types.ObjectID, 
+  ref: 'User', 
+  }, 
+  }, 
+
+// Por defecto mongoose le agrega al los modelos una s al final del nombre del modelo, 
+  // y en este caso sería por defecto “Hospitals” y con esta opción le damos un 
+  // nombre personalizado “hospitales” y así va a aparecer en la Db de mongoose 
+
+{ collection: 'hospitales' } 
+ ); 
+
+// Esto para modificar los nombres de los campos retornados de la Db 
+
+hospitalSchema.method('toJSON', 
+
+function 
+
+() { 
+
+// Al extraer los campos dejan de ser regresados, como por ejemplo 
+  // el Password no conviene que se muestre ese valor por seguridad y 
+  // por lo tanto no se regresa , igual se extrae el __v por pura estetica 
+
+const 
+
+{ __v, _id, ...object } = 
+
+this
+
+.toObject(); 
+  object.uid = _id; 
+
+return 
+
+object; 
+ }); 
+ module.exports = model('Hospital', hospitalSchema);
+
+models/medico.model.js
+
+const 
+
+{ Schema, model } = require('mongoose'); 
+
+const 
+
+medicoSchema = Schema({ 
+  user: { 
+  type: Schema.Types.ObjectID, 
+  ref: 'User', 
+  required: 
+
+true
+
+, 
+  }, 
+  name: { 
+  type: 
+
+String
+
+, 
+  required: 
+
+true
+
+, 
+  }, 
+  img: { 
+  type: 
+
+String
+
+, 
+  }, 
+  hospital: { 
+  type: Schema.Types.ObjectID, 
+  ref: 'Hospital', 
+  required: 
+
+true
+
+, 
+  }, 
+ }); 
+
+// Esto para modificar los nombres de los campos que retornados de la Db 
+
+medicoSchema.method('toJSON', 
+
+function 
+
+() { 
+
+// Al extraer los campos dejan de ser regresados, como por ejemplo 
+  // el Password, no conviene que se muestre ese valor por seguridad, 
+  // por lo tanto, no se regresa. 
+  // Igual se puede extraer el __v por pura estética, también se puede 
+  // cambiar si se necesita el _id por uid, se retornaría el object 
+  // con los campos modificados. 
+
+const 
+
+{ __v, _id, ...object } = 
+
+this
+
+.toObject(); 
+  object.uid = _id; 
+
+return 
+
+object; 
+ }); 
+ module.exports = model('Medico', medicoSchema);
+
+models/usuario.model.js
+
+const 
+
+{ROLES} = require('../constant'); 
+
+const 
+
+{Schema, model} = require('mongoose'); 
+
+const 
+
+userSchema = Schema({ 
+  name: { 
+  type: 
+
+String
+
+, 
+  required: 
+
+true
+
+, 
+  }, 
+  email: { 
+  type: 
+
+String
+
+, 
+  required: 
+
+true
+
+, 
+  unique: 
+
+true
+
+, 
+  }, 
+  password: { 
+  type: 
+
+String
+
+, 
+  required: 
+
+true
+
+, 
+  }, 
+  img: { 
+  type: 
+
+String
+
+, 
+  }, 
+  role: { 
+  type: 
+
+String
+
+, 
+  required: 
+
+true
+
+, 
+
+default
+
+: ROLES.USER_ROLE, 
+  }, 
+  google: { 
+  type: 
+
+Boolean
+
+, 
+
+default
+
+: 
+
+false
+
+, 
+  }, 
+ }); 
+
+// Esto para modificar los nombres de los campos retornados de la Db 
+
+userSchema.method('toJSON', 
+
+function 
+
+() { 
+
+const 
+
+{__v, _id, password, ...object} = 
+
+this
+
+.toObject(); 
+  object.uid = _id; 
+
+return 
+
+object; 
+ }); 
+ module.exports = model('User', userSchema);
+
+Validación del JWT
+
+Haciendo uso del Middleware — middlewares/validate-jwt.middleware.js
+
+Press enter or click to view image in full size
+
+El uso de 
+
+express-validator para 
+
+v
+
+alidar los datos enviados al servidor en el body
+
+routes/auth.route.js
+
+Es usado en las rutas como un Middleware
+
+Validar un MongoID
+
+.isMongoId()
+
+check('hospital', 'El id del hospital no es válido').isMongoId(),
+
+CRUD de médicos, usuarios y hospitales
+
+Uso de los modelos de mongoose para obtener los datos, buscar, actualizar y borrar información en la dB
+
+Con el uso de los Schema se crea el modelo
+
+El Modelo de Hospitales como ejemplo:
+
+models/hospital.model.js
+
+Obtener todos los hospitales data guardada en la collection.
+
+Guardar información.
+
+Actualizar la información.
+
+Press enter or click to view image in full size
+
+Borrar información un hospital.
+
+Búsqueda de un Hospital haciendo uso de las expresiones regular.
+
+controllers/search.controller.js
+
+Si se usa 
+
+find({})
+
+ sin parámetros devuelve toda la collection.
+
+Búsquedas en varias colecciones a la vez.
+
+controllers/search.controller.js
+
+Press enter or click to view image in full size
+
+Paginación de los datos haciendo uso de .skip y .limit
+
+Press enter or click to view image in full size
+
+Protección de rutas basadas en JWT y sistema de Roles
+
+constant.js
+
+/** 
+  * 
+  * Global constants file 
+  * 
+  */ 
+ module.exports = { 
+  ROLES: { 
+  ADMIN_ROLE: 'ADMIN_ROLE', 
+  USER_ROLE: 'USER_ROLE' 
+  } 
+ }
+
+middlewares/validate-role.middleware.js
+
+const 
+
+{ request, response } = require('express'); 
+
+const 
+
+UsersModel = require('../models/usuario.model'); 
+
+const 
+
+validateRole = 
+  (roles = [], paramsUID = 
+
+false
+
+) => 
+
+async 
+
+(req = request, res = response, next) => { 
+
+try 
+
+{ 
+
+let 
+
+getParamsUID; 
+
+const 
+
+{ uid } = req.usuario; 
+
+// Obtener el usuario del uid 
+
+const 
+
+usuario = 
+
+await 
+
+UsersModel.findById(uid); 
+
+if 
+
+(paramsUID) { 
+  getParamsUID = req.params.id; 
+  } 
+
+if 
+
+(!usuario || !roles.includes(usuario.role) && !(paramsUID && getParamsUID === uid)) { 
+
+return 
+
+res.status(403).json({ 
+  msg: 'Acceso denegado', 
+  }); 
+  } 
+  next(); 
+  } 
+
+catch 
+
+(e) { 
+
+return 
+
+res.status(403).json({ 
+  msg: 'Acceso denegado', 
+  }); 
+  } 
+  }; 
+ module.exports = { 
+  validateRole, 
+ };
+
+middlewares/validate-jwt.middleware.js
+
+const 
+
+{ response, request } = require('express'); 
+
+const 
+
+jwt = require('jsonwebtoken'); 
+
+const 
+
+validateJWT = 
+
+async 
+
+(req = request, res = response, next) => { 
+
+const 
+
+{ authorization: token } = req.headers; 
+
+try 
+
+{ 
+
+if 
+
+(!token) { 
+
+return 
+
+res.status(401).json({ 
+  msg: 'Token no definido', 
+  }); 
+  } 
+
+// Leer Token 
+
+const 
+
+data = 
+
+await 
+
+jwt.verify(token, process.env.JWT_SECRET); 
+
+const 
+
+{ uid, role } = data.payLoad; 
+
+// se pasa al controlador el uid 
+
+req.usuario = { uid, role }; 
+  next(); 
+  } 
+
+catch 
+
+(e) { 
+  res.status(500).json({ 
+  msg: 'Token no valido', 
+  }); 
+  } 
+ }; 
+ module.exports = { 
+  validateJWT, 
+ };
+
+Login con Google y verificación de su Token
+
+helpers/googleVerifyIdToken.helper.js
+
+const 
+
+{ OAuth2Client } = require('google-auth-library'); 
+
+const 
+
+client = 
+
+new 
+
+OAuth2Client(process.env.GOOGLE_ID); 
+
+const 
+
+googleVerifyIdToken = 
+
+async 
+
+(token) => { 
+
+const 
+
+ticket = 
+
+await 
+
+client.verifyIdToken({ 
+  idToken: token, 
+  audience: process.env.GOOGLE_ID, 
+
+// Specify the CLIENT_ID of the app that accesses the backend 
+
+}); 
+
+return 
+
+{ email, name, picture } = ticket.getPayload(); 
+ } 
+ module.exports = { 
+  googleVerifyIdToken 
+ }
+
+controllers/auth.controller.js
+
+const 
+
+loginGoogle = 
+
+async 
+
+(req = request, res = response) => { 
+
+const 
+
+{ token: G_token } = req.body; 
+
+try 
+
+{ 
+
+const 
+
+{ email, name, picture } = 
+
+await 
+
+googleVerifyIdToken(G_token); 
+
+// Se chequea si el usuario existe o se va a crear uno nuevo 
+
+const 
+
+userDB = 
+
+await 
+
+UsersModel.findOne({ email }); 
+
+let 
+
+userNew; 
+
+if 
+
+(!userDB) { 
+  userNew = 
+
+new 
+
+UsersModel({ 
+  password: '123456', 
+  name, 
+  email, 
+  google: 
+
+true
+
+, 
+  img: picture, 
+  }); 
+
+// Guarda en la Db el user 
+
+await 
+
+userNew.save(); 
+  } 
+
+else 
+
+{ 
+  userNew = userDB; 
+  userNew.google = 
+
+true
+
+; 
+
+// Guarda en la Db el user 
+
+await 
+
+userNew.save(); 
+  } 
+
+const 
+
+payLoad = { 
+  uid: userNew.id, 
+  role: userNew.role, 
+  }; 
+
+// 
+
+Genera un Token de JWT
+
+const 
+
+token = 
+
+await 
+
+generateJWT(payLoad); 
+  res.json({ 
+  token, 
+  usuario: userNew 
+  }); 
+  } 
+
+catch 
+
+(e) { 
+  console.log(e); 
+  res.status(500).json({ 
+  msg: 'El Token no es correcto ', 
+  }); 
+  } 
+ };
+
+Login normal.
+
+controllers/auth.controller.js
+
+Uso de 
+
+findOne 
+
+para devolver la primera conciencien en la collection.
+
+const 
+
+login = 
+
+async 
+
+(req = request, res = response) => { 
+
+const 
+
+{ email, password } = req.body; 
+
+try 
+
+{ 
+
+// Verifica el Email 
+
+const 
+
+userDb = 
+
+await 
+
+UsersModel.findOne({ email }); 
+
+if 
+
+(!userDb) { 
+
+return 
+
+res.status(404).json({ 
+  msg: 'No se ha podido encontrar tu cuenta', 
+  }); 
+  } 
+
+// Verifica el Password 
+
+const 
+
+validPass = bcrypt.compareSync(password, userDb.password); 
+
+if 
+
+(!validPass) { 
+
+return 
+
+res.status(400).json({ 
+  msg: 'Contraseña incorrecta', 
+  }); 
+  } 
+
+const 
+
+payLoad = { 
+  uid: userDb.id, 
+  role: userDb.role, 
+  }; 
+
+// Genera un Token de JWT 
+
+const 
+
+token = 
+
+await 
+
+generateJWT(payLoad); 
+  res.json({ 
+  token, 
+  usuario: userDb 
+  }); 
+  } 
+
+catch 
+
+(e) { 
+  res.status(500).json({ 
+  msg: 'Error inesperado… revisar logs', 
+  }); 
+  } 
+ };
+
+Uso de 
+
+express-fileupload
+
+ para subir archivos
+
+routes/upload.route.js
+
+const 
+
+{ Router } = require('express'); 
+
+const 
+
+router = Router(); 
+
+const 
+
+{ ROLES } = require('../constant'); 
+
+// Middlewares 
+
+const 
+
+{ validateJWT } = require('../middlewares/validate-jwt.middleware'); 
+
+const 
+
+{ validateUploads } = require('../middlewares/validate-uploads.middleware'); 
+
+const fileUpload 
+
+= require('express-fileupload'); 
+ router.use(
+
+fileUpload
+
+()); 
+
+// Controllers 
+
+const 
+
+{ upLoad, returnImg } = require('../controllers/upload.controller'); 
+
+const 
+
+{ validateRole } = require('../middlewares/validate-role.middleware'); 
+ router.put('/:type/:id', [validateJWT, validateRole([ROLES.ADMIN_ROLE], 
+
+true
+
+), validateUploads], upLoad); 
+ router.get('/:type/:photo', [validateUploads], returnImg); 
+ module.exports = router;
+
+controllers/upload.controller.js
+
+const 
+
+{ request, response } = require('express'); 
+
+const 
+
+{ v4: uuidv4 } = require('uuid'); 
+
+const 
+
+{ upDateImage } = require('../helpers/upDate-image.helper'); 
+
+const 
+
+path = require('path'); 
+
+const 
+
+fs = require('fs'); 
+
+const 
+
+upLoad = 
+
+async 
+
+(req = request, res = response) => { 
+
+try 
+
+{ 
+
+const 
+
+{ id, type } = req.params; 
+
+// Valida que se haya mandado un archivo 
+
+if 
+
+(!req.files || Object.keys(req.files).length === 0) { 
+
+return 
+
+res.status(400).json({ 
+  msg: 'Error: No se ha mandado ningún archivo' 
+  }); 
+  } 
+
+// Se procesa la imagen 
+
+const 
+
+file = req.files.image; 
+
+const 
+
+nameSplit = file.name.split('.'); 
+
+const 
+
+extFile = nameSplit[nameSplit.length -1].toLowerCase(); 
+
+// Extensiones Validas permitidas 
+
+const 
+
+mimeTypeValid = [ 
+  'image/jpeg', 
+  'image/png', 
+  'image/gif' 
+  ]; 
+
+// Verifica que lo que se envié sea del tipo permitido 
+
+if
+
+(!mimeTypeValid.includes(file.mimetype)){ 
+
+return 
+
+res.status(400).json({ 
+  msg: 'Error: No es un archivo permitido' 
+  }); 
+  } 
+
+// Genera el nuevo nombre del archivo 
+
+const 
+
+nameFile = `${ uuidv4() }.${ extFile }`; 
+
+// Path para guardar el archivo 
+
+const 
+
+path = `./uploads/${type}/${nameFile}`; 
+
+// Mueve la imagen 
+
+await 
+
+file.mv(path, (err) =>{ 
+
+if 
+
+(err){ 
+  console.log(err); 
+  res.status(500).json({ 
+  msg: 'Error inesperado no se pudo subir la imagen… revisar logs' 
+  }); 
+  } 
+
+// Actualizar base de datos 
+
+upDateImage(type, id, nameFile); 
+  res.json({ 
+  upLoad: 
+
+true
+
+, 
+  nameFile 
+  }); 
+  }); 
+  }
+
+catch 
+
+(e) { 
+  console.log(e) 
+  res.status(500).json({ 
+  msg: 'Error inesperado… revisar logs' 
+  }); 
+  } 
+ } 
+
+const 
+
+returnImg = 
+
+async 
+
+(req = request, res = response) => { 
+
+try 
+
+{ 
+
+const 
+
+{photo, type} = req.params; 
+
+let 
+
+pathImg = path.join(__dirname, `../uploads/${type}/${photo}`); 
+
+// Si no existe la imagen se manda una por defecto 
+
+if
+
+(!fs.
+
+existsSync
+
+(pathImg)){ 
+  pathImg = path.join(__dirname, `../uploads/no-img.jpg`); 
+  } 
+
+return 
+
+res.sendFile(pathImg); 
+  } 
+
+catch 
+
+(e) { 
+  console.log(e) 
+  res.status(500).json({ 
+  msg: 'Error inesperado… revisar logs' 
+  }); 
+  } 
+ } 
+ module.exports = { 
+  upLoad, 
+  returnImg 
+ };
+
+helpers/upDate-image.helper.js
+
+const 
+
+fs = require('fs'); 
+
+const 
+
+UsersModel = require('../models/usuario.model'); 
+
+const 
+
+HospitalsModel = require('../models/hospital.model'); 
+
+const 
+
+MedicosModel = require('../models/medico.model'); 
+
+const 
+
+deleteImg = (path) => { 
+
+if 
+
+(fs.
+
+existsSync
+
+(path)) { 
+
+try 
+
+{ 
+  fs.
+
+unlinkSync
+
+(path); 
+  } 
+
+catch 
+
+(e) { 
+
+return false
+
+; 
+  } 
+  } 
+ }; 
+
+const 
+
+upDateImage = 
+
+async 
+
+(type, id, nameFile) => { 
+
+switch 
+
+(type) { 
+
+case 
+
+'hospitals': { 
+
+const 
+
+hospital = 
+
+await 
+
+HospitalsModel.findById(id); 
+
+if 
+
+(!hospital) { 
+  console.log('El id del hospital no existe'); 
+
+return false
+
+; 
+  } 
+
+if 
+
+(hospital.img) { 
+
+const 
+
+oldPath = `./uploads/${type}/${hospital.img}`; 
+
+// Borrar la imagen anterior 
+
+deleteImg(oldPath); 
+  } 
+  hospital.img = nameFile; 
+
+try 
+
+{ 
+
+await 
+
+hospital.save(); 
+
+return true
+
+; 
+  } 
+
+catch 
+
+(e) { 
+
+return false
+
+; 
+  } 
+  } 
+
+case 
+
+'medicos': { 
+
+const 
+
+medico = 
+
+await 
+
+MedicosModel.findById(id); 
+
+if 
+
+(!medico) { 
+  console.log('El id del medico no existe'); 
+
+return false
+
+; 
+  } 
+
+if 
+
+(medico.img) { 
+
+const 
+
+oldPath = `./uploads/${type}/${medico.img}`; 
+
+// Borrar la imagen anterior 
+
+deleteImg(oldPath); 
+  } 
+  medico.img = nameFile; 
+
+try 
+
+{ 
+
+await 
+
+medico.save(); 
+
+return true
+
+; 
+  } 
+
+catch 
+
+(e) { 
+
+return false
+
+; 
+  } 
+  } 
+
+case 
+
+'users': { 
+
+const 
+
+user = 
+
+await 
+
+UsersModel.findById(id); 
+
+if 
+
+(!user) { 
+  console.log('El id del hospital no existe'); 
+
+return false
+
+; 
+  } 
+
+if 
+
+(user.img) { 
+
+const 
+
+oldPath = `./uploads/${type}/${user.img}`; 
+
+// Borrar la imagen anterior 
+
+deleteImg(oldPath); 
+  } 
+  user.img = nameFile; 
+
+try 
+
+{ 
+
+await 
+
+user.save(); 
+
+return true
+
+; 
+  } 
+
+catch 
+
+(e) { 
+
+return false
+
+; 
+  } 
+  } 
+  } 
+ }; 
+ module.exports = { 
+  upDateImage 
+ }
+
+Habilitación de una carpeta pública para servir el proyecto de Angular compilado
+
+index.js
+
+Sesión 3 — Pruebas unitarias y de integración
+
+Demo:
+
+https://codesandbox.io/p/github/dennysjmarquez/angular-13-unit-test-and-integration
+
+Código fuente: 
+
+https://github.com/dennysjmarquez/angular-13-unit-test-and-integration
+
+Press enter or click to view image in full size
+
+Las pruebas están separadas en 4 categorías:
+
+Básicas
+
+En estas pruebas verán la comprobación de Arrays, La comprobación de los booleans y las diferentes formas de hacer esto
+
+Ej.  expect(resp).toBe(true) expect(resp).toBeTrue() expect(resp).toBeTruthy()
+
+// la Negación puede ser asi o usar uno que evalué un false
+
+expect(resp).not.toBeTruthy()
+
+También muestro el cómo hacer un test de funciones que están dentro de una class, probando el return de la misma, Pruebas con números usando toBe, string uso de toContain expect(typeof resp).toBe('string') familiarización con la evaluación de expect, siclos de vida del describe de 
+
+Jasmine
+
+https://jasmine.github.io/api/3.10/global
+
+, tales como beforeAll, beforeEach, afterAll, afterEach y en que caso usar cada uno de ellos.
+
+Intermedias
+
+Esta sección trabaja con pruebas un poco más complejas y reales:
+
+Pruebas sobre Event Emitter
+
+Formularios
+
+Validaciones
+
+Saltar pruebas
+
+Espías
+
+Simular retornos de servicios
+
+Simular llamado de funciones
+
+Esta sección da fundamentos muy valiosos para realizar pruebas unitarias y de integración Se hacen comprobaciones simples de un componente haciendo usos de cosas simples como estas component =  new Form(new FormBuilder()) , aquí ya se empieza a ver los  spyOn()  para espiar algunos métodos de algunos servicios y hacer a las pruebas en relación con los resultados de estos métodos.
+
+Intermedias 2
+
+Esta sección se enfoca en las pruebas de integración:
+
+Aprender la configuración básica de una prueba de integración
+
+Comprobación básica de un componente
+
+TestingModule
+
+Archivos SPEC generados automáticamente por el AngularCLI
+
+Pruebas en el HTML
+
+Revisar inputs y elementos HTML
+
+Separación entre pruebas unitarias y pruebas de integración
+
+Ya aquí empiezo a usar a  TestBed ,  ComponentFixture ,  configureTestingModule  que es una copia limitada de lo que sería el  @NgModule , pero para las pruebas y donde se va a poder insertar módulos componentes y servicios, también controlo ya aquí lo que es el siclo de control de cambios de Angular mediante el uso de detectChanges para que se puedan hacer pruebas de integración, ya que con esto se actualiza el HTML.
+
+En esta sesión ya empiezo a usar a  debugElement.query()  y  By.css  para acceder al HTML y hacer las comprobaciones necesarias en una prueba de integración.
+
+Avanzadas
+
+Esta sección es un verdadero reto, especialmente entre más te vas acercando al final de la misma. Aquí veremos temas como:
+
+Revisar la existencia de una ruta
+
+Confirmar una directiva de Angular (router-outlet y routerLink)
+
+Errores por selectores desconocidos
+
+Reemplazar servicios de Angular por servicios falsos controlados por nosotros
+
+Comprobar parámetros de elementos que retornen observables
+
+Subject
+
+Gets
+
+En estas pruebas haremos comprobaciones de los params del ActivatedRoute, y comprobaremos la navegación del Router, con toHaveBeenCalledWith Verificando que se llame con los parámetros indicados para la ruta ruta en cuestion
+
+Angular
+
+https://jasmine.github.io/api/3.10/global
+
+Mongodb
+
+https://jasmine.github.io/api/3.10/global
+
+Mean Stack
+
+https://jasmine.github.io/api/3.10/global
+
+Written by  Dennys J Marquez
+
+10 followers
+
+https://jasmine.github.io/api/3.10/global
+
+·
+
+70 following
+
+https://dennysjmarquez.medium.com/following?source=post_page---post_author_info--bfa2e5ef9074---------------------------------------
+
+💡 Web Developer FrontEnd ➤ JavaScript ES6 / Angular / React / React Native / LitElement / Vue.js / HTML5 CSS3 Sass 🔥 
+
+https://dennysjmarquez.dev/
+
+https://dennysjmarquez.dev/
+
+No responses yet
+
+Help
+
+Status
+
+About
+
+Careers
+
+Press
+
+Blog
+
+Privacy
+
+Rules
+
+Terms
+
+Text to speech

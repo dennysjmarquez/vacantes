@@ -1,0 +1,704 @@
+### FUENTE: proyectos.pdf
+
+### TIPO: pdf | URL: N/A | CARACTERES: 30965 ###
+### KEYWORDS: Angular development, React and Next.js, Web Components, Server-side rendering, Unit testing Jest ###
+
+Resumen: This document provides a detailed professional portfolio outlining a series of web development projects spanning from 2010 to 2024. The text is structured as a chronological showcase of technical expertise, moving from early experiments in **Visual Basic** and **Joomla** to modern, sophisticated architectures using **Angular**, **React**, and **Next.js**. A central theme throughout the source is the implementation of **robust state management** and **dynamic UI components**, evidenced by specialized services for nested forms and microfrontend architectures. Beyond mere coding, the author emphasizes **full-stack proficiency**, high-level security practices such as **CSRF protection**, and a commitment to software quality through **Test-Driven Development (TDD)** and unit testing. Ultimately, the collection serves to demonstrate the developer's growth and versatility in building **scalable, high-performance web applications** and reusable open-source tools.
+
+------
+
+Proyectos 
+
+Angular 13 | FormArray: Gestión Correcta y Eficiente de Campos o Grupos Repetibles 
+
+sept. 2024 - sept. 2024 
+
+✅ Componente de formulario dinámico utilizando FormArray para manejar grupos de campos repetibles de manera correcta, eficiente y flexible. Este componente es ideal para formularios que requieren la adición y eliminación dinámica de campos. 
+
+Características: 
+
+📌 Formularios Reactivos: Utiliza FormBuilder y FormArray. 📌 Campos Dinámicos: Agrega y elimina grupos de campos de formulario dinámicamente. 📌 Validación: Incluye validación básica de formularios. 📌 Reutilizable: Fácilmente adaptable para diferentes casos de uso. 
+
+Casos de Uso: 
+
+📌 Registro de Usuarios: Agregar múltiples usuarios con campos como nombre y email. 📌 Lista de Tareas: Gestionar una lista de tareas. 📌 Inventario de Productos: Agregar productos con campos como nombre, cantidad y precio. 📌 Encuestas o Cuestionarios: Crear encuestas con múltiples opciones de respuesta. 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/angular-dynamic-form-FormArray 
+
+Aptitudes: Angular · JavaScript · TypeScript 
+
+React | Proyecto Next.js 14 con SSR, Redux, Material-UI y TSS-React 
+
+sept. 2024 - sept. 2024 
+
+✅ Plantilla para construir aplicaciones con Next.js 14, utilizando Server-Side Rendering (SSR), Redux para la gestión del estado, Material-UI para los componentes de la interfaz y TSS-React para los estilos. 
+
+Esta plantilla facilita la configuración y el desarrollo de aplicaciones Next.js con una integración eficiente de estas tecnologías. 
+
+Tecnologías Utilizadas: 
+
+📌 Next.js: Framework de React con soporte para SSR. 📌 Redux: Gestión del estado de la aplicación. 📌 Material-UI: Componentes de interfaz de usuario modernos y personalizables. 📌 TSS-React: Gestión de estilos con soporte SSR.
+
+Características: 
+
+📌 SSR: Mejora el SEO y el rendimiento al renderizar las páginas en el servidor. 📌 Redux: Estado de la aplicación inicializado y cargado desde el servidor. 📌 Material-UI: Proporciona una interfaz de usuario moderna y consistente. 📌 TSS-React: Carga de estilos desde el servidor, eliminando saltos de estilo y mejorando la experiencia de usuario. 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/next-14-ssr-redux-material-ui-server-styles-tss-react 
+
+Aptitudes: React.js · JavaScript · Next,js · Redux.js · Material-UI 
+
+Angular Nested Forms Service 
+
+ago. 2024 - ago. 2024 
+
+✅ Un servicio robusto y eficiente diseñado para gestionar formularios anidados. Ideal para aplicaciones complejas donde múltiples formularios independientes forman parte de un único formulario principal. 
+
+📌 Gestión Centralizada de Formularios: Centraliza la gestión de formularios en varios componentes, facilitando sincronización, validación y acceso a datos. 
+
+Aunque existen soluciones como Reactive Forms, NgRx Forms y Formly, mi servicio ofrece una gestión centralizada y simplificada de formularios anidados que estas bibliotecas no cubren completamente. 
+
+En muchos proyectos, la implementación de formularios anidados varía significativamente. Por ejemplo: 
+
+➡ Crear un formGroup para cada step/tabs y pasarlos a los subcomponentes. ➡ Gestionar formularios en cada step/tabs y emitir valores al componente padre. 
+
+La gestión de múltiples formGroups y la sincronización de cambios entre componentes puede ser compleja y propensa a errores. Mi servicio centraliza esta gestión, simplificando el desarrollo y mantenimiento. 
+
+Al ofrecer una solución estándar para formularios anidados, se evita la inconsistencia en las implementaciones, facilitando la colaboración y el mantenimiento del código. 
+
+Características y Ventajas 
+
+📌 Gestión Centralizada: Administra formularios y controles desde un único servicio. 
+
+📌 Sincronización: Los componentes hijos se suscriben para registrar formularios o componentes cuando otros elementos de un formulario están disponibles, rompiendo el esquema tradicional de comunicación de padres a hijos. 
+
+📌 Validación Global: Verifica la validez de todos los formularios desde un solo punto. 
+
+📌 Flexibilidad: Añade y manipula formularios y controles dinámicamente. 
+
+📌 Simplicidad: API clara y directa, evita complejidad. 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/angular-nested-forms-service 
+
+■ Puede ver una demo en: https://stackblitz.com/edit/stackblitz-starters-ua8a9k 
+
+Aptitudes: Angular · JavaScript · TypeScript 
+
+React | MicroFrontends con Vite, React, Redux y i18next 
+
+dic. 2023 - dic. 2023 
+
+✅ Este proyecto es una demostración efectiva de cómo se construye una arquitectura de microfrontends escalable y eficiente. 
+
+📌 Demuestro cómo implementar microfrontends con React, Vite Module Federation, Redux, y i18next. 
+
+📌 Los proyectos grandes y monolíticos pueden complicarse cuando se trata de mantenimiento y escalabilidad. La tecnología microfrontends da un enfoque práctico para resolver estos problemas. 
+
+📌 El proyecto consta de tres aplicaciones: un host y dos Micro Frontend. Cada uno mantiene su independencia, mientras que se establece una comunicación fluida entre ellos mediante intercambio de estados con Redux y escalado de eventos. 
+
+✅ Otras aspectos técnicos: 
+
+➡ Cambio de idioma global sincronizado: Cuando se cambia el idioma en el host, todos los microfrontends cambian de idioma de forma sincronizada. ➡ Carga Bajo Demanda: El host carga bajo demanda los microfrontends con React lazy load, controlando los posibles errores en las importaciones. ➡ Estilos: Para los estilos, he aplicado Styled Components con la metodología BEM para mantener la consistencia en toda la aplicación. ➡ Cada componente se organiza en su propio módulo: Los idiomas y estilos son agregados dinámicamente por los componentes. 
+
+La estructura que use para los componentes es: 
+
+📁components │--📁Component │--│--📁lang │--│----🌐en.json 
+
+│--│----📄index.js │--│--📁styles │--│----🎨componentStyles.js │--│--📄index.js │--│--📄Component.jsx 
+
+✅ Condigo fuente: https://github.com/dennysjmarquez/MultiLingual-MicroFrontends-vite-react-redux-Host 
+
+✅ Puede ver una demo alojada en: https://demo-multilingual-microfrontends-vite-react-redux-host.vercel.app 
+
+Para probar la demo, sigue estos pasos: 
+
+➡ Ve al [demo del host]. ➡ Abre la consola del navegador con Ctrl + Shift + I o F12. ➡ Ve a la pestaña ‘Network’ y borra lo grabado. ➡ Interactúa con la demo. Verás la actividad de los Microfrontends en ‘Network’, haciendo clic en los botones de las series o películas. 
+
+-END-
+
+Aptitudes: React.js · Micro Frontend · Webpack · Redux.js 
+
+Host y Micro Frontend 
+
+React | Calculadora de Inversión en Criptomoneda 
+
+ago. 2023 - ago. 2023 
+
+Esta es una aplicación web que permite a los usuarios definir un balance en dólares para invertir en Bitcoin, Ethereum y Cardano. La aplicación calcula la ganancia anual para cada moneda, asumiendo que Bitcoin tiene un retorno mensual del 5%, Ethereum tiene un retorno mensual del 4.2% y Cardano tiene un retorno mensual del 1%. 
+
+Además, la aplicación muestra el balance proyectado final del monto invertido y su equivalente en cripto. También incluye una tabla actualizada con información sobre las 3 criptomonedas 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/Calculadora-de-Inversion-en-Criptomonedas 
+
+■ Puede ver una demo alojada en: https://crypto-inv-calc-api-messari-demo.onrender.com 
+
+Aptitudes: React.js · Servicios web de RESTful · Criptomoneda · Tailwind CSS · Node.js · Express.js 
+
+Servidor para el proyecto (Calculadora de Inversión en Criptomonedas)
+
+Calculadora de Inversión en Criptomonedas 
+
+TDD en NodeJS, guía de tests con Jest 
+
+jun. 2022 - oct. 2022 
+
+Test driven development con NodeJS y jest. Inyección de dependencias, test unitarios, test de integración con superTest, para probar absolutamente toda la cadena 
+
+¡Lleva tu código escrito en NodeJS al siguiente nivel escribiendo pruebas unitarias y de integración con Jest! Una herramienta potente y flexible creada por Facebook que facilita la escritura de pruebas unitarias y de integración. 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/tdd-en-nodejs-guia-de-tests-con-jest 
+
+■ Puede ver una demo alojada en: https://codesandbox.io/p/github/dennysjmarquez/tdd-en-nodejs-guia-de-tests-con-jest 
+
+TDD en NodeJS, guía de tests con Jest 
+
+Angular 10 | MEAN, Google auth, JWT, Lazyload, upload de archivos, Guards, Pipes, Zona admin, dashboard, y mucho más. 
+
+ago. 2020 - may. 2022 
+
+Un sistema de hospitales — para controlar médicos, hospitales y usuarios 
+
+1- MEAN Stack 
+
+Mongo, Express, Angular, Node.js. 
+
+Estructura de una aplicación de Angular a gran escala 
+
+Aplicación en base a módulos 
+
+2- Backend server completo 
+
+Express 
+
+RESTFul API 
+
+Subida de archivos 
+
+CORS 
+
+MongoDB 
+
+CRUD 
+
+JWT 
+
+Revisión de tokens de Google SignIn 
+
+3- Google SignIn protegido por token desde el Front-End hasta el Backend 4- Uso de librerías de terceros en proyectos de Angular 
+
+5- Rutas con configuraciones 6- Control de versiones y releases 7- Generar la aplicación para distribución sobre Node 
+
+■ URL del proyecto: dennysjmarquez.medium.com/angular-10-mean-google-auth-jwt-lazyload-upload-de-archivos-guards-pipes-zona-admin-bfa2e5ef9074 
+
+■ Puede ver una demo alojada en: https://adminpro-system-hospitals.onrender.com 
+
+Aptitudes: MongoDB · Angular · Node.js · Express.js 
+
+Servidor para el proyecto (angular-adv-adminpro) 
+
+Proyecto (angular-adv-adminpro) 
+
+Angular 13 | Plataforma de Movies 
+
+abr. 2022 - may. 2022 
+
+Esta es una clásica plataforma de Movie, elaborado en Angular versión 13.3.4 Bootstrap 5 como CSS, posee un sistema de autentificación con auth0, protección de rutas sensibles con canLoad, canActivate, Implementación de Lazy-loading. 
+
+Servidor: 
+
+Creado con Node.js y express, protegí la ruta con un middleware que válida un token de auth0, este servidor solo sirve una data de las películas retornando un archivo JSON como dB en un único endPoint protegido por un token de auth0., Db de Películas con su Título, descripción, tipo de película, imagen y fecha. 
+
+■URL del proyecto: https://dennysjmarquez.medium.com/angular-13-clásica-plataforma-de-movie-7906b13eaee3 
+
+■ Puede ver una demo alojada en: https://angular-movies.onrender.com/movies 
+
+Aptitudes: Angular · Node.js · Express.js 
+
+Servidor para el proyecto (angularStreaming) 
+
+Proyecto (angularStreaming)
+
+Pruebas Unitarias y de integración (Unit testing) en Angular 13 
+
+may. 2022 - may. 2022 
+
+Las pruebas están separadas en 4 categorías: 
+
+* Básicas, en estas pruebas verán la comprobación de Arrays, la comprobación de los booleans y las diferentes formas de hacer esto. 
+
+* Intermedias, esta sección trabaja con pruebas un poco más complejas y reales: 
+
+- Pruebas sobre Event Emitter - Formularios - Validaciones - Saltar pruebas - Espías - Simular retornos de servicios - Simular llamado de funciones 
+
+* Intermedias 2, esta sección se enfoca en las pruebas de integración: 
+
+- Comprobación básica de un componente - TestingModule - Archivos SPEC generados automáticamente por el AngularCLI - Pruebas en el HTML - Revisar inputs y elementos HTML - Separación entre pruebas unitarias y pruebas de integración 
+
+* Avanzadas, esta sección es un verdadero reto, especialmente entre más te vas acercando al final de la misma: 
+
+- Revisar la existencia de una ruta - Confirmar una directiva de Angular (router-outlet y routerLink) - Errores por selectores desconocidos - Reemplazar servicios de Angular por servicios falsos controlados por nosotros - Comprobar parámetros de elementos que retornen observables - Subject - Gets 
+
+■ URL del proyecto: https://dennysjmarquez.medium.com/angular-10-mean-google-auth-jwt-lazyload-upload-de-archivos-guards-pipes-zona-admin-bfa2e5ef9074#db81 
+
+■ Puede ver una demo alojada en: https://codesandbox.io/p/github/dennysjmarquez/angular-13-unit-test-and-integration 
+
+Aptitudes: Angular
+
+Proyecto (Pruebas Unitarias y de integración (Unit testing) en Angular) 
+
+React | SSR - Server Side Rendering a tope, Mi Portafolio V1, código fuente liberado 😁🤩 🎉 
+
+dic. 2021 - dic. 2021 
+
+Código fuente de un proyecto completo que renderiza del lado del servidor con JavaScript, React, React hooks, react-universal-component, express.js, webpack 4, y babel 
+
+Portafolio construido con React y React Universal Components usando el enfoque del renderizado del lado del servidor, Side Server Render, con capacidad de cachear una DB o alguna data en el servidor, parecido a Next.js ya que las rutas poseen una key especial llamada getInitialData que indica el nombre del archivo que se llamara para recuperar alguna data que será usada en un primer renderizado, ideal para el SEO 
+
+Es un ecosistema único, ideal para ser usado como base para proyectos que necesitan tener un ecosistema único, listo para ser desarrollado y llevado a sus máximos. 
+
+El proyecto se puede usar como base para el desarrollo de algún proyecto que necesite ser side server render con un ecosistema único 🎁 𝗘𝗦 𝗨𝗡 𝗥𝗘𝗚𝗔𝗟𝗢 que le hago a toda la comunidad 🎉 
+
+■ Video explicativo: https://drive.google.com/file/d/1y1bXqK7l17Gh1sbeYf_RCGQk8viiDG1-/view 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/portfolio-react-ssr-v1 
+
+Aptitudes: React.js · Server-Side Rendering · Node.js 
+
+Server Side Rendering con React y express a tope, Mi Portafolio V1, código fuente liberado 
+
+Server Side Rendering con React y express a tope, Mi Portafolio V1, 404 Demo 
+
+Server Side Rendering con React y express a tope, Mi Portafolio V1 
+
+Node.js y Express.js | Sessions, ataques CSRF 
+
+abr. 2021 - abr. 2021 
+
+Este es un proyecto en el que muestro y explico la importancia de usar Token CSRF, para evitar ataques de CSRF. 
+
+Son 3 Video con un aproximado de 1:15:00 en el que explico, como hacer un ataque CSRF y como
+
+evitarlo, Token CSRF e implementación. 
+
+1- Que es un ataque CSRF Cross-site request forgery o falsificación de petición en sitios cruzados. 2- El cómo puedes proteger las rutas sensibles de tu servicio rest. 3- Que son rutas sensibles. 4- También explico el código fuente de la implementación para que se te haga más fácil entenderlo y entender mi código 
+
+Este es un proyecto educativo en apoyo a la comunidad de desarrolladores. 
+
+■ Videos explicativos: https://drive.google.com/drive/folders/1EoTg6Zak-s8kgX0LxrjOihRsFHnyYL3L 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/express-manager-session-security-csrf-token 
+
+Aptitudes: Node.js · Express.js 
+
+Node.js y Express.js | Sessions, ataques CSRF como hacerlo y evitarlo, Token CSRF y implementación 
+
+Vue.js 2 | Desarrollo de un listado de productos con carrito de compras 
+
+jul. 2020 - jul. 2020 
+
+Es una App de productos con un carrito de compras y actualizar los datos sin refrescar. 
+
+Vuejs 2 
+
+Vuex 
+
+Vuex y el uso de namespaced 
+
+Creación de componentes usando la instancia de Vue.Js y Vue componets 
+
+Vue Cli 3 
+
+Vuex en el navegador utilizando LocalStorage o IndexedDB 
+
+Formularios avanzados utilizando el Plugin VeeValidate 
+
+Transitions en Vuejs 
+
+Completo buscador con Vuex y Getters 
+
+Sistema para autenticar usuarios y persistir con Vuex 
+
+CRUD con JSON SERVER, consumir API con Vuex + Router, todas las operaciones HTTP, GET, POST, PUT y DELETE 
+
+Manejo del Router de forma completa, eventos, proteger rutas y todo lo necesario 
+
+Uso de Axios, VueAxios 
+
+Middleware JSON SERVER para iniciar sesión 
+
+Plugins VeeValidate, VuexPersist y Bootstrap Vue 
+
+Módulo de autenticación, estado y mutaciones 
+
+Rutas y rutas hijas 
+
+Uso del evento BeforeEach de VueRouter para controlar rutas públicas y privadas 
+
+Hojas de estilo Stylus con Vue 
+
+Creación de una ventana modal con Vue Transitions 
+
+Uso de mapState y mapMutations 
+
+Uso de Computed Properties con getters y setters 
+
+Data Binding con v-model utilizando Arrays 
+
+Emitir eventos a componentes padres con $emit Watchers, pendiente de un cambio 
+
+Mixins para añadir funciones extras a un componente 
+
+Directiva, dando el foco a inputs 
+
+Directiva para aplicar estilos a componentes pasando parámetros 
+
+Desarrollo de plugins con argumentos 
+
+Uso de Props, paso de datos a componentes al utilizarlo, tipos y validación 
+
+Props VS Data y reactividad 
+
+■ Video explicativo: https://drive.google.com/file/d/1iSCacvuucGO5L-VpHbv_wcWOW-xI5LDD/view 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/challenge-curso-vuejs2-vue-shop/ 
+
+■ Puede ver una demo alojada en: https://dennysjmarquez.github.io/challenge-curso-vuejs2-vue-shop/demo/ 
+
+Aptitudes: Vue.js 
+
+Vue.js 2 | Desarrollo de un listado de productos con carrito de compras 
+
+Angular 8 Drag y Drop de archivos y Upload a Firebase con ProgressBar 
+
+jun. 2019 - jun. 2019 
+
+Esta Web App carga imágenes a Firebase, válida que solo sean imágenes, que no se repitan si ya existen en la lista de imágenes para subir y cuenta con un progress bar que indica que tanto lleva el archivo cargado, es bastante sencillo, pero tiene sus partes interesantes como es el Drag Drop y el uso de uploadTask y TaskSnapshot de Firebase para supervisar el estado de la carga. 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/angular-dragdrop-listfiles-firebase-uploader-progressbar 
+
+■ Puede ver una demo alojada en: https://dennysjmarquez.github.io/angular-dragdrop-listfiles-firebase-uploader-progressbar/dist/fotosfirebase/ 
+
+Aptitudes: Angular 
+
+Screenshot 1 
+
+Screenshot 2
+
+Screenshot 3 
+
+Angular 8 | Gestión Completa de Usuarios CRUD con PHP y MySQL 
+
+jun. 2019 - jun. 2019 
+
+Este proyecto implementó diversas características y buenas prácticas en Angular. 
+
+Aplico conceptos y técnicas avanzadas como formularios reactivos, validaciones personalizadas, patrones de diseño e inyección de dependencias, entre otros: 
+
+Uso de pipes o tuberías, uso del Pipe keyvalue 
+
+Manejo del patrón mediador para el flujo de datos entre componentes 
+
+Formulario Reactivo 
+
+Validaciones asíncronas, validar si un correo ya existe o una cedula 
+
+Asignación de un valor a los campos del formulario mediante el uso de setValue 
+
+Manejo de mensajes de errores en los campos del formulario 
+
+Incorporación de librerías como jQuery y Bootstrap para mejorar la experiencia de usuario 
+
+Implementación de componentes reutilizables siguiendo buenas prácticas 
+
+Acceso de dos formas a los campos de los formularios en el témplate 
+
+Diálogos modales animados utilizando Bootstrap 
+
+Uso de iconos de la librería Font Awesome 
+
+Manejo de rutas y valores de rutas con ActivatedRoute 
+
+Navegacion haciendo uso de “@angular/router” a Router.navigate() 
+
+Inyección de servicios en los componentes 
+
+Uso de interfaces personalizadas con TypeScript para un mejor control de tipos 
+
+Estructuración organizada de carpetas y archivos, separando responsabilidades 
+
+Estilos globales y estilos encapsulados por componente 
+
+Uso de iconos de la librería Font Awesome 
+
+Implementación del back-end en PHP puro, con consultas MySQL preparadas para evitar inyecciones 
+
+Property binding 
+
+EventEmitter 
+
+templateUrl, template, styleUrls, styles, y en qué casos usar uno o el otro 
+
+Uso directo de los tipos de datos personalizado sin hacer uso de las Interface, TypeScript  
+
+■ Video explicativo: https://drive.google.com/file/d/10KQIA-wKUs7tqJ9u_e49a46CZVpcXdxK/view 
+
+■ Código fuente: https://github.com/dennysjmarquez/angular-lista-de-usuarios-y-back-en-PHP-puro 
+
+Aptitudes: Angular 
+
+Screenshot 1
+
+Mostrar todo el contenido multimedia (6) 
+
+Screenshot 2 
+
+Screenshot 3 
+
+LitElement 2 | Todo List 
+
+abr. 2019 - jun. 2019 
+
+Creación de un Todo List, se pueden agregar tareas, marcar y desmarcar las tareas, use el patrón mediador, hacer el binding de datos a propiedad y escalar un evento para la comunicación entre los elementos padres a hijos, hijos a nietos o nietos a abuelos, se cargan los datos atreves de atributos en la etiqueta y mediante el uso localStorage. 
+
+🎬 Vídeo en el que explico mi primera práctica con LitElement, lo que son los Webs Compones nativos, el uso de LitElement para construirlos, la diferencia de Polymer y la evolucionada Liberia LitElement. 
+
+🔗 https://www.youtube.com/watch?v=gedYyrqfvgQ 
+
+🎬 Vídeo donde doy un ejemplo de uno de los posibles usos que se le puede dar a un Web Component 
+
+🔗 https://www.youtube.com/watch?v=t9Nv9jJCwMQ 
+
+Analizo el código fuente de la página web de la empresa Leniolabs_ LLC, viendo una animación en su portada que llamo mi atención y decidí ver si se trataba de un GIF o un SVG animado y efectivamente era un SVG animado, pero mi sorpresa fue ver que se realizó dentro de un Web Components, Genial simplemente Genial. 
+
+■ URL del proyecto: https://dennysjmarquez.medium.com/web-components-con-litelement-todo-list-2e5923d0f183 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/curso-de-litelement-EscuelaIT-todomvc 
+
+■ Puede ver una demo alojada en: https://dennysjmarquez.github.io/curso-de-litelement-EscuelaIT-todomvc/demo 
+
+Screenshot 
+
+Web Components con LitElement 2, componente de Fecha sin Calendario
+
+may. 2019 - may. 2019 A este componente se le pueden cambiar los estilos, bordes, colores del texto, fondo, idioma, mostrar los nombres de los meses. 
+
+Este componente lo tengo publicado en GitHub, en la comunidad de Polydile y en NPM. 
+
+Tiene una Demo creado con Storybook 
+
+■ URL del proyecto: https://www.behance.net/gallery/90384607/Web-Components-LitElement-Fecha-sin-Calendario 
+
+■ Puede ver una demo alojada en: https://dile-date-without-calendar.polydile.com/ 
+
+■ Condigo fuente: https://github.com/Polydile/dile-date-without-calendar 
+
+■ NPM: https://www.npmjs.com/package/dile-date-without-calendar 
+
+Aptitudes: LitElement 
+
+Screenshot 
+
+Web App pequeña imitación de LinkedIn Angular 7 
+
+feb. 2019 - feb. 2019 
+
+Esta App la realicé para aplicar a una vacante, se me pidió que replicara alguna web existente con Angular, yo elegí a mi LinkedIn, esta App es una SSR y use a Firebase (Realtime Database) para crear una zona de feed y profile, use directivas, pipes, interfaces, rutas, rutas hijas y servicios (Quede seleccionado para el empleo, pero decidieron que no comenzara, esto fue justo cuando hubo los apagones de luz en mi país) 
+
+■ URL del proyecto: https://www.behance.net/gallery/90346967/Web-App-pequena-imitacion-de-LinkedIn-Angular-7 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/linkedin-firebase-angular7 
+
+■ Puede ver una demo alojada en: https://dennysjmarquez.github.io/linkedin-firebase-angular7/dist/pruebaangular 
+
+Aptitudes: Angular 
+
+Screenshot 1
+
+Screenshot 2 
+
+Screenshot 3 
+
+Web App formularios en Angular 6 
+
+dic. 2018 - dic. 2018 
+
+Formularios con la lógica en el componente o en el Templete, Las dos formas de crear Formularios en Angular 
+
+En esta App, use los form reactivos y normales, lógica en el templete, lógica en el componente, validaciones del form, predeterminadas, personalizadas y asíncronas, se consulta la existencia de un usuario para validar el campo, agregado de campos dinámico con la lógica en el componente (form reactivos), submit utilizando el ngSubmit, cargar de información por defecto a los formularios, formGroupName y FormGroup. 
+
+■ URL del proyecto: https://www.behance.net/gallery/90345139/Web-App-formularios-en-Angular-6 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/angular6-FormsModule-ReactiveFormsModule-Validators-customValidator 
+
+■ Puede ver una demo alojada en: https://dennysjmarquez.github.io/angular6-FormsModule-ReactiveFormsModule-Validators-customValidator/dist/formularios 
+
+Aptitudes: Angular 
+
+Mostrar todo el contenido multimedia (7) 
+
+Screenshot 1 
+
+Screenshot 2 
+
+Screenshot 3 
+
+Web App que consume la API Rest de Spotify Angular 6 
+
+nov. 2018 - nov. 2018
+
+Mostrar proyecto 
+
+Esta App tiene un buscador de arista, show de nuevos álbumes, página del artista, vista previa de las canciones, WidGet de Spotify para reproducir la canción, autenticación usando el Token de Spotify, Guard canActivate para denegar el acceso a las páginas que necesitan que se esté autenticado y disparar la URL de autenticación de Spotify, uso del HTTP para obtener información, manejo de data asíncrona, Observables, y mapeo de datos. 
+
+■ URL del proyecto: https://www.behance.net/gallery/90339137/Web-App-Api-Rest-Spotify-Angular-6 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/angular6-spotify-api-demo 
+
+■ Puede ver una demo alojada en: https://dennysjmarquez.github.io/angular6-spotify-api-demo/dist/spotify 
+
+Aptitudes: Angular · Interfaz de programación de aplicaciones (API) 
+
+Screenshot 1 
+
+Screenshot 2 
+
+Screenshot 3 
+
+MVC, Composer, PHP 5, doctrine/dba, nested sets, JavaScript, JQuery, CSS3, HTML5 | Un CMS parecido a WordPress y lo llame Scorpion CMS 
+
+jul. 2015 - nov. 2016 
+
+Este proyecto lo hice con la intención de que fuese mi primer CMS y lo realice con la intención de que pudiera manejar themes al estilo de WordPress y con casi la misma estructura de carpetas, esto para que me diera la posibilidad de adaptar cualquier theme bien sea de Joomla WordPress o de cualquiera con un simple guardar como del browser bastaría para comenzar su adaptación a este cms. 
+
+Este script en realidad se convertiría en CMS en su segunda etapa, por los momentos solo está la función de blog; a este se le pueden agregar categorías, maneja etiquetas en los post, también cuenta con un gestor de archivos multimedia, sistema de idiomas para los JS y el sitio en general. 
+
+Construido en un 100% desde cero, las categorías se maneja con la técnica Nested Sets 
+
+🔗Propuesta del Proyecto PDF: https://github.com/dennysjmarquez/portfolio/tree/master/2016/uneweb-proyecto-final-diplomado-
+
+■ URL del proyecto: https://dennysjmarquez.medium.com/un-cms-parecido-a-wordpress-y-lo-llame-scorpion-cms-abd9d7005cde 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/scorpioncms 
+
+■ Puede ver una demo alojada en: http://scorpioncms.byethost12.com/admin/ 
+
+Usuario: demo Password: demo 
+
+Aptitudes: PHP · MySQL · WordPress 
+
+Mostrar todo el contenido multimedia (6) 
+
+Screenshot 1 
+
+Screenshot 2 
+
+Screenshot 3 
+
+WordPress 3.6 | Theme parecido al fabuloso deviantART 
+
+ago. 2014 - oct. 2014 
+
+Este Theme lo desarrollé para un cliente que es fotógrafo y le propuse hacer un sitio parecido a Deviantart para que expusiera sus fotos de la mejor manera posible, le propuse esto al cliente porque quiera un reto, ya que en mi parecer Deviantart es uno de los mejores sitios para fotografía. 
+
+El código fuente de Deviantart es tan sublime y consume muy pocos recursos del servidor y del Brower usa técnicas increíbles, me encanta como está programado y quise hacer algo parecido, es tanto así que llegue a medir los recursos que utilizaba mi theme al mostrar las fotos para comparar los resultados con Deviantart. 
+
+Cuando vean el código fuente de mi theme se darán dé cuenta de mi esfuerzo para hacerlo lo más parecido al grande Deviantart. 
+
+Es un theme hecho para WordPress, tiene una función de que agrega un offset a la URL que es superútil a la hora de agregar una página a favoritos del browser esto para la opción de navegación infinita que posee el theme, tiene una barra parecida al adobe Acrobat Reader PDF, que facilita cuando carga un bloque de imágenes con el scroll infinito se puede ir de bloque en bloque es decir
+
+ir a la página 1, página 2 etc., al igual que se puede hacer colocando directamente el número de la página si ya fue cargada va a la página solicitada y la muestra, la barra también muestra la cantidad de fotos cargadas en la página que está activa en el viewerport. 
+
+■ URL del proyecto: https://dennysjmarquez.medium.com/theme-de-wordpress-parecido-al-fabuloso-deviantart-3c2e36c3c81 
+
+■ Condigo fuente: https://github.com/dennysjmarquez/SOURCE-CODE-theme-wordpress-cecichaparroart-deviantart-style Aquí no puedo describir todo lo que hice en este desarrollo. 
+
+Aptitudes: PHP · MySQL · HTML5 · WordPress · jQuery · JavaScript · CSS3 
+
+Mostrar todo el contenido multimedia (8) 
+
+Screenshot 1 
+
+Screenshot 2 
+
+Screenshot 3 
+
+Joomla 1.5 | Faegovensa c.a - use VirtueMart para la tienda online 
+
+ago. 2011 - ago. 2011 
+
+Empresa que se dedica a la fabricación e importación de Regatones 
+
+Sitio Web construido con Joomla 1.5, Virtuemart para la tienda online 
+
+Aptitudes: PHP · Joomla 
+
+Screenshot 
+
+Joomla 1.5 | Hrauseo Consultores c.a 
+
+jul. 2011 - jul. 2011 
+
+Mostrar proyecto 
+
+Empresa que se dedica a dictar cursos de seguridad, y dar asesorías de seguridad a las industrias 
+
+Sitio Web construido con Joomla 1.5
+
+Aptitudes: PHP · Joomla 
+
+Screenshot 
+
+Joomla 1.5 | La casita de azúcar 
+
+jun. 2011 - jun. 2011 
+
+Mostrar proyecto 
+
+Empresa que se dedica a la fabricación y distribución de dulces, tortas 
+
+Sitio Web construido con Joomla 1.5 
+
+Aptitudes: PHP · Joomla 
+
+Screenshot 
+
+Joomla 1.5 | Prosper import c. 
+
+abr. 2011 - abr. 2011 
+
+Mostrar proyecto 
+
+Corporación de condominio 
+
+Sitio Web construido con Joomla 1.5 
+
+Aptitudes: PHP · Joomla 
+
+Screenshot 
+
+Troyano Visual Basic, Web Scraping Taringa, Creación del sitio web www.tec.web44.net para mi servicio técnico 
+
+may. 2010 - jul. 2010 
+
+Desarrollé un script en Visual Basic para recolectar información de Taringa y crear un sitio web similar con foros, con el objetivo de generar tráfico y vender mis servicios. 
+
+Creé un programa para extraer masivamente publicaciones de Taringa, específicamente de la categoría descargas. Luego volcaba esa info en archivos SQL para insertarlos en la base de datos de mi sitio. 
+
+Desarrollé una barra de herramientas para navegadores para promocionar mi sitio web. Llegué a tener más de 10.500 visitas con un promedio de 50 personas por día y 1000 por mes.
+
+También creé un programa en VB que instalaba la barra de herramientas en computadoras que no la tenían, aprovechando una vulnerabilidad de autorun en pendrives de Windows XP. 
+
+El programa se propagaba como un troyano inofensivo que solo instalaba la barra, era residente en memoria, no permitía desinstalarlo y se copiaba a pendrives insertados. 
+
+𝗟𝗲혀 𝗱𝗲𝗷𝗼 혂𝗻 𝗹𝗶𝗻𝗸 𝗽𝗮𝗿𝗮 𝗺𝗮혀 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝗰𝗶𝗼𝗻 혀𝗼𝗯𝗿𝗲 혁𝗲𝗰.𝘄𝗲𝗯𝟰𝟰.𝗻𝗲혁 혁𝗼𝗼𝗹𝗯𝗮𝗿 👉 🔗 https://groups.google.com/d/msg/publicesvfoxpro/WfyoTN2oRII/BbfBB4VACQAJ 
+
+■ URL del proyecto: https://dennysjmarquez.medium.com/trojan-visual-basic-web-scraping-taringa-creaci%C3%B3n-del-sitio-web-www-tec-web44-net-77225a05bd2a 
+
+Aptitudes: PHP · MySQL · HTML5 · JavaScript · CSS3 · Visual Basic 
+
+Mostrar todo el contenido multimedia (4) 
+
+Screenshot 1 
+
+Screenshot 2 
+
+Screenshot 3

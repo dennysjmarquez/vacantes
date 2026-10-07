@@ -1,0 +1,126 @@
+### FUENTE: Perfil Técnico de Dennys J. Márquez
+
+### TIPO: generated_text | URL: N/A | CARACTERES: 9099 ###
+### KEYWORDS: Web Development Expertise, JavaScript Framework Mastery, Cybersecurity Ethical Hacking, Software Architecture Principles, Professional Soft Skills ###
+
+Resumen: This technical profile details the career of **Dennys J. Márquez**, a senior front-end developer who transitioned from a self-taught background in legacy languages to mastering the **modern JavaScript ecosystem**. The text outlines his extensive expertise in frameworks such as **React, Angular, and Next.js**, while also highlighting his secondary proficiency in **cybersecurity and ethical hacking**. Beyond technical skills, the document emphasizes his commitment to **clean code principles**, systematic problem-solving, and the vital role of **soft skills** in professional leadership. Ultimately, the source serves as a comprehensive overview of his **full-stack capabilities**, architectural philosophy, and active contributions to the global **developer community**.
+
+------
+
+Perfil Técnico de Dennys J. Márquez
+
+1. ¿Cuál es la trayectoria profesional de Dennys J. Márquez como desarrollador web?
+
+Dennys J. Márquez es un desarrollador web Front-End Senior con más de 9 años de experiencia formal y 15 años en la industria IT. Su camino ha sido autodidacta, comenzando en la época de MS-DOS y Windows 3.11 con lenguajes como QBasic y Visual Basic. Desarrolló proyectos iniciales como un programa de chat (DgChat en VB6) y herramientas para su servicio técnico de PC (un troyano para promoción web y un web scraper para Taringa.net). A pesar de los desafíos iniciales por la falta de estudios formales y un período de tres años alejado de la programación, retomó sus estudios con un diplomado en Programación Web en UneWeb, financiándose a través de la venta de semillas de girasol. Desde entonces, ha consolidado su carrera trabajando de forma remota para empresas en Argentina, Panamá, España y Chile, especializándose en el ecosistema JavaScript moderno, incluyendo React, Angular, Next.js, Node.js y TypeScript.
+
+2. ¿Qué tecnologías clave domina Dennys J. Márquez y cuál es su experiencia con ellas?
+
+Dennys J. Márquez tiene un dominio sólido en diversas tecnologías de desarrollo web:
+
+JavaScript (ES6+)
+
+: 9 años de experiencia, con una certificación en "Programación avanzada con JavaScript y ECMAScript 6" de campusMVP. Es la base fundamental de su carrera, con énfasis en manipulación avanzada del DOM, asincronía y optimización de rendimiento.
+
+React / React Native
+
+: 4 años y 10 meses de experiencia con React y 2 años con React Native (Android). Ha trabajado en aplicaciones web y móviles, incluyendo un portafolio SSR desarrollado desde cero.
+
+Next.js y Node.js
+
+: 2 años y 4 meses de experiencia con Next.js y más de 4 años con Node.js. Ha implementado soluciones SSR, APIs RESTful, sistemas de sesiones y cacheo de datos en el servidor.
+
+Redux / Redux Thunk
+
+: 2 años y 10 meses de experiencia en gestión de estado en aplicaciones React y Next.js.
+
+Angular
+
+: Más de 3 años y 4 meses de experiencia en proyectos reales (versiones 6 a 13), explorando activamente Angular 17/19 con Signals.
+
+TypeScript
+
+: Aproximadamente 2 años y 4 meses de experiencia práctica, aplicándolo en proyectos React y Angular para mejorar la calidad y mantenibilidad del código.
+
+Git
+
+: 9 años y 3 meses de experiencia en control de versiones.
+
+Material UI y Tailwind CSS
+
+: 2 años y 4 meses con Material UI y 6 meses de uso formal con Tailwind CSS.
+
+Google Cloud
+
+: Aproximadamente 2 años de experiencia utilizando servicios como Firebase, Cloud Firestore y Cloud Functions.
+
+Vite
+
+: 6 meses de uso formal, optimizando entornos de desarrollo.
+
+Otras
+
+: Conocimientos en LitElement, Vue.js, HTML5, CSS3, Sass, así como desarrollo de APIs RESTful con Node.js/Express.
+
+3. ¿Cuál es el enfoque de Dennys J. Márquez en ciberseguridad y Ethical Hacking?
+
+Dennys J. Márquez tiene conocimientos y experiencia en CyberSecurity y Ethical Hacking, especialmente relacionados con OWASP Top 10. Se identifica como Jr CyberSecurity, lo que indica un rol complementario a su perfil de desarrollador web senior. Obtuvo una certificación como Ethical Hacking Profesional de Seguridad Cero en octubre de 2022 y completó estudios y certificación en OWASP Top 10 API+ y seguridad en APIs. Ha desarrollado proyectos educativos sobre protección CSRF con Node.js y Express.js, y aplica las recomendaciones de OWASP en sus desarrollos actuales para proteger aplicaciones contra vulnerabilidades comunes. Su interés en ciberseguridad se remonta a proyectos tempranos como la creación de un troyano en Visual Basic para promocionar su sitio web.
+
+4. ¿Cómo aborda Dennys J. Márquez la programación y la resolución de problemas?
+
+Dennys J. Márquez considera la programación como una fusión de arte y ciencia. Adopta un enfoque creativo para resolver problemas, lo que él llama "pensar fuera de la caja", buscando soluciones innovadoras sin reinventar la rueda innecesariamente. Recomienda un enfoque sistemático para garantizar eficiencia y claridad, y valora el pensamiento crítico para ver los problemas desde diferentes ángulos. Prioriza encontrar la "solución correcta" sobre la "solución rápida", tomando en cuenta todas las posibilidades. Además, es un firme defensor del aprendizaje continuo y de las buenas prácticas de codificación, aplicando principios como SOLID, Clean Code y Arquitectura Hexagonal, y evitando los anti-patrones STUPID para construir software escalable y mantenible.
+
+5. ¿Qué importancia tienen las habilidades blandas en la filosofía de trabajo de Dennys J. Márquez?
+
+Dennys J. Márquez enfatiza que ser un desarrollador no es solo una cuestión técnica; las habilidades blandas son cruciales para navegar en entornos laborales complejos. Resalta la importancia de la resiliencia, la inteligencia emocional, la capacidad de adaptación, el pensamiento crítico y la superación de obstáculos. Ha experimentado desafíos laborales y personales significativos, lo que lo llevó a interesarse por la gestión de equipos, el liderazgo técnico y la salud en el ambiente laboral. Aboga por una comunicación clara y respetuosa, la colaboración efectiva entre equipos (FrontEnd/BackEnd), y la capacidad de mantener una postura técnica sólida sin caer en dinámicas improductivas. Sus publicaciones abordan temas como el Síndrome de Procusto y la influencia de Mary Parker Follett en la gestión moderna, reflejando su compromiso con la creación de mejores entornos de trabajo.
+
+6. ¿Qué es el "Portafolio V1" de Dennys J. Márquez y qué desafíos enfrentó en su desarrollo?
+
+El "Portafolio V1" de Dennys J. Márquez es la primera versión de su portafolio profesional, desarrollado como un sistema de Server-Side Rendering (SSR) para React, construido desde cero sin depender de frameworks como Next.js. Su motivación fue la comprensión profunda de los mecanismos de renderizado universal, el control granular sobre la hidratación y el cacheo, y la optimización específica para su proyecto. Implementó un sistema de renderizado universal (SSR y posterior hidratación en cliente), un sistema de gestión de datos pre-renderizado con 
+
+getInitialData
+
+, un sistema de caché inteligente con 
+
+node-cache
+
+ (similar a Next.js), y una configuración personalizada de Webpack 4 para el cliente y el servidor. Los desafíos incluyeron la complejidad de Webpack, la optimización del bundle, la sincronización entre cliente-servidor y el flujo de trabajo de desarrollo. Este proyecto le proporcionó una sólida base técnica en renderizado isomórfico.
+
+7. ¿Cómo gestiona Dennys J. Márquez las bases de datos y el almacenamiento de datos en sus proyectos?
+
+Dennys J. Márquez tiene experiencia con bases de datos relacionales y no relacionales. Ha trabajado con:
+
+MongoDB
+
+: Utilizado en proyectos como un sistema de gestión de hospitales (MEAN Stack), implementando Mongoose Schema Model, validaciones, búsquedas avanzadas, paginación y conexión a Atlas Cloud Service.
+
+Firebase (Firestore y Realtime Database)
+
+: Implementado en aplicaciones React Native para sistemas de tracking con geolocalización en tiempo real y notificaciones push mediante Cloud Functions, que también realizaban mantenimiento automático de la base de datos. En su sitio web personal, utiliza Firestore para gestionar publicaciones y contenido, con paginación, filtros, creación de índices y reglas de seguridad.
+
+MySQL
+
+: Empleado en el desarrollo de su CMS tipo WordPress (Scorpion CMS), donde implementó la técnica de Nested Sets para categorías y subcategorías, y utilizó Doctrine DBAL para la conexión y gestión de la base de datos, con consultas preparadas para prevenir inyecciones SQL. También ha creado sistemas de caché (tanto en memoria con 
+
+node-cache
+
+ para el backend como para el frontend) para optimizar el rendimiento y evitar consultas innecesarias a la base de datos.
+
+8. ¿Qué recursos ofrece Dennys J. Márquez a la comunidad de desarrolladores?
+
+Dennys J. Márquez es un contribuidor activo a la comunidad de desarrolladores, compartiendo su conocimiento a través de diversas plataformas:
+
+Artículos técnicos
+
+: Publica en su sitio web personal (dennysjmarquez.dev), DEV Community (dev.to/dennysjmarquez) y Medium (dennysjmarquez.medium.com). Sus artículos cubren temas como React, Angular, microfrontends, arquitectura hexagonal, Clean Code, SOLID, gestión y ciberseguridad (OWASP).
+
+Repositorios de código
+
+: Comparte sus proyectos y librerías en GitHub (github.com/dennysjmarquez), incluyendo demos funcionales de sus soluciones.
+
+Contenido multimedia
+
+: Mantiene un canal de YouTube (@dennysjmarquez) con videos explicativos y publica podcasts profesionales donde comparte su trayectoria y aprendizajes.
+
+Documentación y guías
+
+: Ofrece guías y tutoriales sobre diversas tecnologías y buenas prácticas de desarrollo. Su objetivo es complementar su perfil y permitir que otros desarrolladores se beneficien de su experiencia y enfoques innovadores.

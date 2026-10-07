@@ -1,0 +1,1180 @@
+### FUENTE: Dennys J Marquez Web Developer MAPA.md
+
+### TIPO: generated_text | URL: N/A | CARACTERES: 161173 ###
+### KEYWORDS: Front-End Web Development, Full Stack Experience, Software Architecture Principles, Cybersecurity and Hacking, Technical Leadership Skills ###
+
+Resumen: This comprehensive professional map details the career trajectory and technical expertise of **Dennys J. Márquez**, a **Front-End Web Developer** with 15 years of industry experience and a deep background in **IT resilience**. The source functions as an expansive digital portfolio, documenting his journey from early **self-taught experimentation** with MS-DOS and Visual Basic to his current mastery of modern frameworks like **React and Angular**. It highlights a rich history of **overcoming significant personal and economic adversity**, illustrating how he transformed practical curiosity into a formal career through continuous certification and high-impact projects.
+
+The document is meticulously organized into sections covering **advanced technology stacks**, such as **TypeScript, Node.js, and API RESTful** development, alongside a strong emphasis on **cybersecurity and clean code principles**. Beyond technical skills, the text underscores the importance of **soft skills** like **emotional intelligence, adaptability, and critical thinking** within collaborative team environments. Ultimately, this source serves as a professional synthesis designed to showcase both **technical depth** and a philosophical commitment to **lifelong learning** and innovative problem-solving.
+
+------
+
+Dennys J Marquez Web Developer 15 años en IT: 9 años en empresas.
+
+¡Hola! 🖖 Soy Dennys José Márquez Reyes (también conocido como Dennys J. Márquez), un Front-End Web Developer con ya 9 años de experiencia formal y 15 años en la industria IT. Me apasiona transformar ideas en soluciones digitales innovadoras que marquen la diferencia.  Este espacio no es una vitrina de herramientas o certificaciones. Es una síntesis estructurada de mi trayectoria: cómo pienso, cómo trabajo y cómo he evolucionado profesionalmente.  En el transcurso de mi carrera he transitado por diversos entornos, tecnologías y equipos, aprendiendo que escribir buen código no basta.   Se necesita:  Adaptabilidad para colaborar con perfiles diversos  Criterio para sostener el foco cuando las dinámicas internas lo amenazan  Claridad comunicativa sin fricciones, incluso bajo presión   Muchas veces, el verdadero desafío no está en el código, sino en el contexto. Saber cuándo intervenir, cuándo observar, y cómo mantener una postura técnica sólida sin entrar en dinámicas que no aportan al proyecto es parte esencial del oficio.  ------  Acompáñame en este recorrido por mi trayectoria, este mapa refleja años de trabajo y evolución constante. Te invito a explorarlo: cada nodo cuenta una parte de lo que he construido y del enfoque que me define.
+
+Enlaces externos
+
+Hyperlink: 
+
+https://dennysjmarquez.medium.com/trojan-visual-basic-web-scraping-taringa-creaci%C3%B3n-del-sitio-web-www-tec-web44-net-77225a05bd2a
+
+https://dennysjmarquez.medium.com/trojan-visual-basic-web-scraping-taringa-creaci%C3%B3n-del-sitio-web-www-tec-web44-net-77225a05bd2a
+
+Resumen Podcast
+
+Incidente Crítico
+
+Asalto en chalet
+
+Resultó herido
+
+Logró salvar su vida
+
+Superado con Angela
+
+Retorno a Programación
+
+Busco cursos online con Angela
+
+Necesidad de Certificaciones (falta estudios/exp. formal en CV)
+
+Cursos Presenciales (PHP/MySQL, Joomla, WordPress) - Insuficientes
+
+Financió estudios vendiendo semillas de girasol
+
+Encontró Diplomado UNEWEB
+
+Educación online asequible
+
+Estudió con modem móvil (sin internet en zona)
+
+Obtuvo conexión mejor (antena Ubiquiti NanoStation Loco M2)
+
+[ ] Finalización Diplomado y Primer Empleo Formal
+
+Retomó y finalizó proyecto (aprox 1 año después)
+
+Proyecto Final: CMS estilo WordPress (Scorpion CMS)
+
+Desarrollado desde cero (MVC, Composer, PHP, MySQL, JS, jQuery, CSS3, HTML5)
+
+Similar a WordPress (estructura, themes)
+
+Funcionalidad blog, categorías (Nested Sets), etiquetas, gestor archivos, idiomas
+
+Obtuvo Primer Empleo Formal (Desarrollador Full Stack)
+
+Momento Muy Difícil
+
+Se mudó a chalet propiedad suegro (zona montañosa)
+
+Sin acceso a PC, sin programar
+
+Trabajó como obrero en finca (aprox 3 años)
+
+Olvidó programación temporalmente
+
+Intento Empresa Formal (Toito PC C.A.)
+
+Alquiló local en otro estado
+
+Registró compañía
+
+Fracasó financieramente (gastos iniciales)
+
+No pudo aguantar punto de equilibrio
+
+Inicios
+
+Nació 1977
+
+Contexto Familiar Desafiante
+
+Desde mis primeros años, crecí en un contexto familiar sumamente desafiante y sin apoyo. Esta situación me obligó a desarrollar una fuerte autodeterminación y autogestión desde muy joven. Tuve que tomar decisiones importantes por mi cuenta y abrirme camino sin ningún respaldo.   La falta de apoyo también afectó directamente mi formación académica. No tuve el respaldo necesario para formalizar mis estudios en programación web, Por lo que mi aprendizaje en tecnología nació de una curiosidad constante y de la iniciativa por comprender a fondo su funcionamiento.    En una etapa inicial, me formé de manera independiente, desarrollando competencias prácticas a través de la exploración técnica continua.    Con el tiempo, logré transformar ese interés en una trayectoria profesional formal, complementandolo con estudios especializados y experiencia en empresas reconocidas del sector tecnológico.   Periodos Difíciles y Transiciones Significativas  Mi vida ha estado llena de obstáculos y cambios abruptos, pero fue mi resiliencia y mi capacidad para pensar fuera de la caja lo que me permitió superarlos. Cada caída me enseñó a levantarme con más fuerza, y cada desafío reforzó mi determinación de seguir adelante, incluso cuando todo parecía estar en mi contra.   A pesar de las dificultades, he logrado forjar mi propio camino, demostrando que, incluso sin apoyo, es posible alcanzar tus metas con perseverancia y pasión.
+
+Curiosidad Innata por Tecnología
+
+Autoaprendizaje
+
+MS-DOS / Windows 3.11 (HELP.COM)
+
+QBasic (MS-DOS 6.22) I386
+
+Visual Basic 4 y 6
+
+Descubrió HTML, JS, VBScript (archivos .htt, .hta Windows 98)
+
+Competición VBScript vs. JavaScript por el dominio de los browser
+
+En los albores de la web interactiva, dos lenguajes de scripting compitieron por definir el futuro del desarrollo web: JavaScript y VBScript. Aunque ambos permitían agregar dinamismo a las páginas web, sus diferencias técnicas y estratégicas marcaron destinos radicalmente distintos.   Orígenes y enfoques  JavaScript: Creado en 1995 por Brendan Eich para Netscape Navigator, se convirtió rápidamente en el estándar gracias a su sintaxis similar a C, su integración con el DOM y su compatibilidad multiplataforma. VBScript: La apuesta de Microsoft, basada en Visual Basic, ofrecía una sintaxis más sencilla para principiantes, pero su mayor limitación era su exclusividad con Internet Explorer, lo que limitó su adopción global.  Comparación técnica Seguridad: La gran diferencia﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿JavaScript incorporó políticas como Same Origin Policy y sandboxing para reducir riesgos, mientras que VBScript carecía de protecciones robustas, facilitando exploits y ataques. Esto, sumado a su dependencia de entornos Windows sin restricciones, lo convirtió en un blanco frecuente de vulnerabilidades.   El ocaso de VBScript  Incompatibilidad: La web se movió hacia estándares abiertos, y navegadores como Firefox, Chrome y Safari ignoraron VBScript. Abandono corporativo: Microsoft dejó de promoverlo, reemplazándolo por JavaScript incluso en sus propias tecnologías (ej: ASP.NET). Riesgos de seguridad: Su naturaleza insegura aceleró su desuso, especialmente tras la llegada de alternativas modernas.     JavaScript: El estándar indiscutible﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Hoy, JavaScript domina no solo en el navegador, sino también en:   Backend (Node.js, Deno). Aplicaciones móviles (React Native, Ionic). Desktop (Electron). Su ecosistema, impulsado por frameworks como React y Angular, lo ha consolidado como el lenguaje más relevante en desarrollo web.   La caída de VBScript y el auge de JavaScript ilustran cómo la apertura, la seguridad y la adaptabilidad definen el éxito en la tecnología web. Mientras VBScript quedó obsoleto por su enfoque cerrado y limitado, JavaScript evolucionó para convertirse en el pilar de la web moderna.
+
+Proyectos Iniciales
+
+DgChat (Visual Basic 6)
+
+Programa de Chat
+
+Funcionaba con IIS y ASP
+
+Probado en red biblioteca UCV Maracay
+
+Curso Cisco CCNA (No relacionado con Chats)
+
+En medio del desarrollo de DgChat, mi primer programa en VB funcional, me surgió una duda que se convirtió en obsesión: quería entender exactamente cómo se transmitían los mensajes a través de las redes. Convencido de que necesitaba conocimientos avanzados de redes, me inscribí en un curso intensivo de Cisco CCNA en la UCV de Maracay Venezuela.   La ironía es que mientras esperaba aprender sobre protocolos de aplicación y arquitecturas de sistemas de mensajería, me encontraron estudiando configuraciones de routers, subredes y protocolos de enrutamiento. Fue un verdadero 'palo de ciego', como suelo decir.   Aunque inicialmente me frustró descubrir que el CCNA no tenía la relación directa con programación de chats que yo esperaba, con el tiempo comprendí su valor. Esos conocimientos me dieron:   Una base sólida en infraestructura de redes Entendimiento práctico de cómo funcionan los enrutadores y conmutadores Perspectiva técnica que más tarde me serviría para soluciones más complejas   Hoy veo ese curso como un ejemplo perfecto de cómo a veces los caminos equivocados terminan llevándote a destinos valiosos. Aprendí que en tecnología, ningún conocimiento sobra - solo hay aprendizajes que todavía no han encontrado su aplicación.
+
+Periodo Difícil / Transición
+
+Falta de Estudios Formales
+
+Dificultad para encontrar trabajo programador
+
+Empleos No Relacionados (Gimnasio, Fábrica Plásticos)
+
+Usó Indemnización para comprar PC
+
+Terminó Bachillerato (Parasistema Nocturno)
+
+Trabajó en Cibercafé
+
+Intentó Diseño Gráfico (No Rentable)
+
+Servicio Técnico de PC (Hogar)
+
+Montó Taller en casa materna
+
+Ahorró para publicidad
+
+Reparaba PC, vendía partes
+
+Conoció a Angela (Esposa)
+
+Clienta que motivó formalización
+
+Cursó el primer semestre de Informática en el IUTAR
+
+Tuvo que dejar estudios (falta de ingresos, trabajo)
+
+Anécdotas Servicio Técnico
+
+Troyano Visual Basic 6
+
+Propagar barra de herramientas
+
+Aprovechaba autorun Windows XP
+
+Instalaba barra, modificaba registro del windows
+
+Residente en memoria
+
+Se copiaba a pendrives
+
+Liberado en cibercafés (sin Deep Freeze)
+
+Llegó a instalarse mundialmente (incl. China)
+
+Plataforma Conduit (analítica, pago por instalación)
+
+Descubrió Payoneer
+
+Web Scraping Taringa (Visual Basic 6)
+
+Programa para extraer enlaces de descargas
+
+Analizaba HTML
+
+Extraía info a archivos HTML
+
+Otro programa volcaba datos a .sql (Esquema Spirate)
+
+Para sección descargas sitio servicio técnico
+
+Mejoró posicionamiento (cientos de posts)
+
+Creación sitio web tec.web44.net
+
+Resumen - CV
+
+Hyperlink: 
+
+https://drive.google.com/file/d/1IjXx0JZP-u-maMLiNh8UdR7_OTZJPHU6/view?usp=sharing
+
+https://drive.google.com/file/d/1IjXx0JZP-u-maMLiNh8UdR7_OTZJPHU6/view?usp=sharing
+
+LinkedIn: 
+
+Hyperlink: 
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+Email: dennysjmarquez@gmail.com
+
+Hyperlink: 
+
+https://dennysjmarquez@gmail.com
+
+https://dennysjmarquez@gmail.com
+
+Web Personal: 
+
+Hyperlink: 
+
+https://dennysjmarquez.dev/
+
+https://dennysjmarquez.dev/
+
+Mis redes sociales Sígueme en.
+
+GitHub
+
+Hyperlink: 
+
+https://github.com/dennysjmarquez
+
+https://github.com/dennysjmarquez
+
+Medium
+
+Hyperlink: 
+
+https://dennysjmarquez.medium.com/
+
+https://dennysjmarquez.medium.com/
+
+Behance
+
+Hyperlink: 
+
+https://www.behance.net/dennysjmarquez
+
+https://www.behance.net/dennysjmarquez
+
+Twitter
+
+Hyperlink: 
+
+https://x.com/infocodes
+
+https://x.com/infocodes
+
+YouTube
+
+Hyperlink: 
+
+https://www.youtube.com/@dennysjmarquezttps://www.behance.net/dennysjmarquez
+
+https://www.youtube.com/@dennysjmarquezttps://www.behance.net/dennysjmarquez
+
+DEV Community 👩💻👨💻
+
+Hyperlink: 
+
+https://dev.to/dennysjmarquez
+
+https://dev.to/dennysjmarquez
+
+Perfil Profesional
+
+Stack Tecnológico
+
+Stack Tecnológico   Mi especialidad está en JavaScript (ES6+), TypeScript, y frameworks como React y Angular. Tengo experiencia trabajando con:   JavaScript (ES6+), Git React / React Native Android Next.js  / Node.js Angular (6-13)  Redux, Tailwind CSS, Material UI, Git - Experiencia avanzada LitElement, Vue.js  2 - Conocimientos adicionales APIs RESTful con Node.js/Express - Desarrollo backend Vite y herramientas del ecosistema Google Cloud (Firebase, Firestore, Cloud Functions) Bases de Datos NoSQL y Relacionales (MongoDB, MySQL) Headless CMS (Flamelink) CyberSecurity / Ethical Hacking (OWASP Top 10) Arquitectura de Software (Principios SOLID, Clean Code, Arquitectura Hexagonal) Webpack (4 y 5) y Babel Docker Testing (Jest, Jasmine, SuperTest) Herramientas de calidad de código (ESLint, Prettier)   He tenido el privilegio de trabajar en equipos pequeños, grandes, multidisciplinarios y de alto desempeño. Mi trayectoria incluye una variedad de proyectos que van desde aplicaciones web hasta móviles, y he colaborado con diversas empresas en distintos países, incluyendo Argentina, Panamá, España y Chile.
+
+Mi experiencia formal (9 años)
+
+Los ya 9 años de experiencia formal corresponden al tiempo que he trabajado para empresas.    Durante mucho tiempo me costó conseguir oportunidades por no tener estudios formales, hasta que logré obtener una certificación en el programación Web, un diplomado de UneWeb.   Este diplomado, junto con el desarrollo de un CMS al estilo de Wordpress como proyecto final, fue el punto de inflexión que me permitió acceder a mi primer trabajo formal como Desarrollador Full Stack.   Desde entonces, he trabajado de forma remota con empresas en Argentina, Panamá, España y Chile, consolidando una carrera profesional estable y enfocada. He participado en equipos distribuidos, colaborado en proyectos complejos, y aplicado buenas prácticas para construir soluciones reales con impacto.
+
+Experiencia total en IT
+
+Experiencia total en IT  Más de 15 años representan mi vida en el mundo de la tecnología. Todo comenzó en la época de los ordenadores 386 con MS-DOS y Windows 3.11, donde tuve mis primeras experiencias programando con lenguajes como BASIC usando QBasic, y posteriormente Visual Basic 4 y 6.   También descubrí HTML, JavaScript y VBScript explorando archivos .htt y .hta en Windows 98, lo cual marcó el inicio de mi conexión con el desarrollo web.   Durante esa etapa, desarrollé proyectos propios que me permitieron experimentar y aprender por mi cuenta. Algunos ejemplos:   DgChat, un programa de chat que hice en Visual Basic 6. Un servicio técnico de PC que monté y gestioné personalmente, incluyendo el desarrollo de herramientas como un troyano (que usaba para promocionar mi sitio web) y un web scraper para obtener contenido de Taringa.net. El intento de formalizar una empresa, Toito PC C.A., que aunque no prosperó, me dejó una gran experiencia.   Todo ese recorrido --con sus aciertos, errores, pausas y momentos difíciles-- forma parte de estos 15 años que reflejan no solo cuánto tiempo llevo en tecnología, sino la intensidad y profundidad con la que he vivido este camino.
+
+Más allá de la técnica
+
+Ser desarrollador frontend no es solo escribir código ni dominar tecnologías, también se trata de saber manejar las presiones, los entornos complejos y las relaciones humanas que existen en cada proyecto.   A lo largo de mi carrera he aprendido que para mantenerse firme en esta profesión no basta con lo técnico: hacen falta resiliencia, paciencia, criterio y claridad emocional. He pasado por entornos laborales retadores, situaciones personales duras y muchas veces he tenido que resolver con lo que había a mano.    Pero también he buscado prepararme de forma seria, estudiar, certificarme y mejorar mi base técnica cada año. El equilibrio entre la experiencia de vida y la formación formal me ha permitido seguir creciendo y aportar valor real.   Mi filosofía para el trabajo:   La programación como arte y ciencia:   Considero la programación una fusión de arte y ciencia, me gusta aplicar un enfoque creativo para resolver problemas, lo que denomino "pensar fuera de la caja".    Este enfoque me permite crear e innovar con soluciones poco convencionales, siempre considerando la importancia de no reinventar la rueda innecesariamente.﻿﻿﻿﻿﻿﻿   Enfoque sistémico y pensamiento crítico:   Para resolver problemas complejos, recomiendo un enfoque sistemático.    Esto garantiza mayor eficiencia, claridad y consistencia, evitando soluciones desorganizadas o incompletas, he aprendido la importancia de cambiar de perspectiva cuando un problema parece no tener solución, ya que a menudo estamos limitados por un enfoque estrecho.    El pensamiento crítico es fundamental, permitiendo ver los problemas desde diferentes ángulos y encontrar soluciones que otros podrían pasar por alto.   Prioridad en la solución correcta:   Entiendo que nuestro instinto inicial puede ser buscar la solución más rápida, pero mi experiencia me ha enseñado que encontrar la solución correcta es a menudo más importante que encontrar la solución rápida, es crucial detenerse y considerar todas las posibilidades antes de elegir un camino.   Aprendizaje continuo y buenas prácticas:    Estoy constantemente buscando nueva información y explorando las últimas tendencias para mejorar mis habilidades como programador.    Mi interés no se limita a que el código funcione, sino a que sea eficiente, elegante y fácil de entender.    Para ello, he aplicado en mis desarrollos principios como SOLID, Clean Code y Arquitectura Hexagonal, y procuro evitar los anti-patrones STUPID.   No todo es código:    Con los años me he dado cuenta de que esta carrera no se trata solo de tecnología. El código importa, claro, pero no lo es todo. Las experiencias que he vivido --buenas y malas-- me obligaron a interesarme por algo más profundo: las personas, los equipos, y las dinámicas que existen detrás de cada proyecto.   He aprendido que saber trabajar en equipo es tan importante como escribir buen código. Me ha tocado entender cómo colaborar sin fricciones entre FrontEnd y BackEnd, cómo comunicar con respeto, y cómo liderar sin imponer. A lo largo de mi camino profesional me he topado con entornos muy diferentes, y eso me llevó a estudiar sobre gestión de equipos, liderazgo técnico y salud en el ambiente laboral.   También he visto cómo ciertos comportamientos dañan el trabajo colectivo: el ego, la competencia innecesaria, el exceso de presión, o el famoso "Síndrome de Procusto", donde destacar se vuelve incómodo para otros. En medio de eso, mantenerme centrado en mi pasión por programar, sin perder la calma ni la claridad, ha sido fundamental.   Para mí, escribir buen software no es solo tener lógica o habilidad técnica. Es también saber cómo convivir con otros en un entorno profesional, cómo construir sin destruir, y cómo sostener un ritmo saludable sin apagar la motivación.
+
+Conocimientos Adicionales
+
+Clean Code
+
+Principios SOLID
+
+Patrones / Anti-Patrones (STUPID)
+
+Interés en Arquitecturas
+
+Educación y Formación
+
+Publicaciones
+
+linkedin
+
+¡Cambiar la perspectiva!. Cuando un problema parezca no tener solución, cambia la perspectiva
+
+Hyperlink: 
+
+https://www.linkedin.com/pulse/cambiar-la-perspectiva-cuando-un-problema-parezca-marquez-reyes-/
+
+https://www.linkedin.com/pulse/cambiar-la-perspectiva-cuando-un-problema-parezca-marquez-reyes-/
+
+medium
+
+El Síndrome de Procusto
+
+Hyperlink: 
+
+https://dennysjmarquez.medium.com/el-s%C3%ADndrome-de-procusto-c%C3%B3mo-evitar-que-afecte-el-ambiente-laboral-757026656ed6
+
+https://dennysjmarquez.medium.com/el-s%C3%ADndrome-de-procusto-c%C3%B3mo-evitar-que-afecte-el-ambiente-laboral-757026656ed6
+
+Origen e historia del Management
+
+Hyperlink: 
+
+https://dennysjmarquez.medium.com/origen-e-historia-del-management-72082ef50d52
+
+https://dennysjmarquez.medium.com/origen-e-historia-del-management-72082ef50d52
+
+La vida y el legado de Mary Parker Follett: influencia olvidada en la gestión moderna
+
+Hyperlink: 
+
+https://dennysjmarquez.medium.com/la-vida-y-el-legado-de-mary-parker-follett-influencia-olvidada-en-la-gesti%C3%B3n-moderna-6f97c1e8691f
+
+https://dennysjmarquez.medium.com/la-vida-y-el-legado-de-mary-parker-follett-influencia-olvidada-en-la-gesti%C3%B3n-moderna-6f97c1e8691f
+
+RED Team, BLUE Team, PURPLE Team, Ethical Hacking y sus diferencias
+
+Hyperlink: 
+
+https://dennysjmarquez.medium.com/red-team-blue-team-purple-team-ethical-hacking-y-sus-diferencias-7ff44a1a1756
+
+https://dennysjmarquez.medium.com/red-team-blue-team-purple-team-ethical-hacking-y-sus-diferencias-7ff44a1a1756
+
+Google Hacking, Dorks Hacking, búsquedas avanzadas con Google
+
+Hyperlink: 
+
+https://dennysjmarquez.medium.com/google-hacking-dorks-hacking-b%C3%BAsquedas-avanzadas-con-google-bff58a1a6498
+
+https://dennysjmarquez.medium.com/google-hacking-dorks-hacking-b%C3%BAsquedas-avanzadas-con-google-bff58a1a6498
+
+dev.to
+
+Angular 17/19 | Signals con RxJS usando signalPipeRxjs
+
+Hyperlink: 
+
+https://dev.to/dennysjmarquez/angular-1617-transformacion-de-senales-con-rxjs-usando-signalpiperxjs-584k
+
+https://dev.to/dennysjmarquez/angular-1617-transformacion-de-senales-con-rxjs-usando-signalpiperxjs-584k
+
+Lean Startup y MVPs: Soluciones Ágiles para el Desarrollo de Software
+
+Hyperlink: 
+
+https://dev.to/dennysjmarquez/lean-startup-y-mvps-soluciones-agiles-para-el-desarrollo-de-software-2gb2
+
+https://dev.to/dennysjmarquez/lean-startup-y-mvps-soluciones-agiles-para-el-desarrollo-de-software-2gb2
+
+Microfrontends Architecture
+
+Hyperlink: 
+
+https://dev.to/dennysjmarquez/microfrontends-architecture-46gn
+
+https://dev.to/dennysjmarquez/microfrontends-architecture-46gn
+
+Primeros pasos, cómo utilizar QR y BlockChain para la trazabilidad de productos
+
+Hyperlink: 
+
+https://dev.to/dennysjmarquez/como-utilizar-qr-y-blockchain-para-la-trazabilidad-de-productos-1nb6
+
+https://dev.to/dennysjmarquez/como-utilizar-qr-y-blockchain-para-la-trazabilidad-de-productos-1nb6
+
+La ciencia de los algoritmos
+
+Hyperlink: 
+
+https://dev.to/dennysjmarquez/la-ciencia-de-losz-algoritmos-56k
+
+https://dev.to/dennysjmarquez/la-ciencia-de-losz-algoritmos-56k
+
+Colaboración Efectiva FrontEnd/BackEnd
+
+Hyperlink: 
+
+https://dev.to/dennysjmarquez/colaboracion-efectiva-frontendbackend-flujo-de-trabajo-adecuado-y-responsabilidades-en-el-desarrollo-de-aplicaciones-web-3aeo
+
+https://dev.to/dennysjmarquez/colaboracion-efectiva-frontendbackend-flujo-de-trabajo-adecuado-y-responsabilidades-en-el-desarrollo-de-aplicaciones-web-3aeo
+
+Todo lo que necesitas saber sobre API Rest
+
+Hyperlink: 
+
+https://dev.to/dennysjmarquez/todo-lo-que-necesitas-saber-sobre-api-rest-glosario-de-terminos-esenciales-y-mas-29pc
+
+https://dev.to/dennysjmarquez/todo-lo-que-necesitas-saber-sobre-api-rest-glosario-de-terminos-esenciales-y-mas-29pc
+
+La deuda tecnológica: el costo oculto de proyectos a largo plazo
+
+Hyperlink: 
+
+https://dev.to/dennysjmarquez/la-deuda-tecnologica-en-nuestros-proyectos-13p
+
+https://dev.to/dennysjmarquez/la-deuda-tecnologica-en-nuestros-proyectos-13p
+
+La Arquitectura Hexagonal
+
+Hyperlink: 
+
+https://dev.to/dennysjmarquez/la-arquitectura-hexagonal-un-enfoque-para-desarrollar-aplicaciones-robustas-en-react-angular-y-vue-con-ejemplos-de-codigo-l4l
+
+https://dev.to/dennysjmarquez/la-arquitectura-hexagonal-un-enfoque-para-desarrollar-aplicaciones-robustas-en-react-angular-y-vue-con-ejemplos-de-codigo-l4l
+
+Consejos para lograr un software limpio, mantenible, testeable y escalable
+
+Hyperlink: 
+
+https://dev.to/dennysjmarquez/la-solucion-definitiva-dependency-injection-dependency-inversion-inversion-of-control-y-hexagonal-architecture-3fol
+
+https://dev.to/dennysjmarquez/la-solucion-definitiva-dependency-injection-dependency-inversion-inversion-of-control-y-hexagonal-architecture-3fol
+
+React la guía máxima de buenas prácticas jamás concebida, Principios SOLID, El acrónimo STUPID, Clean Code y Code Smell
+
+Hyperlink: 
+
+https://dev.to/dennysjmarquez/react-la-guia-maxima-de-buenas-practicas-jamas-concebida-principios-solid-el-acronimo-stupid-clean-code-y-code-smell-53l7
+
+https://dev.to/dennysjmarquez/react-la-guia-maxima-de-buenas-practicas-jamas-concebida-principios-solid-el-acronimo-stupid-clean-code-y-code-smell-53l7
+
+Experiencia Laboral (Formal)
+
+Epidata (React Developer) Argentina · En remoto
+
+Ene. 2023 - Jun. 2023 6 meses
+
+Proyecto: Sistema Integral RRHH (MDP Argentina)
+
+Equipo de alto rendimiento
+
+Contribuciones: Sistema inicio sesión (LDAP), Gestión módulos/roles/permisos/usuarios, Pantallas CRUD agente, Generación PDFs
+
+Mejora eficiencia: Modelos datos ficticios (Arquitectura Hexagonal, Redux Thunk)
+
+Tecnologías: TypeScript, React (Function Component, Hooks), Vite, Redux, Tailwind CSS, Docker, MySQL Workbench, PrimeReact
+
+BONDAREA (JavaScript Developer) Argentina · En remoto
+
+Dic. 2017 - Sept. 2019 1 año 10 meses
+
+Proyecto: BREF Bondarea Render Framework (renderiza HTML/JS/CSS desde JSON)
+
+Creación sistema renderizado (Componentes Bootstrap, Búsqueda, eval, fnRender)
+
+Manipulación avanzada del DOM
+
+Maquetación (Adobe Illustrator CC 2018)
+
+Tecnologías: JavaScript, Vanilla JS, Bootstrap 3/4, jQuery 3, JSON, DOM, HTML 5, CSS 3, Git, BitBucket, Sourcetree
+
+Corpwakd C.A (Proveedor tecnológico / Servicio Técnico Wintel)
+
+Ene. 2012 - Ene. 2014 2 años 1 mes
+
+Asesoría técnica, Diagnóstico fallas SW/HW, Instalación SW/HW/dispositivos, Optimización SO, Respaldo data, Armado computadoras
+
+Adevcom (Angular Developer) Chile · En remoto
+
+Feb. 2024 - Oct. 2025 1 año 9 meses
+
+Proyecto: Requerimientos Normativos, ISL
+
+Rol: Desarrollo Frontend con Angular 13
+
+Contribuciones: Componentes reutilizables, Formularios (Template Driven/Reactive), Validaciones, Campos dinámicos
+
+Optimización: 50% en manejo de datos complejos, Servicios personalizados
+
+Implementación: Directivas, Guards, Interceptores
+
+Soporte Backend: Despliegue local, Controladores REST (Spring Boot), Consultas JPA, Programación funcional (Java 8 Streams)
+
+Tecnologías: Angular 13, Java 8, Spring Boot 3, SQL Server, ng-bootstrap, Keycloak, Swagger, Lombok
+
+Credit Agile, Inc  Panamá · En remoto
+
+React SSR - Next.js Developer
+
+Feb. 2021 - May. 2023 2 años 4 meses
+
+Refactoring y desarrollo FrontEnd (SSR con Next.js)
+
+Creación: Sistema inactividad/cierre sesión (react-idle-timer), Hooks personalizados (useForm)
+
+SEO optimización
+
+API interna (Node.js, next-connect), Manejo dinámico Router Next.js, Api Gateway (Node.js)
+
+Sistema Sesiones (Express.js, getServerSideProps)
+
+Mejora rendimiento carga App (50% con caché)
+
+Migración Material-UI V4 a V5
+
+Tecnologías: React, Next.JS 9-11, React Hooks, Redux, redux-thunk, express-session
+
+React Native Developer
+
+Ago. 2019 - Jul. 2021 2 años
+
+Creación App móvil gestión préstamos
+
+Implementaciones React Native (Expo, ExpoKit, Nativo)
+
+Sistemas: Task persistentes, Geolocalización/Tracking, Notificaciones Push (FireBase)
+
+Uso cámara y subida archivos
+
+Layouts (Navigators)
+
+Visor Imágenes/PDF
+
+Módulo nativo Android (Servicio Headless JS, Notificación persistente)
+
+Módulo nativo Android (Consumo API clima openweathermap.org)
+
+Tecnologías: Expo, ExpoKit, React Native, Cloud Functions, RxJs - BehaviorSubject
+
+Click Result group Ltd (Full Stack Developer) España · En remoto
+
+Oct. 2016 - Dic. 2017 1 año 3 meses
+
+Modificación CMS 'Simple CMS ' (phpjabbers): Características de wix.com/websitebuilder.com
+
+Edición en línea (CKeditor 4), Creación/modificación plugins CKeditor 4
+
+Sistema edición dinámica Front-end (CSS, JS, HTML)
+
+Sistema múltiples idiomas ('STIVA Blog Script ')
+
+Tecnologías: JavaScript, HTML 5, CSS3, PHP 5.6.25, MySQL 5.6.17, CKeditor 4, JQuery
+
+Contenidos, aportes digitales
+
+Mi Camino hasta aquí, mi vida, mi historia
+
+Podcast Profesional  Testimonio profesional en Video
+
+Podcast Profesional - testimonio profesional en Video En este video comparto parte de mi recorrido como desarrollador, desde mis primeros aprendizajes independientes hasta la experiencia formal, incluyendo aprendizajes clave y cómo enfrenté ciertos desafíos en mi carrera.  Pienso que este contenido complementa mi perfil y permite conocer más sobre el trasfondo de mi carrera, las decisiones que me formaron y cómo afrontar los desafíos profesionales desde una perspectiva real y práctica.
+
+Habilidades Técnicas
+
+Angular
+
+Mi dominio en Angular (y TypeScript, su superconjunto) es muy sólido y se extiende a más de 3 años y 9 meses en proyectos reales con versiones que van desde la 6 hasta la 13.  Además, estoy activamente explorando las últimas versiones como Angular 17/19 con Signals, sobre lo cual he publicado artículos y sigo formándome.  He tenido la oportunidad de aplicar mis conocimientos de Angular en diversos contextos y proyectos: Desarrollo Front-End en Adevcom (Chile)Febrero de 2024  -  Octubre 2025 (1 año y 9 meses)  - Angular 13  Proyecto de prevención de riesgos laborales para el Instituto de Salud Laboral (ISL), desarrollando un sistema de gestión de denuncia.  Mis contribuciones clave incluyen la creación de componentes reutilizables con ng-template y ng-container.  He implementado formularios complejos, tanto Template Driven como Reactive Forms, con validaciones personalizadas y la gestión de campos dinámicos usando FormBuilder y FormArray.  Logré una optimización del 50% en el manejo de datos complejos gracias a servicios personalizados como FormService y DataContextService, lo que mejoró la comunicación entre componentes y me permitió entregar funcionalidades clave en tiempo récord.  También he implementado directivas personalizadas, Guards para el control de acceso basado en roles e Interceptores para el manejo global de errores HTTP.   Soluciones Avanzadas para Formularios en Angular: Desarrollé un componente de formulario dinámico utilizando FormArray para manejar grupos de campos repetibles de forma eficiente, ideal para casos como registros de usuarios o listas de tareas.  Creé un servicio robusto y eficiente diseñado para gestionar formularios anidados en aplicaciones complejas, centralizando la sincronización, validación y acceso a datos. Este servicio estandariza la gestión, evitando inconsistencias y simplificando el mantenimiento del código.   Proyectos con Stack MEAN y APIs(desde agosto de 2020 hasta mayo de 2022) - Angular 10  Trabajé en un sistema de hospitales utilizando el MEAN Stack (MongoDB, Express, Node.js), lo que implicó la creación de una arquitectura de aplicación Angular a gran escala basada en módulos, un backend robusto con API RESTful, manejo de subida de archivos y autenticación JWT y Google SignIn.   Abril y mayo de 2022 - Angular 13  Desarrollé una plataforma de películas con Angular y Node.js/Express, que incluye autenticación con Auth0, protección de rutas sensibles con canLoad y canActivate, y Lazy-loading.   Pruebas y Buenas PrácticasMayo de 2022 - Angular 13  Mi enfoque no es solo que el código funcione, sino que sea eficiente, elegante y fácil de entender.  Por ello, he trabajado extensivamente en pruebas unitarias y de integración en Angular, abarcando desde las comprobaciones básicas hasta temas avanzados como el manejo de Observables, espías y la simulación de servicios.   Otras Contribuciones Relevantes en Angular:Junio de 2019 - Angular 8  Implementé funcionalidades de Drag and Drop para la subida de archivos a Firebase con barra de progreso.   Junio de 2019 - Angular 8  Desarrollé un sistema de gestión de usuarios CRUD con PHP y MySQL, aplicando formularios reactivos, validaciones asíncronas, patrones de diseño e inyección de dependencias.   Febrero de 2019 - Angular 7  Creé una pequeña imitación de LinkedIn, destacando el Server-Side Rendering (SSR) y el uso de Firebase para el feed y el perfil.   Diciembre de 2018 - Angular 6  Exploré a fondo la creación de formularios tanto reactivos como basados en plantillas, con validaciones personalizadas y manejo dinámico de campos.   Junio de 2019 - Angular 6  Desarrollé una aplicación que consume la API REST de Spotify, gestionando la autenticación con tokens, el manejo de datos asíncronos con Observables y la protección de rutas con Guards.   Mi habilidad con Angular, combinada con mi experiencia en TypeScript, me permite construir microfrontends escalables para aplicaciones empresariales y soluciones avanzadas que requieren un alto nivel de detalle y optimización.  Mi experiencia total y activa trabajando con Angular, sumando tanto mi rol formal en empresas como los proyectos personales significativos y otras contribuciones, asciende a aproximadamente 3 años y 4 meses.  Este cálculo se compone de:  1 año y 5 meses de mi rol actual en Adevcom  1 año y 9 meses dedicados al proyecto MEAN Stack  Aproximadamente 5 meses adicionales que corresponden a la suma de los periodos de trabajo concentrados en los proyectos más pequeños y específicos que he desarrollado con Angular a lo largo de mi trayectoria.    -------------
+
+TypeScript
+
+Mi experiencia con TypeScript, aunque más reciente en comparación con otras tecnologías, ha sido significativa y me ha permitido mejorar la calidad y mantenibilidad de los proyectos en los que he trabajado.  Desde enero hasta junio de 2023 (6 meses), en mi rol como React Developer en Epidata, utilicé TypeScript para desarrollar aplicaciones frontend robustas y escalables. Durante este periodo, implementé componentes funcionales con React y TypeScript, aprovechando las ventajas de tipado estático para reducir errores en tiempo de desarrollo y mejorar la documentación implícita del código.  A lo largo de mi trayectoria, he incorporado TypeScript en varios proyectos personales y colaborativos, donde he migrado código JavaScript a TypeScript para optimizar la calidad y facilitar el mantenimiento, así como para integrar mejores prácticas de desarrollo.  En mi rol actual en Adevcom (desde febrero de 2024 a Octubre 2025), aunque el foco principal es Angular con TypeScript, aplico esta tecnología de forma constante para construir componentes, servicios y módulos con tipado fuerte, lo que mejora la robustez y escalabilidad del código.  Este total se compone de:  1 año y 5 meses de mi rol actual en Adevcom, trabajando con Angular y TypeScript.  6 meses en Epidata desarrollando con React y TypeScript.  Aproximadamente 5 meses adicionales, que corresponden a la suma de los periodos de trabajo concentrados en proyectos pequeños y específicos donde he utilizado TypeScript a lo largo de mi trayectoria.   En total, cuento con alrededor de 2 años y 9 meses de experiencia práctica con TypeScript, lo que me permite desarrollar aplicaciones modernas con un enfoque en calidad, escalabilidad y mantenibilidad.   -------------
+
+API RESTful
+
+Mi experiencia total y activa trabajando con API RESTful, sumando tanto mi rol formal en empresas como los proyectos personales significativos y mis contribuciones, asciende a aproximadamente 9 años y 10 meses.   Aquí te desgloso mi trayectoria y lo que he hecho con API RESTful:   Desde febrero de 2024 hasta la actualidad (1 año y 4 meses)   En Adevcom (Chile), como Desarrollador Angular, he proporcionado soporte de Backend desarrollando controladores REST con Spring Boot, realizando consultas JPA y utilizando programación funcional con Java 8 Streams para requerimientos específicos.   Desde febrero de 2021 hasta mayo de 2023 (2 años y 4 meses)   Durante mi rol como React SSR - Next.js Developer en Credit Agile, Inc. (Panamá), fui responsable de la creación de una API interna con Node.js y next-connect, una API Gateway con Node.js, y un sistema de sesiones con Express.js para proteger las páginas con roles usando getServerSideProps de Next.js. Esto fue fundamental en el refactoring y desarrollo del FrontEnd con React renderizando del lado del servidor.   Desde agosto de 2019 hasta julio de 2021 (2 años)   Como React Native Developer en Credit Agile, Inc. (Panamá), desarrollé un módulo nativo de Android para el consumo de la API del clima de openweathermap.org en una aplicación móvil para la gestión de préstamos.   Desde diciembre de 2017 hasta septiembre de 2019 (1 año y 10 meses)   En BONDAREA (Argentina), participé activamente en la creación de BREF Bondarea Render Framework, un sistema que renderizaba información de una API en diferentes tipos de componentes Bootstrap.   Desde agosto de 2020 hasta mayo de 2022 (1 año y 9 meses)   Trabajé en un sistema de hospitales utilizando el MEAN Stack (MongoDB, Express, Angular 10, Node.js), donde creé un backend robusto con API RESTful, manejando la subida de archivos, autenticación JWT y Google SignIn.   Desde abril de 2022 hasta mayo de 2022 (2 meses)   Desarrollé una plataforma de películas con Angular 13, donde el servidor creado con Node.js y Express servía datos de películas como un archivo JSON a través de un único endpoint protegido por un token de Auth0.   En agosto de 2023 (1 mes)   Creé una Calculadora de Inversión en Criptomoneda en React que utiliza servicios web RESTful para obtener información actualizada sobre criptomonedas como Bitcoin, Ethereum y Cardano.   En abril de 2021 (1 mes)   Desarrollé un proyecto con Node.js y Express.js enfocado en Sessions y ataques CSRF, donde mostré cómo proteger las rutas sensibles de un servicio REST.   En julio de 2020 (1 mes)   En un proyecto con Vue.js 2 para un listado de productos con carrito de compras, implementé operaciones CRUD con JSON Server y el consumo de una API usando Vuex y Vue Router, manejando operaciones HTTP como GET, POST, PUT y DELETE.   En noviembre de 2018 (1 mes)   Desarrollé una aplicación web con Angular 6 que consume la API REST de Spotify, gestionando la autenticación con tokens y el manejo de datos asíncronos.   En diciembre de 2021 (1 mes)   Liberé el código fuente de mi portafolio V1, construido con React y Express, que incluía Server-Side Rendering (SSR) con capacidad de cachear datos recuperados del servidor para el primer renderizado, similar a Next.js, optimizando el SEO.   Además de la experiencia práctica, mi conocimiento sobre API RESTful también se extiende a la divulgación.    En marzo de 2023, publiqué un artículo titulado "Todo lo que necesitas saber sobre API Rest: Glosario de términos esenciales y más", lo que demuestra mi compromiso con el aprendizaje continuo y el intercambio de conocimientos en la comunidad de desarrolladores.   Mi habilidad con las API RESTful es una de mis competencias técnicas clave, junto con el desarrollo con Node.js y Express.js.    Esto me permite no solo crear APIs robustas y eficientes para el backend, sino también consumirlas e integrarlas eficazmente en soluciones frontend complejas.     -------------
+
+CyberSecurity / Ethical Hacking (OWASP)
+
+Mi involucramiento en Ciberseguridad y Ethical Hacking (OWASP) ha sido una constante a lo largo de mi trayectoria, por motivos de curiosidad, aprendizaje y crecimiento profesional.   Y aunque actualmente mi rol principal es como desarrollador web senior, he cultivado conocimientos específicos en CyberSecurity y Ethical Hacking, especialmente relacionados con OWASP Top 10, lo que me permite identificarme como Jr CyberSecurity en esta área.    Mi contribución en este campo no proviene de un puesto formal dedicado exclusivamente a la ciberseguridad en una empresa, sino de la aplicación directa de estos conocimientos para asegurar mis desarrollos, junto con una formación continua y dedicada.    Estudié para integrar la seguridad como un pilar fundamental en cada línea de código que escribo.   Certificación Profesional y Formación Activa (2022 - 2023):   He dedicado aproximadamente entre 1 y 2 años, desde mediados de 2022 hasta 2023, a la formación en CyberSecurity y Ethical Hacking, con especial atención a los estándares OWASP.   El 31 de octubre de 2022, obtuve la certificación como Ethical Hacking Profesional de Seguridad Cero (curso de 60 horas académicas), abarcando el ciclo completo de ataque y defensa: desde la creación de laboratorios, reconocimiento, escaneo de puertos , explotación y secuestro de sesiones, hasta técnicas como MITM (Hombre en el medio), DOS, hacking de sistemas Windows, Active Directory, Web y Móvil, malware e ingeniería social. Ese mismo mes, completé estudios y certificación en OWASP Top 10 API+ y seguridad en APIs, fundamentales para la protección de servicios REST y modernas interfaces web.   Proyectos Prácticos y Aplicación Real:   En abril de 2021, desarrollé un proyecto educativo en Node.js y Express.js sobre protección CSRF, donde demuestro cómo se ejecutan estos ataques y cómo implementar protecciones efectivas. El código fue documentado y compartido para fines didácticos.     En mis desarrollos actuales, aplico de forma sistemática las recomendaciones de OWASP: manejo seguro de autenticación, validación de entradas, protección contra inyecciones y otros ataques comunes. Estas prácticas se complementan con principios como Clean Code y SOLID, orientadas a crear software seguro, mantenible y escalable.   Experiencia Previa y Contexto Técnico:   Como ya he comentado en otros apartados, mi interés por la ciberseguridad no es reciente. Entre 2010 y 2011, desarrollé varias soluciones que, si bien no formaban parte de un enfoque formal, reflejan una comprensión temprana de cómo funcionan los sistemas, sus vulnerabilidades y cómo pueden ser manipulados para lograr ciertos fines.   Uno de estos proyectos fue un programa en Visual Basic que se propagaba mediante autorun en Windows XP e instalaba una barra promocional vinculada a mi sitio web. También desarrollé una herramienta que extraía publicaciones de Taringa.net y generaba archivos SQL para alimentar mi propia base de datos.  Ambos casos muestran cómo, incluso en etapas iniciales, trabajé con conceptos que hoy siguen vigentes en ciberseguridad: persistencia, ejecución automática, scraping, y automatización de tareas sobre sistemas reales.   Divulgación Técnica y Aplicación Continua:   Desde 2022 he compartido parte de mi trabajo mediante artículos en Dev.to y otras plataformas, abordando temas como:   Diferencias Pentesting y Red Team Google Hacking, Dorks Hacking, búsquedas avanzadas con Google Descubre SXDork: la herramienta para búsquedas automatizadas con dorks de Google EvilGinxv2, Bypass del doble factor de autenticación: la herramienta de phishing definitiva Villain: La herramienta de pentesting que utiliza Hoaxshell para burlar a Windows Defender Guía práctica sobre ISO 27001 Diferencias entre RED, BLUE y PURPLE Team Introducción a DevSecOps Conceptos básicos de Ethical Hacking   En paralelo, mantengo un enfoque constante en aplicar seguridad desde el diseño (Security by Design) en cada proyecto, tanto en frontend como backend, con tecnologías como JavaScript, React, Angular y Node.js.      -------------
+
+Git
+
+He trabajado con Git durante ya 9 años y 3 meses, tanto en proyectos personales como en entornos laborales, lo que me ha permitido desarrollar una sólida habilidad técnica en el manejo de esta herramienta de control de versiones.    Desde mis inicios en el desarrollo web, he utilizado Git para gestionar el código fuente de aplicaciones, facilitando la colaboración en equipos pequeños y grandes, así como el control eficiente de versiones y ramas en proyectos complejos.   En mi experiencia profesional, he aplicado Git en diversos roles y proyectos, desde desarrollador Full Stack hasta especialista en frontend con tecnologías como React, Angular, y Next.js. Por ejemplo, durante mi trabajo remoto en Credit Agile, Inc (febrero 2021 - mayo 2023), utilicé Git para manejar versiones en proyectos con React SSR y Next.js, asegurando una integración continua y un flujo de trabajo colaborativo efectivo con otros desarrolladores. También en mi rol como React Developer en Epidata (enero 2023 - junio 2023), Git fue fundamental para coordinar el desarrollo de un sistema integral de RRHH, permitiendo gestionar cambios, resolver conflictos y mantener la calidad del código.   En mis proyectos personales y contribuciones a la comunidad, he documentado buenas prácticas y flujos de trabajo con Git, promoviendo la colaboración efectiva entre frontend y backend, y aplicando principios de desarrollo ágil y control de versiones para mejorar la productividad del equipo.   En resumen, mi experiencia con Git abarca:   Uso continuo desde aproximadamente 2015, acumulando ya 9 años de práctica. Gestión de repositorios en proyectos profesionales y personales. Coordinación de trabajo en equipo mediante ramas, pull requests y merge conflicts. Integración de Git con herramientas como Docker y plataformas de despliegue. Promoción de buenas prácticas en control de versiones en mis artículos y tutoriales.   Total de años con Git: 9 años y 3 meses, combinando experiencia en proyectos personales y laborales.     -------------
+
+Google Cloud
+
+He trabajado con Google Cloud durante aproximadamente 2 años, aplicando esta tecnología para potenciar el desarrollo y despliegue de aplicaciones web y móviles en proyectos profesionales y personales.   Mi experiencia incluye la utilización de servicios como Firebase, Cloud Firestore, Realtime Database y Cloud Functions para gestionar infraestructura en la nube, así como para implementar soluciones escalables, seguras y eficientes.   En mis roles como desarrollador frontend y full stack, he integrado Google Cloud con frameworks modernos como React, Next.js y React Native, aprovechando funcionalidades como bases de datos en tiempo real, autenticación, y automatización de tareas mediante funciones en la nube. Por ejemplo, en aplicaciones móviles con React Native, utilicé Firebase Realtime Database y Cloud Functions para gestionar datos dinámicos y automatizar tareas de mantenimiento, como la eliminación automática de registros antiguos, mejorando la eficiencia y escalabilidad.   He desarrollado habilidades avanzadas en la creación y administración de índices en Firestore para realizar búsquedas eficientes con ordenamientos ascendentes y descendentes, optimizando consultas complejas según los campos de filtro, orden y rango requeridos.   He implementado estrictas reglas de seguridad para proteger las bases de datos en Firestore y Firebase Realtime Database, asegurando que solo usuarios autorizados puedan acceder o modificar la información, lo que fortalece la integridad y confidencialidad de los datos.   También utilizo la Google Cloud Console para activar y configurar servicios esenciales, como el envío de correos electrónicos y la autenticación, gestionando APIs y servicios que mejoran la experiencia del usuario y la seguridad de las aplicaciones.   ---   He trabajado con Google Cloud durante aproximadamente 2 años, aplicando esta tecnología para potenciar el desarrollo y despliegue de aplicaciones web y móviles en proyectos profesionales y personales.   Mi experiencia incluye la utilización de servicios como:   Firebase Cloud Firestore Realtime Database Cloud Functions  para gestionar infraestructura en la nube, así como para implementar soluciones escalables, seguras y eficientes.   En mis roles como desarrollador frontend y full stack, he integrado Google Cloud con:   React Next.js React Native  aprovechando funcionalidades como bases de datos en tiempo real, autenticación, y automatización de tareas mediante funciones en la nube.  Por ejemplo, en aplicaciones móviles con React Native, utilicé Firebase Realtime Database y Cloud Functions para gestionar datos dinámicos y automatizar tareas de mantenimiento, como la eliminación automática de registros antiguos, mejorando la eficiencia y escalabilidad.   He desarrollado habilidades avanzadas en la creación y administración de índices en Firestore para realizar búsquedas eficientes con ordenamientos ascendentes y descendentes, optimizando consultas complejas según los campos de filtro, orden y rango requeridos.   He implementado estrictas reglas de seguridad para proteger las bases de datos en Firestore y Firebase Realtime Database, asegurando que solo usuarios autorizados puedan acceder o modificar la información, lo que fortalece la integridad y confidencialidad de los datos.   También utilizo la Google Cloud Console para activar y configurar servicios esenciales, como:   El envío de correos electrónicos La autenticación  Gestionando APIs y servicios que mejoran la experiencia del usuario y la seguridad de las aplicaciones.     -------------
+
+JavaScript ES6
+
+Tengo ya 9 años aplicando tecnología de JavaScript ES6 en proyectos personales y profesionales.    Mi experiencia con JavaScript ES6 es amplia, siendo esta la base fundamental de mi carrera.   Aunque mis primeros acercamientos a esta tecnología surgieron de la exploración personal --escribiendo código directamente desde archivos del sistema en Windows 98--, en enero de 2018 consolidé mis conocimientos con una certificación formal en "Programación avanzada con JavaScript y ECMAScript 6", impartida por campusMVP.   Esta formación me permitió reforzar y estructurar de manera profesional mi dominio sobre las características del lenguaje y el estándar ES6 .   Mi experiencia destacada:   En BONDAREA (diciembre 2017 - septiembre 2019) como JavaScript Developer     Diseñe y desarrolle BREF (Bondarea Render Framework), un sistema innovador para renderizar páginas web completas a partir de estructuras JSON. Este proyecto implicó manipulación avanzada del DOM con Vanilla JS, concatenación de strings y uso controlado de eval para ejecutar código JavaScript bajo demanda.   Dominio del Event Loop y la cola de tareas de JavaScript, asegurando que la interfaz no se bloqueara durante operaciones pesadas.    En Click Result Group Ltd (octubre 2016 - diciembre 2017) como Full Stack Developer     Implementé un sistema para edición dinámica de CSS, JS y HTML en el frontend, requiriendo inyección y modificación de código en tiempo real con JavaScript. También desarrollé y adapté plugins para CKEditor 4 usando JavaScript.   El manejo de conceptos como hoisting y closures fue clave para organizar el código y mantener el estado en funciones de edición y eventos DOM.   Resolución de problemas complejos y optimización     He aplicado técnicas para optimizar el rendimiento de aplicaciones JavaScript, minimizando bloqueos en el hilo principal y mejorando la experiencia de usuario mediante el manejo eficiente de asincronía y eventos.   Implemento estrategias de optimización de algoritmos y estructuras de datos para mejorar la eficiencia computacional del código, lo que contribuye a reducir tiempos de ejecución y consumo de recursos.    Sobre este tema, he publicado un artículo técnico titulado La ciencia de los algoritmos, donde explico conceptos clave y buenas prácticas para aplicar algoritmos eficientes en JavaScript.   Soy un firme defensor de la escritura de código limpio y mantenible, aplicando principios SOLID y patrones de diseño para asegurar que el software sea escalable y fácil de mantener a largo plazo.  Mutabilidad vs inmutabilidad: decisiones conscientes     Comprendo profundamente las diferencias entre mutabilidad e inmutabilidad en JavaScript, y sé cuándo aprovechar una u otra.   En algunos escenarios, he utilizado la mutabilidad de los objetos para optimizar rendimiento de manera controlada, pero también reconozco los riesgos que conlleva: comportamientos impredecibles, efectos colaterales y dificultades de trazabilidad.   Por ello, aplico principios de inmutabilidad cuando es crucial mantener el control del estado y evitar errores complejos, especialmente en arquitecturas donde la previsibilidad del estado es clave.   Conocimiento complementario en ciberseguridad, OWASP Top Ten:     Como entusiasta de la ciberseguridad, aplico buenas prácticas de seguridad en el desarrollo JavaScript para proteger las aplicaciones contra vulnerabilidades comunes, fortaleciendo la integridad y confidencialidad de los datos.   Utilizo diariamente características modernas de ES6 como let/const, arrow functions, destructuring, spread/rest, template literals, clases, módulos, promesas y async/await para escribir código limpio, eficiente y mantenible.   Aplico patrones de diseño clásicos y avanzados, como Factory, Singleton y otros, para asegurar  escalabilidad y robustez en las aplicaciones.   En mí GitHub  comparto código y librerías basadas en JavaScript ES6, y he escrito artículos técnicos y guías sobre buenas prácticas, y algunas arquitecturas.     -------------
+
+LitElement
+
+Trabaje con LitElement cuando realicé mi curso de LitElement impartido por Escuela IT en el 2019.    El curso lo hice para complementar mi stack como desarrollador frontend y aprender a crear Web Components nativos con LitElement, tecnología que es una evolución de Polymer.    Aunque no he tenido la oportunidad de trabajar formalmente con LitElement, sí he aplicado esta tecnología en proyectos personales que me han permitido entender cómo funciona y sus características.   Como parte de mi aprendizaje desarrollé varios componentes con LitElement:   Un Todo List, donde aplique el patrón Mediador para la comunicación entre componentes en diferentes niveles (padres, hijos, nietos, abuelos), manejo de estado con localStorage, data binding por propiedades y carga dinámica de datos a través de atributos HTML.       Este componente fue publicado, documentado y presentado en video.   Un componente llamado "Fecha sin Calendario", con personalización total del idioma, estilos y presentación visual.       Esta pieza fue publicada en GitHub, distribuida a través de NPM y acompañada de una demo funcional construida con Storybook. También fue compartida en comunidades especializadas como Polydile.   Estos desarrollos fueron realizados con un enfoque claro en buenas prácticas, buscando producir piezas reutilizables, encapsuladas y altamente configurables.    He compartido codigo, artículos y demostraciones como parte de un compromiso con la divulgación técnica y el software abierto.   NOTA: Algunos de estos desarrollos se describen con más detalle en la sección de Proyectos de este mapa mental.    -------------
+
+Material UI
+
+He trabajado con Material UI en diversos contextos, lo que me ha permitido consolidar una experiencia avanzada en esta librería.   A continuación, te detallo dónde y qué he hecho con Material UI:   Credit Agile, Inc. (Febrero 2021 - Mayo 2023):   En mi rol como React SSR - Next.js Developer, una de mis contribuciones fue la migración de Material-UI desde la versión V4 a la V5.    Esto implicó la actualización y adaptación de componentes de la interfaz de usuario para aprovechar las nuevas características y mejoras de rendimiento de la versión más reciente. También trabajé con @emotion/cache en Next.js 11 como parte de este proceso de optimización de estilos y rendimiento.   Proyecto Next.js 14 con SSR, Redux, Material-UI y TSS-React (Septiembre 2024):   He desarrollado una plantilla de aplicación web con Next.js 14 donde utilizó Material-UI para proporcionar componentes de interfaz de usuario modernos y personalizables.    Enfrenté desafíos al integrar Material-UI con Next.js y SSR en versiones anteriores, por lo que creé esta plantilla para facilitar la integración.    Para la carga eficiente de estilos desde el servidor, integre TSS-React, ya que los métodos tradicionales de aplicar estilos de Material-UI ya no funcionaban como antes.    Esta plantilla está diseñada para asegurar una interfaz de usuario consistente, moderna y con una experiencia de usuario fluida, eliminando saltos de estilo al cargar los estilos desde el servidor.    Este proyecto es un claro ejemplo de mi capacidad para integrar y utilizar Material UI en arquitecturas avanzadas y resolver problemas específicos de implementación.   Tengo 2 años y 4 meses de experiencia formal trabajando con Material UI en empleos directos, y esta experiencia se complementa con el uso continuo de la librería en mis proyectos personales.
+
+Next.js
+
+Experiencia total: 2 años y 4 meses (uso profesional)   Ámbitos: Desarrollo web con SSR, optimización SEO, rendimiento y estructuración avanzada de proyectos.   Mi experiencia con Next.js se ha forjado tanto en el ámbito laboral como en proyectos personales, consolidando un dominio avanzado en su uso para el desarrollo web de alto rendimiento y renderizado del lado del servidor (SSR).   Dónde y qué he hecho con Next.js: Credit Agile, Inc. (febrero 2021 - mayo 2023)     Durante mi rol como React SSR - Next.js Developer:   Implementé Server-Side Rendering para mejorar el SEO y reducir tiempos de carga. Integré funcionalidades como el manejo de la inactividad del usuario con react-idle-timer. Desarrollé Hooks personalizados (useForm, entre otros). Realicé optimización avanzada de SEO, alcanzando buenas puntuaciones en Google Lighthouse y PageSpeed Insights. Utilicé rutas dinámicas ([...param].js, [[...param]].js) y estructuré páginas protegidas usando getServerSideProps. Logré una mejora del 50% en el rendimiento de carga mediante implementación de caché.   Proyecto: Next.js 14 con SSR, Redux y TSS-React (septiembre 2024)     Desarrollé una plantilla de aplicación con:   SSR completo desde el servidor para carga inicial optimizada. Integración de Redux para gestión de estado cargado desde el servidor. TSS-React para estilos con soporte SSR, eliminando saltos visuales en el renderizado. Solución a desafíos previos relacionados con la carga de estilos en SSR.
+
+Node.js
+
+Experiencia total: Más de 4 años (uso profesional y personal)   Ámbitos: APIs REST, SSR backend, sesiones, seguridad, rendimiento, pruebas automatizadas y educación técnica.   Node.js ha sido una pieza central en mi stack de desarrollo, sirviendo como núcleo para arquitecturas de backend, renderizado del lado del servidor (SSR) y la construcción de APIs robustas. Mi experiencia con esta tecnología abarca contextos profesionales, educativos y personales.   En Credit Agile, Inc. (febrero 2021 - mayo 2023)  Desarrollé una API interna utilizando Node.js y next-connect, estructurando rutas dinámicas al estilo Express.js ([...param].js, [[...param]].js). Implementé una API Gateway basada en Node.js para orquestar flujos de datos y proteger accesos. Construí un sistema completo de autenticación y sesiones utilizando express-session, express-fileupload, next-i18next/middleware, node-cache, cors y middlewares personalizados. Mejoré el rendimiento de la aplicación en un 50% con cacheo de datos en el servidor. Este entorno sirvió como base para arquitecturas SSR con Next.js.   Proyectos personales y educativos  Angular 10 | angular-adv-adminpro     Backend completo con Node.js, Express.js y MongoDB (Mongo Atlas) usando Mongoose, CRUD para hospitales, médicos y usuarios con definición de modelos, esquemas y middleware para manipulación avanzada de datos.     Validaciones con express-validator, rutas protegidas con JWT y control de roles, gestión de subida de archivos con express-fileupload, control de tipo, generación de nombres únicos con uuid y eliminación de archivos previos.     Middleware para protección de endpoints, manejo de errores personalizados y CORS habilitado, implementé paginación en las consultas a la base de datos para mejorar la respuesta del backend.     Las rutas fueron organizadas de forma modular y se estructuraron middlewares reutilizables para validación y control de acceso.   Angular 13 | Plataforma de Movies   Servidor en Express.js que sirve una base de datos simulada desde un archivo JSON, este backend de Node.js implementa cors para limitar el acceso a la API según origen.   La API cuenta con un único endpoint protegido mediante validación de token emitido por Auth0, el archivo JSON simula una base de datos de películas, incluyendo título, descripción, tipo, imagen y fecha.   La autenticación se gestiona mediante un middleware que valida el encabezado Authorization con el token correspondiente.   React | Calculadora de Inversión en Criptomoneda   Desarrollé un backend con Node.js y Express.js para gestionar la lógica de negocio y comunicarme con la Messari API, usando axios para realizar solicitudes HTTP autenticadas mediante API Key.   Implementé CORS para permitir el acceso desde el frontend, incluso en entornos con orígenes distintos.   Incluí procesamiento de archivos CSV para transformar datos estructurados cuando es requerido.   Apliqué un patrón de inyección de dependencias funcional, pasando explícitamente a los controladores las librerías y funciones necesarias (axios, carga de datos, lógica de cálculo, etc.).   Esto desacopla la lógica de negocio de implementaciones concretas, facilitando la reutilización, pruebas y mantenimiento. Además, contribuye a respetar el principio SOLID de inversión de dependencias (DIP).   Al desacoplar el flujo de ejecución de cualquier implementación concreta, se facilita la reutilización de handlers y la posibilidad de intercambiar dependencias sin modificar su lógica interna.   La estructura modular resultante mejora la claridad y mantenibilidad del código, y permite escalar la funcionalidad sin comprometer la organización.   Utilicé variables de entorno para gestionar configuraciones sensibles a través de .env. La arquitectura modular del backend facilita la escalabilidad, el mantenimiento y la ejecución de pruebas unitarias.   TDD en Node.js con Jest   Guía técnica con ejemplos de pruebas unitarias e integración con SuperTest. Incluye inyección de dependencias y diseño de tests para backends Express.   Seguridad y CSRF   Proyecto explicativo sobre ataques CSRF y su prevención con tokens en rutas sensibles. Implementado con Node.js y Express, con lógica de protección en sesiones.   Portafolio V1 (diciembre 2021)   Aplicación isomórfica SSR + CSR usando Node.js (con Express), React, Webpack 4 y Babel.    Permitía cachear datos en el servidor y renderizar HTML completo desde el backend.   Implementé hidratación eficiente y diseñé una arquitectura modular y reutilizable, inspirada en Next.js pero hecha desde cero.
+
+React
+
+Experiencia total: 4 años y 10 meses (uso profesional y personal)   Mi primer contacto con React marcó un punto de inflexión en mi carrera como desarrollador FrontEnd.   Venía de trabajar con JavaScript puro (Vanilla JS) en Bondarea, allí, en eso de diciembre de 2017 a septiembre de 2019.   Donde incluso contribuí al desarrollo de un framework propio para renderizar estructuras HTML a partir de objetos JSON BREF (Bondarea Render Framework), implicando una manipulación avanzada del DOM.   Al pasar a React, experimenté un cambio de paradigma que me permitió comprender con claridad el funcionamiento del Virtual DOM y su comparación con el DOM tradicional del navegador.   Esto no solo representó un salto técnico, sino también conceptual: pasé de un enfoque procedural y manual a uno declarativo y estructurado.   Fue también en esa etapa donde consolidé mis conocimientos en ES6, iniciando así un camino enfocado en el desarrollo moderno de componentes frontend.   Esa base técnica me permitió adaptarme con naturalidad a React Native, donde el modelo de renderizado ya no utiliza etiquetas HTML, sino componentes específicos como View, Text o Image, lo que representa un cambio profundo en la forma de construir interfaces, trasladando el paradigma declarativo de React al entorno nativo con su propia lógica visual y de comportamiento.   Experiencia profesional:  Epidata (enero 2023 - junio 2023):   Trabajé como React Developer, aplicando React junto a TypeScript, Hooks, Redux y Vite.   Credit Agile, Inc. (febrero 2021 - mayo 2023):   Me desempeñé como React SSR - Next.js Developer, utilizando React en combinación con Server-Side Rendering mediante Next.js.   Desarrollé hooks personalizados para formularios, entre otras funcionalidades avanzadas relacionadas con el ciclo de vida y la estructura del frontend.   Proyectos personales destacados:  Next.js 14 con SSR, Redux, Material-UI y TSS-React (septiembre 2024):   Desarrollé una plantilla de aplicación web con Next.js 14, Server-Side Rendering, Redux y TSS-React para soporte completo de estilos desde el servidor.   MicroFrontends con Vite, React, Redux y i18next (diciembre 2023):   Construí una arquitectura de microfrontends escalable con comunicación entre host y submódulos, integración de Redux para estado compartido y sincronización global de idioma.   Calculadora de Inversión en Criptomoneda (agosto 2023):   Aplicación web que proyecta ganancias anuales sobre inversiones en criptomonedas, con manejo de tablas dinámicas e interfaz responsiva.   Portafolio V1 - SSR (diciembre 2021):   Desarrollé mi primer portafolio utilizando la tecnología de React con Server-Side Rendering (SSR) sin depender de frameworks como Next.js, construyendo una arquitectura de renderizado desde el servidor totalmente personalizada con React y JavaScript.   Tecnologías utilizadas: React, React Hooks, react-universal-component, express.js, Webpack 4, Babel.   Aspectos clave:   Renderizado completo desde el servidor:   La aplicación genera contenido HTML desde el servidor utilizando React, permitiendo que los usuarios reciban una página completamente renderizada desde el primer request. Esto mejora significativamente el rendimiento de carga inicial y favorece el SEO, al entregar contenido listo para ser indexado.   Sistema de caché en el servidor (similar a Next.js):   Implementé un mecanismo de cacheo de datos en el servidor que evita llamadas innecesarias al backend. Utilicé una clave getInitialData por ruta, inspirada en el modelo de Next.js, para recuperar los datos antes del renderizado.   Hidratación eficiente en el cliente:   Una vez enviada la página desde el servidor, React se encarga de hidratarla en el cliente, adjuntando los eventos y habilitando la interacción. Este proceso requería un manejo preciso del Virtual DOM para mantener la sincronización entre ambas partes.   Ecosistema propio y reutilizable:   La arquitectura fue diseñada como una base escalable para futuros proyectos con SSR. Su estructura modular permite integraciones rápidas y rendimiento optimizado, con enfoque en SEO y experiencia de usuario.   Este proyecto reflejó mi dominio del renderizado isomórfico (SSR + CSR), consolidando prácticas modernas de desarrollo con React y control explícito sobre el ciclo de datos, el entorno de ejecución y la estrategia de carga.   Conocimientos clave en React: Componentes funcionales y de clase Ciclos de vida de componentes React Hooks: useState, useEffect, useCallback, useContext, useRef, useLayoutEffect, useMemo, React.memo Conceptos avanzados: Portal, createElement, isValidElement, Higher-Order Components (HOC), flushSync Manipulación avanzada del DOM Manejo de asincronía y eventos Arquitectura de microfrontends SSR y optimización de rendimiento
+
+React Native
+
+Experiencia total: 2 años   Mi experiencia con React Native se desarrolló principalmente durante mi etapa como React Native Developer en modalidad remota para Credit Agile, Inc.   Desde agosto de 2019 hasta julio de 2021. Credit Agile, Inc. era una compañía enfocada en la gestión de préstamos y pagos, en este rol, me enfoque en la creación de una aplicación móvil para la gestión de préstamos.   Durante este proyecto trabajé con distintas configuraciones del entorno, incluyendo:   Expo, ExpoKit y React Native sin capas intermedias ("al desnudo"), adaptando cada implementación según los requisitos técnicos.   Entre los aspectos más relevantes de mi experiencia destacan:   Persistencia en segundo plano:   Desarrollé un sistema de tareas persistentes que continuaban funcionando tras reinicios del dispositivo.   Geolocalización y seguimiento en tiempo real:   Implementé un sistema de tracking que mostraba la ubicación en tiempo real sobre mapas de Google, proporcionando información al equipo de recuperación de la compañía.   Notificaciones push con Firebase y Cloud Functions:    Integré notificaciones automáticas que eran generadas por funciones en la nube, las cuales también ejecutaban tareas de mantenimiento en la base de datos.   Interacción con la cámara y subida de archivos:   Incorporé funcionalidades de captura y carga de imágenes directamente desde el dispositivo.   Diseño de navegación estructurada:   Construí layouts utilizando createBottomTabNavigator, createStackNavigator y un TopFooter personalizado, manteniendo consistencia en los encabezados y pies de página.   Visualización de documentos:    Integré un visor para imágenes y archivos PDF.   Desarrollo de módulos nativos en Android:   Creé un módulo para manejar un servicio Headless JS con notificación persistente, evitando que el sistema operativo cerrara la aplicación en segundo plano.      Desarrollé otro módulo para consumir la API de clima de openweathermap.org, utilizando su salida para mantener activa la aplicación mediante una notificación disfrazada.
+
+Redux / Redux Thunk
+
+Experiencia total: 2 años y 10 meses (uso profesional y personal) Manejo Redux y Redux Thunk de forma avanzada, aplicándolos en la gestión de estado dentro de aplicaciones React y Next.js tanto en entornos laborales como en proyectos personales.   Credit Agile, Inc. (febrero 2021 - mayo 2023)   Utilicé Redux junto con Redux Thunk para la gestión de estado en un entorno SSR con React y Next.js. Integré estas herramientas durante el refactor y desarrollo del frontend, asegurando una lógica predecible y mantenible.   Epidata (enero 2023 - junio 2023)   Apliqué Redux y Redux Thunk como adaptador de estado, generando modelos de datos ficticios que permitieron desacoplar la interfaz del backend y acelerar el desarrollo de prototipos funcionales. Esta estrategia mejoró la eficiencia del equipo y facilitó la integración posterior.   Proyecto personal - Microfrontends con Vite y Redux (diciembre 2023)   Utilicé Redux para compartir estado entre un host y dos microfrontends. Redux fue fundamental para coordinar eventos globales y mantener la sincronización de datos dentro de una arquitectura modular.   Plantilla SSR con Next.js 14 y Redux (septiembre 2024):  Desarrollé una plantilla con Server-Side Rendering en Next.js 14 utilizando Redux para inicializar y cargar el estado desde el servidor. La estructura facilita la integración de Redux en proyectos con SSR, resolviendo limitaciones comunes en versiones anteriores de Next.js.   Mi experiencia con Redux y Redux Thunk se traduce en soluciones concretas aplicadas en arquitecturas complejas y escalables.
+
+Tailwind CSS
+
+Experiencia total: 6 meses de uso formal + más de 7 meses si se incluyen proyectos personales Mi experiencia con Tailwind CSS es sólida y se ha desarrollado tanto en entornos profesionales como en proyectos personales. Lo he utilizado para construir interfaces precisas a partir de diseños, aprovechando su enfoque utilitario para mantener el código limpio y coherente.   Epidata (enero 2023 - junio 2023)    Durante mi trabajo como React Developer, participé en el desarrollo de un Sistema Integral de Recursos Humanos. En este contexto, utilicé Tailwind CSS para replicar una maqueta de Figma en React, integrando componentes de @headlessui/react para mejorar la accesibilidad y el comportamiento interactivo.  Si bien al principio enfrenté cierta dificultad para identificar clases específicas según el estilo deseado, logré superar estos desafíos mediante el uso constante de la documentación oficial, la cual considero especialmente clara y bien estructurada.   Proyecto personal: Calculadora de Inversión en Criptomoneda (agosto 2023)    Implementé Tailwind CSS en el diseño de una aplicación web que permite a los usuarios definir un balance de inversión en criptomonedas y calcular la ganancia anual esperada. Este proyecto me permitió aplicar Tailwind en una lógica de UI centrada en la experiencia del usuario y el diseño responsivo.
+
+Vite
+
+Experiencia total: 6 meses de uso formal + experiencia aplicada en proyecto personal (diciembre 2023)   He trabajado con Vite en entornos tanto profesionales como personales, utilizándolo como herramienta clave para optimizar la experiencia de desarrollo y configurar entornos modernos de forma eficiente.   Epidata (enero 2023 - junio 2023):  Durante mi etapa como React Developer en Epidata, trabajé en el desarrollo de un Sistema Integral de Recursos Humanos. En este proyecto utilicé Vite junto con TypeScript, React (Function Component) y Redux para establecer un entorno de desarrollo ágil. Además, integré una API de Laravel desplegada localmente mediante Docker. Vite fue clave para mejorar los tiempos de carga y simplificar la configuración del entorno. Proyecto personal: Microfrontends con Vite, React y Redux (diciembre 2023):  Desarrollé un sistema de microfrontends escalable basado en Vite Module Federation. Implementé una arquitectura compuesta por un host y dos microfrontends, asegurando una comunicación fluida a través del intercambio de estados y eventos globales. El proyecto incluyó carga bajo demanda con React.lazy, manejo de estilos con Styled Components y metodología BEM, además de soporte multilingüe mediante i18next.  Repositorio en GitHub   Esta combinación de experiencia formal y aplicación personal me permite utilizar Vite en arquitecturas eficientes, facilitando entornos de trabajo rápidos, modulares y bien estructurados.
+
+Vue.js
+
+Aunque mi enfoque principal ha estado en otros frameworks, he trabajado con Vue.js en proyectos personales que me han permitido adquirir experiencia práctica con la versión 2 del framework y su ecosistema.      Desarrollo de un Listado de Productos con Carrito de Compras (Julio 2020):   Desarrollé una aplicación web que permite listar productos y gestionar un carrito de compras sin necesidad de recargar la página. Utilicé Vuex para la gestión de estado, incluyendo módulos con namespace y persistencia de datos en LocalStorage o IndexedDB. Construí componentes reutilizables con la instancia principal de Vue y Vue Components. Validé formularios usando VeeValidate. Apliqué transiciones con Vue.js y desarrollé un buscador funcional utilizando Vuex y getters. Implementé autenticación de usuarios y persistencia de sesión con Vuex. Realicé operaciones CRUD (GET, POST, PUT, DELETE) consumiendo una API simulada con JSON Server y gestionando rutas mediante Vue Router. Controlé el acceso a rutas públicas y privadas usando beforeEach en Vue Router. Utilicé Axios y VueAxios para las peticiones HTTP, con middleware en JSON Server para manejar el flujo de inicio de sesión. Apliqué hojas de estilo en Stylus y construí una ventana modal con animaciones mediante Vue Transitions. Trabajé con mapState, mapMutations y propiedades computadas (getters y setters). Manejé data binding con v-model, uso de arrays, comunicación entre componentes con $emit y observación de cambios con watchers. Añadí funcionalidades reutilizables con mixins y creé directivas personalizadas para enfoque automático y estilos dinámicos. Desarrollé plugins con argumentos, gestioné props con validación y entendí su comportamiento dentro del sistema reactivo de Vue.   Contribución Didáctica con Vue.js (Sitio Web + GitHub) ( Abril 2021)   He documentado y publicado una serie de implementaciones funcionales sobre Vue.js 2 en mi sitio web personal.   Esta sección presenta ejemplos visuales y código fuente accesible desde mi repositorio en GitHub, donde explico de forma aplicada el funcionamiento de las principales características del framework, como:   v-model, props, watchers, computed @click, v-show, v-if, v-for, emit Uso de plugins, slots, filters y comunicación entre componentes padre-hijo Carga dinámica de componentes Estructura y práctica modular con separación de responsabilidades   Estas contribuciones están disponibles públicamente y funcionan como un soporte para quienes desean aprender los fundamentos de Vue.js 2 desde una base aplicada.
+
+Habilidades Blandas
+
+Capacidad de adaptación
+
+Coordinación de metas
+
+Inteligencia emocional
+
+Pensamiento crítico
+
+Resiliencia
+
+Superación de obstáculos
+
+Arq. Software
+
+Principios SOLID y Clean Code Udemy (jun. 2022)
+
+Principios SOLID y Clean Code   Periodo: Año 2022 Duración: 6.5 horas   Contenido principal:   Deuda técnica: definición, consecuencias y prevención Code smells: los 6 principales y otros menos comunes Principios SOLID aplicados al diseño de software: Single Responsibility Principle (SRP) Open/Closed Principle (OCP) Liskov Substitution Principle (LSP) Interface Segregation Principle (ISP) Dependency Inversion Principle (DIP) Técnicas y buenas prácticas para escribir código limpio, legible, mantenible y escalable     🔗 Mostrar credencial
+
+Software Testing
+
+TDD en NodeJS, guía de tests con Jest  Udemy (jun. 2022)
+
+TDD en NodeJS - Guía de tests con Jest   Periodo: Año 2022 Duración: 2.5 horas   Contenido principal:   Introducción en profundidad a Test Driven Development (TDD) en entornos Node.js y TypeScript Uso de Jest como framework de testing: configuración, mocks, spies, stubs y dobles de prueba Enfoques de TDD: tradicional (Chicago/classicist) y mockist (London/outside-in) Red-Green-Refactor: ciclo de diseño impulsado por tests Desarrollo de APIs REST y lógica de negocio cubiertas por pruebas Deploy y prácticas seguras al refactorizar código     🔗 Mostrar credencial
+
+Introducción al Testing de Software: ¡para Principiantes! Udemy (ene. 2019)
+
+Introducción al Testing de Software: para Principiantes!   Periodo: Año 2019 Duración: 3 horas   Contenido principal:   Conceptos básicos de testing: qué es, roles y ciclo de vida Diferencias entre SDLC y STLC Diseño y técnicas de pruebas: caja negra, caja blanca y exploratoria Creación y gestión de casos de prueba, reporte y seguimiento de defectos Roles en el equipo, artefactos y metodologías ágiles Ejercicios prácticos con ejemplos reales, retroalimentación de la instructora     🔗 Mostrar credencial
+
+Cursos de Especialización en Redes
+
+Cisco CCNA  Estudios en redes de computadoras   (Cisco Networking Academy, CCNA 1-3 UCV Maracay, 2004)
+
+Programa de Networking CCNA - Semestres 1, 2 y 3   Institución / Academia: Academia Local Cisco (ID: 674408), UCV - Núcleo Maracay Ubicación: Maracay, Venezuela   Periodo: Año 2004  Duración: 220 horas   Contenido principal:  Fundamentos de redes, switching, routing y configuración básica de  dispositivos Cisco.   🔗 Mostrar credencial
+
+Angular
+
+Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN Udemy (jun. 2022)
+
+Hyperlink: 
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN    Periodo: Año 2022 Duración: 32.17 horas   Contenido principal:   Generación, estructuración y control de componentes con Angular CLI Routing avanzado: rutas hijas, rutas protegidas, guards, lazy loading Comunicación entre componentes con @Input, @Output y servicios Gestión dinámica de estilos, configuración global y uso de scripts externos Observables, promesas y operadores de RxJS Backend con Node.js, Express y MongoDB: modelos, rutas, middlewares, JWT CRUD completo para entidades: usuarios, médicos y hospitales Validaciones y formularios reactivos con Angular Autenticación tradicional y con Google Sign-In Manejo de imágenes: carga, asignación y actualización desde el frontend Buscador global y filtrado por colecciones Control de roles, permisos y restricciones de acceso Integración y despliegue de SPA usando Angular y Express Interceptores para peticiones HTTP y manejo de errores Pruebas unitarias e integración con Angular Testing Utilities Proyecto final con Firebase (hosting, Firestore y Cloud Functions) Implementación de gráficas en tiempo real y peticiones reactivas con AngularFire     🔗 Mostrar credencial
+
+Angular: De cero a experto - 2018  Udemy (may. 2019)
+
+Hyperlink: 
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+Angular: De cero a experto - 2018   Periodo: Año 2019 Duración: 35.44 horas   Contenido principal:   Fundamentos de TypeScript: tipos, clases, interfaces, decoradores, promesas Configuración y estructura de proyectos Angular (SPA) con Angular CLI Routing: navegación, parámetros, rutas hijas, guards Componentes, @Input/@Output, directivas personalizadas y ciclo de vida Servicios e inyección de dependencias Formularios: template-driven y reactivos, validaciones, FormArray y validadores personalizados/asíncronos Pipes integrados y personalizados Peticiones HTTP, manejo de errores, tokens y consumo de APIs REST Autenticación con Firebase, Auth0 y Login personalizado con JWT Gestión del estado del usuario y protección de rutas CRUD completo (Firebase y backend REST) Integración con APIs externas: Spotify, YouTube, TheMovieDB, Google Maps Firebase: Firestore, Realtime DB, Cloud Functions, Hosting y Storage Despliegue de aplicaciones Angular en Firebase y servidores Apache Guía de estilos oficial, Angular Material, Tour of Heroes y recursos adicionales     🔗 Mostrar credencial
+
+Java
+
+Domina Java LinkedIn Learning (feb.2024)
+
+Domina Java   Periodo: Año 2024 Duración: 1.33 hora   Contenido principal:   Fundamentos de la sintaxis de Java: estructura del lenguaje, tipos de datos, control de flujo y manejo de errores Programación orientada a objetos: clases, herencia, encapsulación y polimorfismo Trabajo con colecciones y estructuras de datos comunes Uso de funciones, métodos, argumentos y valores de retorno Introducción a herramientas de desarrollo Java como IDE, depuración y buenas prácticas      🔗 Mostrar credencial
+
+Java: Servicios web LinkedIn Learning (feb. 2024)
+
+Java: Servicios web   Periodo: Año 2024 Duración: 1.55 hora   Contenido principal:   Introducción a servicios web en Java: definición, beneficios, características y diferencias clave con otras arquitecturas Estándares esenciales: comprensión de SOAP y REST, comparación entre ambos, y conceptos de SOA vs microservicio Convenciones y buenas prácticas para escribir código Java legible, mantenible y robusto, incluyendo organización de archivos, espaciado, nombrado y comentarios. Configuración eficiente del entorno de desarrollo (Eclipse) para Java: formateo automático, gestión de errores y avisos, refactorización y plantillas de código. Componentes técnicos: XML, WSDL y UDDI en el ecosistema de servicios web Manejo avanzado de excepciones en Java: tipos, creación, uso correcto de try-catch-finally y prevención de malas prácticas. Introducción y aplicación de pruebas unitarias en Java con JUnit para asegurar la calidad y evitar regresiones en el código. Uso de herramientas automáticas de revisión y análisis de código como Sonar y SonarLint para detectar y corregir errores, y mejorar la calidad del software.     🔗 Mostrar credencial
+
+Java: Servicios web LinkedIn Learning (feb. 2024)
+
+Java: Servicios web   Periodo: Año 2024 Duración: 1.55 hora   Contenido principal:   Introducción a servicios web en Java: definición, beneficios, características y diferencias clave con otras arquitecturas Estándares esenciales: comprensión de SOAP y REST, comparación entre ambos, y conceptos de SOA vs microservicio Convenciones y buenas prácticas para escribir código Java legible, mantenible y robusto, incluyendo organización de archivos, espaciado, nombrado y comentarios. Configuración eficiente del entorno de desarrollo (Eclipse) para Java: formateo automático, gestión de errores y avisos, refactorización y plantillas de código. Componentes técnicos: XML, WSDL y UDDI en el ecosistema de servicios web Manejo avanzado de excepciones en Java: tipos, creación, uso correcto de try-catch-finally y prevención de malas prácticas. Introducción y aplicación de pruebas unitarias en Java con JUnit para asegurar la calidad y evitar regresiones en el código. Uso de herramientas automáticas de revisión y análisis de código como Sonar y SonarLint para detectar y corregir errores, y mejorar la calidad del software.     🔗 Mostrar credencial
+
+Java: Código robusto LinkedIn Learning (feb. 2024)
+
+Java: Código robusto   Periodo: Año 2024 Duración: 3.42 hora   Contenido principal:   Convenciones y buenas prácticas para escribir código Java legible, mantenible y robusto, incluyendo organización de archivos, espaciado, nombrado y comentarios. Configuración eficiente del entorno de desarrollo (Eclipse) para Java: formateo automático, gestión de errores y avisos, refactorización y plantillas de código. Manejo avanzado de excepciones en Java: tipos, creación, uso correcto de try-catch-finally y prevención de malas prácticas. Introducción y aplicación de pruebas unitarias en Java con JUnit para asegurar la calidad y evitar regresiones en el código. Uso de herramientas automáticas de revisión y análisis de código como Sonar y SonarLint para detectar y corregir errores, y mejorar la calidad del software.     🔗 Mostrar credencial
+
+Web Components
+
+Web Components con LitElement EscuelaIT (ago. 2019)
+
+Hyperlink: 
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+Web Components con LitElement   Periodo: Año 2019 Duración: 25 horas   Contenido principal:   Fundamentos del estándar Web Components: creación de elementos personalizados, encapsulados y reutilizables. Desarrollo con LitElement y Lit-HTML: propiedades reactivas, templates, slots y estilos dinámicos. Ciclo de vida de los componentes, eventos nativos y personalizados. Arquitectura basada en composición y patrón mediador (vs Redux). Interoperabilidad de componentes y uso compartido mediante mixins. Publicación de componentes en npm, documentación y uso de Storybook. Consumo de bases de datos en tiempo real con Firebase (Firestore) desde componentes LitElement. Configuración de entorno con Webpack para desarrollo con LiveReload. Introducción práctica a Redux aplicado a Web Components. Aplicación de animaciones CSS en componentes reutilizables. Uso de componentes LitElement en proyectos desarrollados con Angular. Organización de librerías de componentes en monorepo con Lerna.     🔗 Mostrar credencial
+
+Soft skills
+
+Fundamentos de la resolución de conflictos LinkedIn Learning (feb. 2024)
+
+Fundamentos de la resolución de conflictos   Periodo: Año 2024 Duración: 1.35 hora   Contenido principal:   Identificación de las causas, tipos y naturaleza de los conflictos Estilos personales ante situaciones conflictivas y manejo del autocontrol Estrategias emocionales y conductuales para resolver conflictos interpersonales Métodos formales: negociación, mediación y arbitraje Técnicas de comunicación efectiva y escucha activa Pasos para abordar y resolver conflictos dentro de entornos empresariales Creación de espacios de confianza y diagnóstico claro del conflicto Evaluación del proceso y cierre de acuerdos sostenibles     🔗 Mostrar credencial
+
+Cómo trabajar con gerentes difíciles LinkedIn Learning (feb. 2024)
+
+Cómo trabajar con gerentes difíciles   Periodo: Año 2024 Duración: 39 minutos   Contenido principal:   Impacto profesional y emocional de trabajar con jefes difíciles Identificación de las causas del conflicto y tipos comunes de gerentes problemáticos Reconocimiento de factores desencadenantes y gestión de respuestas personales Evaluación objetiva de la situación y diseño de un plan de acción Técnicas de documentación y comunicación efectiva Detección del momento oportuno para pedir apoyo externo Estrategias para proteger tu bienestar sin comprometer tu carrera     🔗 Mostrar credencial
+
+La escucha activa LinkedIn Learning (sept. 2023)
+
+La escucha activa   Periodo: Año 2023 Duración: 1.19 hora   Contenido principal:   Evaluación de tus habilidades de escucha y áreas clave de enfoque Detección de señales sutiles y desarrollo de empatía con el hablante Adaptación del tipo de escucha según el contexto Identificación de obstáculos comunes: distracciones internas, atención dividida, sobrecarga de información Desarrollo de conductas efectivas: lenguaje no verbal, respeto al silencio, parafraseo y validación emocional Ejemplos prácticos y metas para mejorar la escucha activa en el entorno laboral y personal     🔗 Mostrar credencial
+
+Cómo aumentar la resiliencia LinkedIn Learning (sept. 2023)
+
+La escucha activa   Periodo: Año 2023 Duración: 41 minutos   Contenido principal:   Definición de resiliencia y evaluación del nivel personal actual Técnicas de entrenamiento previo al evento: gestión del rechazo, aprendizaje activo, exposición a la incomodidad, manejo de la energía y pensamiento positivo Estrategias posteriores a eventos difíciles: reflexión, elección de actitud, conexión con apoyo, recuperación y desapego Herramientas prácticas para fortalecer el "umbral de resistencia" Desarrollo de hábitos para responder con flexibilidad y determinación frente al estrés o la adversidad     ﻿🔗 Mostrar credencial
+
+Navegar el cambio en tiempos difíciles LinkedIn Learning (sept. 2023)
+
+La escucha activa   Periodo: Año 2023 Duración: 53 minutos   Contenido principal:   El cambio como parte natural y constante de la vida humana y profesional Reconocimiento del cambio como oportunidad de crecimiento y productividad Gestión emocional frente al cambio: entendimiento de las emociones y del funcionamiento del cerebro Desarrollo de la resiliencia como habilidad clave para enfrentar la incertidumbre Ejercicios prácticos para recuperar el control mental ante situaciones difíciles Identificación y transformación de creencias limitantes en tiempos de crisis Entrenamiento de la flexibilidad cognitiva y emocional para adaptarse con eficacia Conclusiones y pasos concretos para aplicar lo aprendido en contextos reales     ﻿﻿🔗 Mostrar credencial
+
+Cómo escribir con eficacia LinkedIn Learning (dic. 2020)
+
+Cómo escribir con eficacia   Periodo: Año 2020 Duración: 1.38 hora   Contenido principal:   Diferencias entre escribir bien y escribir con eficacia en el entorno profesional Análisis del destinatario y adaptación del mensaje al contexto y expectativas del lector Clarificación de la finalidad del texto: informar, convencer o solicitar Uso de formatos efectivos como la pirámide invertida, titulares, llamadas a la acción y storytelling Aplicación de principios de brevedad, claridad y sencillez para textos comprensibles y directos Revisión y corrección de textos para asegurar precisión sin perder impacto Estrategias para trabajar con textos largos y estructurar correctamente correos electrónicos Técnicas de redacción publicitaria y principios de marketing en contenidos escritos Consejos prácticos para revisar, corregir y perfeccionar un texto antes de su publicación     ﻿﻿🔗 Mostrar credencial
+
+Cómo desarrollar la inteligencia emocional LinkedIn Learning (dic. 2020)
+
+Cómo desarrollar la inteligencia emocional   Periodo: Año 2020 Duración: 1.24 hora   Contenido principal:   Fundamentos y relevancia de la inteligencia emocional en el entorno laboral Comprensión de las emociones: propósito, estados de ánimo, decodificación y competencias emocionales Desarrollo de la inteligencia intrapersonal: autoconciencia, autorregulación y automotivación Fortalecimiento de la inteligencia interpersonal: empatía, comunicación efectiva e influencia positiva Manejo de conflictos con enfoque emocional y liderazgo basado en empatía y autocontrol Estrategias prácticas para aplicar la inteligencia emocional en relaciones laborales cotidianas     ﻿﻿﻿🔗 Mostrar credencial
+
+Inteligencia emocional y motivación. Consigue tus objetivos Udemy (feb. 2019)
+
+Inteligencia emocional y motivación. Consigue tus objetivos   Periodo: Año 2019 Duración: 42 minutos   Contenido principal:   Introducción a los obstáculos emocionales más comunes al perseguir metas personales Aplicación del método de auto-motivación dividido en tres fases prácticas Estudio de casos reales: pérdida de peso y aprendizaje de un nuevo idioma Implementación del método PRDS como estrategia para mantener el enfoque y la motivación Reflexión sobre la relación entre emociones, esfuerzo y abandono de objetivos Herramientas prácticas para sostener el compromiso en procesos de cambio personal     ﻿﻿🔗 Mostrar credencial
+
+Diplomados / Bootcamps
+
+Programación Web UneWeb (nov. 2016)
+
+Diplomado de programación web   Periodo: Año 2016 Duración: 240 horas   Contenido principal:  Lógica de programación, HTML4, HTML5, PHP I, PHP II, PHP III, PHP IV, MySQL 1, MySQL 2, JavaScript, Java Nivel I.   🔗 Mostrar credencial
+
+Bases de Datos SQL
+
+Desafíos IT: consultas SQL LinkedIn Learning (feb. 2024)
+
+Desafíos IT: consultas SQL   Periodo: Año 2024 Duración: 59 minutos   Contenido principal:   Ejercicios prácticos con dos bases de datos: cine y tienda de bicicletas Resolución de consultas SQL de complejidad creciente Tareas como: selección, filtrado, actualizaciones y joins Validación y comparación de tus soluciones con las propuestas del instructor     🔗 Mostrar credencial
+
+PenTesting / CyberSecurity
+
+Ethical Hacking Profesional SEGURIDAD CERO (ago. 2022)
+
+Ethical Hacking Profesional   Periodo: Año 2022 Duración: 60 horas   Contenido principal:   Fundamentos del Ethical Hacking y sus fases: reconocimiento, escaneo, enumeración, análisis de vulnerabilidades y explotación Prácticas en ambiente de pruebas: sniffing, man-in-the-middle (MITM), denegación de servicios (DoS), secuestro de sesiones Hacking ético aplicado a sistemas Windows, Active Directory, aplicaciones web y móviles Introducción a ataques de ingeniería social, malware y generación de reportes técnicos     🔗 Mostrar credencial
+
+Implementación NIST Cybersecurity Framework Udemy (oct. 2022)
+
+Implementación NIST Cybersecurity Framework   Periodo: Año 2022 Duración: 1 hora   Contenido principal:   Introducción al NIST Cybersecurity Framework (CSF) y su importancia en la gestión de ciberseguridad Comprensión de las funciones principales: Identificar, Proteger, Detectar, Responder y Recuperar Implementación práctica del marco en organizaciones de diversos tamaños Evaluación y mejora continua de la postura de ciberseguridad Integración con otras normativas y estándares de seguridad Casos de estudio y ejemplos aplicados     🔗 Mostrar credencial
+
+OWASP Top 10 API + Seguridad en APIs Udemy (oct. 2022)
+
+OWASP Top 10 API + Seguridad en APIs   Periodo: Año 2022 Duración: 1 hora   Contenido principal:   Introducción a la seguridad en APIs y su rol crítico en aplicaciones modernas Análisis detallado del OWASP API Security Top 10 (2023) Identificación y mitigación de vulnerabilidades comunes: Broken Object Level Authorization, Broken Authentication, Excessive Data Exposure, Injection, etc. Buenas prácticas de diseño seguro de APIs RESTful Casos prácticos de ataques y defensas aplicadas Herramientas y metodologías para testeo y protección de endpoints     🔗 Mostrar credencial
+
+JavaScript
+
+Programación avanzada con JavaScript y ECMAScript 6 campusMVP (ene. 2018)
+
+Hyperlink: 
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+Programación avanzada con JavaScript y ECMAScript 6   Periodo: Año 2018 Duración: 203.30 horas     🔗 Mostrar credencial   ----   Contenido principal:    JavaScript Avanzado   Funciones, ámbitos y estructuras:   Condicionales avanzadas, operadores lógicos y ternarios Ámbito de variables, shadowing, hoisting Sobrecarga de funciones, uso de arguments, funciones llamantes   Matrices:   Definición, inicialización y manipulación avanzada de arrays Pilas, colas, ordenación, búsqueda y procesamiento de elementos   Fechas y temporizadores:   Manejo de fechas con la clase Date Formatos personalizados, zonas horarias, operaciones con fechas Temporizadores, cronómetros y precisión de intervalos   Excepciones y depuración:   Gestión estructurada de errores Uso del modo estricto Herramientas del desarrollador y depuración avanzada en navegador   Programación orientada a objetos (ES5):   Definición y uso de objetos, constructores y prototipos Herencia y encapsulación (clausuras, variables privadas) Espacios de nombres, reflexión y patrón módulo   Manipulación del DOM y BOM:   Acceso y modificación dinámica de elementos del DOM Gestión de colecciones, atributos y estructura jerárquica   Eventos en navegadores:   Modelos de eventos (BOM, DOM Level 2, unificado) Eventos de ratón, teclado, formularios y ciclo de vida de la página Creación de eventos personalizados   AJAX:   Uso de XMLHttpRequest y JSONP CORS y comunicación asíncrona con el servidor   Modularización e inyección de dependencias:   Gestión de módulos y dependencias con AMD (Require.js) Modularización de aplicaciones JavaScript   ECMAScript 6+ (ES2015 y posteriores)   Declaración de variables:   Uso de let y const, diferencias con var   Promises:   Creación, encadenamiento y manejo de errores con Promesas   Funciones flecha (lambdas):   Sintaxis, uso y manejo del contexto this   Notación de objetos:   Prototipos, propiedades dinámicas y métodos abreviados   Símbolos:   Uso de símbolos para propiedades privadas y métodos   Desestructuración y spread/rest:   Asignación por desestructuración en arrays y objetos Uso de operadores spread y rest   Nuevas estructuras de datos:   Map, Set, WeakMap, WeakSet, TypedArrays   Iteradores y generadores:   Creación y uso de iteradores y generadores personalizados   Clases y POO moderna:   Sintaxis de clases, métodos estáticos, herencia y encapsulación Métodos y propiedades privadas   Proxies:   Creación y uso de proxies para interceptar operaciones en objetos   Otras características ES6:   Parámetros por defecto y otras mejoras del lenguaje     🔗 Mostrar credencial
+
+Webpack EDteam (dic. 2018)
+
+Hyperlink: 
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+Webpack   Periodo: Año 2018 Duración: 3 horas   Contenido principal:   Introducción a Webpack y revisión de su documentación Instalación y configuración básica Modos de desarrollo y producción Transpilación de JavaScript con Babel Inyección automática de scripts en archivos HTML Levantamiento de servidor local para desarrollo Soporte para CSS y Sass Implementación y optimización de imágenes Soporte para archivos JSON Configuración de múltiples puntos de entrada y salida Configuración avanzada del entorno de trabajo Creación de componentes en JavaScript, React, Vue y TypeScript Aplicación de Webpack en entornos con React, Angular y Vue Funcionalidades como empaquetado, recarga en tiempo real y depuración durante el desarrollo     🔗 Mostrar credencial
+
+Expresiones Regulares para el Desarrollo Web - RegExp Udemy (feb.2020)
+
+Hyperlink: 
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+Expresiones Regulares para el Desarrollo Web - RegExp    Periodo: Año 2020 Duración: 5.54 horas   Contenido principal:   Introducción y fundamentos históricos de las expresiones regulares Motores de RegExp y notaciones más comunes Uso de metacaracteres y caracteres especiales Construcción de rangos, negaciones y clases abreviadas (PCRE y POSIX) Cuantificadores: codiciosos, perezosos y repeticiones eficientes Agrupación, alternancia y anidación de patrones Modo multilínea, saltos de línea y delimitadores de palabras Grupos de captura, no captura y referencias en operaciones de búsqueda y reemplazo Aserciones lookahead y lookbehind (positivas y negativas) Ejemplos prácticos de validación: Nombres Correos electrónicos URLs Códigos postales Fechas, horas y claves de acceso IPs y formatos numéricos Validación de formularios con JavaScript, HTML5 y PHP Métodos de JavaScript para trabajar con expresiones regulares: exec(), test(), match(), search(), replace(), split() Uso de banderas y propiedades avanzadas como sticky Ejercicios de transformación, validación y formateo con RegExp en JavaScript     🔗 Mostrar credencial     ﻿﻿﻿
+
+React Native
+
+React Native Expo: Creando un TripAdvisor de Restaurantes Udemy (oct. 2019)
+
+Hyperlink: 
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+React Native Expo: Creando un TripAdvisor de Restaurantes   Periodo: Año 2019 Duración: 33.5 horas   Contenido principal:   Desarrollo completo de una aplicación móvil tipo "TripAdvisor de Restaurantes" usando React Native con Expo. Uso práctico de Firebase (Firestore, Storage y Auth) para gestión de usuarios, almacenamiento de datos y autenticación. Implementación de navegación avanzada con React Navigation (StackNavigator, BottomTabNavigator). Diseño de interfaces con React Native Elements, incluyendo modales, formularios, toasts e iconografía. Creación y validación de formularios de login, registro, comentarios, puntuación, edición de perfil y carga de restaurantes. Integración de mapas interactivos (MapView y Google Maps) con geolocalización y selección de ubicaciones. Subida y gestión de imágenes desde galería a Firebase Storage, incluyendo imagen principal y carrusel. Implementación de lógica de favoritos, búsqueda de restaurantes, filtros y listado por puntuación. Publicación de la aplicación en Expo y generación de builds para Android (.APK y .AAB) e iOS (.IPA). Aplicación de Hooks (useState, useEffect) y principios de reutilización de componentes.     🔗 Mostrar credencial
+
+Vuejs
+
+Vuejs 2 y Vuex desde 0 con las mejores prácticas Udemy (jul. 2020)
+
+Hyperlink: 
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+https://www.campusmvp.es/certificados/dennysjmarquez/4701
+
+React Native Expo: Creando un TripAdvisor de Restaurantes   Periodo: Año 2020 Duración: 9.5 horas   Contenido principal:   Instalación y configuración de Vuejs 2 y Vue CLI Fundamentos de Vuejs: componentes, data binding, computed properties, métodos Comunicación entre componentes con $emit y referencias Formularios, directivas, slots y filtros personalizados Introducción y manejo avanzado de Vuex: state, mutations, getters, acciones y módulos Uso de plugins y librerías: BootstrapVue, Axios, Vuelidate, VeeValidate Consumo de APIs con Vuex y VueAxios Persistencia de estado con LocalStorage e IndexedDB para PWA Gestión de rutas y navegación con Vue Router Autenticación y manejo de sesiones con Vuex y JSON Server Desarrollo de componentes reutilizables y uso de mixins Optimización y despliegue en AWS S3 con CloudFront y configuración CORS Transiciones y animaciones con Vue Transitions Ejemplos prácticos y proyecto completo de tienda y gestión de tareas (TodoList)     🔗 Mostrar credencial
+
+UI/UX & Website Design
+
+Fundamentos del diseño EDteam (ago. 2018)
+
+Fundamentos del diseño   Periodo: Año 2018 Duración: 3 horas   Contenido principal:   Introducción al diseño: conceptos básicos y ruta visual Psicología y teoría del color, canales y herramientas Adobe Color Tipografía: familias, parámetros, lettering y plataformas de fuentes Diseño de marca: brief, objetivos, funcionalidad y recomendaciones para logos Proceso creativo y cuidados en el diseño de identidad visual Aplicación estratégica del diseño para proyectos y empresas     🔗 Mostrar credencial
+
+Photoshop CC 2018 EDteam (ago. 2018))
+
+Photoshop CC 2018   Periodo: Año 2018 Duración: 7 horas   Contenido principal:   Introducción y servicios de Creative Cloud Interfaz y optimización de imágenes para web Manejo avanzado de capas: bloqueo, máscaras, estilos y modos de fusión Herramientas de selección: lazo poligonal, varita mágica, selección rápida Técnicas de retoque fotográfico: pincel corrector, suavizado de piel, cambio de color Diseño de interfaces y mockups para web y apps Proyectos prácticos: tarjeta de presentación, montaje fotográfico y diseño web     🔗 Mostrar credencial
+
+UX Design: Conceptos básicos para principiantes Udemy (oct. 2018)
+
+UX Design: Conceptos básicos para principiantes   Periodo: Año 2018 Duración: 1 horas   Contenido principal:   Introducción a la experiencia de usuario (UX) y su historia Diferencias entre qué es y qué no es UX Beneficios de aplicar UX en proyectos Conocimiento y análisis del usuario Proceso de diseño UX: técnicas y metodologías Desarrollo de un proyecto real y aplicación práctica Ejemplo de proyecto real: Sparkmind.com     🔗 Mostrar credencial
+
+Sass Desde Cero EDteam (dic. 2018)
+
+Sass Desde Cero   Periodo: Año 2018 Duración: 4 horas   Contenido principal:   Sintaxis y fundamentos de Sass: variables, anidamiento y tipos de datos Modularización con @import y estructuras de proyecto Ciclos, condicionales y directivas avanzadas (@extend, @for, @each) Mixins: definición, parámetros y uso para diseño responsive Funciones personalizadas para manipular valores, colores y listas Modos de color: CMYK, RGB, HSL y funciones de color en Sass Debugging y compilación: opciones, sourcemaps, manejo de errores Estructura avanzada de proyectos Sass para código limpio y mantenible     🔗 Mostrar credencial
+
+Flexbox y Grid EDteam (oct. 2019)
+
+Sass Desde Cero   Periodo: Año 2019 Duración: 5 horas   Contenido principal:   Fundamentos de Flexbox: ejes, alineación, flujo y propiedades (flex, align-self, order) Uso práctico de Flexbox: centrado absoluto, menús, banners, tarjetas y layouts responsivos Introducción a CSS Grid: terminología, tracks, grid-gap, fr, repeat() Posicionamiento de elementos con grid-column, grid-row y áreas de grid Técnicas avanzadas: minmax(), auto-fit, auto-fill, min/max-content Creación de galerías y layouts con CSS Grid Alineación avanzada y control total de colocación con Grid Placement     🔗 Mostrar credencial
+
+Gestión de proyectos
+
+Gestión de proyectos: Resolución de problemas LinkedIn Learning (ene. 2024)
+
+Gestión de proyectos: Resolución de problemas   Periodo: Año 2024 Duración: 55 minutos   Contenido principal:   Identificación y prevención de problemas en equipos de trabajo Mejora de la comunicación interpersonal y colaboración del equipo Control de la calidad: asegurar entregables alineados con lo esperado Estimación de costos, alcance y prevención de sobrecostes Gestión de plazos: camino crítico, riesgos y planificación efectiva Recomendaciones prácticas: reuniones, seguimiento y alertas tempranas al cliente Desarrollo de hábitos para prevenir problemas recurrentes en proyectos     🔗 Mostrar credencial
+
+Aprende a trabajar con gráficos de Gantt LinkedIn Learning (ene. 2024)
+
+Aprende a trabajar con gráficos de Gantt   Periodo: Año 2024 Duración: 1.44 horas   Contenido principal:   Fundamentos y estructura de los gráficos de Gantt Camino crítico, tareas flotantes y vinculaciones Comparación entre metodologías: ágil, scrum y cascada Estimación de tiempos, contingencias y nivel de granularidad Herramientas y consejos para crear gráficos en Excel y otras plataformas Uso estratégico de Gantt: planificación, comunicación y aprobación del plan Seguimiento del progreso, evaluación de riesgos y previsión de gastos Errores comunes al usar gráficos de Gantt y cómo evitarlos     🔗 Mostrar credencial
+
+Liderazgo y trabajo en equipo LinkedIn Learning (oct. 2020)
+
+Liderazgo y trabajo en equipo   Periodo: Año 2020 Duración: 5 horas   Contenido principal:   Historia del management: Elton Mayo, Drucker, Peters y Mary Parker Follett Claves del liderazgo actual: comunicación efectiva, compromiso y acción coherente Estrategias para reuniones productivas: individuales, grupales y alternativas Técnicas para asegurar la utilidad y el impacto de las reuniones Liderazgo orientado al desarrollo: aprendizajes y prioridades semanales Mejora continua y acompañamiento al equipo con visión estratégica     🔗 Mostrar credencial
+
+Fundamentos de gestión de equipos IT y programación LinkedIn Learning (oct. 2020)
+
+Fundamentos de gestión de equipos IT y programación   Periodo: Año 2020 Duración: 2.28 horas   Contenido principal:   Introducción a la gestión de equipos técnicos y su evolución Rol y habilidades clave del tech manager: técnicos que lideran o managers no técnicos Función del tech leader: diferencias, desafíos y errores comunes Comunicación efectiva con equipos técnicos: preguntas, escucha activa y técnica del espejo Gestión de proyectos IT: objetivos, procesos, cierre, deuda técnica y alineación con clientes Evaluación de equipos: motivación, fortalezas y creatividad en el entorno técnico Buenas prácticas: lenguaje técnico, glosario, comunicación con stakeholders no técnicos     🔗 Mostrar credencial
+
+Scrum Master + La Revolución Ágil + Liderar Equipos Scrum Udemy (nov. 2018)
+
+Scrum Master + La Revolución Ágil + Liderar Equipos Scrum   Periodo: Año 2018 Duración: 3 horas   Contenido principal:   Fundamentos del pensamiento ágil y el Manifiesto Ágil Ciclo iterativo e incremental, timeboxing y definición de terminado Roles de Scrum: Product Owner, Scrum Master y Equipo de Desarrollo Artefactos de Scrum: Product Backlog, Sprint Backlog e Incremento Prácticas clave: estimaciones con puntos Fibonacci, historias de usuario y refinamiento Eventos de Scrum: planificación, scrum diario, revisión y retrospectiva Aplicación práctica con ejercicios, casos de estudio y plan de lanzamiento Claves para la facilitación de equipos ágiles y liderazgo en entornos Scrum     🔗 Mostrar credencial
+
+Educación Formal
+
+Primer semestre del TSU  Informática en el Instituto Universitario de Tecnología Antonio Ricaurte (IUTAR)   Venezuela Maracay  (2006 - 2007)
+
+Mis proyectos en mi portafolio:  
+
+Angular
+
+Angular 17/19 | Signals con RxJS usando signalPipeRxjs
+
+Tipo: Proyecto técnico personal exploratorio   URL del artículo: dev.to/dennysjmarquez/signalpiperxjs Estado: En fase de desarrollo y experimentación. No recomendado para producción.   ---------   Este proyecto propone una función utilitaria para aplicar operadores de RxJS directamente sobre señales de Angular. La solución busca conectar el paradigma tradicional de programación reactiva basado en observables con el nuevo sistema de señales introducido en Angular 16+ y evolucionado en Angular 17/19.   Motivación Técnica  Integrar operadores conocidos de RxJS en el flujo de señales. Explorar el comportamiento de las señales en escenarios reales. Mantener compatibilidad con prácticas previas durante la adopción progresiva del nuevo modelo reactivo. Evaluar la viabilidad de composiciones reactivas avanzadas sin perder claridad declarativa.   Arquitectura Técnica 1. Función signalPipeRxjs  export function signalPipeRxjs<R, A>(   source: Signal
+
+<A>
+
+,   initialValueOrOperator?: R | OperatorFunction<[A], R> ): Signal
+
+<R>
+
+   Flujo interno:   Conversión de la señal a observable mediante toObservable(). Aplicación de operadores RxJS al observable. Conversión de vuelta a señal mediante toSignal().   Características:   Soporte para operadores encadenados. Conversión transparente entre señales y observables. Compatible con cualquier operador disponible en RxJS.   2. Ejemplo práctico  Componente hijo (SearchProductsComponent)   @Component({   selector: 'app-search-products',   template: 
+
+<input [(ngModel)]="searchProduct" placeholder="Busca un producto" />
+
+, }) export class SearchProductsComponent {   searchProduct = model.required
+
+<string>
+
+(); }   Componente padre (CategoryFilterComponent)   readonly searchProduct = signal
+
+<string>
+
+('');   readonly onSearch = signalPipeRxjs(   this.searchProduct,   pipe(     debounceTime(500),     distinctUntilChanged(),     map(value => value.toUpperCase()),     tap(value => console.log('Valor transformado:', value))   ) );   constructor() {   effect(() => {     const query = this.onSearch();     console.log('Buscando:', query);   }); }   3. Comunicación entre componentes  Directiva model:   Permite vinculación bidireccional entre padre e hijo. Integra de forma nativa con el sistema de señales. Reemplaza estrategias previas como @Input()/@Output() para ciertos casos de uso.   Secuencia del flujo de datos:   Usuario introduce texto → model actualiza la señal del padre → signalPipeRxjs aplica transformaciones → effect() ejecuta lógica reactiva con el valor resultante.   Transformaciones aplicadas  Operadores utilizados:   debounceTime(500): evita emisiones rápidas sucesivas. distinctUntilChanged(): ignora valores repetidos consecutivos. map(): transforma el valor recibido. tap(): permite efectos colaterales sin modificar el flujo.   Lecciones aprendidas  toObservable() y toSignal() permiten interoperabilidad efectiva. Las señales pueden extenderse con operadores RxJS sin perder reactividad. La directiva model simplifica la comunicación entre componentes. El enfoque modular mejora la mantenibilidad del código.   Aplicabilidad del proyecto  Este trabajo puede utilizarse como:   Ejemplo funcional para explorar integración entre Signals y RxJS. Punto de partida para plantillas más robustas en Angular moderno. Referencia para comparar distintos enfoques de composición reactiva. Recurso didáctico para desarrolladores que adoptan Angular 17+.
+
+Angular 13 | FormArray: cestión correcta, y eficiente de campos o grupos repetibles
+
+Tipo: Proyecto técnico personal   Repositorio: Ver demo funcional   ---------   Es un componente de formulario dinámico implementado con Angular 13, orientado a la gestión eficiente de grupos de campos repetibles utilizando FormArray.    Es un ejemplo técnico enfocado en la creación, validación y manipulación de estructuras de datos dinámicas en formularios reactivos.   Este componente surge como recurso de referencia reutilizable, especialmente útil para formularios que requieren la adición y eliminación de bloques de campos completos.   Características Técnicas Implementación Core   Formularios Reactivos: Construcción del formulario utilizando FormBuilder y FormArray Grupos Dinámicos: Funcionalidad para agregar y eliminar bloques de campos de forma flexible Validación: Sistema de validaciones básicas con manejo de estados de error por grupo Reutilizabilidad: Arquitectura adaptable para integración en proyectos con diferentes esquemas de datos   Tecnologías Utilizadas   Angular 13 TypeScript JavaScript FormBuilder FormArray   Casos de Uso Aplicables Escenarios de Implementación   Registro de Usuarios: Gestión de múltiples registros con campos como nombre y correo electrónico Inventario de Productos: Formularios dinámicos con campos de nombre, cantidad y precio por ítem Encuestas o Cuestionarios: Agregado de múltiples bloques de preguntas y respuestas Tareas o Actividades: Estructuras de listas con entrada dinámica de datos   Contexto y Propósito  Este componente responde a una necesidad concreta: gestionar de forma sencilla y controlada campos repetibles en formularios usando FormArray.   Es un ejemplo técnico sencillo, lo hice para ayudar a otros Developers a implementar esta solución de forma eficiente y clara.   Su base surge de trabajos previos con formularios complejos en entornos profesionales, proyectos personales y pruebas técnicas, y terminó de consolidarse durante mi experiencia en Adevcom (Chile).   Desde entonces, lo he adaptado según los requerimientos de cada proyecto o equipo.   Implementación Técnica Estructura del FormArray  ngOnInit(): void {   this.form = this.fb.group({     items: this.fb.array([])   });   this.addItem(); // Agregar un grupo de campos al inicio }   get items(): FormArray {   return this.form.get('items') as FormArray; }   createItemGroup(): FormGroup {   return this.fb.group({     nombre: [null],     email: [null]   }); }  Gestión Dinámica de Campos  addItem(): void {   this.items.push(this.createItemGroup());   this.cd.detectChanges(); }   removeItem(index: number): void {   this.items.removeAt(index);   this.cd.detectChanges(); }  Validación y Manejo de Errores  <div class="invalid-feedback" *ngIf="f.form.get(['items', i, 'nombre'])?.invalid">   Campo requerido 
+
+</div>
+
+  Iteración del FormArray en Template  
+
+<div class="form-array" formArrayName="items">
+
+   <ng-container *ngFor="let item of items.controls; let i = index" [formGroupName]="i">     
+
+<input formControlName="nombre" class="form-control" required />
+
+     
+
+<input formControlName="email" class="form-control" required />
+
+   
+
+</ng-container>
+
+ 
+
+</div>
+
+  Valor Técnico  Este proyecto representa una solución práctica para un patrón común en desarrollo de aplicaciones Angular, proporcionando una implementación clara y eficiente que puede ser adaptada a distintos contextos sin comprometer funcionalidad ni rendimiento.    La implementación incluye manejo correcto de detección de cambios, validaciones por grupo y control eficiente del ciclo de vida del formulario.
+
+Angular 13 | Formularios Anidados Nested Forms Service: Centraliza, sincroniza y valida formularios complejos
+
+Tipo: Proyecto técnico personal   Repositorio: github.com/dennysjmarquez/angular-nested-forms-service   ---------   Servicio desarrollado en Angular 13 para la gestión centralizada de formularios anidados distribuidos en múltiples componentes.    Permite coordinar y validar estructuras complejas de formularios que forman parte de un único formulario principal.   El proyecto surge como respuesta a la necesidad de evitar la fragmentación y duplicación en la lógica de formularios distribuidos, especialmente en aplicaciones que manejan pasos, pestañas o estructuras dinámicas.    Proporciona una alternativa técnica controlada a patrones comunes que tienden a volverse verbosos y propensos a errores.   Características TécnicasFuncionalidad Principal Gestión Centralizada: Registro de formularios y controles desde un único servicio, eliminando lógica dispersa Sincronización por Eventos: Emisión de eventos (form y formElement) para coordinar la interacción entre componentes padres, hijos y nietos Validación Global: Acceso a la validez del conjunto completo de formularios desde un único punto Acceso Programático: Métodos para recuperar formularios, grupos y controles por su ruta Registro Dinámico de Controles: Adición de controles de forma dinámica después del ciclo de vida del componente   Diseño y Arquitectura Gestión Reactiva: Basada en Subject y Observable Instancia por Pantalla: Inyección del servicio a nivel del componente principal para evitar estado compartido   Tecnologías Utilizadas  Angular 13 TypeScript Reactive Forms (FormGroup, FormControl) Observables (Subject, Subscription)  Casos de Uso Escenarios de Aplicación  Sistemas de Pasos (Wizards): Formularios divididos en etapas donde cada paso es un componente independiente Sistemas de Pestañas (Tabs): Componentes separados con lógica de formulario que requieren sincronización en un estado general Formularios Dinámicos: Agregado y registro programático de campos o secciones completas   Implementación Técnica Registro de Formulario Principalthis.formService.registerRootForms('miFormulario', this.f);   Registro Dinámico de Controlesconst nuevoControl = new FormControl(''); this.formService.registerFormElement('miFormulario', 'nuevoControl', nuevoControl);   Obtención de Control Registradoconst control = this.formService.getControl('miFormulario.nuevoControl');   Suscripción a Eventosthis.formService.getFormEventObservable().subscribe(event => {   if (event.type === 'form' && event.path === 'form-1') {     this.formService.registerFormElement(       'form-1',       'listado',       new FormControl(this.dataTable)     );     this.formEventSubscription.unsubscribe();   } });   Problemática y Solución Durante el desarrollo con Angular, aunque existen Reactive Forms y librerías como NgRx Forms y ngx-formly, ninguna ofrece una solución directa para coordinar formularios anidados distribuidos entre múltiples componentes. Este servicio llena ese vacío funcional sin requerir una curva de aprendizaje alta ni depender de estados globales complejos.   La implementación resuelve la inconsistencia común en desarrollos que requieren alta interacción entre componentes independientes con lógica de formulario, proporcionando un patrón estandarizado y reutilizable.   Este proyecto nace de la experiencia práctica en el manejo de formularios complejos en entornos profesionales, específicamente de patrones desarrollados durante el trabajo en Adevcom (Chile).    En proyectos como el Instituto de Salud Laboral (ISL), las estructuras de formularios anidados eran fundamentales para la gestión de datos empresariales complejos, donde esta solución demostró reducir significativamente la carga técnica asociada a la validación y sincronización de formularios fragmentados.
+
+Angular 13 | Pruebas Unitarias y de integración (Unit testing)
+
+Tipo: Proyecto técnico personal   Repositorio: Código fuente en GitHub Demo: Ver demo funcional   Documentación: https://dennysjmarquez.medium.com/angular-10-mean-google-auth-jwt-lazyload-upload-de-archivos-guards-pipes-zona-admin-bfa2e5ef9074#db81   ---------   Este proyecto tuvo como objetivo el aprendizaje y la aplicación práctica de pruebas unitarias en Angular 13 utilizando Jasmine, implementé en las pruebas tipos de datos , métodos, spies para espiar funciones y mocks para simular servicios.   Utilicé a Jasmine y Karma, apoyándome en utilidades como TestBed, ComponentFixture y DebugElement. Configuré pruebas para formularios reactivos y template-driven, servicios HTTP y rutas parametrizadas mediante RouterTestingModule.   Desarrollé pruebas que cubren desde validaciones básicas hasta integración de componentes complejos, simulación de eventos y navegación.    Implementaciones técnicas específicas  Pruebas Básicas  Arrays: Testing con toBeGreaterThanOrEqual(), toContain() para validación de elementos específicos Booleans: Múltiples métodos de validación: toBe(true), toBeTrue(), toBeTruthy(), not.toBeTruthy() Strings: Validación de tipos con expect(typeof resp).toBe('string') y contenido con toContain() Numbers: Validación de incrementos y límites con comparadores específicos Classes: Testing de métodos de clase, implementación completa del ciclo de vida Jasmine (beforeAll, beforeEach, afterAll, afterEach) Funcionalidad de omitir pruebas: Uso de xdescribe y xit para pruebas específicas   Pruebas Intermedias  Event Emitters: Testing completo de EventEmitter con subscribe() para captura de valores emitidos Formularios ReactiveForm: Validación con FormBuilder, testing de form.contains(), validaciones personalizadas de email y campos obligatorios Spies avanzados: Implementación de spyOn() con and.callFake(), and.returnValue(), and.callThrough() Simulación de servicios HTTP: Mock de respuestas con of(), EMPTY, throwError() Testing de métodos con Observable: Validación de suscripciones y manejo de errores Validación de llamadas específicas: Uso de toHaveBeenCalled(), toHaveBeenCalledWith() con parámetros exactos   Pruebas de Integración (Nivel Intermedio)  TestBed y ComponentFixture: Configuración completa con configureTestingModule(), createComponent() Módulos de testing: Implementación de FormsModule, HttpClientTestingModule Manipulación del DOM: Uso de By.css(), By.directive(), debugElement.query(), debugElement.queryAll() Control del ciclo de detección: fixture.detectChanges(), fixture.whenStable() para operaciones asíncronas Testing de inputs y elementos HTML: Validación de HTMLInputElement, HTMLElement.innerHTML Event handling: triggerEventHandler('click', null) para simulación de eventos de usuario Testing de componentes con FormsModule: Validación de two-way data binding y formularios template-driven   Pruebas Avanzadas de Routing  RouterTestingModule: Configuración con RouterTestingModule.withRoutes([]) Testing de navegación: Validación de router.navigate() con toHaveBeenCalledWith(['medico', '123']) ActivatedRoute mocking: Implementación de providers con useValue y params: of({ id: 'nuevo' }) RouterLink testing: Uso de By.directive(RouterLinkWithHref) para validación de links Router-outlet verification: Testing de directivas con By.directive(RouterOutlet) Rutas parametrizadas: Validación completa de rutas con parámetros dinámicos CUSTOM_ELEMENTS_SCHEMA: Manejo de elementos personalizados en testing   Configuraciones técnicas avanzadas  Injection de servicios: TestBed.inject() y fixture.debugElement.injector.get() Manejo de confirmaciones: spyOn(window, 'confirm').and.returnValue(true/false) Testing de errores HTTP: Implementación de throwError() para validar manejo de errores Observables complejos: Testing con Subject, of(), EMPTY para diferentes escenarios Separación de pruebas: Archivos específicos para pruebas unitarias (.unit.spec.ts) vs integración (.spec.ts)
+
+Angular 13 | Plataforma de Movies
+
+Tipo: Proyecto técnico personal   Repositorio: Código fuente en GitHub Demo: Ver demo funcional   Documentación: https://dennysjmarquez.medium.com/angular-13-cl%C3%A1sica-plataforma-de-movie-7906b13eaee3   ---------   Este proyecto fue concebido como una plataforma clásica de películas para practicar e integrar diversas funcionalidades clave de Angular 13. Usé Bootstrap 5 para la interfaz, estructurando el código por módulos y aplicando lazy-loading para mejorar el rendimiento en la carga de rutas.   La funcionalidad principal incluye un listado de películas con capacidad de ordenamiento (por nombre y año) y filtrado combinado por tipo (movie / series) y año de lanzamiento.    Para ello, desarrollé componentes específicos y encapsulé la lógica de ordenamiento en utilidades separadas. También creé una directiva personalizada (input-only-numbers) que limita el input del filtro de año exclusivamente a valores numéricos.   Utilicé ReactiveFormsModule para manejar el filtro de año, con validaciones aplicadas mediante FormControl y validadores como pattern, maxLength, min y max, controlando el rango permitido en tiempo real.   Implementé pruebas unitarias con Jasmine (jasmine-core ~4.0.0) y ejecuté pruebas sobre funciones de ordenamiento, filtrado, suscripción a servicios (spyOn + callFake), comportamiento del guard, y estructura general de los componentes, validando tanto el comportamiento funcional como las restricciones del DOM y la lógica de negocio.   Integré el sistema de autenticación mediante el paquete @auth0/auth0-angular. Durante este proceso, identifiqué un comportamiento en la versión 1.9.0: aunque implementa canLoad y bloquea la carga de módulos protegidos, no redirige automáticamente al login, lo que provoca una pantalla en blanco.   Esto ocurre porque Angular cancela la navegación cuando un guard retorna false, sin generar efectos colaterales, y Auth0 no ejecuta loginWithRedirect() dentro de canLoad. Además, tras autenticarse, la librería redirige por defecto a la ruta raíz (/), ignorando la ruta solicitada si no se pasa explícitamente appState.target.   Para resolverlo, implementé un guard personalizado que abarca canLoad, canActivate y canActivateChild. En particular, en canLoad:   Si isAuthenticated$ retorna false, detengo la navegación y capturo el evento NavigationCancel. Posteriormente, invoco loginWithRedirect({ appState: { target: event.url } }).   Este enfoque garantiza:   Bloqueo real del acceso a contenido protegido. Prevención de pantalla en blanco. Redirección automática a la ruta original tras login.   Referencias técnicas   Comunidad Auth0+15GitHub+15Comunidad Auth0+15, Stack Overflow+6Comunidad Auth0+6GitHub+6 Comunidad Auth0+6Comunidad Auth0+6Comunidad Auth0+6
+
+Angular 10 | angular-adv-adminpro, MEAN, Google auth, JWT, Lazyload, upload de archivos, Guards, Pipes, Zona admin, dashboard y mucho más...
+
+Angular 8 | Drag y Drop de archivos y Upload a Firebase con ProgressBar
+
+Angular 8 | RxJS - Comunicación entre Componentes usando al BehaviorSubject
+
+Angular 7 | Pequeña imitación de LinkedIn
+
+Angular 8 | Explicando parte de mi experiencia, una lista de usuarios, que se pueden editar, agregar y eliminar de una Base de datos de MySQL con un Backend sencillo construido en PHP para servir la base de datos, Tips y buenas prácticas
+
+Angular 6 | Consumo de la Api Rest - Spotify
+
+Angular 6 | Formularios con la lógica en el componente o en el Templete, Las dos formas de crear Formularios en Angular
+
+LitElement
+
+LitElement 2 | Todo List
+
+LitElement 2 | Componente de Fecha sin Calendario, se le pueden cambiar los estilos, bordes, colores del texto, fondo, idioma, también tiene la opción de mostrar los nombres de los meses, lo tengo publicado en  Polydile · GitHub y en npm
+
+PHP - MySQL
+
+MVC, Composer, PHP 5, doctrine/dba, nested sets, JavaScript, JQuery, CSS3, HTML5 | Un CMS parecido a WordPress y lo llame Scorpion CMS
+
+WordPress
+
+WordPress 3.6 | Theme parecido al fabuloso deviantART
+
+Troyanos y Virus
+
+Troyano Visual Basic 6, Web Scraping Taringa, Creación del sitio web <www.tec.web44.net> para mi servicio técnico
+
+React
+
+React 18 - Next.js 14 | con SSR, Redux, Material-UI y TSS-React
+
+Tipo: Proyecto técnico personal   Repositorio: Ver demo funcional   ---------   Desarrollé una plantilla base para aplicaciones construidas con Next.js 14, enfocada en Server-Side Rendering (SSR), gestión global del estado con Redux, componentización de interfaz con Material-UI y aplicación eficiente de estilos mediante TSS-React con soporte completo para hidratación desde el servidor.   Este proyecto surgió como respuesta a problemas técnicos concretos que enfrenté al integrar Redux y Material-UI con SSR en versiones anteriores de Next.js, donde eran comunes las configuraciones manuales y soluciones no sostenibles.    Durante el proceso de migración de varios entornos de Next.js 13 hacia 14, identifiqué incompatibilidades en la forma en que Material-UI manejaba los estilos durante el renderizado del lado del servidor.    Para resolverlo, integre TSS-React, una solución compatible con SSR que eliminó los saltos de estilo (FOUC) y mejoró la experiencia visual desde la primera carga.   Tecnologías utilizadas:   Next.js 14: framework React con soporte nativo para Server-Side Rendering y rutas híbridas. Redux: implementación modular para la gestión centralizada y predictiva del estado, con carga desde el servidor. Material-UI: sistema de componentes visuales, orientado a una interfaz moderna y coherente. TSS-React: librería especializada en estilos para React con compatibilidad SSR, solución directa a los problemas de FOUC. JavaScript ES6 y React 18.   Características técnicas implementadas:   Renderizado del lado del servidor (SSR): mejora del SEO y rendimiento mediante entrega anticipada de HTML y estilos desde el servidor. Gestión del estado global: el estado de la aplicación se inicializa desde el servidor, permitiendo una hidratación eficiente y sin parpadeos. Integración avanzada de estilos: uso de TSS-React para evitar el Flash of Unstyled Content (FOUC) y asegurar consistencia visual. Estructura modular y reutilizable: diseñada como boilerplate extensible para nuevas aplicaciones sin necesidad de reconfiguración. Compatibilidad con entornos productivos: configuración orientada a despliegues optimizados y mantenibilidad a largo plazo.   Este proyecto representa una solución aplicada a desafíos reales de arquitectura front-end en entornos con renderizado híbrido, integrando herramientas de uso común en ecosistemas React.
+
+React 18 | MicroFrontends con Vite, React, Redux y i18next
+
+Tipo: Proyecto técnico personal   Repositorio: Código fuente en GitHub Demo: Ver demo funcional   ---------   Este proyecto es una demostración práctica de cómo construir una arquitectura de microfrontends escalable y eficiente utilizando React 18, Vite con Module Federation, Redux y i18next.    La arquitectura de microfrontends permite dividir aplicaciones grandes y monolíticas en módulos independientes que pueden ser desarrollados, probados e implementados de forma autónoma, facilitando el mantenimiento y la escalabilidad.   Características técnicas y aportes clave:   Construcción de tres aplicaciones independientes: una aplicación host que actúa como orquestador y dos microfrontends, cada uno con su propio sistema de estado basado en Redux y lógica aislada. Comunicación y sincronización fluida entre host y microfrontends mediante intercambio de estado con Redux, incluyendo la sincronización global de idioma. Cambiar el idioma en el host provoca que todos los microfrontends actualicen su idioma simultáneamente gracias a i18next. Implementación de carga bajo demanda (lazy loading) de microfrontends en el host usando React.lazy(), con manejo de errores en las importaciones para evitar fallos en la aplicación. Uso de Styled Components con metodología BEM para el manejo consistente de estilos independientes en cada microfrontend, manteniendo modularidad y escalabilidad visual. Organización modular de componentes: cada componente incluye carpetas para traducciones (lang), estilos (styles) y el código JSX principal, facilitando la mantenibilidad y extensibilidad del código. Configuración avanzada de Vite con vite-plugin-federation para soportar Module Federation, lo que permite compartir librerías como React, React-DOM y React-Redux entre host y remotos, optimizando el rendimiento y garantizando consistencia en el comportamiento. Integración de proyectos remotos que exponen componentes específicos (MovieList) mediante sus archivos remoteEntry.js, consumidos dinámicamente desde el host. Documentación clara y pasos para reproducir la demo localmente, demostrando la capacidad para gestionar múltiples repositorios interrelacionados en un entorno microfrontend.   Tecnologías empleadas:   React 18, Redux, React-Redux, redux-thunk, i18next, react-i18next, Styled Components, vite-plugin-federation, Vite, JavaScript ES6.   Instrucciones para probar la demo:   Acceder a la demo en línea. Abrir la consola del navegador (Ctrl + Shift + I o F12). Limpiar la pestaña 'Network'. Interactuar con los botones para observar la carga dinámica y comunicación entre microfrontends en la pestaña 'Network'.
+
+React 18 | Calculadora de Inversión en Criptomoneda
+
+Tipo: Proyecto técnico personal   Repositorio: Código fuente en GitHub Demo: Ver demo funcional   ---------   Aplicación web desarrollada para simular inversiones en tres criptomonedas (Bitcoin, Ethereum y Cardano), con proyecciones anuales basadas en retornos mensuales estimados.    Permite visualizar el balance final en dólares y su equivalente en criptoactivos, acompañado de una tabla informativa con datos actualizados de mercado.    La solución combina procesamiento backend, consumo de APIs externas y una interfaz interactiva enfocada en claridad y usabilidad.   Características técnicas y funcionalidad:   Simulación de inversión basada en retornos mensuales:   Bitcoin: 5% Ethereum: 4.2% Cardano: 1%   Visualización del balance proyectado anual en USD y en criptoactivos. Tabla informativa con datos actualizados de las tres criptomonedas utilizando la API de Messari.io. Interfaz interactiva para ingreso de balance inicial e inicio del cálculo de inversión. Backend configurado para servir datos de mercado desde Messari API y exponerlos a través de un endpoint REST. Variables de entorno gestionadas con .env para definir la URL del servidor en el cliente y la API key en el backend.   Tecnologías empleadas:   React 18, Node.js, Express.js, Tailwind CSS, RESTful API, axios, Messari API, JavaScript ES6.
+
+React 16 | SSR - Server Side Rendering a tope, Mi Portafolio V1, código fuente liberado
+
+Tipo: Proyecto técnico personal avanzado   Repositorio: Código fuente en GitHub Video : Ver video explicativo   ---------   Este proyecto representa la primera versión de mi portafolio profesional, desarrollado como un sistema SSR (Server Side Rendering) para React, desarrollada desde cero sin dependencias de frameworks como Next.js.    Motivación Técnica Mi decisión de construir un sistema SSR personalizado surgió de la necesidad de:   Comprensión profunda: Entender los mecanismos internos del renderizado universal Control granular: Tener control completo sobre el proceso de hidratación y cacheado Optimización específica: Implementar estrategias de optimización adaptadas a las necesidades del proyecto Experiencia de aprendizaje: Dominar los conceptos que frameworks como Next.js abstraen     Evolución del proyecto  Inicialmente, el proyecto fue desarrollado sobre Webpack 4. Con el tiempo, los cambios estructurales introducidos por Webpack 5 y la carga de mantenimiento asociada a la configuración dual cliente-servidor motivaron la migración hacia una arquitectura más mantenible utilizando Next.js.   A pesar de esa evolución, construir un sistema SSR manualmente me proporcionó una base técnica sólida que facilita el aprovechamiento consciente de frameworks modernos, comprendiendo que abstraen y cómo lo hacen.   Arquitectura Técnica Detallada de mi proyecto 1. Sistema de Renderizado Universal Proceso de Renderizado (SSR → Hidratación) // Flujo simplificado del renderizado 1. Cliente solicita ruta → 2. Express.js procesa → 3. getInitialData() obtiene datos 4. React renderiza en servidor → 5. HTML+datos enviados → 6. Hidratación en cliente   Componentes clave del renderizado:   Server Entry Point: Punto de entrada que configura el renderizado en servidor Client Entry Point: Punto de entrada que maneja la hidratación en cliente Universal Router: Enrutador que funciona tanto en servidor como en cliente Data Fetching Layer: Capa que maneja la obtención de datos pre-renderizado  Variable isClient - Detección de Entorno const isClient = typeof window !== 'undefined';  // Uso condicional para librerías que requieren DOM if (isClient) {   // Código que requiere window/document   const analytics = require('./analytics'); } 2. Sistema de Gestión de Datos Pre-renderizado Método getInitialData  Cada ruta implementa un método estático que se ejecuta en el servidor antes del renderizado:   // Ejemplo de implementación en una página static async getInitialData({ req, res, match }) {   const projectId = match.params.id;   const projectData = await apiService.getProject(projectId);   return {     project: projectData,     metadata: {       title: projectData.title,       description: projectData.description     }   }; }   Características del sistema:   Ejecución pre-renderizado: Los datos se obtienen antes de que React renderice Contexto completo: Acceso a objetos req, res y parámetros de ruta Tipado implícito: Estructura consistente de datos entre todas las páginas Error handling: Manejo de errores durante la obtención de datos   3. Sistema de Cache Inteligente  Implementación con node-cache  const NodeCache = require('node-cache'); const cache = new NodeCache({ stdTTL: 1800 }); // 30 minutos  // Estrategia de cacheado por URL hash const cacheKey = crypto.createHash('md5').update(req.url).digest('hex'); const cachedData = cache.get(cacheKey);  if (cachedData && CACHE_ENABLED) {   return cachedData; }   Características del cache:   Cache por ruta: Cada URL tiene su propio cache basado en hash MD5 Expiración configurable: TTL de 1800 segundos (30 minutos) Activación condicional: Flag para habilitar/deshabilitar via variable de entorno Invalidación inteligente: Cache se renueva automáticamente al expirar   Cache Doble (Frontend + Backend):  Backend Cache: Almacena respuestas de API y datos procesados Frontend Cache: Almacena componentes hidratados y estado de aplicación Resultado: Tiempo de carga casi instantáneo en visitas subsecuentes   4. Configuración de Webpack Personalizada  Webpack 4 - Configuración Dual  El proyecto incluye configuraciones separadas para cliente y servidor:   webpack.client.js:   // Configuración optimizada para el cliente module.exports = {   target: 'web',   entry: './src/client.js',   optimization: {     splitChunks: {       chunks: 'all',       cacheGroups: {         vendor: {           test: /[\/]node_modules[\/]/,           name: 'vendors',           chunks: 'all',         }       }     }   } };   webpack.server.js:   // Configuración optimizada para el servidor module.exports = {   target: 'node',   entry: './src/server.js',   externals: nodeExternals(),   optimization: {     minimize: false   } };  Características de la configuración:  Babel Integration: Transpilación de JSX y ES6+ para compatibilidad Sass Support: Procesamiento de archivos SCSS con autoprefixer Path Aliases: Rutas absolutas para imports más limpios DefinePlugin: Inyección de variables de entorno en tiempo de compilación Code Splitting: Separación automática de código vendor y aplicación   5. Sistema de Carga Dinámica con react-universal-component  Implementación de Lazy Loading  import universal from 'react-universal-component';  const HomePage = universal(import('./pages/Home'), {   loading: () => 
+
+<div>
+
+Cargando...
+
+</div>
+
+,   error: () => 
+
+<div>
+
+Error al cargar la página
+
+</div>
+
+ });   Beneficios de la carga dinámica:   Reducción de bundle inicial: Solo se carga el código necesario Mejora en TTI: Time to Interactive más rápido Optimización de red: Descarga progresiva de recursos Mejor experiencia de usuario: Indicadores de carga personalizados   6. Integración con Firestore y Flamelink CMS  Configuración de Firestore  // Configuración de conexión a Firestore const firebaseConfig = {   apiKey: process.env.VITE_API_KEY,   authDomain: process.env.VITE_AUTH_DOMAIN,   projectId: process.env.VITE_PROJECT_ID,   storageBucket: process.env.VITE_STORAGE_BUCKET,   messagingSenderId: process.env.VITE_MESSAGING_SENDER_ID,   appId: process.env.VITE_APP_ID };  Flamelink como Headless CMS  Gestión de contenido: Interface visual para editar proyectos y contenido Tiempo real: Actualizaciones instantáneas via Firestore listeners Estructura flexible: Esquemas de contenido personalizables Assets management: Gestión de imágenes y archivos multimedia   7. Gestión de Metadatos y SEO  Sistema de Meta Tags Dinámicos  // Componente para gestión de metadatos function MetaTags({ title, description, image, url }) {   return (     
+
+<Helmet>
+
+       
+
+<title>
+
+{title}
+
+</title>
+
+       
+
+<meta name="description" content={description} />
+
+       
+
+<meta property="og:title" content={title} />
+
+       
+
+<meta property="og:description" content={description} />
+
+       
+
+<meta property="og:image" content={image} />
+
+       
+
+<meta property="og:url" content={url} />
+
+       
+
+<meta name="twitter:card" content="summary_large_image" />
+
+     
+
+</Helmet>
+
+   ); }   Optimizaciones SEO implementadas:   Títulos dinámicos: Cada página define su propio título Meta descriptions: Descripciones únicas por página Open Graph: Metadatos para redes sociales Twitter Cards: Optimización para compartir en Twitter Structured Data: Datos estructurados para search engines   Stack Tecnológico Completo  Frontend Framework  React 16: Librería principal para UI React Hooks: useState, useEffect, useCallback, useContext, useRef, useLayoutEffect React.memo: Optimización de re-renders React Router: Enrutamiento del lado del cliente  Backend & Build Tools  Node.js + Express.js: Servidor HTTP y renderizado SSR Webpack 4: Bundling y optimización de assets Babel: Transpilación de JavaScript moderno Sass: Preprocesador CSS con mixins y variables   Database & CMS  Google Firestore: Base de datos NoSQL en tiempo real Flamelink: Headless CMS para gestión de contenido node-cache: Sistema de cache en memoria   Styling & UI  Bootstrap: Framework CSS para componentes base Sass/SCSS: Estilos personalizados y variables CSS Modules: Scoped styles para componentes jQuery: Manipulación DOM para componentes legacy   Development Tools  ESLint: Linting y calidad de código Prettier: Formateo automático de código Nodemon: Auto-restart durante desarrollo webpack-dev-server: Desarrollo con hot reload   Estructura del Proyecto Detallada  portfolio-react-ssr-v1/ ├── public/                 # Assets estáticos públicos │   ├── images/            # Imágenes y multimedia │   ├── fonts/             # Fuentes tipográficas │   └── favicon.ico        # Favicon del sitio ├── static/                # Output del build compilado │   ├── client/            # Assets del cliente │   └── server/            # Bundle del servidor ├── webpack/               # Configuración de Webpack │   ├── webpack.client.js  # Config para cliente │   ├── webpack.server.js  # Config para servidor │   └── webpack.common.js  # Configuración compartida ├── src/ │   ├── routes/            # Definición de rutas │   │   └── index.js       # Configuración central de rutas │   ├── pages/             # Componentes de página │   │   ├── Home/          # Página principal │   │   ├── About/         # Página sobre mí │   │   ├── Projects/      # Lista de proyectos │   │   └── Contact/       # Página de contacto │   ├── components/        # Componentes reutilizables │   │   ├── Header/        # Navegación principal │   │   ├── Footer/        # Pie de página │   │   ├── Layout/        # Layout principal │   │   └── common/        # Componentes comunes │   ├── services/          # Servicios y APIs │   │   ├── firebase.js    # Configuración Firebase │   │   ├── flamelink.js   # Cliente Flamelink │   │   └── api.js         # Servicios de API │   ├── utils/             # Utilidades y helpers │   │   ├── cache.js       # Gestión de cache │   │   ├── seo.js         # Helpers para SEO │   │   └── constants.js   # Constantes globales │   ├── styles/            # Estilos globales │   │   ├── scss/          # Archivos Sass │   │   └── css/           # CSS compilado │   ├── client.js          # Entry point del cliente │   └── server.js          # Entry point del servidor ├── .env                   # Variables de entorno ├── .env.example          # Ejemplo de variables ├── package.json          # Dependencias y scripts ├── babel.config.js       # Configuración Babel └── README.md             # Documentación del proyecto  Optimizaciones de Performance  1. Optimizaciones de Renderizado  React.memo: Previene re-renders innecesarios useCallback: Memoización de funciones useMemo: Memoización de cálculos complejos Code splitting: Carga bajo demanda de componentes   2. Optimizaciones de Red  Compression: Gzip compression para assets Asset optimization: Minificación de JS/CSS Image optimization: Lazy loading de imágenes CDN integration: Servir assets desde CDN   3. Optimizaciones de Cache  Browser caching: Headers apropiados para cache Service worker: Cache offline de recursos Database caching: Cache de queries de Firestore Memory caching: Cache en memoria con node-cache   Consideraciones sobre Redux y Estado Global  Estado de Redux en v1  En esta primera versión, Redux no fue implementado debido a:   Complejidad inicial: Enfoque en dominar SSR primero Overhead: Para las necesidades del proyecto, React state era suficiente Curva de aprendizaje: Prioridad en entender renderizado universal   Preparación para Redux  Sin embargo, se establecieron las bases para futura integración:   // Wrapper preparado para Redux function withRedux(Component) {   return function WrappedComponent(props) {     // Lógica para hidratación de estado Redux     const store = configureStore(props.initialState);     return (       
+
+<Provider store={store}>
+
+         <Component {...props} />       
+
+</Provider>
+
+     );   }; }  Estrategia de Migración a Redux  State normalization: Normalizar estructura de datos Action creators: Crear acciones para cada operación Reducers: Implementar reducers para cada dominio Middleware: Integrar redux-thunk para async operations DevTools: Integrar Redux DevTools para debugging  Evolución y Lecciones Aprendidas  Desafíos Enfrentados  Webpack complexity: Configuración dual cliente/servidor Bundle optimization: Evitar duplicación de código Hydration mismatches: Sincronización cliente-servidor Development workflow: Hot reload en entorno SSR   Soluciones Implementadas  Configuración modular: Separación clara de configs Externals optimization: Exclusión de módulos de Node.js Consistent rendering: Asegurar mismo output en ambos entornos Development server: Configuración optimizada para desarrollo   Impacto y Aprendizajes  Métricas de Performance  First Contentful Paint (FCP): ~1.2s Largest Contentful Paint (LCP): ~2.1s Time to Interactive (TTI): ~3.5s Cache hit ratio: ~85% en visitas recurrentes   Conocimientos Adquiridos  SSR fundamentals: Comprensión profunda de renderizado universal Performance optimization: Técnicas avanzadas de optimización Build tooling: Dominio de Webpack y herramientas de build State management: Gestión de estado en aplicaciones SSR  Aplicabilidad  Este proyecto sirve como:   Base para proyectos SSR: Template para nuevos proyectos Referencia técnica: Ejemplo de implementación SSR personalizada Herramienta de aprendizaje: Recurso para entender SSR sin abstracciones Portfolio técnico: Demostración de habilidades avanzadas
+
+Vue.js
+
+Vue.js 2 | Demostraciones técnicas con Vue.js 2
+
+Tipo: Proyecto técnico personal   Repositorio: Código fuente en GitHub   ---------   Desarrollé una colección de pequeños proyectos y ejemplos funcionales con Vue.js 2, cuyo propósito principal fue compartir y enseñar los fundamentos y características del framework de forma clara y aplicada.    Lista de ejemplos interactivos disponibles: Vue.js 2 | Directiva v-model Vue.js 2 | Props Vue.js 2 | Formulario y la Directiva v-show Vue.js 2 | Watchers Vue.js 2 | Directivas a medida Vue.js 2 | Ejecutar métodos @click Vue.js 2 | Creación y uso de plugins Vue.js 2 | Computed Properties Vue.js 2 | Slots y template Vue.js 2 | Mixins Vue.js 2 | Bucles con la Directiva v-for Vue.js 2 | Acceso a los datos de un componente padre Vue.js 2 | Emitir eventos Vue.js 2 | Carga dinámica de componentes Vue.js 2 | Filters o Pipes como los de Angular Vue.js 2 | Condicionales: Directivas v-if, v-else-if, v-else Vue.js 2 | Acceso a los datos de un componente hijo Vue.js 2 | Acceso a métodos de un componente hijo   Cada uno de estos ejemplos es una pieza independiente que ilustra un concepto o técnica específica, permitiendo a quienes los usan experimentar en tiempo real, explorar la reactividad y comprender el comportamiento del framework desde la práctica.   Estos pedacitos de código cubren temas esenciales como el enlace de datos con v-model, manejo de propiedades (props), directivas condicionales (v-if, v-show), eventos (@click, emit), watchers, computed properties, uso de slots, filtros personalizados, mixins, plugins, carga dinámica de componentes, y la interacción entre componentes padre e hijo.    Además, integré validaciones con VeeValidate, manejo básico de rutas con Vue Router y simulación de backend con JSON Server para ejercicios CRUD, complementando así el aprendizaje con escenarios cercanos a aplicaciones reales.   Cada ejemplo está diseñado para ser ejecutado directamente en el navegador, con código documentado y mensajes en consola que facilitan el seguimiento de la lógica interna. Este enfoque modular y visual permitió que otros desarrolladores y estudiantes pudieran avanzar progresivamente, desbloqueando y comprendiendo cada pieza por separado.
+
+Vue.js 2 | Desarrollo de un listado de productos con carrito de compras
+
+Tipo: Proyecto técnico personal   Repositorio: Código fuente en GitHub Demo en línea: Ver demo funcional Video explicativo: Ver presentación en Google Drive   ---------   Desarrollé una aplicación web interactiva con Vue.js 2 para gestionar un listado de productos con carrito de compras, que permite actualizar datos en tiempo real sin necesidad de recargar la página. Este proyecto integra diversas funcionalidades avanzadas y patrones de diseño del ecosistema Vue para simular un entorno de comercio electrónico completo.   Tecnologías, técnicas y prácticas aplicadas:   Vue CLI 3 para estructurar el proyecto. Vuex como sistema de gestión del estado, con uso de namespaced y persistencia mediante LocalStorage o IndexedDB. Componentes definidos a través de la instancia de Vue y Vue.component. Formularios validados con el plugin VeeValidate. Transiciones visuales implementadas con Vue Transitions. Buscador interactivo desarrollado con Vuex y Getters.   CRUD completo con JSON Server:   Consumo de API mediante Vuex + Vue Router. Operaciones HTTP: GET, POST, PUT y DELETE.   Sistema de autenticación con persistencia de sesión usando Vuex. Manejo completo de rutas, incluyendo rutas hijas, eventos del VueRouter y protección de rutas con beforeEach. Middleware personalizado en JSON Server para autenticación de usuarios. Plugins utilizados: VeeValidate, VuexPersist y BootstrapVue. Módulo de autenticación con estado, acciones y mutaciones propias. Hojas de estilo en Stylus para componentes. Modal personalizado animado mediante transiciones. Integración con Axios y VueAxios para el consumo de datos. Uso intensivo de mapState y mapMutations para optimizar el flujo de estado. Computed properties con getters y setters. Data binding con v-model aplicando Arrays y objetos complejos.   Comunicación entre componentes:   Emisión de eventos ($emit) hacia componentes padres. Observadores (watchers) para detectar cambios reactivos.   Implementación de mixins para reutilizar lógica entre componentes.   Creación de directivas personalizadas:   Foco automático en campos. Aplicación de estilos condicionales mediante parámetros.   Desarrollo de plugins personalizados con argumentos.   Uso avanzado de props:   Paso de datos entre componentes. Validación de tipo y definición por defecto. Comparación y distinción entre props y data, abordando el concepto de reactividad en profundidad.     Este proyecto refleja una integración coherente de diversas herramientas y funcionalidades del ecosistema Vue 2.
+
+Node.js y Express.js
+
+TDD guía de tests con Jest, inyección de dependencias, test unitarios, y test de integración con superTest
+
+Servidor para el proyecto de ( Angular 13 | Plataforma de Movies )   Node.js, Express.js, cors, este servidor sirve un archivo JSON como dB en un único endPoint protegido por un token de auth0.   Db de Películas con su Título, descripción, tipo de película, imagen y fecha
+
+Back-End para el proyecto de (React | Calculadora de Inversión en Criptomoneda), Node.js, Express.js, Messari API, axios, cors, parsear CSV, inyección de dependencias
+
+Back-End para el proyecto de ( Angular 10 | angular-adv-adminpro ), Node.js, Express.js, MongoDB, Mongoosejs, CRUD, JWT, express-validator, google sign in, Paginaciones de datos, y mucho más...
+
+Node.js y Express.js | Sessions, ataques CSRF como hacerlo y evitarlo, Token CSRF y implementación
+
+HTML 5, CSS 3 y javaScript
+
+Maquetado de un diseño de Adobe Illustrator CC 2018, HTML5, CSS3, JavaScript, jQuery, Bootstrap 4, BREF Bondarea Render Framework
+
+Joomla
+
+Joomla 1.5 | Faegovensa c.a - use VirtueMart para la tienda online
+
+Joomla 1.5 | Prosper import c.a
+
+Joomla 1.5 | La casita de azúcar
+
+Joomla 1.5 | Hrauseo Consultores
+
+Proyectos
+
+Perfil Profesional
+
+Habilidades Técnicas y Blandas
+
+Video Resume 2025 Dennys Jose Marquez Reyes
+
+Video Curriculum 2025 - Dennys José Márquez Reyes 8+ años de experiencia Este videocurrículum sintetiza parte de mi recorrido profesional, desde mis inicios con HTML y JavaScript hasta proyectos modernos usando Angular, React, Next.js y otras tecnologías clave del frontend.   He trabajado en equipos distribuidos y multidisciplinarios en países como Argentina, Panamá, España y Chile, participando en el desarrollo de aplicaciones web y móviles tanto en entornos startup como en estructuras empresariales más formales.    Me he desempeñado principalmente como frontend senior, con experiencia full stack en proyectos puntuales.   Durante el video, hago referencia a herramientas, prácticas y contextos reales: componentes complejos, formularios dinámicos, optimización de flujos, arquitectura de software, integración continua, metodologías ágiles y tecnologías como Spring Boot, React Native, TypeScript, entre otras, todo abordado desde un enfoque práctico, técnico y orientado a resultados.   También mencionó parte de mi participación en comunidades técnicas a través de tutoriales y contenidos compartidos en plataformas como YouTube y Dev.to.   Este material forma parte de esta Cartografía Profesional interactiva.    En mi sitio web personal, pueden explorar con mayor profundidad mis proyectos, herramientas y experiencia.
+
+Recomendaciones
+
+JIMMY VILLA ► Ingeniero Civil Informático | Full Stack | Java | Spring Boot | Angular | React | Vue | SQL | ETL | SOLID  28 de abril de 2025, Adevcom - Compañero , recomendación en  
+
+Hyperlink: 
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+Dennys es un desarrollador Frontend Senior con experiencia sólida en Angular, React, Next.js, Node.js y otras tecnologías modernas. Se destaca por su enfoque técnico, la aplicación de buenas prácticas y su capacidad para desarrollar soluciones escalables y de alta calidad. Su habilidad para enfrentar retos complejos lo convierte en un recurso valioso para cualquier equipo de desarrollo.  ─────
+
+JALID CHAER ► Ingeniero en Informática  22 de octubre de 2023, Clicredit - Compañero , recomendación en  
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+Hyperlink: 
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+	- Trabajé con Dennys durante 3 años, es un excelente compañero de trabajo, muy detallista en su trabajo y ha aportado excelentes soluciones a los proyectos que hemos trabajado.  ─────
+
+		- HUGO BS ► Co-fundador en Fonpasa SA  10 de mayo de 2023, Clicredit - Supervisor, recomendación en   <https://www.linkedin.com/in/dennysjmarquez/>
+
+Hyperlink: 
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+			- Tuve el placer de trabajar con Dennys durante los últimos cuatro años en el desarrollo de una aplicación y sistema web. Durante este tiempo, Dennys demostró un alto nivel de conocimiento técnico para resolver los desafíos que se presentaron durante el desarrollo.  Es un programador web dedicado y comprometido, que se esfuerza por entregar tareas con calidad dentro de los plazos establecidos. Recomiendo encarecidamente su contratación como miembro de cualquier equipo de desarrollo, ya que su pasión por la programación y su compromiso lo convierten en un gran activo. Estoy seguro de que su determinación garantizará el éxito en cualquier proyecto en el que participe.  ─────
+
+				- GUILLERMO RAMÍRE ► IT Workflow Specialist  11 de mayo de 2023, Clicredit - Supervisor, recomendación en   <https://www.linkedin.com/in/dennysjmarquez/>
+
+Hyperlink: 
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+					- He tenido la oportunidad de trabajar con Dennys durante los últimos 3 años y ha demostrado tener altas capacidades para el desarrollo de aplicaciones en entornos web. Trabaja de forma dedicada e incansable para conseguir los objetivos del proyecto, enfocándose en la calidad y en el cumplimiento de los requisitos.  Recomiendo su valoración y contratación, dado que es un importante activo para las organizaciones en las que pueda trabajar.  ─────
+
+						- FEDERICO SANTA COLOMA ► Director de tecnología  13 de septiembre de 2019, BONDAREA - Supervisor, recomendación en <https://www.linkedin.com/in/dennysjmarquez/>
+
+Hyperlink: 
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+https://www.linkedin.com/in/dennysjmarquez/
+
+							- Dennys ha demostrado ser un desarrollador con plenas capacidades técnicas y creatividad suficiente para alcanzar los objetivos. De forma metódica y ordenada, siempre cumplió con los requerimientos y realizó las entregas con prolijidad ejemplar.  ─────
+
+Mí perfil técnico PodCast se describe solo mi Stack
+
+Se explora a fondo mi perfil profesional, desarrollador web con más de 9 años de experiencia formal en el ecosistema JavaScript.   🔹 Experiencia en React, Next.js, Angular, Node.js y React Native.   🔹 Conocimientos aplicados en ciberseguridad bajo prácticas OWASP.   🔹 Proyectos destacados en SSR, Micro-frontends, APIs RESTful y apps móviles.   🔹 Trayectoria en equipos remotos y multiculturales con impacto en Argentina, Chile, España y Panamá.   🔹 Filosofía de trabajo basada en Clean Code, SOLID y seguridad desde el diseño.

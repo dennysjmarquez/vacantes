@@ -1,0 +1,72 @@
+### FUENTE: Dennys J Marquez | Front-end web developer 🔥
+
+### TIPO: web_page | URL: https://dennysjmarquez.dev/ | CARACTERES: 1056 ###
+### KEYWORDS: Front-end Web Development, JavaScript Frameworks, Ethical Hacking, Cybersecurity, IT Industry Experience ###
+
+Resumen: This source serves as a professional digital profile for Dennys Jose Marquez Reyes, an experienced **front-end web developer** who bridges the gap between creative design and technical execution. With a substantial **fifteen-year tenure in the IT industry**, Marquez highlights a specialized mastery of modern **JavaScript frameworks** such as React and Angular, alongside foundational skills in mobile development and cloud infrastructure. The text is structured as a personal portfolio, framing his work as a **protagonist universe of code** where he transforms abstract concepts into secure, functional digital solutions. By explicitly mentioning his background in **ethical hacking and cybersecurity**, the author emphasizes a unique commitment to building innovation that is as resilient as it is visually engaging.
+
+------
+
+Inicio
+
+Portafolio
+
+Revista
+
+Perfil
+
+Sobre Mí ??
+
+Contacto
+
+Front-end web developer  ➤ JavaScript ES6  /  Angular - TypeScript  /  React - React Native  /   LitElement  /  Vue.js  /  Next.js  /  HTML5 CSS3 Sass Bienvenidos   ◕‿‿◕
+
+¡Hola!  Bienvenido a mi espacio digital.
+
+# Un universo donde el código es el protagonista
+
+Soy Dennys Jose Marquez Reyes, un 
+
+desarrollador web
+
+ con conocimientos en 
+
+Ethical Hacking
+
+ y 
+
+Ciberseguridad
+
+.
+
+✅ Transformo ideas en soluciones digitales innovadoras, combinando creatividad y conocimiento técnico para superar desafíos y aportar valor.
+
+Tengo   de   experiencia trabajando para empresas  y un total de   15  años  en la industria IT.
+
+# Principal enfoque técnico
+
+JavaScript ES6
+
+React 4 años y 10 meses
+
+React Native (Android) 2 años
+
+Next.js y Node.js 2 años y 4 meses
+
+Redux y Redux Thunk 2 años y 10 meses
+
+Angular 1 años + Proyectos
+
+Git
+
+Google Cloud 2 años
+
+Docker Desktop 6 meses
+
+TypeScript 1 año + Proyectos
+
+Vite 6 meses
+
+Tailwind CSS 6 meses
+
+Material UI 2 años 4 meses

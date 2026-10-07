@@ -1,0 +1,217 @@
+### FUENTE: Profile.txt
+
+### TIPO: generated_text | URL: N/A | CARACTERES: 12926 ###
+### KEYWORDS: Software Architecture, Symbolic AI, Domain Specific Languages, Frontend Development, LLM Behavior Governance ###
+
+Resumen: This document provides a comprehensive professional profile of Dennys Jose Marquez Reyes, a highly experienced **Senior Software Developer** specializing in both frontend technologies and **AI governance**. The text outlines his fifteen-year journey through the tech industry, highlighting a shift from early computer programming to sophisticated modern frameworks like **React, Angular, and Node.js**. A central theme is his current independent research into **Symbolic AI and Domain-Specific Languages (DSL)**, specifically through his creation of the "Artisan System" to make large language models more deterministic. Ultimately, the source serves as a detailed resume and portfolio that bridges the gap between **traditional software architecture** and the evolving landscape of artificial intelligence.
+
+------
+
+Contactar dennysjmarquez@gmail.com
+
+ 
+
+www.linkedin.com/in/ dennysjmarquez (LinkedIn) dennysjmarquez.dev (Personal)
+
+ 
+
+Aptitudes principales IA Simbólica (Symbolic AI) Arquitectura de software Lenguajes de Dominio Específico (DSL)
+
+ 
+
+Languages Español (Native or Bilingual) Inglés (Limited Working)
+
+ 
+
+Certifications Curso de Angular 19 Moderno: Domina Angular TDD en NodeJS, guía de tests con Jest Domina Java Fundamentos de la resolución de conflictos Webpack
+
+ 
+
+Publications La vida y el legado de Mary Parker Follett: influencia olvidada en la gestión moderna ¡Cambiar la perspectiva!. Cuando un problema parezca no tener solución, cambia la perspectiva El Síndrome de Procusto: Cómo evitar que afecte el ambiente laboral La deuda tecnológica: el costo oculto de proyectos a largo plazo Pruebas Unitarias y de integración (Unit testing) en Angular
+
+ 
+
+Dennys Jose Marquez Reyes
+
+ 
+
+Software Developer | Senior Front-End (JavaScript ES6, React, React Native, Next, Angular, Node) Remote Work | IA Architecture & Governance ⤷ Creador de Artisan System DSL LLMs Symbolic Venezuela
+
+ 
+
+Extracto Ingeniería narrativa simbólica ❤⤷ DSL · IA · FrontendSenior Frontend Developer 15 años en IT: 9 años en empresas. Actualmente desarrollo un proyecto independiente de investigación y arquitectura de software enfocado en DSL e IA.Trabajo en la intersección entre ingeniería de software tradicional, arquitectura frontend y gobernanza de comportamiento para modelos de lenguaje.Proyecto actual independiente: Artisan System DSL es un lenguaje de dominio específico (DSL) que implementa un Marco de Gobernanza de Comportamiento para Large Language Models (LLMs), basado en el paradigma Model-as-an-Interpreter.El DSL opera en la capa lingüística del modelo mediante estructuras simbólicas y pseudo-código interpretado internamente, orientado a reducir la ambigüedad del prompt tradicional y habilitar comportamientos más deterministas en tareas repetitivas o sensibles al contexto.Registro científico (DOI): https:// zenodo.org/records/18001377 Mirror OSF: https://doi.org/10.17605/ OSF.IO/5D7JX---⤷⤷⤷ Trayectoria profesionalEspecialista en apps web/móviles con trayectoria internacional (AR, PA, ES, CL) en equipos de alto desempeño y proyectos de alta complejidad.⤷⤷⤷ Competencias Técnicas- JavaScript ES6 (9 años), Git (9 años)-React (4 años 10 meses), React Native Android (2 años)- Next.js, Node.js (2 años 7 meses)- APIs RESTful con Node.js/Express – Desarrollo backend- Redux y Redux Thunk (2 años 10 meses)-Angular 13 (1 año 9 meses + proyectos)- Vite, Tailwind CSS (7 meses + proyectos)- TypeScript (1 año 9 meses + proyectos)-Material UI (2 años 4 meses + proyectos)- Google Cloud (Firebase, Firestore, Cloud Functions) (2 años)- Bases de Datos NoSQL y Relacionales (MongoDB, MySQL)- Headless CMS (Flamelink)-Webpack (4 y 5) y Babel- Inglés (Básico o técnico)---⤷⤷⤷ Base y enfoqueMis raíces informáticas vienen de lejos, desde aquellos días de las PC I386, MS-DOS y Windows 3.11. Empecé con BASIC, QBasic , Visual Basic 4 y 6.⤷⤷⤷ Habilidades BlandasPensamiento
+
+ 
+
+crítico, resiliencia, adaptación al cambio, colaboración e inteligencia emocional.⤷⤷⤷ Conocimientos AdicionalesVue.js 2 · Angular 6–13 · LitElement · CyberSecurity (OWASP Top 10) · Arquitectura de Software (SOLID, Clean Code, Hexagonal) · Testing (Jest, Jasmine, SuperTest) · Docker⤷⤷⤷ Objetivos profesionalesInnovación en IA y DSL, liderazgo en arquitectura de software y creación de estándares abiertos y auditables.---⤷OpenToWork | Siempre aprendiendo y creciendo
+
+ 
+
+Experiencia
+
+ 
+
+Adevcom Angular Developer febrero de 2024 - octubre de 2025 (1 año 9 meses) Chile
+
+ 
+
+Proyecto: Requerimientos Normativos, Instituto de Salud Laboral (ISL)
+
+ 
+
+Participé en un proyecto enfocado en la prevención de riesgos laborales, cuyo objetivo fue desarrollar un sistema de gestión de denuncias de accidentes de trabajo y enfermedades profesionales DIAT/DIEP
+
+ 
+
+Contribuciones clave:
+
+Desarrollo Frontend con Angular 13: creación de componentes reutilizables con ng-template y ng-container, implementación de formularios (Template Driven y Reactive Forms) con validaciones personalizadas y gestión de campos dinámicos mediante FormBuilder y FormArray.
+Optimización del 50% en el manejo de datos complejos con servicios personalizados, eliminando dependencias de Redux y mejorando la comunicación entre componentes, lo que aseguró la entrega de funcionalidades clave en tiempo récord, optimizando procesos internos y cumpliendo los objetivos estratégicos de la empresa.
+Implementación de directivas personalizadas, Guards para control de acceso basado en roles e Interceptores para manejo global de errores HTTP.
+Soporte Backend: despliegue local, desarrollo de controladores REST con Spring Boot, consultas JPA personalizadas y uso de programación funcional (Java 8 Streams) para requerimientos puntuales . 
+
+▬ Tecnologías: Angular 13, Java 8, Spring Boot 3, SQL Server.
+
+ 
+
+▬ Herramientas: DBeaver, FortiClient VPN. ▬ Librerías destacadas: ng-bootstrap, Keycloak, Swagger, Lombok.
+
+ 
+
+Epidata React Developer - REMOTO enero de 2023 - junio de 2023 (6 meses) Argentina
+
+ 
+
+Participación en la creación de un Sistema Integral de RRHH para el Ministerio de Desarrollo Productivo Argentina (MDP) como parte de un equipo de alto rendimiento.
+
+ 
+
+Junto con dos desarrolladores BackEnd, dos desarrolladores FrontEnd (incluyéndome), un especialista en Control de Calidad (QA), un UI/UX designer, un analista funcional, un líder técnico, y un gerente de proyecto, trabajamos en colaboración para cumplir con los objetivos del proyecto en los plazos establecidos, y asegurar la calidad del software.
+
+ 
+
+En particular, he contribuido en:
+
+Creación de un sistema de inicio de sesión basado en autenticación LDAP para la aplicación.
+Creación de un sistema integral para la gestión de módulos, roles, asignación de permisos y usuarios en la aplicación.
+Desarrollo de diferentes pantallas para ver, crear, editar y eliminar información de un agente.
+Creación de diferentes PDFs para mostrar reportes y documentos.
+Despliegue de una API de Laravel con Docker para entorno local.
+Dedicación, trabajo en equipo, proactividad, y mejora de procesos.
+Mejora de la eficiencia del equipo al crear modelos de datos ficticios para las interfaces de usuario, aplicando principios de arquitectura hexagonal y utilizando Redux Thunk como adaptador. Esto me permitió desarrollar los componentes sin esperar a que los endpoints con datos del backend estuvieran listos. Se mostró un prototipo funcional al cliente, el cual posteriormente se integraría a los endpoints reales modificando el adaptador Redux Thunk, sin impactar la lógica central, componentes y reducers existentes. 
+
+▬ Tecnologías utilizadas: TypeScript, React (React Function Component), React Hooks: (useState, useEffect, useCallback, React.memo), Vite, Redux,
+
+ 
+
+▬ Librerias: axios, clsx, primeicons, sass, sweetalert2, universal-cookie, PrimeReact - React UI Component Library, cleave.js, redux-thunk, React Router Dom, React Hook Form, React-pdf
+
+ 
+
+Credit Agile, Inc 3 años 10 meses
+
+ 
+
+React SSR – Next.js Developer - REMOTO febrero de 2021 - mayo de 2023 (2 años 4 meses) Panamá
+
+ 
+
+Refactoring y desarrollo del FrontEnd con React renderizando del lado del servidor con Next.js
+
+Creación de un sistema para el manejo de la inactividad y cierre automático de la sesión del usuario mediante la librería react-idle-timer.
+Creación de Hooks personalizados como useForm similares a React Hook Form o Formik.
+SEO optimización para lograr una buena puntuación en Google Lighthouse y PageSpeed Insights.
+Creación de una API interna mediante el uso de Node.js y la librería next-connect, manejo dinámico del Router de Next.js […param].js, [[…param]].js para recibir los parámetros en las rutas al estilo Express.js, implementación de una Api Gateway con Node.js
+Creación de un sistema de Sesiones con Express.js para proteger las páginas con roles haciendo uso del método getServerSideProps que proporciona Next.js.
+Mejora del rendimiento de carga de la App en un 50% implementando caché con node-cache, una librería de Node.js.
+Migración de Material-UI V4 a Material- UI V5, @emotion/cache en Next.js 11. 
+
+▬ Tecnologías utilizadas: React, Next.JS 9-10-11, React (Class Component, React Function Component), React Hooks: (useState, useEffect, useLayoutEffect, useRef, useMemo, useCallback, React.memo y React.createContext)
+
+ 
+
+▬ Librerias: Next-routes, Redux, redux-thunk, Next-i18next, next-connect, express-session.
+
+ 
+
+agosto de 2019 - julio de 2021 (2 años) Panamá
+
+ 
+
+Creación de una aplicación móvil con React-Native para la gestión de préstamos.
+
+ 
+
+En este desarrollo tuve la oportunidad de conocer las 3 formas diferentes de implementar a React Native, (Expo, ExpoKit y la normal React Native al desnudo completo)
+
+Creación de un sistema de Task persistentes que al reiniciar el móvil o al apagarlo estas continúan funcionando en el fondo.
+Creación de un sistema para la Geolocalización, Tracking.
+Notificaciones Push, FireBase.
+Creación de un sistema para el uso de la cámara y la subida de archivos.
+Creación de un Layout con el uso de: createBottomTabNavigator, createStackNavigator y createTopFooter y poder tener un Header y Footer siempre disponible en todas las pantallas.
+Visor de Imágenes y archivos PDF.
+Creación de un módulo nativo de Android para manejar un servicio Headless JS que gestiona una notificación persistente que evita que el sistema mate la App cuando está en segundo plano.
+Creación de un módulo nativo en de Android para el consumo de la API del clima de openweathermap.org con el objetivo de disfrazar la notificación persistente, esto hace que la App mantenga una instancia viva, aunque este la App cerrada. 
+
+▬ Tecnologías utilizadas: Expo, ExpoKit, React Native, Cloud Functions, RxJs - BehaviorSubject
+
+ 
+
+▬ Librerías: RxJs, react-native-background-fetch, react-native-fingerprint-scanner, react-native-android-location-enabler, react-native-check-notification-enable, react-native-connectivity-status, react-native-firebase, react-native-form-validator, react-native-image-pan-zoom, react-native-image-picker, react-native-image-resizer, react-native-linking-settings, react-native-open-notification, react-native-permissions, react-native-restart, react-native-share, react-native-view-pdf, react-native-webview, rn-secure-storage.
+
+ 
+
+BONDAREA JavaScript Developer - REMOTO
+
+ 
+
+Argentina
+
+ 
+
+Participación activa en la creación de BREF Bondarea Render Framework, un sistema que renderiza una página web entera a partir de datos JSON.
+
+Creación de un sistema que renderiza información de una API en diferentes tipos de componentes Bootstrap, estos incluyen tablas con funcionalidad de búsqueda incorporada, junto con otros tipos de visualización de dato, usando concatenación de String, utiliza eval para enviar código JavaScript bajo demanda en el JSON como extra a funciones de tipo "fnRender", también es posible enviar HTML en el JSON.
+Manipulación avanzada del DOM.
+Maquetación basada en el diseño de Adobe Illustrator CC 2018 
+
+▬ Tecnologías utilizadas: JavaScript, Vanilla JS, Bootstrap 3, Bootstrap 4, jQuery 3, JSON, DOM, HTML 5, CSS 3, Git, BitBucket, Sourcetree.
+
+ 
+
+Trabajo en Remoto Full Stack Developer - REMOTO octubre de 2016 - diciembre de 2017 (1 año 3 meses) España
+
+ 
+
+Click Result group Ltd - Clickresult.es
+
+Modificación del CMS "Simple CMS" de phpjabbers para darle a este CMS algunas características de wix.com y websitebuilder.com, le añadi capacidades de edición en línea utilizando CKeditor 4.
+Creación y modificación de plugins CKeditor 4.
+Creación de un sistema que edita en el Front-end dinámicamente los CSS, JS y HTML del sitio web.
+Creación de un sistema de múltiples idiomas para "STIVA Blog Script" 
+
+▬ Tecnologías utilizadas: JavaScript, HTML 5, CSS3, PHP 5.6.25, PHP Simple HTML DOM Parse, MySQL 5.6.17, MySQL Workbench
+
+ 
+
+▬ Librerías: CKeditor 4, JQuery, JQuery UI, iframeResizer.js, jquery.mCustomScrollbar.js, position-calculator.min.js, Ace editor 1.2.5, masterslider.min.js 2.50.0, kcfinder 3.12
+
+ 
+
+Corpwakd C.A Proveedor tecnológico en el área de programación y servicios
+
+ 
+
+enero de 2012 - enero de 2014 (2 años 1 mes)
+
+ 
+
+Servicio Técnico Wintel:
+
+ 
+
+◉ Asesoría técnica a los clientes       ◉ Diagnóstico de fallas en software y hardware       ◉ Instalación de todo tipo de hardware, software y dispositivos       ◉ Optimización del sistema operativo       ◉ Respaldo de la data de los PC       ◉ Armado de computadoras
+
+ 
+
+Educación Instituto Universitario de Tecnología Antonio Ricaurte Tecnico Superior Universitario, Informática · (2006 - 2007)

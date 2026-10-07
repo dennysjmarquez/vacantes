@@ -1,0 +1,166 @@
+### FUENTE: Sobre Mí _ Dennys J Marquez _ Front-end web developer.pdf
+
+### TIPO: pdf | URL: N/A | CARACTERES: 6449 ###
+### KEYWORDS: Front-end Web Development, Professional Career Path, Problem Solving Techniques, Software Architecture Principles, Team Leadership Management ###
+
+Resumen: This document serves as a professional and personal biography of Dennys J. Marquez, a **senior front-end developer** who chronicles his journey from an early interest in 386 computers to mastering modern web frameworks. The narrative highlights his **evolution as a self-taught programmer**, emphasizing how his foundational experiences with legacy languages shaped his **resilience and determination** to overcome educational barriers. Central to his philosophy is an **innovation-driven mindset**, where he advocates for **systematic problem-solving, critical thinking, and a "clean code" approach** to building scalable software. Beyond technical expertise, the text outlines his commitment to **leadership and team management**, offering a collection of his own articles and resources aimed at fostering professional growth and **high-quality software architecture**.
+
+------
+
+Dennys J Marquez 
+
+FRONT-END WEB DEVELOPER ➤ 
+
+JavaScript ES6 / Angular - TypeScript / React - React Native / 
+
+LitElement / Vue.js / Next.js / HTML5 CSS3 Sass 
+
+#  M i s  i n i c i o s i  i i i 
+
+Desde mis primeros días explorando el mundo de la programación con ordenadores 386 y Visual Basic, hasta mi actual enfoque en el desarrollo web, mi carrera ha sido una constante evolución y aprendizaje. 
+
+✅ En este espacio, quiero compartirte más sobre mi trayectoria, mis pasiones y cómo he llegado a donde estoy hoy. 
+
+Todo comenzó con los ordenadores 386, donde me inicié en la programación aprendiendo BASIC con QBasic en MS-DOS 6.22, y más tarde Visual Basic 4 y 6. 
+
+Recuerdo cuando estaba aprendiendo a codificar en Visual Basic 6, una de las cosas que hice fue un programa de Chat llamado DgChat, funcionaba con IIS y ASP, utilizando un control ActiveX 
+
+SOBRE MÍ 
+
+ 
+
+ 
+
+texto de una página web y lo mostraba en la ventana del Chat, tenía salas, y varias opciones de personalización. 
+
+También hice un curso intensivo de Cisco CCNA y no tenía nada que ver con los Chats. ¡Pero sí tenía que ver con las redes! ¡Qué tiempos aquellos! 
+
+#  I n t r o d u c c i ó n  a l  D e s a r r o l l o  W e b I t i  l  l l  
+
+Con la llegada de Windows 98, descubrí los archivos .htt, .hta y aprendí sobre HTML, CSS, JavaScript y VBScript a partir de sus código fuente. 
+
+Recuerdo que en esa época hubo una competición entre VBScript y JavaScript, que se disputaban el título de ser el único lenguaje de programación que podía funcionar de forma nativa en los navegadores web. 
+
+Lamentablemente, en esa época no tuve el apoyo necesario para formalizar mis estudios en programación web. 
+
+Si como  hubiera podido formalizar mis estudios, hubieras podido avanzar aún más rápido en mi carrera. Sin embargo, el camino que he recorrido como autodidacta también 
+
+ 
+
+ 
+
+tiene un gran valor, y muestra mi determinación, mi pasión por aprender y mi capacidad para superar obstáculos. 
+
+#  M i  A D N  d e  I n n o v a c i ó n i    I i 
+
+Construir software es tanto un arte como una ciencia. 
+
+Durante mi trayectoria profesional he aprendido conceptos, como resolver problemas de forma eficiente, ver más allá de las cosas, yo lo llamo pensar fuera de la caja. Sin embargo, estoy consciente de que siempre hay espacio para aprender y mejorar. 
+
+Enfoque sistemático: Cuando se trata de resolver problemas, recomiendo un enfoque sistemático, ya que proporciona mayor eficiencia, claridad y consistencia. 
+
+Si no se usa un enfoque sistemático, se corre el riesgo de abordar el problema de manera desorganizada, esto suele llevar a soluciones ineficientes o incompletas y puede requerir más tiempo para resolver el problema. 
+
+Mis contribuciones y recomendaciones 
+
+Cambiar de perspectiva cuando parezca no haber solución 
+
+ 
+
+ 
+
+A menudo, los problemas parecen no tener solución porque estamos enfocados en una perspectiva muy limitada, cambiar la perspectiva puede ayudarnos a ver el problema de una manera diferente y encontrar un camino hacia la solución. 
+
+Pensamiento crítico 
+
+Recomiendo este curso. 
+
+Me ha ayudado a tener una visión más amplia de los problemas. 
+
+Es un curso que te enseña a cambiar de perspectiva cuando te enfrentas a un problema imposible. 
+
+Al aprender a pensar de forma crítica, podrás ver los problemas desde diferentes ángulos y encontrar soluciones que otros podrían pasar por alto. 
+
+Cuando nos enfrentamos a un problema, nuestro primer instinto suele ser encontrar la solución más rápida y fácil, sin embargo, esto no siempre es lo mejor. 
+
+Este curso enseña a frenar y considerar todas las soluciones posibles antes de elegir una. 
+
+Este conjunto de habilidades ha sido muy valioso para mí como desarrollador, porque encontrar la solución correcta es a menudo más importante que encontrar la solución rápida. 
+
+Si eres un desarrollador, sabes que a veces es difícil ver el bosque por los árboles. 
+
+ 
+
+ 
+
+Te quedas tan atrapado en el código y los detalles que puedes perder de vista el panorama general. 
+
+Otras recomendaciones 
+
+Entrena Tu Mente: Aumenta tus Capacidades Cerebrales. 
+
+Súper Memoria: Cómo Desarrollar una Mente Poderosa. 
+
+#  P e r f e c c i o n a n d o  h a b i l i d a d e s f i  i l i 
+
+Estoy constantemente buscando nueva información para mejorar mis habilidades como programador. 
+
+Me interesa no solo que el código funcione, sino también que sea eficiente, elegante y fácil de entender. Conozco conceptos como los principios SOLID y el acrónimo STUPID. 
+
+Sigo aprendiendo sobre patrones, arquitecturas de software, buenas prácticas, etc. Trato de mantenerme actualizado en este campo que cambia constantemente. 
+
+Les recomiendo leer algunos artículos que he escrito sobre estos temas. 
+
+React la guía máxima de buenas prácticas jamás concebida, Principios SOLID, El acrónimo STUPID, Clean Code y Code Smell. 
+
+ 
+
+ 
+
+Microfrontends Architecture 
+
+La Arquitectura Hexagonal: un enfoque para desarrollar aplicaciones robustas en React, Angular y Vue con ejemplos de código 
+
+Consejos para lograr un software limpio, mantenible, testeable y escalable 
+
+#  G e s t i ó n  y  l i d e r a z g o  d e  e q u i p o s t i   l i   i 
+
+En la experiencia y en las situaciones que he enfrentado a lo largo de mi carrera me han llevado a profundizar en el estudio de la gestión y el liderazgo de equipos. A través de este proceso, he escrito varios artículos que reflejan mi aprendizaje y mis reflexiones sobre estos temas. 
+
+Origen e historia del Management 
+
+La vida y el legado de Mary Parker Follett: influencia olvidada en la gestión moderna 
+
+El Síndrome de Procusto: Cómo evitar que afecte el ambiente laboral 
+
+Colaboración Efectiva FrontEnd/BackEnd: Flujo de Trabajo Adecuado y Responsabilidades en el Desarrollo de Aplicaciones Web 
+
+#  M á s  s o b r e  m í   í 
+
+Para más información sobre mi trabajo y experiencia, visita mi , perfil, ve mí RESUMEN - CV y redes sociales en mi 
+
+página de contactos. 
+
+ 
+
+ 
+
+También he escrito un artículo en Dev.to donde comparto más detalles sobre mi vida personal y carrera. 
+
+¡Échale un vistazo! 👇 
+
+Dennys J. Marquez - Senior Frontend Developer: Timeline de mi vida. 
+
+A darle átomos 💪 
+
+- Hazme una pregunta! -
+
+ 
+
+ 
+
+Newsletter 
+
+Suscríbase al boletín para recibir su dosis semanal de noticias, actualizaciones, consejos y demás. 
+
+EMAIL SUSCRIBETE
