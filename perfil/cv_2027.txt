@@ -1,0 +1,225 @@
+                                      DENNYS JOSÉ MÁRQUEZ REYES
+                                                                 Remoto / GMT-4 | Email: dennysjmarquez@gmail.com
+                                            LinkedIn: linkedin.com/in/dennysjmarquez | Portafolio: dennysjmarquez.dev
+                                             Trayectoria Interactiva MAPA MENTAL: mindomo.com/dennys-j-marque...
+
+SENIOR FRONTEND DEVELOPER | 9 AÑOS DE EXPERIENCIA.
+
+Especializado en el ecosistema de JavaScript, TypeScript, React, Angular, Next.js, React Native y Node.js. Desarrollo de
+aplicaciones empresariales, financieras y gubernamentales, trabajando con arquitecturas escalables. SOLID, Clean Code,
+arquitectura hexagona. Experiencia en IA con enfoque SDD, AI DSL prompting, Guardrails, MCP y sistemas multi-agente.
+
+A. HABILIDADES TÉCNICAS AÑOS
+
+Frontend:
+
+    ● JavaScript ES6+ (9 años) | Angular 6-13 (3 años 9 meses) | React (4 años 10 meses)
+    ● React Native Android (2 años) | Next.js / SSR (2 años 4 meses) | TypeScript (2 años 9 meses)
+    ● Redux y Redux Thunk (2 años 10 meses) | Vite / Tailwind CSS (7 meses) | Material UI (2 años 4 meses)
+
+Backend: Node.js, Express (REST APIs), Spring Boot, Java 8 (JPA, Streams).
+Bases de Datos (SQL & NoSQL): MySQL, SQL Server, Firebase (Cloud Firestore/Realtime DB).
+DevOps & Tools: Google Cloud (GCP) (2 años), Git (GitHub/GitLab/BitBucket/Sourcetree/GitKraken), Docker
+Arquitectura: SOLID, Clean Code, Arquitectura Hexagonal, Micro Frontends.
+IA & Productividad: MCP (para automatización de flujos de IA), OpenCode, Antigravity, Prompting(DSL Neuro-Simbólico,
+Agent Skills)(diseño de instrucciones avanzadas para LLMs), LLM Local (Ollama)
+
+
+B. EXPERIENCIA PROFESIONAL
+
+✔ 10/2025 - Actualidad | Frontend & IA - Proyectos e investigación aplicada                                (Freelancer)
+
+Stack: Python, NumPy, SQLite/FTS5, NLTK/WordNet, FastAPI, MCP
+
+● Diseñé y publiqué con DOI dos librerías de IA: MemoryBioRAG (memoria biomimética persistente para agentes) y
+  Artisan System DSL (gobernanza neurosimbólica para LLMs).
+
+  Detalles técnicos en las sesiones: D. Investigación y E. Proyectos Destacados.
+
+
+✔ 2/2024 - 10/2025 (1 año 9 meses) | Angular Developer - Adevcom Ltda                                  (Chile - remoto)
+
+Stack: Angular 13.1.4, JavaScript, TypeScript, API RESTful, Spring Boot 3, DBeaver (SQL Server), FortiClient VPN, RxJS
+(Observables & BehaviorSubject)
+
+● Desarrollé formularios dinámicos de alta complejidad para la gestión de denuncias DIAT/DIEP (ISL Chile) mediante
+  servicios centralizados que desacoplan la lógica de componentes bajo SRP, pipes, guards e interceptores
+  personalizados, centralizando la reglas de validación en TypeScript y RxJS, reduciendo 50% la complejidad del código
+  y eliminando la dependencia de librerías externas de gestión de estado, optimizando la mantenibilidad, escalabilidad y
+  tiempos de mantenimiento del sistema.
+
+● Implementé autenticación y control de acceso granular mediante integración de Keycloak con roles y permisos
+  dinámicos, asegurando granularidad de permisos y cumplimiento normativo para el Instituto de Seguridad Laboral.
+
+● Implementé controladores REST y consultas @Query avanzadas para menús multinivel en Spring Boot 3 utilizando
+  Streams API, optimizando el procesamiento de datos y desacoplando la lógica de negocio del frontend.
+✔ 1/2023 - 6/2023 (6 meses) | React Developer - Epidata                                            (Argentina - remoto)
+
+Stack: JavaScript, TypeScript, React (React Function Component), React Hooks: (useState, useEffect, useCallback,
+React.memo), Vite, Redux, Tailwind CSS, Docker, MySQL Workbench.
+
+● Desarrollé múltiples pantallas CRUD para la gestión del ciclo de vida del agente público en el Sistema Integral de
+  RRHH del Ministerio de Desarrollo Productivo (Argentina), integrando autenticación LDAP para seguridad y control de
+  acceso.
+
+● Implementé arquitectura hexagonal con patrón adaptador y Redux Thunk para mocks de datos, permitiendo el
+  desarrollo completo del frontend sin depender del backend, manteniendo Clean Code y SOLID.
+
+● Configuré el despliegue del entorno local en Laravel mediante Docker, facilitando la integración posterior con el
+  Backend y agilizando el ciclo de desarrollo del sistema.
+
+
+✔ 2/2021- 5/2023 (2 años 4 meses) | React SSR / Next.js Developer - Credit Agile                     (Panamá - remoto)
+
+Stack: JavaScript, React, Redux Thunk, SEO, SSR Next.JS 9-10-11, API RESTful, React (Class Component, React
+Function Component), React Hooks: (useState, useEffect, useLayoutEffect, useRef, useMemo, useCallback, React.memo
+y React.createContext).
+
+● Modernicé la plataforma financiera de Credit Agile (Panamá) desde un sistema legacy PHP hasta una arquitectura SSR
+  con Next.js 9-10-11, implementando Material-UI V4 con migración a V5, API interna con Node.js + next-connect (rutas
+  dinámicas Catch-all) y soporte multiidiomas con detección automática de idioma.
+
+● Implementé API Gateway con sistema de sesiones y manejo de inactividad (react-idle-timer), junto con optimización
+  SEO mediante node-cache, next/dynamic, scripts defer e integración con PageSpeed y Lighthouse, mejorando 50% el
+  rendimiento de carga de la aplicación.
+
+● Creé custom Hooks reutilizables (useForm) inspirados en React Hook Form y Formik con configuración flexible para
+  formularios financieros, aplicando Clean Code y SOLID (DIP) en el backend Node.js/Express.js — reduciendo código
+  duplicado y mejorando la mantenibilidad.
+
+
+✔ 8/2019 - 7/2021 (2 años) | React Native Developer - Credit Agile                                   (Panamá - remoto)
+
+Stack: JavaScript, React Native (Expo/ExpoKit/Bare Workflow), Android Studio (Java), API RESTful, GCP (Cloud
+Functions), Firebase, Notificaciones Push.
+
+● Lideré la transición técnica de Expo a Bare Workflow para habilitar módulos nativos en Java, creando un módulo
+  Android para servicios Headless JS con notificación persistente que evita que el sistema operativo finalice la app —
+  implementando arquitectura modular para ejecución de tareas en segundo plano.
+
+● Desarrollé un sistema de tareas persistentes que continúan funcionando tras reinicio del dispositivo, implementando
+  geolocalización en tiempo real para el tracking de usuarios y recolección de puntos de ubicación en la aplicación
+  Fintech de gestión de préstamos.
+
+● Desarrollé módulo nativo integrando API OpenWeather para mantener la instancia de la app activa mediante
+  notificación persistente, asegurando la continuidad del servicio de datos en tiempo real en segundo plano.
+
+● Integré autenticación biométrica (Fingerprint), gestión de cámara y visores dinámicos de PDF/ imágenes, diseñé
+  navegación persistente con BottomTabNavigator + StackNavigator, y configuré Notificaciones Push (Firebase) con
+  Cloud Functions para mantenimiento automatizado de datos.
+
+✔ 12/2017 - 9/2019 (1 año 10 meses) | JavaScript Developer - BONDAREA                              (Argentina - remoto)
+
+Stack: JavaScript, Vanilla JS, API RESTful, Bootstrap 3-4, jQuery 3, JSON, DOM, HTML 5, CSS 3, Git, BitBucket,
+Sourcetree.
+
+● Lideré la creación de BREF (Bondarea Render Framework), framework propietario que renderiza aplicaciones web
+  completas a partir de esquemas JSON — permitiendo la generación dinámica de interfaces (vistas, tablas y flujos)
+  mediante consumo de APIs y escalando la plataforma BOCS a sectores como Agro, Educación y Finanzas.
+● Implementé componentes dinámicos (tablas con búsqueda, formularios) en JavaScript puro, transformando esquemas
+  JSON en elementos visuales interactivos con responsabilidades claras y sin acoplamientos innecesarios — realizando
+  maquetación responsive desde diseños de Adobe Illustrator CC 2018.
+
+● Optimicé la manipulación avanzada del DOM con gestión del Event Loop y asincronía para procesamiento de
+  operaciones pesadas, evitando bloqueos de interfaz y manteniendo Clean Code en todo el framework.
+
+
+✔ 10/2016 - 12/2017 (1 año 3 meses) | Full Stack Developer - Click Result Group                    (España - remoto)
+
+Stack: JavaScript, PHP 5.6, MySQL, MySQL Workbench, CKEditor 4 SDK, jQuery UI, Ace Editor, HTML5/CSS3.
+
+● Modernicé "Simple CMS" hacia un Constructor Visual (Page Builder) con experiencia similar a Wix de edición en vivo,
+  integrando CKEditor 4 con plugins personalizados (msliderJQuery, simplebutton, horizontalrule con 18 estilos) y Ace
+  Editor 1.2.5 para edición profesional de HTML/CSS/JS en tiempo real.
+
+● Ejecuté la reingeniería de STIVA Blog Script para permitir posts multilingües mediante pestañas con detección
+  automática del idioma del navegador, implementando una arquitectura de gestión por sesiones que filtra herramientas
+  según el contenido.
+
+● Desarrollé un motor de inyección de código (CSS/JS/HTML) en tiempo real con manipulación avanzada del DOM,
+  gestionando el estado y el aislamiento de ámbitos para evitar conflictos en la ejecución — manteniendo la
+  mantenibilidad del código.
+
+C. EDUCACIÓN
+
+TSU en Informática | Inst. Univ. de Tecnología Antonio Ricaurte (IUTAR), Venezuela                           2006-2007
+
+D. INVESTIGACIÓN Y CONTRIBUCIONES ARQUITECTÓNICAS
+
+- IA Python & MCP | MemoryBioRAG: Motor de Memoria Biomimética persistente para agentes               2026-Actualidad
+
+Publicado con DOI: 10.5281/zenodo.21204977 Rep: github.com/dennysjmarquez/MemoryBioRAG
+
+   ● Diseñé e implementé un sistema de memoria persistente para agentes de IA (Python + SQLite, solo NumPy; sin
+     modelos ML externos ni GPUs)
+
+   ● Búsquedas semánticas sin embeddings de modelos externos de caja negra: espacio conceptual propio de 13 ejes
+     × 104 dimensiones, con recuperación semántica propia e interpretable (PPMI + SVD truncado, NPMI, trigramas
+     FTS5, SDM, HDC)
+   ● Plasticidad sináptica (LTP/LTD) con consolidación por ciclos de sueño, emula el hipocampo humano
+   ● Red de sinónimos bidireccionales, coocurrencia automática, degradación progresiva para higiene de memoria
+   ● Blindaje anti-artefactos: cierre triádico, umbral NPMI ≥ 0.35 y validación dual PMI + dimensión rechazan
+     conexiones espurias entre dominios — cada sinapsis tiene tipo y razón visible en el código (interpretable y
+     auditable, a diferencia de las bases vectoriales clásicas)
+
+- IA Artisan System DSL Marco de Gobernanza Neurosimbólica para LLM                                   2025-Actualidad
+
+Publicado con DOI: 10.5281/zenodo.18001376 Rep: github.com/dennysjmarquez/artisan-symbolic-dsl-LLMs
+
+   ● Reducción de la superficie de ataque mediante el codiseño de Artisan - Artis-OEC (sistema con más de 20
+     iteraciones), utilizando un DSL de gobernanza neurosimbólica, directivas estructuradas para el control preciso de
+     respuestas del Transformer.
+   ● Superación de limitaciones del prompting lineal convencional (input/output directo)
+   ● Seguridad en profundidad (guardrails): los mecanismos internos (FSM, directivas) reducen la alucinación, pero el
+     blindaje real está en la capa externa — detección de prompt-injection y manipulación (SUSPICION → VETO
+     absoluto), exigencia de evidencia (EVIDENCIA_RAG + indicadores independientes), anti-jailbreak y control de
+     salida para evitar fuga de información y revelación de la arquitectura interna.
+
+   Técnicas investigadas e implementadas: Marcos de gobernanza neurosimbólico de comportamiento, Paradigma
+   Model-as-an-Interpreter, State-Machine Prompting (FSM), Estructuras de pseudocódigo en IA, Programación
+   declarativa, IA simbólica, Primitivas internas y sus contratos
+
+- Toito PC C.A. Servicios de Ingeniería e Infraestructura y Sistemas Wintel                         2008 - 2011 (3 año)
+- Génesis Investigativa: Fundamentos de Sistemas y Computación                                      1994 - 2006 (12 años)
+
+Un i386 quedó en mi casa a los 12 años. Sin internet, sin tutor, aprendí solo con dir, cd y el HELP.COM del MS-DOS. A
+los 16 ya hacía scraping de Taringa (sin saber que se llamaba así) y construí un chat tipo Messenger con ASP que
+desplegué en un servidor real de la Universidad Central de Venezuela. Todo lo que sé lo aprendí construyendo primero y
+descubriendo la teoría después. Ese método sigue siendo mi ventaja competitiva hoy.
+
+   ● i386/MS-DOS 6.22: Ingeniería inversa de archivos binarios y estructuras de datos en MS-DOS. Desarrollo de
+       algoritmos en QBasic. Optimización de recursos de bajo nivel. Win 3.11.
+   ● Windows 98: Análisis de maquetación y entornos dinámicos (.HTT/.HTA, HTML/CSS). Lógica distribuida mediante
+       scripting (VBScript/JS, ActiveX), controles ActiveX embebidos, (Sandboxing) de JavaScript; obsolescencia de VBS
+       por vulnerabilidades y JS como estándar seguro. Arquitectura cliente-servidor - FrontPage 98, ASP e IIS.
+
+   ● VB4/6 & ActiveX (MSINET 6.0): Construí un chat (DgChat) tipo Messenger con ASP que desplegué en la USV
+     Maracay, y creé un motor de scraping a sitios web. Security Research: diseñé troyanos y worms para entender
+     cómo se propagaban (vectores USB, Autorun exploit chains en Win XP, persistencia en memoria via Registry
+     hooks). Fundamentos de Security by Design.
+
+E. PROYECTOS DESTACADOS
+
+1- IA Agent Skill & OpenCode | IMPUGN: Sistema de consenso multi-modelo para decisiones verificables               (2026)
+
+                          Proyecto: github.com/dennysjmarquez/impugn ...
+2- Angular 17/19 | Signals con RxJS usando signalPipeRxjs                                                         (2025)
+
+                          Proyecto: dev.to/dennysjmarquez/angular-1617-transfo ...
+3- Angular 13 | Ngx-nested-forms: Gestión Centralizada de Formularios Complejos                                    (2025)
+                          Proyecto npm: https://www.npmjs.com/package/@dennysjm ...
+4- React | Microfrontends con Vite y Module Federation, React, Redux y i18next                                     (2023)
+                          Proyecto: github.com/dennysjmarquez/MultiLingual-MicFront ...
+
+F. CERTIFICATIONS
+
+   2025 Curso de Angular 19                              2020 Liderazgo y trabajo en equipo
+   2024 Bases de UX                                      2020 Pensamiento crítico
+   2024 Spring Boot esencial                             2020 Expresiones Regulares - RegExp
+   2024 Domina Java                                      2019 Inteligencia emocional y motivación
+   2023 Cómo aumentar la resiliencia                     2018 UX Design: Conceptos básicos para principiantes
+   2022 Implementación NIST Framework                    2018 Programación avanzada con JavaScript y ES6
+   2022 OWASP Top 10 API + Seguridad en APIs             2016 Diplomado de Programación Web
+   2022 Ethical Hacking Professional                     TDD con Jest, Webpack, Angular Avanzado, Web
+   2022 Principios SOLID y Clean Code                    Components
+
